@@ -1,5 +1,7 @@
 #+TITLE: Systematische Bibliotheksgliederung des Historischen Seminars
 
+[[https://www.uni-heidelberg.de/md/zegk/histsem/seminar/systematik_hs.pdf][Maschinenschriftliche Systematik]]
+
 * A - Hilfsmittel und Hilfswissenschaften, EDV-Literatur, Neue Medien
 ** Aa - Wörterbücher und philologische Hilfsmittel
 *** 0001 - 0020 mehrsprachige Wörterbücher
