@@ -1,0 +1,348 @@
+
+*Systematik der Fachbibliothek am Historischen Seminars der Universität Heidelberg*
+
+* A - Hilfsmittel und Hilfswissenschaften, EDV-Literatur, Neue Medien
+** Aa - Wörterbücher und philologische Hilfsmittel
+*** 0001 - 0020 mehrsprachige Wörterbücher
+*** 0021 - 0030 griechische
+*** 0031 - 0100 lateinische
+*** 0101 - 0120 italienische
+*** 0121 - 0140 spanische
+*** 0141 - 0200 französische
+*** 0201 - 0260 englische
+*** 0261 - 0400 sonstige Länder
+*** 0401 - 0600 Deutschland
+*** 0601 - 1000 philologische Hilfsmittel
+**** 0601 - 0650 allgemein
+**** 0651 - 0670 griechisch
+**** 0671 - 0700 lateinisch
+**** 0701 - 0720 italienisch
+**** 0721 - 0740 französisch
+**** 0741 - 0780 spanisch
+**** 0781 - 0820 englisch
+**** 0821 - 0900 sonstige
+**** 0901 - 0999 deutsch
+** Ab - offen
+** Ac - Historische Geographie
+*** 0001 - 00700 Atlanten
+**** 0001 - 0030 Allgemeine geographische Atlanten
+**** 0031 - 0150 Allgemeine historische Atlanten
+**** 0151 - 0250 Historische Atlanten, zeitlich begrenzt
+**** 0251 - 0400 Historische Atlanten, räumlich begrenzt
+**** 0401 - 0600 Historische Atlanten, Deutschland (gesamt und regional)
+**** 0601 - 0700 Systematische Atlanten
+*** 0701 - 0750 Einführungen, Allgemeines
+*** 0751 - 0900 Allgemeine historische geographische Darstellungen
+*** 0901 - 1050 Historische Landschaftskunde
+*** 1051 - 1300 Systematische Siedlungskunde
+**** 1051 - 1150 Anthropogeographie
+**** 1151 - 1300 Historische Bevölkerungs- und Siedlungskunde
+*** 1301 - 1600 Historisch politische Geographie
+**** 1301 - 1400 Allgemeine systematische Darstellungen
+**** 1401 - 1500 Größere Darstellungen und Werke
+**** 1501 - 1600 Spezialdarstellungen
+*** 1601 - 1800 Topographie
+**** 1601 - 1700 Orts- und Landeskunde
+**** 1701 - 1800 Namenkunde
+*** 1801 - 1999 Kartographie
+** Ad - offen
+** Ae - Chronologie
+*** 0001 - 0050 Astronomische Chronologie (astronomische Grundlagen)
+*** 0051 - 0150 Handbücher, Nachschlagewerke der historischen Chronologie
+*** 0201 - 0250 Allgemeine chronologische Studien
+*** 0301 - 0350 Jahresanfang
+*** 0401 - 0450 Tagesbezeichnungen, Heiligentage, Festkalender
+*** 0501 - 0550 Tageseinteilung
+*** 0551 - 9999 Probleme der Periodisierung
+** Ag - Genealogie und Heraldik
+*** 0001 - 0500 Geneaologie
+**** 0001 - 0050 Gesamtdarstellungen, Lehrbücher, allgemeine Einführungen
+**** 0101 - 0150 Einzelne geneaologische Probleme
+**** 0201 - 0250 Genealogische Darstellungsformen: Ahnentafelsammlungen
+**** 0251 - 0300 Genealogische Darstellungsformen: Stammtafelsammlungen
+**** 0351 - 0450 Landschaftliche Untersuchungen und Darstellungen (Ahnen- und Stammtafeln einzelner Häuser; regional einzuordnen)
+*** 0501 - 9999 Heraldik
+**** 0501 - 0550 Grundsätzliches, Gesamtdarstellungen, Lehrbücher
+**** 0551 - 0600 Geschichtliche Entwicklung des Wappenwesens, hier auch Heroldswesens
+**** 0651 - 0700 Wappenrecht
+**** 0751 - 0850 Wappenbücher, Wappenbilderwerke
+** Ai - Urkunden und Akten, Sphragistik
+*** 0001 - 0500 Urkunden und Akten
+**** 0001 - 0050 Lehrbücher, Gesamtdarstellungen, MA und NZ umfassend, MA Urkundenlehre Ci
+**** 0101 - 0150 Urkunden- und Aktenlehre der Neuzeit
+**** 0251 - 0300 Übungstexte, Textsammlungen, MA und NZ, umfassend
+**** 0351 - 0450 Kanzleiwesen, Verwaltung
+***** 0351 - 0400 Reich
+***** 0401 - 0450 Territorien
+***** xxxx - xxxx Städte siehe
+*** 0501 - 9999 Sphragistik
+**** 0501 - 0550 Hand- und Lehrbücher, Gesamtüberblicke
+**** 0601 - 0650 Abbildungswerke
+**** 0701 - 0750 Siegelrecht
+**** 0851 - 0900 Siegeltyp, Siegelbild
+** Ak - Paläographie
+*** 0001 - 0050 Allgemeine und Gesamtdarstellungen zum Schriftwesen und zur Handschriftenkunde
+*** 0101 - 0150 Beschreibstoff und Schreibgeräte
+*** 0201 - 0250 Die Schrift: Größere Gesamtdarstellungen und Übersichten der Schriftentwicklung, Lehrbücher und Einführungen
+*** 0271 - 0300 Die Schrift: Untersuchungen zur Schriftgeschichte einzelner Epochen
+*** 0301 - 0420 Die Schrift: Tafel- und Abbildungswerke (auch einzelner Epochen)
+*** 0451 - 0500 Kürzungswesen
+*** 0501 - 0530 Geheimschriftenkunde
+*** 0601 - 0650 Weitere Ausstattung der Handschriften: Ornamentik, Illustration, Buchmalerei
+*** 0701 - 0750 Formen des Schrifttums: Rollen, Bücher, etc.
+*** 0801 - 0850 Das weitere Schicksal der Handschriften
+*** 0851 - 0900 Faksimiledrucke
+*** 0901 - 0950 Epigraphik
+** Am - Numismatik
+*** 0001 - 0050 Bibliographien
+*** 0051 - 0100 Münzlexika
+*** 0101 - 0200 Allgemeine Einführung, Lehr- und Handbücher, Gesamtübersichten, Mittelalter und Neuzeit umfassend
+*** 0251 - 0300 Gesamtübersichten zur Münz- und Geldgeschichte der Einzelstaaten und Länder, Mittelalter und Neuzeit umfassend (regional einzuordnen)
+*** 0351 - 0380 Einzelne Perioden der Münz- und Geldgeschichte: Völkerwanderung und Merowinger
+*** 0401 - 0450 Einzelne Perioden der Münz- und Geldgeschichte: Mittelalter - allgemeine Überblicke
+*** 0501 - 0550 Mittelalter - Einzelepochen
+*** 0051 - 0700 Mittelalter - landes- und ortsgeschichtliche Monographien (regional einzuordnen)
+*** 0751 - 0800 Einzelne Perioden der Münz- und Geldgeschichte: Neuzeit - allgemeine Überblicke
+*** 0801 - 0850 Neuzeit - Einzelepochen
+*** 0851 - 0900 Neuzeit - landes- und ortsgeschichtliche Monographien (regional einzuordnen)
+*** 0901 - 1000 Masse und Gewicht
+** Ao - Einführung in die Geschichtswissenschaft: Methodische Handbücher
+*** 0001 - 0150 Einführung in die Gesamtgebiete der Geschichtswissenschaft
+*** 0151 - 0300 Einführung in die mittelalterliche Geschichte
+*** 0301 - 0450 Einführung in die neuere Geschichte
+*** 0451 - 0500 Sonstige einführende Werke
+*** 0501 - 0700 Methodische Handbücher
+** Aq - Archiv- und Bibliothekskunde
+*** 0001 - 0200 Allgemeine Archivkunde
+*** 0201 - 0400 Bestandsübersichten und Inventare einzelner Archive
+*** 0401 - 0500 Allgemeine Bibliothekskunde
+*** 0501 - 9999 Führer zu einzelnen Bibliotheken
+** Ar - Museumswissenschaft / Museumskunde
+** As - Mittelalterliche Archäologie
+*** 0001 - 0200 Allgemeines, Einführungen, Übersichten
+*** 0201 - 0300 Nordeuropa
+*** 0301 - 0400 Westeuropa
+*** 0401 - 0500 Mitteleuropa
+*** 0501 - 0600 Osteuropa
+*** 0601 - 0700 Südeuropa
+** Au - Bibliographieren und Quellenkunden
+*** 0001 - 0030 Einführungen in die Bibliographien- und Quellenkunde
+*** 0031 - 0130 Bibliographien zur gesamten Weltgeschichte
+*** 0131 - 0250 Bibliographien zur deutschen Geschichte: allgemein
+*** 0251 - 0450 Bibliographien zur deutschen Geschichte: Neuzeit
+**** 0300 - 0450 einzelne Epochen
+*** 0451 - 0500 Bibliographien zur deutschen Geschichte: Mittelalter
+*** 0501 - 0650 Bibliographien zur Geschichte der deutschen Territorien und Länder
+*** 0651 - 0850 Bibliographien zur Geschichte einzelner Länder außer Deutschland
+*** 0851 - 0999 Bibliographien zu einzelnen systematischen Gebieten der Geschichtswissenschaft - Spezialbibliographien
+** Aw - Allgemeine Enzyklopädien, Historische Sachwörterbücher, Biographische Wörterbücher
+*** 0001 - 0050 Allgemeine Lexika
+*** 0051 - 0300 Historische und politische Sachwörterbücher (allgemeine, sachliche, begriffliche, ausländische)
+*** 0301 - 0500 Deutschland
+*** 0501 - 0999 Biographische Wörterbücher
+**** 0501 - 0600 Allgemein und international 
+**** 0601 - 0800 Ausland in der Reihenfolge: angelsächsischer Bereich, romantisch-lateinische Welt, östliche Europa, Asien, Afrika
+**** 0801 - 0900 Deutschland
+**** 0901 - 0999 Deutsche Länder in der Reihenfolge: Nord-, Ost-, Mittel-, West- und Süddeutschland
+** Ax - Spezielle Nachslagewerke
+*** 0001 - 0100 Staat, Gesellschaft, Soziologie, Politik
+*** 0101 - 0150 Wirtschaft
+*** 0151 - 0200 Recht, Völkerrecht
+*** 0300 - 0999 Theologie
+** Ay - Elektronische Nachschlagewerke, EDV-Literatur, Neue Medien
+*** 0001 - 0200 Elektronische Nachschlagewerke, CD-Roms
+*** 0201 - 0400 DVDs
+*** 0401 - 0600 Neue Medien und Geschichtswissenschaft
+*** 0601 - 0900 EDV-Literatur
+* B - Quellen zur Geschichte des Mittelalters
+** Ba - Allgemeine Quellensammlungen, Folio und Quart, innerhalb der MGH
+** Bb - Allgemeine Quellensammlungen, Folio und Quart, außerhalb der MGH
+** Bc - Allgemeine Quellensammlungen, nicht Folio und Quart
+** Bd - Einzelausgaben nicht urkundlicher Quellen
+** Be - Rechtsquellen, einschließlich urbarialer Aufzeichnungen
+** Bf - Papsturkunden
+** Bg - Urkunden deutscher Kaiser und Könige; Urkunden deutscher Territorien, Klöster, Stifte und Städte
+** Bh - Urkunden außerdeutscher Herrscher, Territorien, Klöster, Stifte und Städte
+** Bm - Quellen zur Geschichte der mittelalterlichen Orden
+** Bo - Texte zur lateinischen, deutschen und sonstigen nationalsprachlichen Dichtung ('Literatur') des Mittelalters, auch Übersetzungen poetischer Texte
+** Bp - Inschriften; sonstige Quellengattungen
+** Bx - Übungstexte und Quellenauswahlen
+** Bz - Übersetzungen von im engeren Sinn historischen Quellen
+* C - Hilfsmittel und Literatur zu den Quellen der Geschichte des Mittelalters
+** Ca - Einführung in Studium und Quellen des Mittelalters
+** Cb - bleibt frei
+** Cc - Allgemeine Quellenkunde und Verzeichnisse der nichturkundlichen Quellen zur Geschichte des Mittelalters
+** Cd - Literatur zu den einzelnen Gattungen historischer Quellen (mit Ausschluß der Urkundenlehre)
+** Ce - Literatur zu einzelnen erzählenden Quellen oder Quellengruppen
+** Cf - Literatur zur Geschichte der mittelalterlichen Literaturen (Darstellungen und Monographien)
+** Cg - bleibt frei
+** Ch - bleibt frei
+** Ci - Diplomatik, Gesamtdarstellungen, Monographien und Spezialliteratur zu den Urkunden des Mittelalters
+** Ck - Regestenwerke und Urkundenverzeichnisse
+** Cl - bleibt frei
+** Cy - bleibt frei
+** Cz - Auswertung des Quellenmaterials zur darstellenden Verzeichnung in chronologischer oder geographischer Anordnung (vgl. Erläuterung)
+* D - Darstellungen zur Geschichte des Mittelalters, chronologisch geordnet
+** Da - Gesamtdarstellungen und Monographien zu gesamtmittelalterlichen Problemen
+*** 0001 - 0100 Das Mittelalter: Literatur zum Begriff, zur Periodisierung, zur Problematik, zum 'Erbe des Mittelalters', Einzelnes
+**** 0062 - 0070 Biographische Sammelwerke zur ganzen mittelalterlichen Geschichte
+*** 0101 - 0200 Gesamtdarstellungen der Geschichte des Mittelalters
+**** 0101 - 0150 in deutscher Sprache
+**** 0151 - 0200 in anderen Sprachen
+*** 0201 - 0300 knappe Schul- und Handbücher zur Geschichte des ganzen Mittelalters
+**** 0201 - 0250 in deutscher Sprache
+**** 0251 - 0300 in anderen Sprachen
+*** 0301 - 0500 leer
+*** 0501 - 0700 deutsche Geschichte im gesamten Mittelalteraa
+**** 0501 moderne Literatur
+**** 0551 ältere Werke
+**** 0601 Einzelnes, Aufsätze, Vorträge, Reden zur deutschen Geschichte im Mittelalter
+*** 0701 - 0800 freibleibend für gesamtmittelalterliche Erscheinungen außer den Kreuzzügen
+*** 0801 - 0900 Die Kreuzzüge (nur über die Jahrhunderte hinweggehende Gesamtdarstellungen der Kreuzzüge)
+*** 0901 - 0999 Monographien zu Einzelaspekten der gesamten Kreuzzugsgeschichte
+** Db - leer
+** Dc - Frühgeschichteliche, nichtantike Voraussetzungen der mittelalterlichen Geschichte
+*** 0001 - 0015 Methodisches und Grundsätzliches zur Vor- und Frühgeschichte
+*** 0016 - 0050 Gesamtdarstellungen der Vorgeschichte
+*** 0051 - 0070 Die Indogermanenfrage
+*** 0071 - 0090 Die Kelten
+*** 0091 - 0100 Die Illyrer
+*** 0101 - 0120
+*** 0121 - 0150
+*** 0151 - 0300
+*** 0301 - 0400
+*** 0401 - 0500
+*** 0501 - 0600
+*** 0601 - 0800
+*** 0801 - 0900
+*** 0901 - 0999
+** Dd - Spätantike und frühchristliche Voraussetzungen der mittelalterlichen Geschichte: Die Mittelmeerwelt bis 600
+** De - Das frühe Mittelalter, Gesamtdarstellungen: Das Zeitalter der Merowinger
+** Df - Das Zeitalter der Karolinger
+** Dg - Das Hochmittelalter, Gesamtdarstellungen: Das 10. Jahrhundert (Ottonen) und das 11. Jahrhundert (Salier vor dem Investiturstreit)
+*** 0001 - 0050 Gesamtdarstellungen der europäischen und deutschen Geschichte im Hochmittelalter
+**** 0001 - 0010 Bibliographische Hilfsmittel
+**** 0011 - 0050 Gesamtdarstellungen
+*** 0051 - 0150 Monographien zum gesamten Hochmittelalter
+*** 0151 - 0200 Gesamtdarstellungen und Monographien zur Geschichte einzelner Länder (außer Deutschland) im Hochmittelalter
+**** 0151 - 0160 Westeuropa, Frankreich
+**** 0161 - 0170 Burgund
+**** 0171 - 0200 England 
+*** 0201 - 0700 Das 10. Jahrhundert und das Zeitalter der Ottonen
+**** 0201 - 0240 Gesamtdarstellungen
+**** 0241 - 0310 Monograpien
+***** 0291 Das Reichskirchensystem
+**** 0311 - 0330 Konrad I.
+**** 0331 - 0400 Heinrich I. 
+***** 0331 Gesamtdarstellungen
+***** 0351 Monographien
+**** 0401 - 0500 Otto der Große
+***** 0401 Gesamtdarstellungen
+***** 0431 Monographien
+***** 0415 Geschichte, chronologisch, vor 955
+***** 0476 dasselbe nach 955
+**** 0501 - 0530 Otto II.
+**** 0531 - 0600 Otto III.
+**** 0601 - 0700 Nichtdeutsche Länder im 10. Jahrhundert
+***** 0601 Byzanz
+***** 0616 Italien
+***** 0626 Frankreich
+***** 0641 Burgund
+***** 0651 England
+***** 0661 Normannen und Skandinavier
+***** 0681 Ungarn und slavische Völker
+** Dh - Der Investiturstreit (letztes Drittel des 11. Jahrhunderts): Das Zeitalter der Staufer bis zum Tode Heinrichs VI. (12. Jh.)
+** Di - leer
+** Dk - Das Spätmittelalter (nur Gesamtdarstellungen und Monographien)
+** Dl - Geschichte des 13. Jahrhunderts
+** Dm - Geschichte des 14. Jahrhunderts
+** Dn - leer
+** Do - Geschichte des 15. Jahrhunderts
+** Dp - Frührenaissance (Italien im 14. und 15. Jh.); Das Zeitalter Maximilians I.; Deutschland vor der Reformation
+* E - Darstellungen zur Geschichte des Mittelalters, sachlich geordnet
+** Ea - Geschichte europäischer Länder und Landschaften I. Die Mittelmeerländer
+** Eb - Geschichte europäischer Länder und Landschaften II. West-, Nord- und Osteuropa
+** Ec - Geschichte europäischer Länder und Landschaften III. Deutsche Gebiete
+** Ed - freibleibend
+** Ee - Rechtsgeschichte
+** Ef - Verfassungsgeschichte
+** Eg - Königtum, Zentralverwaltung, Königsgut
+** Eh - Fürstentum, Landeshoheit
+** Ei - Lehnswesen und Lehnrecht
+** Ek - Mittelatlerliches Staatsdenken
+** El - Das Kaisertum im Abendland
+** Em - freibleibend
+** En - Kirchengeschichte
+** Eo - Mittelalterliches Geistesleben (Weltbild, Philosophie, Wissenschaften, Bildung und Unterricht)
+** Ep - Kulturgeschichte
+*** 0001 - 0050 Gesamtdarstellungen
+*** 0051 - 0100 Studien und Sammlungen zur mittelalterlichen Kulturgeschichte
+**** 0054 - 0098 Ritual im Mittelalter
+*** 0101 - 0200 Kulturgeschichte einzelner Länder im Mittelalter
+**** 0101 Deutschland
+*** 0201 - 0400 Darstellungen zur Kulturgeschichte, chronologisch geordnet
+**** 0201 Frühmittelalter
+***** 0201 Gesamtdarstellungen und Frühzeit
+***** 0221 Fränkische Kultur
+**** 0251 Hochmittelalter
+***** 0251 Gesamtdarstellungen
+***** 0271 Einzelnes
+****** 0276 Vagantentum
+**** 0301 Spätmittelalter
+***** 0351 burgundische Kultur
+***** 0381 Totentanzmotivik
+*** 0401 - 0450 Die Physis, Körperbau, Gesundheitspflege, körperliches Befinden, Krankheiten
+*** 0451 - 0550 Mittelalterliche Sittengeschichte, Die Frau im Mittelalter
+**** 0530 Gender Studies
+*** 0551 - 0600 Sitte und Brauchtum
+*** 0601 - 0700 Höfische Kultur, Rittertum
+*** 0701 - 0999 Die materielle Kultur
+**** 0701 - 0800 Technik, Erfindungen
+***** 0701 Gesamtdarstellungen
+***** 0721 Agrartechnik
+***** 0771 Schiffbau
+**** 0801 - 0900 Wohnen und Hausrat (Architektur siehe Eq)
+**** 0901 - 0999 Sonstiges
+** Eq - Archäologie und Kunstgeschichte
+** Er - Kriegsgeschichte, Seefahrt
+* F - 15. - 18. Jahrhundert
+** Fa - Renaissance und Humanismus in Italien
+** Fb - Humanismus in Deutschland
+** Fc - Das Entdeckungszeitalter
+** Fd - Europäische Geschichte und Weltgeschichte 1492 bis 1559
+** Fe - Die Reformation in Deutschland (Quellen und Gesamtdarstellungen)
+** Ff - Die Reformatoren (Luther, Melanchthon, Zwingli, Calvin)
+** Fg - Deutsche Geschichte im Reformationszeitalter bis 1555
+** Fh - Reformation und Gegenreformation in den deutschen Ländern bis 1618
+** Fi - Wirtschaftsgeschichte des Frühkapitalismus
+** Fk - Europäische Länder im 16. Jahrhundert (außer Italien - Fa und Fl; Spanien - Fb; Deutschland - Fe bis Fh)
+** Fl - Die Gegenreformation: Europäische Politik und Weltpolitik 1559 - 1618
+** Fm - Deutsche Geschichte im Zeitalter der Gegenreformation bis 1618
+** Fn - Dreißigjähriger Krieg
+** Fo - Frankreich 1610 bis 1715
+** Fp - Europäische Geschichte und Weltgeschichte 1648 bis 1715 (1721)
+** Fr - Europäische Länder im 17. Jahrhundert (außer Frankreich - Fo und Deutschland)
+** Fs - Deutsche Geschichte 1648 bis 1740
+** Ft - Deutsche Länder 1648 bis 1740
+** Fu - Europäische Geschichte und Weltgeschichte 1715 bis 1789
+** Fw - Europäische Länder im 18. Jahrhundert (außer Frankreich - Fx und Deutschland)
+** Fx - Frankreich 1715 bis 1789 und die Aufklärung
+** Fy - Deutsche Geschichte 1700 bis 1789
+** Fz - Preußen 1713 bis 1796
+* G - Von der Französischen Revolution bis zum Ende des Zweiten Weltkriegs (1789 - 1945)
+* H - Gegenwart (ab 1945)
+* J - Weltgeschichte, Post Colonial Studies
+* K - Geschichte Asiens, Australiens, Afrikas
+* L - Geschichte der europäischen Staaten
+* M - Deutsche Geschichte und Geschichte der deutschen Territorien
+* N - Anthropologie, Völkerkunde, Bevölkerungswissenschaft
+* O - Recht, Politik, Staat und Gesellschaft, Internationale Beziehungen
+* P - Wirtschafts- und Sozialgeschichte: Handbücher, Städtewesen, Biographien
+* Q - Wirtschafts- und Sozialgeschichte: Mittelalter, Neuzeit
+* R - Kulturgeschichte, Geschichte der Künste, Geschichte der Technik, Mediengeschichte, Umweltgeschichte
+* S - Kriegs- und Militärgeschichte
+* T - Religions- und Kirchengeschichte
+* U - Geistesgeschichte und Geschichte der Wissenschaften
+* V - Aufsatzsammlungen und sonstitge Sammelschriften einzelner Verfasser
+* W - Fest- und Gedenkschriften
+* Z - Zeitschriften, Jahrbücher, Dissertationen
