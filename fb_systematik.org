@@ -1,6 +1,12 @@
 #+TITLE: Systematische Bibliotheksgliederung des Historischen Seminars
 
+---
+
 [[https://www.uni-heidelberg.de/md/zegk/histsem/seminar/systematik_hs.pdf][Maschinenschriftliche Systematik]]
+
+[[https://heibox.uni-heidelberg.de/seafhttp/files/e109dd32-78e0-4dad-9543-0959920bbc67/Historisches_Seminar_Heidelberg_Lageplan_Bibliothek.pdf][Plan der Fachbibliothek]]
+
+---
 
 * A - Hilfsmittel und Hilfswissenschaften, EDV-Literatur, Neue Medien
 ** Aa - Wörterbücher und philologische Hilfsmittel
