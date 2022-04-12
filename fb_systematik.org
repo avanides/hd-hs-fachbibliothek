@@ -1,5 +1,4 @@
-
-*Systematik der Fachbibliothek am Historischen Seminars der Universität Heidelberg*
+#+TITLE: Systematische Bibliotheksgliederung des Historischen Seminars
 
 * A - Hilfsmittel und Hilfswissenschaften, EDV-Literatur, Neue Medien
 ** Aa - Wörterbücher und philologische Hilfsmittel
