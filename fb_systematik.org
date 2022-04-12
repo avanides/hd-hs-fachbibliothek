@@ -346,3 +346,12 @@
 * V - Aufsatzsammlungen und sonstitge Sammelschriften einzelner Verfasser
 * W - Fest- und Gedenkschriften
 * Z - Zeitschriften, Jahrbücher, Dissertationen
+** Za - Allgemeine Zeitschriften
+** Zb - Allgemeine historische Zeitschriften
+** Zc - Mittelalter und Hilfswissenschaften
+** Zd - Neuzeit
+** Ze - Regionale Zeitschriften (auch ausländische)
+** Zf - Ausländische Zeitschriften
+** Zg - Systematische Zeitschriften
+** Zl - Jahrbücher
+** Zs - Dissertationen
