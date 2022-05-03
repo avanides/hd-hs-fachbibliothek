@@ -8,7 +8,8 @@
 
 ---
 
-* A - Hilfsmittel und Hilfswissenschaften, EDV-Literatur, Neue Medien
+* DONE A - Hilfsmittel und Hilfswissenschaften, EDV-Literatur, Neue Medien
+CLOSED: [2022-05-03 Tue 20:27]
 ** Aa - Wörterbücher und philologische Hilfsmittel
 *** 0001 - 0020 mehrsprachige Wörterbücher
 *** 0021 - 0030 griechische
@@ -161,7 +162,7 @@
 *** 0201 - 0400 DVDs
 *** 0401 - 0600 Neue Medien und Geschichtswissenschaft
 *** 0601 - 0900 EDV-Literatur
-* B - Quellen zur Geschichte des Mittelalters
+* TODO B - Quellen zur Geschichte des Mittelalters
 ** Ba - Allgemeine Quellensammlungen, Folio und Quart, innerhalb der MGH
 ** Bb - Allgemeine Quellensammlungen, Folio und Quart, außerhalb der MGH
 ** Bc - Allgemeine Quellensammlungen, nicht Folio und Quart
@@ -175,7 +176,7 @@
 ** Bp - Inschriften; sonstige Quellengattungen
 ** Bx - Übungstexte und Quellenauswahlen
 ** Bz - Übersetzungen von im engeren Sinn historischen Quellen
-* C - Hilfsmittel und Literatur zu den Quellen der Geschichte des Mittelalters
+* TODO C - Hilfsmittel und Literatur zu den Quellen der Geschichte des Mittelalters
 ** Ca - Einführung in Studium und Quellen des Mittelalters
 ** Cb - bleibt frei
 ** Cc - Allgemeine Quellenkunde und Verzeichnisse der nichturkundlichen Quellen zur Geschichte des Mittelalters
@@ -189,7 +190,7 @@
 ** Cl - bleibt frei
 ** Cy - bleibt frei
 ** Cz - Auswertung des Quellenmaterials zur darstellenden Verzeichnung in chronologischer oder geographischer Anordnung (vgl. Erläuterung)
-* D - Darstellungen zur Geschichte des Mittelalters, chronologisch geordnet
+* TODO D - Darstellungen zur Geschichte des Mittelalters, chronologisch geordnet
 ** Da - Gesamtdarstellungen und Monographien zu gesamtmittelalterlichen Problemen
 *** 0001 - 0100 Das Mittelalter: Literatur zum Begriff, zur Periodisierung, zur Problematik, zum 'Erbe des Mittelalters', Einzelnes
 **** 0062 - 0070 Biographische Sammelwerke zur ganzen mittelalterlichen Geschichte
@@ -266,7 +267,7 @@
 ** Dn - leer
 ** Do - Geschichte des 15. Jahrhunderts
 ** Dp - Frührenaissance (Italien im 14. und 15. Jh.); Das Zeitalter Maximilians I.; Deutschland vor der Reformation
-* E - Darstellungen zur Geschichte des Mittelalters, sachlich geordnet
+* TODO E - Darstellungen zur Geschichte des Mittelalters, sachlich geordnet
 ** Ea - Geschichte europäischer Länder und Landschaften I. Die Mittelmeerländer
 ** Eb - Geschichte europäischer Länder und Landschaften II. West-, Nord- und Osteuropa
 ** Ec - Geschichte europäischer Länder und Landschaften III. Deutsche Gebiete
@@ -312,7 +313,7 @@
 **** 0901 - 0999 Sonstiges
 ** Eq - Archäologie und Kunstgeschichte
 ** Er - Kriegsgeschichte, Seefahrt
-* F - 15. - 18. Jahrhundert
+* TODO F - 15. - 18. Jahrhundert
 ** Fa - Renaissance und Humanismus in Italien
 ** Fb - Humanismus in Deutschland
 ** Fc - Das Entdeckungszeitalter
@@ -336,23 +337,46 @@
 ** Fx - Frankreich 1715 bis 1789 und die Aufklärung
 ** Fy - Deutsche Geschichte 1700 bis 1789
 ** Fz - Preußen 1713 bis 1796
-* G - Von der Französischen Revolution bis zum Ende des Zweiten Weltkriegs (1789 - 1945)
-* H - Gegenwart (ab 1945)
-* J - Weltgeschichte, Post Colonial Studies
-* K - Geschichte Asiens, Australiens, Afrikas
-* L - Geschichte der europäischen Staaten
-* M - Deutsche Geschichte und Geschichte der deutschen Territorien
-* N - Anthropologie, Völkerkunde, Bevölkerungswissenschaft
-* O - Recht, Politik, Staat und Gesellschaft, Internationale Beziehungen
-* P - Wirtschafts- und Sozialgeschichte: Handbücher, Städtewesen, Biographien
-* Q - Wirtschafts- und Sozialgeschichte: Mittelalter, Neuzeit
-* R - Kulturgeschichte, Geschichte der Künste, Geschichte der Technik, Mediengeschichte, Umweltgeschichte
-* S - Kriegs- und Militärgeschichte
-* T - Religions- und Kirchengeschichte
-* U - Geistesgeschichte und Geschichte der Wissenschaften
-* V - Aufsatzsammlungen und sonstitge Sammelschriften einzelner Verfasser
-* W - Fest- und Gedenkschriften
-* Z - Zeitschriften, Jahrbücher, Dissertationen
+* TODO G - Von der Französischen Revolution bis zum Ende des Zweiten Weltkriegs (1789 - 1945)
+** Gc Österreich und Preußen zur Zeit der französischen Revolution und Napoleon
+0001 - 0120 Österreich (zur Zeit Franz II.)
+0051 - 0090 Metternich und Gentz
+0121 - 0150 Preußen, allgemein
+0181 - 0200 Friedrich Wilehlm III. und der preußische Hof
+0201 - 0290 Militäre und Heeresreform
+0301 - 0350 Staats- und Gesellschaftsreform: allgemeine Darstellungen und einzelne Quellen
+0351 - 0390 Stein
+0391 - 0410 Hardenberg
+0411 - 0430 Verfassungsfrage
+0431 - 0470 Verwaltung und Beamte
+0471 - 0500 Adel (Marwitz)
+0501 - 0520 Bildungsreform
+0521 - 0540 Humboldt
+0541 - 0560 frei
+0561 - 0570 Schleiermacher
+0571 - 0620 Deutscher Idealismus
+0621 - 0700 Deutsche Bewegung (Arndt, Görres)
+0701 - 0780 Romantik und ihre Staatstheorie
+0781 - 0800 frei
+0801 - 0900 Carl August von Weimar und die Klassik
+0900 - 0999 Goethe
+* TODO H - Gegenwart (ab 1945)
+* TODO J - Weltgeschichte, Post Colonial Studies
+* TODO K - Geschichte Asiens, Australiens, Afrikas
+* TODO L - Geschichte der europäischen Staaten
+* TODO M - Deutsche Geschichte und Geschichte der deutschen Territorien
+* TODO N - Anthropologie, Völkerkunde, Bevölkerungswissenschaft
+* TODO O - Recht, Politik, Staat und Gesellschaft, Internationale Beziehungen
+* TODO P - Wirtschafts- und Sozialgeschichte: Handbücher, Städtewesen, Biographien
+* TODO Q - Wirtschafts- und Sozialgeschichte: Mittelalter, Neuzeit
+* TODO R - Kulturgeschichte, Geschichte der Künste, Geschichte der Technik, Mediengeschichte, Umweltgeschichte
+* TODO S - Kriegs- und Militärgeschichte
+* TODO T - Religions- und Kirchengeschichte
+* TODO U - Geistesgeschichte und Geschichte der Wissenschaften
+* TODO V - Aufsatzsammlungen und sonstitge Sammelschriften einzelner Verfasser
+* TODO W - Fest- und Gedenkschriften
+* DONE Z - Zeitschriften, Jahrbücher, Dissertationen
+CLOSED: [2022-05-03 Tue 20:26]
 ** Za - Allgemeine Zeitschriften
 ** Zb - Allgemeine historische Zeitschriften
 ** Zc - Mittelalter und Hilfswissenschaften
