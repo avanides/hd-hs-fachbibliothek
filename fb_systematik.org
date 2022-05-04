@@ -259,6 +259,7 @@ CLOSED: [2022-05-03 Tue 20:27]
 ***** 0651 England
 ***** 0661 Normannen und Skandinavier
 ***** 0681 Ungarn und slavische Völker
+*** 0701 - 0999 Das 11. Jahrhudnert vor dem Investiturstreit
 ** Dh - Der Investiturstreit (letztes Drittel des 11. Jahrhunderts): Das Zeitalter der Staufer bis zum Tode Heinrichs VI. (12. Jh.)
 ** Di - leer
 ** Dk - Das Spätmittelalter (nur Gesamtdarstellungen und Monographien)
