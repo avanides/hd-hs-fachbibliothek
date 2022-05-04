@@ -1,0 +1,1628 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+<head>
+<!-- 2022-05-04 Wed 18:59 -->
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Systematische Bibliotheksgliederung des Historischen Seminars</title>
+<meta name="author" content="Aaron Vanides" />
+<meta name="generator" content="Org Mode" />
+<style>
+  #content { max-width: 60em; margin: auto; }
+  .title  { text-align: center;
+             margin-bottom: .2em; }
+  .subtitle { text-align: center;
+              font-size: medium;
+              font-weight: bold;
+              margin-top:0; }
+  .todo   { font-family: monospace; color: red; }
+  .done   { font-family: monospace; color: green; }
+  .priority { font-family: monospace; color: orange; }
+  .tag    { background-color: #eee; font-family: monospace;
+            padding: 2px; font-size: 80%; font-weight: normal; }
+  .timestamp { color: #bebebe; }
+  .timestamp-kwd { color: #5f9ea0; }
+  .org-right  { margin-left: auto; margin-right: 0px;  text-align: right; }
+  .org-left   { margin-left: 0px;  margin-right: auto; text-align: left; }
+  .org-center { margin-left: auto; margin-right: auto; text-align: center; }
+  .underline { text-decoration: underline; }
+  #postamble p, #preamble p { font-size: 90%; margin: .2em; }
+  p.verse { margin-left: 3%; }
+  pre {
+    border: 1px solid #e6e6e6;
+    border-radius: 3px;
+    background-color: #f2f2f2;
+    padding: 8pt;
+    font-family: monospace;
+    overflow: auto;
+    margin: 1.2em;
+  }
+  pre.src {
+    position: relative;
+    overflow: auto;
+  }
+  pre.src:before {
+    display: none;
+    position: absolute;
+    top: -8px;
+    right: 12px;
+    padding: 3px;
+    color: #555;
+    background-color: #f2f2f299;
+  }
+  pre.src:hover:before { display: inline; margin-top: 14px;}
+  /* Languages per Org manual */
+  pre.src-asymptote:before { content: 'Asymptote'; }
+  pre.src-awk:before { content: 'Awk'; }
+  pre.src-authinfo::before { content: 'Authinfo'; }
+  pre.src-C:before { content: 'C'; }
+  /* pre.src-C++ doesn't work in CSS */
+  pre.src-clojure:before { content: 'Clojure'; }
+  pre.src-css:before { content: 'CSS'; }
+  pre.src-D:before { content: 'D'; }
+  pre.src-ditaa:before { content: 'ditaa'; }
+  pre.src-dot:before { content: 'Graphviz'; }
+  pre.src-calc:before { content: 'Emacs Calc'; }
+  pre.src-emacs-lisp:before { content: 'Emacs Lisp'; }
+  pre.src-fortran:before { content: 'Fortran'; }
+  pre.src-gnuplot:before { content: 'gnuplot'; }
+  pre.src-haskell:before { content: 'Haskell'; }
+  pre.src-hledger:before { content: 'hledger'; }
+  pre.src-java:before { content: 'Java'; }
+  pre.src-js:before { content: 'Javascript'; }
+  pre.src-latex:before { content: 'LaTeX'; }
+  pre.src-ledger:before { content: 'Ledger'; }
+  pre.src-lisp:before { content: 'Lisp'; }
+  pre.src-lilypond:before { content: 'Lilypond'; }
+  pre.src-lua:before { content: 'Lua'; }
+  pre.src-matlab:before { content: 'MATLAB'; }
+  pre.src-mscgen:before { content: 'Mscgen'; }
+  pre.src-ocaml:before { content: 'Objective Caml'; }
+  pre.src-octave:before { content: 'Octave'; }
+  pre.src-org:before { content: 'Org mode'; }
+  pre.src-oz:before { content: 'OZ'; }
+  pre.src-plantuml:before { content: 'Plantuml'; }
+  pre.src-processing:before { content: 'Processing.js'; }
+  pre.src-python:before { content: 'Python'; }
+  pre.src-R:before { content: 'R'; }
+  pre.src-ruby:before { content: 'Ruby'; }
+  pre.src-sass:before { content: 'Sass'; }
+  pre.src-scheme:before { content: 'Scheme'; }
+  pre.src-screen:before { content: 'Gnu Screen'; }
+  pre.src-sed:before { content: 'Sed'; }
+  pre.src-sh:before { content: 'shell'; }
+  pre.src-sql:before { content: 'SQL'; }
+  pre.src-sqlite:before { content: 'SQLite'; }
+  /* additional languages in org.el's org-babel-load-languages alist */
+  pre.src-forth:before { content: 'Forth'; }
+  pre.src-io:before { content: 'IO'; }
+  pre.src-J:before { content: 'J'; }
+  pre.src-makefile:before { content: 'Makefile'; }
+  pre.src-maxima:before { content: 'Maxima'; }
+  pre.src-perl:before { content: 'Perl'; }
+  pre.src-picolisp:before { content: 'Pico Lisp'; }
+  pre.src-scala:before { content: 'Scala'; }
+  pre.src-shell:before { content: 'Shell Script'; }
+  pre.src-ebnf2ps:before { content: 'ebfn2ps'; }
+  /* additional language identifiers per "defun org-babel-execute"
+       in ob-*.el */
+  pre.src-cpp:before  { content: 'C++'; }
+  pre.src-abc:before  { content: 'ABC'; }
+  pre.src-coq:before  { content: 'Coq'; }
+  pre.src-groovy:before  { content: 'Groovy'; }
+  /* additional language identifiers from org-babel-shell-names in
+     ob-shell.el: ob-shell is the only babel language using a lambda to put
+     the execution function name together. */
+  pre.src-bash:before  { content: 'bash'; }
+  pre.src-csh:before  { content: 'csh'; }
+  pre.src-ash:before  { content: 'ash'; }
+  pre.src-dash:before  { content: 'dash'; }
+  pre.src-ksh:before  { content: 'ksh'; }
+  pre.src-mksh:before  { content: 'mksh'; }
+  pre.src-posh:before  { content: 'posh'; }
+  /* Additional Emacs modes also supported by the LaTeX listings package */
+  pre.src-ada:before { content: 'Ada'; }
+  pre.src-asm:before { content: 'Assembler'; }
+  pre.src-caml:before { content: 'Caml'; }
+  pre.src-delphi:before { content: 'Delphi'; }
+  pre.src-html:before { content: 'HTML'; }
+  pre.src-idl:before { content: 'IDL'; }
+  pre.src-mercury:before { content: 'Mercury'; }
+  pre.src-metapost:before { content: 'MetaPost'; }
+  pre.src-modula-2:before { content: 'Modula-2'; }
+  pre.src-pascal:before { content: 'Pascal'; }
+  pre.src-ps:before { content: 'PostScript'; }
+  pre.src-prolog:before { content: 'Prolog'; }
+  pre.src-simula:before { content: 'Simula'; }
+  pre.src-tcl:before { content: 'tcl'; }
+  pre.src-tex:before { content: 'TeX'; }
+  pre.src-plain-tex:before { content: 'Plain TeX'; }
+  pre.src-verilog:before { content: 'Verilog'; }
+  pre.src-vhdl:before { content: 'VHDL'; }
+  pre.src-xml:before { content: 'XML'; }
+  pre.src-nxml:before { content: 'XML'; }
+  /* add a generic configuration mode; LaTeX export needs an additional
+     (add-to-list 'org-latex-listings-langs '(conf " ")) in .emacs */
+  pre.src-conf:before { content: 'Configuration File'; }
+
+  table { border-collapse:collapse; }
+  caption.t-above { caption-side: top; }
+  caption.t-bottom { caption-side: bottom; }
+  td, th { vertical-align:top;  }
+  th.org-right  { text-align: center;  }
+  th.org-left   { text-align: center;   }
+  th.org-center { text-align: center; }
+  td.org-right  { text-align: right;  }
+  td.org-left   { text-align: left;   }
+  td.org-center { text-align: center; }
+  dt { font-weight: bold; }
+  .footpara { display: inline; }
+  .footdef  { margin-bottom: 1em; }
+  .figure { padding: 1em; }
+  .figure p { text-align: center; }
+  .equation-container {
+    display: table;
+    text-align: center;
+    width: 100%;
+  }
+  .equation {
+    vertical-align: middle;
+  }
+  .equation-label {
+    display: table-cell;
+    text-align: right;
+    vertical-align: middle;
+  }
+  .inlinetask {
+    padding: 10px;
+    border: 2px solid gray;
+    margin: 10px;
+    background: #ffffcc;
+  }
+  #org-div-home-and-up
+   { text-align: right; font-size: 70%; white-space: nowrap; }
+  textarea { overflow-x: auto; }
+  .linenr { font-size: smaller }
+  .code-highlighted { background-color: #ffff00; }
+  .org-info-js_info-navigation { border-style: none; }
+  #org-info-js_console-label
+    { font-size: 10px; font-weight: bold; white-space: nowrap; }
+  .org-info-js_search-highlight
+    { background-color: #ffff00; color: #000000; font-weight: bold; }
+  .org-svg { }
+</style>
+</head>
+<body>
+<div id="content" class="content">
+<h1 class="title">Systematische Bibliotheksgliederung des Historischen Seminars</h1>
+<div id="table-of-contents" role="doc-toc">
+<h2>Table of Contents</h2>
+<div id="text-table-of-contents" role="doc-toc">
+<ul>
+<li><a href="#org20e1ca6">1. <span class="done DONE">DONE</span> A - Hilfsmittel und Hilfswissenschaften, EDV-Literatur, Neue Medien</a>
+<ul>
+<li><a href="#orgfb49b28">1.1. Aa - Wörterbücher und philologische Hilfsmittel</a>
+<ul>
+<li><a href="#org6d51f5a">1.1.1. 0001 - 0020 mehrsprachige Wörterbücher</a></li>
+<li><a href="#orgd57a1f9">1.1.2. 0021 - 0030 griechische</a></li>
+<li><a href="#orgc6645d8">1.1.3. 0031 - 0100 lateinische</a></li>
+<li><a href="#orgbc567d8">1.1.4. 0101 - 0120 italienische</a></li>
+<li><a href="#org7ca0f58">1.1.5. 0121 - 0140 spanische</a></li>
+<li><a href="#org9c02c02">1.1.6. 0141 - 0200 französische</a></li>
+<li><a href="#orgbee913f">1.1.7. 0201 - 0260 englische</a></li>
+<li><a href="#org3e1dab0">1.1.8. 0261 - 0400 sonstige Länder</a></li>
+<li><a href="#org137c32f">1.1.9. 0401 - 0600 Deutschland</a></li>
+<li><a href="#org435a212">1.1.10. 0601 - 1000 philologische Hilfsmittel</a></li>
+</ul>
+</li>
+<li><a href="#org2f5a826">1.2. Ab - offen</a></li>
+<li><a href="#orgc88fce9">1.3. Ac - Historische Geographie</a>
+<ul>
+<li><a href="#orgc20ec81">1.3.1. 0001 - 00700 Atlanten</a></li>
+<li><a href="#orgdf99c69">1.3.2. 0701 - 0750 Einführungen, Allgemeines</a></li>
+<li><a href="#orga020760">1.3.3. 0751 - 0900 Allgemeine historische geographische Darstellungen</a></li>
+<li><a href="#org43845f8">1.3.4. 0901 - 1050 Historische Landschaftskunde</a></li>
+<li><a href="#org0297282">1.3.5. 1051 - 1300 Systematische Siedlungskunde</a></li>
+<li><a href="#org82e6202">1.3.6. 1301 - 1600 Historisch politische Geographie</a></li>
+<li><a href="#org7486f10">1.3.7. 1601 - 1800 Topographie</a></li>
+<li><a href="#org77f2a8b">1.3.8. 1801 - 1999 Kartographie</a></li>
+</ul>
+</li>
+<li><a href="#orgc9f26ac">1.4. Ad - offen</a></li>
+<li><a href="#org16e0b32">1.5. Ae - Chronologie</a>
+<ul>
+<li><a href="#orge8f95c0">1.5.1. 0001 - 0050 Astronomische Chronologie (astronomische Grundlagen)</a></li>
+<li><a href="#orgdfebc95">1.5.2. 0051 - 0150 Handbücher, Nachschlagewerke der historischen Chronologie</a></li>
+<li><a href="#orgd43cfac">1.5.3. 0201 - 0250 Allgemeine chronologische Studien</a></li>
+<li><a href="#org18dc176">1.5.4. 0301 - 0350 Jahresanfang</a></li>
+<li><a href="#org9ee50c8">1.5.5. 0401 - 0450 Tagesbezeichnungen, Heiligentage, Festkalender</a></li>
+<li><a href="#org7a7d3d5">1.5.6. 0501 - 0550 Tageseinteilung</a></li>
+<li><a href="#org275d347">1.5.7. 0551 - 9999 Probleme der Periodisierung</a></li>
+</ul>
+</li>
+<li><a href="#org2028dba">1.6. Ag - Genealogie und Heraldik</a>
+<ul>
+<li><a href="#orgc48c357">1.6.1. 0001 - 0500 Geneaologie</a></li>
+<li><a href="#org7c915c7">1.6.2. 0501 - 9999 Heraldik</a></li>
+</ul>
+</li>
+<li><a href="#orgfeee492">1.7. Ai - Urkunden und Akten, Sphragistik</a>
+<ul>
+<li><a href="#org4aff0d6">1.7.1. 0001 - 0500 Urkunden und Akten</a></li>
+<li><a href="#orgdcc7a5f">1.7.2. 0501 - 9999 Sphragistik</a></li>
+</ul>
+</li>
+<li><a href="#org77f9a54">1.8. Ak - Paläographie</a>
+<ul>
+<li><a href="#orgecd9b8a">1.8.1. 0001 - 0050 Allgemeine und Gesamtdarstellungen zum Schriftwesen und zur Handschriftenkunde</a></li>
+<li><a href="#org65cec86">1.8.2. 0101 - 0150 Beschreibstoff und Schreibgeräte</a></li>
+<li><a href="#orged96d71">1.8.3. 0201 - 0250 Die Schrift: Größere Gesamtdarstellungen und Übersichten der Schriftentwicklung, Lehrbücher und Einführungen</a></li>
+<li><a href="#orgfee5d56">1.8.4. 0271 - 0300 Die Schrift: Untersuchungen zur Schriftgeschichte einzelner Epochen</a></li>
+<li><a href="#org138359d">1.8.5. 0301 - 0420 Die Schrift: Tafel- und Abbildungswerke (auch einzelner Epochen)</a></li>
+<li><a href="#org8bb6418">1.8.6. 0451 - 0500 Kürzungswesen</a></li>
+<li><a href="#orge9463b9">1.8.7. 0501 - 0530 Geheimschriftenkunde</a></li>
+<li><a href="#orga619315">1.8.8. 0601 - 0650 Weitere Ausstattung der Handschriften: Ornamentik, Illustration, Buchmalerei</a></li>
+<li><a href="#org0094283">1.8.9. 0701 - 0750 Formen des Schrifttums: Rollen, Bücher, etc.</a></li>
+<li><a href="#org71d17ea">1.8.10. 0801 - 0850 Das weitere Schicksal der Handschriften</a></li>
+<li><a href="#org4ef51f1">1.8.11. 0851 - 0900 Faksimiledrucke</a></li>
+<li><a href="#org2d2654f">1.8.12. 0901 - 0950 Epigraphik</a></li>
+</ul>
+</li>
+<li><a href="#org84e22f3">1.9. Am - Numismatik</a>
+<ul>
+<li><a href="#orga8bffbf">1.9.1. 0001 - 0050 Bibliographien</a></li>
+<li><a href="#orgee4e136">1.9.2. 0051 - 0100 Münzlexika</a></li>
+<li><a href="#orgb2e7d02">1.9.3. 0101 - 0200 Allgemeine Einführung, Lehr- und Handbücher, Gesamtübersichten, Mittelalter und Neuzeit umfassend</a></li>
+<li><a href="#org9c0bbd5">1.9.4. 0251 - 0300 Gesamtübersichten zur Münz- und Geldgeschichte der Einzelstaaten und Länder, Mittelalter und Neuzeit umfassend (regional einzuordnen)</a></li>
+<li><a href="#orga44d2a6">1.9.5. 0351 - 0380 Einzelne Perioden der Münz- und Geldgeschichte: Völkerwanderung und Merowinger</a></li>
+<li><a href="#orgfe70512">1.9.6. 0401 - 0450 Einzelne Perioden der Münz- und Geldgeschichte: Mittelalter - allgemeine Überblicke</a></li>
+<li><a href="#orgbbdc601">1.9.7. 0501 - 0550 Mittelalter - Einzelepochen</a></li>
+<li><a href="#org2be8b8d">1.9.8. 0051 - 0700 Mittelalter - landes- und ortsgeschichtliche Monographien (regional einzuordnen)</a></li>
+<li><a href="#orgad79cf7">1.9.9. 0751 - 0800 Einzelne Perioden der Münz- und Geldgeschichte: Neuzeit - allgemeine Überblicke</a></li>
+<li><a href="#org147886c">1.9.10. 0801 - 0850 Neuzeit - Einzelepochen</a></li>
+<li><a href="#org34331ca">1.9.11. 0851 - 0900 Neuzeit - landes- und ortsgeschichtliche Monographien (regional einzuordnen)</a></li>
+<li><a href="#org832ef09">1.9.12. 0901 - 1000 Masse und Gewicht</a></li>
+</ul>
+</li>
+<li><a href="#org608d031">1.10. Ao - Einführung in die Geschichtswissenschaft: Methodische Handbücher</a>
+<ul>
+<li><a href="#orgf1108c8">1.10.1. 0001 - 0150 Einführung in die Gesamtgebiete der Geschichtswissenschaft</a></li>
+<li><a href="#org7150068">1.10.2. 0151 - 0300 Einführung in die mittelalterliche Geschichte</a></li>
+<li><a href="#org5848ba7">1.10.3. 0301 - 0450 Einführung in die neuere Geschichte</a></li>
+<li><a href="#orgdd6460d">1.10.4. 0451 - 0500 Sonstige einführende Werke</a></li>
+<li><a href="#org9e34ed4">1.10.5. 0501 - 0700 Methodische Handbücher</a></li>
+</ul>
+</li>
+<li><a href="#org35a1bee">1.11. Aq - Archiv- und Bibliothekskunde</a>
+<ul>
+<li><a href="#orgfd6508b">1.11.1. 0001 - 0200 Allgemeine Archivkunde</a></li>
+<li><a href="#org7a8a3c2">1.11.2. 0201 - 0400 Bestandsübersichten und Inventare einzelner Archive</a></li>
+<li><a href="#orgfd89820">1.11.3. 0401 - 0500 Allgemeine Bibliothekskunde</a></li>
+<li><a href="#org12c6c18">1.11.4. 0501 - 9999 Führer zu einzelnen Bibliotheken</a></li>
+</ul>
+</li>
+<li><a href="#org431b9b3">1.12. Ar - Museumswissenschaft / Museumskunde</a></li>
+<li><a href="#org17450c6">1.13. As - Mittelalterliche Archäologie</a>
+<ul>
+<li><a href="#org7bec643">1.13.1. 0001 - 0200 Allgemeines, Einführungen, Übersichten</a></li>
+<li><a href="#org36c3da0">1.13.2. 0201 - 0300 Nordeuropa</a></li>
+<li><a href="#orgd716d3a">1.13.3. 0301 - 0400 Westeuropa</a></li>
+<li><a href="#org9e9afaa">1.13.4. 0401 - 0500 Mitteleuropa</a></li>
+<li><a href="#orgd824d0b">1.13.5. 0501 - 0600 Osteuropa</a></li>
+<li><a href="#org683f354">1.13.6. 0601 - 0700 Südeuropa</a></li>
+</ul>
+</li>
+<li><a href="#org68137db">1.14. Au - Bibliographieren und Quellenkunden</a>
+<ul>
+<li><a href="#org56fb3ed">1.14.1. 0001 - 0030 Einführungen in die Bibliographien- und Quellenkunde</a></li>
+<li><a href="#org84aebc8">1.14.2. 0031 - 0130 Bibliographien zur gesamten Weltgeschichte</a></li>
+<li><a href="#org8123d8c">1.14.3. 0131 - 0250 Bibliographien zur deutschen Geschichte: allgemein</a></li>
+<li><a href="#orgd4c3ac6">1.14.4. 0251 - 0450 Bibliographien zur deutschen Geschichte: Neuzeit</a></li>
+<li><a href="#orgb792213">1.14.5. 0451 - 0500 Bibliographien zur deutschen Geschichte: Mittelalter</a></li>
+<li><a href="#org4e17da4">1.14.6. 0501 - 0650 Bibliographien zur Geschichte der deutschen Territorien und Länder</a></li>
+<li><a href="#org3563aa2">1.14.7. 0651 - 0850 Bibliographien zur Geschichte einzelner Länder außer Deutschland</a></li>
+<li><a href="#org6f384e5">1.14.8. 0851 - 0999 Bibliographien zu einzelnen systematischen Gebieten der Geschichtswissenschaft - Spezialbibliographien</a></li>
+</ul>
+</li>
+<li><a href="#orgf9faa0e">1.15. Aw - Allgemeine Enzyklopädien, Historische Sachwörterbücher, Biographische Wörterbücher</a>
+<ul>
+<li><a href="#org2755af5">1.15.1. 0001 - 0050 Allgemeine Lexika</a></li>
+<li><a href="#org799d077">1.15.2. 0051 - 0300 Historische und politische Sachwörterbücher (allgemeine, sachliche, begriffliche, ausländische)</a></li>
+<li><a href="#org5129fb5">1.15.3. 0301 - 0500 Deutschland</a></li>
+<li><a href="#org6b332e5">1.15.4. 0501 - 0999 Biographische Wörterbücher</a></li>
+</ul>
+</li>
+<li><a href="#orgb31120c">1.16. Ax - Spezielle Nachslagewerke</a>
+<ul>
+<li><a href="#org2ee245d">1.16.1. 0001 - 0100 Staat, Gesellschaft, Soziologie, Politik</a></li>
+<li><a href="#org601077d">1.16.2. 0101 - 0150 Wirtschaft</a></li>
+<li><a href="#org3eeaebf">1.16.3. 0151 - 0200 Recht, Völkerrecht</a></li>
+<li><a href="#org8b6d147">1.16.4. 0300 - 0999 Theologie</a></li>
+</ul>
+</li>
+<li><a href="#orge156e8e">1.17. Ay - Elektronische Nachschlagewerke, EDV-Literatur, Neue Medien</a>
+<ul>
+<li><a href="#org07909bf">1.17.1. 0001 - 0200 Elektronische Nachschlagewerke, CD-Roms</a></li>
+<li><a href="#orgacb852e">1.17.2. 0201 - 0400 DVDs</a></li>
+<li><a href="#org360109c">1.17.3. 0401 - 0600 Neue Medien und Geschichtswissenschaft</a></li>
+<li><a href="#orgc540bfd">1.17.4. 0601 - 0900 EDV-Literatur</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li><a href="#orgdd5a147">2. <span class="todo TODO">TODO</span> B - Quellen zur Geschichte des Mittelalters</a>
+<ul>
+<li><a href="#orgc9290f8">2.1. Ba - Allgemeine Quellensammlungen, Folio und Quart, innerhalb der MGH</a></li>
+<li><a href="#org9561eef">2.2. Bb - Allgemeine Quellensammlungen, Folio und Quart, außerhalb der MGH</a></li>
+<li><a href="#org318aab6">2.3. Bc - Allgemeine Quellensammlungen, nicht Folio und Quart</a></li>
+<li><a href="#orgb7c1e34">2.4. Bd - Einzelausgaben nicht urkundlicher Quellen</a></li>
+<li><a href="#orgba0d807">2.5. Be - Rechtsquellen, einschließlich urbarialer Aufzeichnungen</a></li>
+<li><a href="#orgec9443f">2.6. Bf - Papsturkunden</a></li>
+<li><a href="#orgf19b063">2.7. Bg - Urkunden deutscher Kaiser und Könige; Urkunden deutscher Territorien, Klöster, Stifte und Städte</a></li>
+<li><a href="#orgac103f3">2.8. Bh - Urkunden außerdeutscher Herrscher, Territorien, Klöster, Stifte und Städte</a></li>
+<li><a href="#org2a87e61">2.9. Bm - Quellen zur Geschichte der mittelalterlichen Orden</a></li>
+<li><a href="#org8479309">2.10. Bo - Texte zur lateinischen, deutschen und sonstigen nationalsprachlichen Dichtung ('Literatur') des Mittelalters, auch Übersetzungen poetischer Texte</a></li>
+<li><a href="#org5663830">2.11. Bp - Inschriften; sonstige Quellengattungen</a></li>
+<li><a href="#org1cab895">2.12. Bx - Übungstexte und Quellenauswahlen</a></li>
+<li><a href="#org1a42316">2.13. Bz - Übersetzungen von im engeren Sinn historischen Quellen</a></li>
+</ul>
+</li>
+<li><a href="#org3eeaf73">3. <span class="todo TODO">TODO</span> C - Hilfsmittel und Literatur zu den Quellen der Geschichte des Mittelalters</a>
+<ul>
+<li><a href="#orgccd6ed3">3.1. Ca - Einführung in Studium und Quellen des Mittelalters</a></li>
+<li><a href="#org6a1e2d2">3.2. Cb - bleibt frei</a></li>
+<li><a href="#orgf2eae1a">3.3. Cc - Allgemeine Quellenkunde und Verzeichnisse der nichturkundlichen Quellen zur Geschichte des Mittelalters</a></li>
+<li><a href="#org16c562e">3.4. Cd - Literatur zu den einzelnen Gattungen historischer Quellen (mit Ausschluß der Urkundenlehre)</a></li>
+<li><a href="#orgaaa59eb">3.5. Ce - Literatur zu einzelnen erzählenden Quellen oder Quellengruppen</a></li>
+<li><a href="#org6979d56">3.6. Cf - Literatur zur Geschichte der mittelalterlichen Literaturen (Darstellungen und Monographien)</a></li>
+<li><a href="#org87a4afb">3.7. Cg - bleibt frei</a></li>
+<li><a href="#org7e9b91f">3.8. Ch - bleibt frei</a></li>
+<li><a href="#orgc48db65">3.9. Ci - Diplomatik, Gesamtdarstellungen, Monographien und Spezialliteratur zu den Urkunden des Mittelalters</a></li>
+<li><a href="#org587faec">3.10. Ck - Regestenwerke und Urkundenverzeichnisse</a></li>
+<li><a href="#orgd5ffac3">3.11. Cl - bleibt frei</a></li>
+<li><a href="#org350d297">3.12. Cy - bleibt frei</a></li>
+<li><a href="#orgbc0a905">3.13. Cz - Auswertung des Quellenmaterials zur darstellenden Verzeichnung in chronologischer oder geographischer Anordnung (vgl. Erläuterung)</a></li>
+</ul>
+</li>
+<li><a href="#org48eee44">4. <span class="todo TODO">TODO</span> D - Darstellungen zur Geschichte des Mittelalters, chronologisch geordnet</a>
+<ul>
+<li><a href="#orgade8b23">4.1. Da - Gesamtdarstellungen und Monographien zu gesamtmittelalterlichen Problemen</a>
+<ul>
+<li><a href="#orgc0b0e99">4.1.1. 0001 - 0100 Das Mittelalter: Literatur zum Begriff, zur Periodisierung, zur Problematik, zum 'Erbe des Mittelalters', Einzelnes</a></li>
+<li><a href="#org288cca2">4.1.2. 0101 - 0200 Gesamtdarstellungen der Geschichte des Mittelalters</a></li>
+<li><a href="#org93f8c6e">4.1.3. 0201 - 0300 knappe Schul- und Handbücher zur Geschichte des ganzen Mittelalters</a></li>
+<li><a href="#org5dbe4a5">4.1.4. 0301 - 0500 leer</a></li>
+<li><a href="#orga7081f2">4.1.5. 0501 - 0700 deutsche Geschichte im gesamten Mittelalteraa</a></li>
+<li><a href="#orgb590916">4.1.6. 0701 - 0800 freibleibend für gesamtmittelalterliche Erscheinungen außer den Kreuzzügen</a></li>
+<li><a href="#orgb7d34d6">4.1.7. 0801 - 0900 Die Kreuzzüge (nur über die Jahrhunderte hinweggehende Gesamtdarstellungen der Kreuzzüge)</a></li>
+<li><a href="#org45f57a7">4.1.8. 0901 - 0999 Monographien zu Einzelaspekten der gesamten Kreuzzugsgeschichte</a></li>
+</ul>
+</li>
+<li><a href="#org3428b74">4.2. Db - leer</a></li>
+<li><a href="#org3062b48">4.3. Dc - Frühgeschichteliche, nichtantike Voraussetzungen der mittelalterlichen Geschichte</a>
+<ul>
+<li><a href="#orge5ae787">4.3.1. 0001 - 0015 Methodisches und Grundsätzliches zur Vor- und Frühgeschichte</a></li>
+<li><a href="#orgd780544">4.3.2. 0016 - 0050 Gesamtdarstellungen der Vorgeschichte</a></li>
+<li><a href="#orgc1aba86">4.3.3. 0051 - 0070 Die Indogermanenfrage</a></li>
+<li><a href="#org0a2dd1e">4.3.4. 0071 - 0090 Die Kelten</a></li>
+<li><a href="#orgb4a76cd">4.3.5. 0091 - 0100 Die Illyrer</a></li>
+<li><a href="#orgcdac46a">4.3.6. 0101 - 0120</a></li>
+<li><a href="#org1344752">4.3.7. 0121 - 0150</a></li>
+<li><a href="#orgc231bb9">4.3.8. 0151 - 0300</a></li>
+<li><a href="#org7cac668">4.3.9. 0301 - 0400</a></li>
+<li><a href="#org2fae83d">4.3.10. 0401 - 0500</a></li>
+<li><a href="#orge532be1">4.3.11. 0501 - 0600</a></li>
+<li><a href="#org2fdb39e">4.3.12. 0601 - 0800</a></li>
+<li><a href="#org7bd23ce">4.3.13. 0801 - 0900</a></li>
+<li><a href="#orgf202969">4.3.14. 0901 - 0999</a></li>
+</ul>
+</li>
+<li><a href="#org44a676c">4.4. Dd - Spätantike und frühchristliche Voraussetzungen der mittelalterlichen Geschichte: Die Mittelmeerwelt bis 600</a></li>
+<li><a href="#orgcdfb113">4.5. De - Das frühe Mittelalter, Gesamtdarstellungen: Das Zeitalter der Merowinger</a></li>
+<li><a href="#org7612825">4.6. Df - Das Zeitalter der Karolinger</a></li>
+<li><a href="#orgbfe3215">4.7. Dg - Das Hochmittelalter, Gesamtdarstellungen: Das 10. Jahrhundert (Ottonen) und das 11. Jahrhundert (Salier vor dem Investiturstreit)</a>
+<ul>
+<li><a href="#org7127e68">4.7.1. 0001 - 0050 Gesamtdarstellungen der europäischen und deutschen Geschichte im Hochmittelalter</a></li>
+<li><a href="#org1ddcb53">4.7.2. 0051 - 0150 Monographien zum gesamten Hochmittelalter</a></li>
+<li><a href="#orgb5b65fa">4.7.3. 0151 - 0200 Gesamtdarstellungen und Monographien zur Geschichte einzelner Länder (außer Deutschland) im Hochmittelalter</a></li>
+<li><a href="#org276a341">4.7.4. 0201 - 0700 Das 10. Jahrhundert und das Zeitalter der Ottonen</a></li>
+<li><a href="#orgf907413">4.7.5. 0701 - 0999 Das 11. Jahrhudnert vor dem Investiturstreit</a></li>
+</ul>
+</li>
+<li><a href="#org5a58f36">4.8. Dh - Der Investiturstreit (letztes Drittel des 11. Jahrhunderts): Das Zeitalter der Staufer bis zum Tode Heinrichs VI. (12. Jh.)</a></li>
+<li><a href="#org8422a9b">4.9. Di - leer</a></li>
+<li><a href="#org7af52ad">4.10. Dk - Das Spätmittelalter (nur Gesamtdarstellungen und Monographien)</a></li>
+<li><a href="#org12e04a0">4.11. Dl - Geschichte des 13. Jahrhunderts</a></li>
+<li><a href="#org120b698">4.12. Dm - Geschichte des 14. Jahrhunderts</a></li>
+<li><a href="#org6c544a4">4.13. Dn - leer</a></li>
+<li><a href="#org5b5a8f3">4.14. Do - Geschichte des 15. Jahrhunderts</a></li>
+<li><a href="#org8e564b9">4.15. Dp - Frührenaissance (Italien im 14. und 15. Jh.); Das Zeitalter Maximilians I.; Deutschland vor der Reformation</a></li>
+</ul>
+</li>
+<li><a href="#orgb21712e">5. <span class="todo TODO">TODO</span> E - Darstellungen zur Geschichte des Mittelalters, sachlich geordnet</a>
+<ul>
+<li><a href="#orgad58f16">5.1. Ea - Geschichte europäischer Länder und Landschaften I. Die Mittelmeerländer</a></li>
+<li><a href="#org0a3e160">5.2. Eb - Geschichte europäischer Länder und Landschaften II. West-, Nord- und Osteuropa</a></li>
+<li><a href="#org984e78f">5.3. Ec - Geschichte europäischer Länder und Landschaften III. Deutsche Gebiete</a></li>
+<li><a href="#orgc796ff5">5.4. Ed - freibleibend</a></li>
+<li><a href="#org42d8983">5.5. Ee - Rechtsgeschichte</a></li>
+<li><a href="#orgee6abb9">5.6. Ef - Verfassungsgeschichte</a></li>
+<li><a href="#org2caec50">5.7. Eg - Königtum, Zentralverwaltung, Königsgut</a></li>
+<li><a href="#orgd27d0ed">5.8. Eh - Fürstentum, Landeshoheit</a></li>
+<li><a href="#org3353b8d">5.9. Ei - Lehnswesen und Lehnrecht</a></li>
+<li><a href="#org670e426">5.10. Ek - Mittelatlerliches Staatsdenken</a></li>
+<li><a href="#org88be706">5.11. El - Das Kaisertum im Abendland</a></li>
+<li><a href="#org282a03d">5.12. Em - freibleibend</a></li>
+<li><a href="#org70a1f15">5.13. En - Kirchengeschichte</a></li>
+<li><a href="#orgc9461ff">5.14. Eo - Mittelalterliches Geistesleben (Weltbild, Philosophie, Wissenschaften, Bildung und Unterricht)</a></li>
+<li><a href="#org84ea4a8">5.15. Ep - Kulturgeschichte</a>
+<ul>
+<li><a href="#org2f72b3f">5.15.1. 0001 - 0050 Gesamtdarstellungen</a></li>
+<li><a href="#orgbf9e998">5.15.2. 0051 - 0100 Studien und Sammlungen zur mittelalterlichen Kulturgeschichte</a></li>
+<li><a href="#org66114dd">5.15.3. 0101 - 0200 Kulturgeschichte einzelner Länder im Mittelalter</a></li>
+<li><a href="#orgaac69b6">5.15.4. 0201 - 0400 Darstellungen zur Kulturgeschichte, chronologisch geordnet</a></li>
+<li><a href="#org210e16f">5.15.5. 0401 - 0450 Die Physis, Körperbau, Gesundheitspflege, körperliches Befinden, Krankheiten</a></li>
+<li><a href="#org08f1ed1">5.15.6. 0451 - 0550 Mittelalterliche Sittengeschichte, Die Frau im Mittelalter</a></li>
+<li><a href="#org1ebb9d2">5.15.7. 0551 - 0600 Sitte und Brauchtum</a></li>
+<li><a href="#org10ead64">5.15.8. 0601 - 0700 Höfische Kultur, Rittertum</a></li>
+<li><a href="#org525c86c">5.15.9. 0701 - 0999 Die materielle Kultur</a></li>
+</ul>
+</li>
+<li><a href="#org9591d4d">5.16. Eq - Archäologie und Kunstgeschichte</a></li>
+<li><a href="#org6b82932">5.17. Er - Kriegsgeschichte, Seefahrt</a></li>
+</ul>
+</li>
+<li><a href="#org1eaedd9">6. <span class="todo TODO">TODO</span> F - 15. - 18. Jahrhundert</a>
+<ul>
+<li><a href="#orgf7de9a2">6.1. Fa - Renaissance und Humanismus in Italien</a></li>
+<li><a href="#orgc178338">6.2. Fb - Humanismus in Deutschland</a></li>
+<li><a href="#orgd3de829">6.3. Fc - Das Entdeckungszeitalter</a></li>
+<li><a href="#orged41af1">6.4. Fd - Europäische Geschichte und Weltgeschichte 1492 bis 1559</a></li>
+<li><a href="#org4539058">6.5. Fe - Die Reformation in Deutschland (Quellen und Gesamtdarstellungen)</a></li>
+<li><a href="#orga7546fa">6.6. Ff - Die Reformatoren (Luther, Melanchthon, Zwingli, Calvin)</a></li>
+<li><a href="#orgf2f6650">6.7. Fg - Deutsche Geschichte im Reformationszeitalter bis 1555</a></li>
+<li><a href="#orge5ecfda">6.8. Fh - Reformation und Gegenreformation in den deutschen Ländern bis 1618</a></li>
+<li><a href="#org8ce8ee7">6.9. Fi - Wirtschaftsgeschichte des Frühkapitalismus</a></li>
+<li><a href="#orgcf90b71">6.10. Fk - Europäische Länder im 16. Jahrhundert (außer Italien - Fa und Fl; Spanien - Fb; Deutschland - Fe bis Fh)</a></li>
+<li><a href="#org0314d67">6.11. Fl - Die Gegenreformation: Europäische Politik und Weltpolitik 1559 - 1618</a></li>
+<li><a href="#org2e4ca27">6.12. Fm - Deutsche Geschichte im Zeitalter der Gegenreformation bis 1618</a></li>
+<li><a href="#org22f0571">6.13. Fn - Dreißigjähriger Krieg</a></li>
+<li><a href="#org87dd68b">6.14. Fo - Frankreich 1610 bis 1715</a></li>
+<li><a href="#orge1699c4">6.15. Fp - Europäische Geschichte und Weltgeschichte 1648 bis 1715 (1721)</a></li>
+<li><a href="#org109ae7a">6.16. Fr - Europäische Länder im 17. Jahrhundert (außer Frankreich - Fo und Deutschland)</a></li>
+<li><a href="#orgca83a30">6.17. Fs - Deutsche Geschichte 1648 bis 1740</a></li>
+<li><a href="#org0f9db51">6.18. Ft - Deutsche Länder 1648 bis 1740</a></li>
+<li><a href="#org880e1b5">6.19. Fu - Europäische Geschichte und Weltgeschichte 1715 bis 1789</a></li>
+<li><a href="#org7dfc2ae">6.20. Fw - Europäische Länder im 18. Jahrhundert (außer Frankreich - Fx und Deutschland)</a></li>
+<li><a href="#orgc4201f5">6.21. Fx - Frankreich 1715 bis 1789 und die Aufklärung</a></li>
+<li><a href="#org5b0eefe">6.22. Fy - Deutsche Geschichte 1700 bis 1789</a></li>
+<li><a href="#orgb2f2400">6.23. Fz - Preußen 1713 bis 1796</a></li>
+</ul>
+</li>
+<li><a href="#org6f90c09">7. <span class="todo TODO">TODO</span> G - Von der Französischen Revolution bis zum Ende des Zweiten Weltkriegs (1789 - 1945)</a>
+<ul>
+<li><a href="#org900b168">7.1. Gc Österreich und Preußen zur Zeit der französischen Revolution und Napoleon</a></li>
+</ul>
+</li>
+<li><a href="#orgd5b7842">8. <span class="todo TODO">TODO</span> H - Gegenwart (ab 1945)</a></li>
+<li><a href="#org0608ede">9. <span class="todo TODO">TODO</span> J - Weltgeschichte, Post Colonial Studies</a></li>
+<li><a href="#org616a50a">10. <span class="todo TODO">TODO</span> K - Geschichte Asiens, Australiens, Afrikas</a></li>
+<li><a href="#orgcf10892">11. <span class="todo TODO">TODO</span> L - Geschichte der europäischen Staaten</a></li>
+<li><a href="#org979e948">12. <span class="todo TODO">TODO</span> M - Deutsche Geschichte und Geschichte der deutschen Territorien</a></li>
+<li><a href="#org9467a20">13. <span class="todo TODO">TODO</span> N - Anthropologie, Völkerkunde, Bevölkerungswissenschaft</a></li>
+<li><a href="#orgad17dae">14. <span class="todo TODO">TODO</span> O - Recht, Politik, Staat und Gesellschaft, Internationale Beziehungen</a></li>
+<li><a href="#orgd159f32">15. <span class="todo TODO">TODO</span> P - Wirtschafts- und Sozialgeschichte: Handbücher, Städtewesen, Biographien</a></li>
+<li><a href="#org12b2671">16. <span class="todo TODO">TODO</span> Q - Wirtschafts- und Sozialgeschichte: Mittelalter, Neuzeit</a></li>
+<li><a href="#orgf87991d">17. <span class="todo TODO">TODO</span> R - Kulturgeschichte, Geschichte der Künste, Geschichte der Technik, Mediengeschichte, Umweltgeschichte</a></li>
+<li><a href="#org99f7ea3">18. <span class="todo TODO">TODO</span> S - Kriegs- und Militärgeschichte</a></li>
+<li><a href="#org37e0506">19. <span class="todo TODO">TODO</span> T - Religions- und Kirchengeschichte</a></li>
+<li><a href="#orga4cf2f2">20. <span class="todo TODO">TODO</span> U - Geistesgeschichte und Geschichte der Wissenschaften</a></li>
+<li><a href="#org2af8500">21. <span class="todo TODO">TODO</span> V - Aufsatzsammlungen und sonstitge Sammelschriften einzelner Verfasser</a></li>
+<li><a href="#org64db53e">22. <span class="todo TODO">TODO</span> W - Fest- und Gedenkschriften</a></li>
+<li><a href="#orgb1ed194">23. <span class="done DONE">DONE</span> Z - Zeitschriften, Jahrbücher, Dissertationen</a>
+<ul>
+<li><a href="#orgc0a07a3">23.1. Za - Allgemeine Zeitschriften</a></li>
+<li><a href="#org734e70e">23.2. Zb - Allgemeine historische Zeitschriften</a></li>
+<li><a href="#org9943e0b">23.3. Zc - Mittelalter und Hilfswissenschaften</a></li>
+<li><a href="#orgd6ed295">23.4. Zd - Neuzeit</a></li>
+<li><a href="#org91434c1">23.5. Ze - Regionale Zeitschriften (auch ausländische)</a></li>
+<li><a href="#org779fb14">23.6. Zf - Ausländische Zeitschriften</a></li>
+<li><a href="#org9edae3c">23.7. Zg - Systematische Zeitschriften</a></li>
+<li><a href="#org6ce4fd3">23.8. Zl - Jahrbücher</a></li>
+<li><a href="#org5f9dbbf">23.9. Zs - Dissertationen</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</div>
+<p>
+&#x2014;
+</p>
+
+<p>
+<a href="https://www.uni-heidelberg.de/md/zegk/histsem/seminar/systematik_hs.pdf">Maschinenschriftliche Systematik</a>
+</p>
+
+<p>
+<a href="https://heibox.uni-heidelberg.de/seafhttp/files/e109dd32-78e0-4dad-9543-0959920bbc67/Historisches_Seminar_Heidelberg_Lageplan_Bibliothek.pdf">Plan der Fachbibliothek</a>
+</p>
+
+<p>
+&#x2014;
+</p>
+
+<div id="outline-container-org20e1ca6" class="outline-2">
+<h2 id="org20e1ca6"><span class="section-number-2">1.</span> <span class="done DONE">DONE</span> A - Hilfsmittel und Hilfswissenschaften, EDV-Literatur, Neue Medien</h2>
+<div class="outline-text-2" id="text-1">
+</div>
+<div id="outline-container-orgfb49b28" class="outline-3">
+<h3 id="orgfb49b28"><span class="section-number-3">1.1.</span> Aa - Wörterbücher und philologische Hilfsmittel</h3>
+<div class="outline-text-3" id="text-1-1">
+</div>
+<div id="outline-container-org6d51f5a" class="outline-4">
+<h4 id="org6d51f5a"><span class="section-number-4">1.1.1.</span> 0001 - 0020 mehrsprachige Wörterbücher</h4>
+</div>
+<div id="outline-container-orgd57a1f9" class="outline-4">
+<h4 id="orgd57a1f9"><span class="section-number-4">1.1.2.</span> 0021 - 0030 griechische</h4>
+</div>
+<div id="outline-container-orgc6645d8" class="outline-4">
+<h4 id="orgc6645d8"><span class="section-number-4">1.1.3.</span> 0031 - 0100 lateinische</h4>
+</div>
+<div id="outline-container-orgbc567d8" class="outline-4">
+<h4 id="orgbc567d8"><span class="section-number-4">1.1.4.</span> 0101 - 0120 italienische</h4>
+</div>
+<div id="outline-container-org7ca0f58" class="outline-4">
+<h4 id="org7ca0f58"><span class="section-number-4">1.1.5.</span> 0121 - 0140 spanische</h4>
+</div>
+<div id="outline-container-org9c02c02" class="outline-4">
+<h4 id="org9c02c02"><span class="section-number-4">1.1.6.</span> 0141 - 0200 französische</h4>
+</div>
+<div id="outline-container-orgbee913f" class="outline-4">
+<h4 id="orgbee913f"><span class="section-number-4">1.1.7.</span> 0201 - 0260 englische</h4>
+</div>
+<div id="outline-container-org3e1dab0" class="outline-4">
+<h4 id="org3e1dab0"><span class="section-number-4">1.1.8.</span> 0261 - 0400 sonstige Länder</h4>
+</div>
+<div id="outline-container-org137c32f" class="outline-4">
+<h4 id="org137c32f"><span class="section-number-4">1.1.9.</span> 0401 - 0600 Deutschland</h4>
+</div>
+<div id="outline-container-org435a212" class="outline-4">
+<h4 id="org435a212"><span class="section-number-4">1.1.10.</span> 0601 - 1000 philologische Hilfsmittel</h4>
+<div class="outline-text-4" id="text-1-1-10">
+</div>
+<ol class="org-ol">
+<li><a id="orgc7e1420"></a>0601 - 0650 allgemein<br /></li>
+<li><a id="org3dc807d"></a>0651 - 0670 griechisch<br /></li>
+<li><a id="orgf03a399"></a>0671 - 0700 lateinisch<br /></li>
+<li><a id="org7b7209a"></a>0701 - 0720 italienisch<br /></li>
+<li><a id="org6ac354d"></a>0721 - 0740 französisch<br /></li>
+<li><a id="org82df086"></a>0741 - 0780 spanisch<br /></li>
+<li><a id="org5d2e718"></a>0781 - 0820 englisch<br /></li>
+<li><a id="org46d5e01"></a>0821 - 0900 sonstige<br /></li>
+<li><a id="orgccfa823"></a>0901 - 0999 deutsch<br /></li>
+</ol>
+</div>
+</div>
+<div id="outline-container-org2f5a826" class="outline-3">
+<h3 id="org2f5a826"><span class="section-number-3">1.2.</span> Ab - offen</h3>
+</div>
+<div id="outline-container-orgc88fce9" class="outline-3">
+<h3 id="orgc88fce9"><span class="section-number-3">1.3.</span> Ac - Historische Geographie</h3>
+<div class="outline-text-3" id="text-1-3">
+</div>
+<div id="outline-container-orgc20ec81" class="outline-4">
+<h4 id="orgc20ec81"><span class="section-number-4">1.3.1.</span> 0001 - 00700 Atlanten</h4>
+<div class="outline-text-4" id="text-1-3-1">
+</div>
+<ol class="org-ol">
+<li><a id="org302b2fe"></a>0001 - 0030 Allgemeine geographische Atlanten<br /></li>
+<li><a id="org3aa8403"></a>0031 - 0150 Allgemeine historische Atlanten<br /></li>
+<li><a id="org97c7b8b"></a>0151 - 0250 Historische Atlanten, zeitlich begrenzt<br /></li>
+<li><a id="org923781d"></a>0251 - 0400 Historische Atlanten, räumlich begrenzt<br /></li>
+<li><a id="org0d922d4"></a>0401 - 0600 Historische Atlanten, Deutschland (gesamt und regional)<br /></li>
+<li><a id="org78552af"></a>0601 - 0700 Systematische Atlanten<br /></li>
+</ol>
+</div>
+<div id="outline-container-orgdf99c69" class="outline-4">
+<h4 id="orgdf99c69"><span class="section-number-4">1.3.2.</span> 0701 - 0750 Einführungen, Allgemeines</h4>
+</div>
+<div id="outline-container-orga020760" class="outline-4">
+<h4 id="orga020760"><span class="section-number-4">1.3.3.</span> 0751 - 0900 Allgemeine historische geographische Darstellungen</h4>
+</div>
+<div id="outline-container-org43845f8" class="outline-4">
+<h4 id="org43845f8"><span class="section-number-4">1.3.4.</span> 0901 - 1050 Historische Landschaftskunde</h4>
+</div>
+<div id="outline-container-org0297282" class="outline-4">
+<h4 id="org0297282"><span class="section-number-4">1.3.5.</span> 1051 - 1300 Systematische Siedlungskunde</h4>
+<div class="outline-text-4" id="text-1-3-5">
+</div>
+<ol class="org-ol">
+<li><a id="org3103635"></a>1051 - 1150 Anthropogeographie<br /></li>
+<li><a id="orgaeae409"></a>1151 - 1300 Historische Bevölkerungs- und Siedlungskunde<br /></li>
+</ol>
+</div>
+<div id="outline-container-org82e6202" class="outline-4">
+<h4 id="org82e6202"><span class="section-number-4">1.3.6.</span> 1301 - 1600 Historisch politische Geographie</h4>
+<div class="outline-text-4" id="text-1-3-6">
+</div>
+<ol class="org-ol">
+<li><a id="org454a1be"></a>1301 - 1400 Allgemeine systematische Darstellungen<br /></li>
+<li><a id="orgb19637f"></a>1401 - 1500 Größere Darstellungen und Werke<br /></li>
+<li><a id="org1f004dc"></a>1501 - 1600 Spezialdarstellungen<br /></li>
+</ol>
+</div>
+<div id="outline-container-org7486f10" class="outline-4">
+<h4 id="org7486f10"><span class="section-number-4">1.3.7.</span> 1601 - 1800 Topographie</h4>
+<div class="outline-text-4" id="text-1-3-7">
+</div>
+<ol class="org-ol">
+<li><a id="orgefcfaa8"></a>1601 - 1700 Orts- und Landeskunde<br /></li>
+<li><a id="orgff85e99"></a>1701 - 1800 Namenkunde<br /></li>
+</ol>
+</div>
+<div id="outline-container-org77f2a8b" class="outline-4">
+<h4 id="org77f2a8b"><span class="section-number-4">1.3.8.</span> 1801 - 1999 Kartographie</h4>
+</div>
+</div>
+<div id="outline-container-orgc9f26ac" class="outline-3">
+<h3 id="orgc9f26ac"><span class="section-number-3">1.4.</span> Ad - offen</h3>
+</div>
+<div id="outline-container-org16e0b32" class="outline-3">
+<h3 id="org16e0b32"><span class="section-number-3">1.5.</span> Ae - Chronologie</h3>
+<div class="outline-text-3" id="text-1-5">
+</div>
+<div id="outline-container-orge8f95c0" class="outline-4">
+<h4 id="orge8f95c0"><span class="section-number-4">1.5.1.</span> 0001 - 0050 Astronomische Chronologie (astronomische Grundlagen)</h4>
+</div>
+<div id="outline-container-orgdfebc95" class="outline-4">
+<h4 id="orgdfebc95"><span class="section-number-4">1.5.2.</span> 0051 - 0150 Handbücher, Nachschlagewerke der historischen Chronologie</h4>
+</div>
+<div id="outline-container-orgd43cfac" class="outline-4">
+<h4 id="orgd43cfac"><span class="section-number-4">1.5.3.</span> 0201 - 0250 Allgemeine chronologische Studien</h4>
+</div>
+<div id="outline-container-org18dc176" class="outline-4">
+<h4 id="org18dc176"><span class="section-number-4">1.5.4.</span> 0301 - 0350 Jahresanfang</h4>
+</div>
+<div id="outline-container-org9ee50c8" class="outline-4">
+<h4 id="org9ee50c8"><span class="section-number-4">1.5.5.</span> 0401 - 0450 Tagesbezeichnungen, Heiligentage, Festkalender</h4>
+</div>
+<div id="outline-container-org7a7d3d5" class="outline-4">
+<h4 id="org7a7d3d5"><span class="section-number-4">1.5.6.</span> 0501 - 0550 Tageseinteilung</h4>
+</div>
+<div id="outline-container-org275d347" class="outline-4">
+<h4 id="org275d347"><span class="section-number-4">1.5.7.</span> 0551 - 9999 Probleme der Periodisierung</h4>
+</div>
+</div>
+<div id="outline-container-org2028dba" class="outline-3">
+<h3 id="org2028dba"><span class="section-number-3">1.6.</span> Ag - Genealogie und Heraldik</h3>
+<div class="outline-text-3" id="text-1-6">
+</div>
+<div id="outline-container-orgc48c357" class="outline-4">
+<h4 id="orgc48c357"><span class="section-number-4">1.6.1.</span> 0001 - 0500 Geneaologie</h4>
+<div class="outline-text-4" id="text-1-6-1">
+</div>
+<ol class="org-ol">
+<li><a id="org29d8fd3"></a>0001 - 0050 Gesamtdarstellungen, Lehrbücher, allgemeine Einführungen<br /></li>
+<li><a id="org1d4507e"></a>0101 - 0150 Einzelne geneaologische Probleme<br /></li>
+<li><a id="org84b6fcb"></a>0201 - 0250 Genealogische Darstellungsformen: Ahnentafelsammlungen<br /></li>
+<li><a id="org074b78e"></a>0251 - 0300 Genealogische Darstellungsformen: Stammtafelsammlungen<br /></li>
+<li><a id="org8ad3ff3"></a>0351 - 0450 Landschaftliche Untersuchungen und Darstellungen (Ahnen- und Stammtafeln einzelner Häuser; regional einzuordnen)<br /></li>
+</ol>
+</div>
+<div id="outline-container-org7c915c7" class="outline-4">
+<h4 id="org7c915c7"><span class="section-number-4">1.6.2.</span> 0501 - 9999 Heraldik</h4>
+<div class="outline-text-4" id="text-1-6-2">
+</div>
+<ol class="org-ol">
+<li><a id="orge43dd35"></a>0501 - 0550 Grundsätzliches, Gesamtdarstellungen, Lehrbücher<br /></li>
+<li><a id="org73c218f"></a>0551 - 0600 Geschichtliche Entwicklung des Wappenwesens, hier auch Heroldswesens<br /></li>
+<li><a id="org6ec96de"></a>0651 - 0700 Wappenrecht<br /></li>
+<li><a id="org1a413bc"></a>0751 - 0850 Wappenbücher, Wappenbilderwerke<br /></li>
+</ol>
+</div>
+</div>
+<div id="outline-container-orgfeee492" class="outline-3">
+<h3 id="orgfeee492"><span class="section-number-3">1.7.</span> Ai - Urkunden und Akten, Sphragistik</h3>
+<div class="outline-text-3" id="text-1-7">
+</div>
+<div id="outline-container-org4aff0d6" class="outline-4">
+<h4 id="org4aff0d6"><span class="section-number-4">1.7.1.</span> 0001 - 0500 Urkunden und Akten</h4>
+<div class="outline-text-4" id="text-1-7-1">
+</div>
+<ol class="org-ol">
+<li><a id="org4a18186"></a>0001 - 0050 Lehrbücher, Gesamtdarstellungen, MA und NZ umfassend, MA Urkundenlehre Ci<br /></li>
+<li><a id="org8591114"></a>0101 - 0150 Urkunden- und Aktenlehre der Neuzeit<br /></li>
+<li><a id="org6439eee"></a>0251 - 0300 Übungstexte, Textsammlungen, MA und NZ, umfassend<br /></li>
+<li><a id="org80b099a"></a>0351 - 0450 Kanzleiwesen, Verwaltung<br />
+<ol class="org-ol">
+<li><a id="orge572374"></a>0351 - 0400 Reich<br /></li>
+<li><a id="org1a16ade"></a>0401 - 0450 Territorien<br /></li>
+<li><a id="orgc023a39"></a>xxxx - xxxx Städte siehe<br /></li>
+</ol>
+</li>
+</ol>
+</div>
+<div id="outline-container-orgdcc7a5f" class="outline-4">
+<h4 id="orgdcc7a5f"><span class="section-number-4">1.7.2.</span> 0501 - 9999 Sphragistik</h4>
+<div class="outline-text-4" id="text-1-7-2">
+</div>
+<ol class="org-ol">
+<li><a id="org8941f9a"></a>0501 - 0550 Hand- und Lehrbücher, Gesamtüberblicke<br /></li>
+<li><a id="orgc6e60c6"></a>0601 - 0650 Abbildungswerke<br /></li>
+<li><a id="org0a9f875"></a>0701 - 0750 Siegelrecht<br /></li>
+<li><a id="org7fb2e85"></a>0851 - 0900 Siegeltyp, Siegelbild<br /></li>
+</ol>
+</div>
+</div>
+<div id="outline-container-org77f9a54" class="outline-3">
+<h3 id="org77f9a54"><span class="section-number-3">1.8.</span> Ak - Paläographie</h3>
+<div class="outline-text-3" id="text-1-8">
+</div>
+<div id="outline-container-orgecd9b8a" class="outline-4">
+<h4 id="orgecd9b8a"><span class="section-number-4">1.8.1.</span> 0001 - 0050 Allgemeine und Gesamtdarstellungen zum Schriftwesen und zur Handschriftenkunde</h4>
+</div>
+<div id="outline-container-org65cec86" class="outline-4">
+<h4 id="org65cec86"><span class="section-number-4">1.8.2.</span> 0101 - 0150 Beschreibstoff und Schreibgeräte</h4>
+</div>
+<div id="outline-container-orged96d71" class="outline-4">
+<h4 id="orged96d71"><span class="section-number-4">1.8.3.</span> 0201 - 0250 Die Schrift: Größere Gesamtdarstellungen und Übersichten der Schriftentwicklung, Lehrbücher und Einführungen</h4>
+</div>
+<div id="outline-container-orgfee5d56" class="outline-4">
+<h4 id="orgfee5d56"><span class="section-number-4">1.8.4.</span> 0271 - 0300 Die Schrift: Untersuchungen zur Schriftgeschichte einzelner Epochen</h4>
+</div>
+<div id="outline-container-org138359d" class="outline-4">
+<h4 id="org138359d"><span class="section-number-4">1.8.5.</span> 0301 - 0420 Die Schrift: Tafel- und Abbildungswerke (auch einzelner Epochen)</h4>
+</div>
+<div id="outline-container-org8bb6418" class="outline-4">
+<h4 id="org8bb6418"><span class="section-number-4">1.8.6.</span> 0451 - 0500 Kürzungswesen</h4>
+</div>
+<div id="outline-container-orge9463b9" class="outline-4">
+<h4 id="orge9463b9"><span class="section-number-4">1.8.7.</span> 0501 - 0530 Geheimschriftenkunde</h4>
+</div>
+<div id="outline-container-orga619315" class="outline-4">
+<h4 id="orga619315"><span class="section-number-4">1.8.8.</span> 0601 - 0650 Weitere Ausstattung der Handschriften: Ornamentik, Illustration, Buchmalerei</h4>
+</div>
+<div id="outline-container-org0094283" class="outline-4">
+<h4 id="org0094283"><span class="section-number-4">1.8.9.</span> 0701 - 0750 Formen des Schrifttums: Rollen, Bücher, etc.</h4>
+</div>
+<div id="outline-container-org71d17ea" class="outline-4">
+<h4 id="org71d17ea"><span class="section-number-4">1.8.10.</span> 0801 - 0850 Das weitere Schicksal der Handschriften</h4>
+</div>
+<div id="outline-container-org4ef51f1" class="outline-4">
+<h4 id="org4ef51f1"><span class="section-number-4">1.8.11.</span> 0851 - 0900 Faksimiledrucke</h4>
+</div>
+<div id="outline-container-org2d2654f" class="outline-4">
+<h4 id="org2d2654f"><span class="section-number-4">1.8.12.</span> 0901 - 0950 Epigraphik</h4>
+</div>
+</div>
+<div id="outline-container-org84e22f3" class="outline-3">
+<h3 id="org84e22f3"><span class="section-number-3">1.9.</span> Am - Numismatik</h3>
+<div class="outline-text-3" id="text-1-9">
+</div>
+<div id="outline-container-orga8bffbf" class="outline-4">
+<h4 id="orga8bffbf"><span class="section-number-4">1.9.1.</span> 0001 - 0050 Bibliographien</h4>
+</div>
+<div id="outline-container-orgee4e136" class="outline-4">
+<h4 id="orgee4e136"><span class="section-number-4">1.9.2.</span> 0051 - 0100 Münzlexika</h4>
+</div>
+<div id="outline-container-orgb2e7d02" class="outline-4">
+<h4 id="orgb2e7d02"><span class="section-number-4">1.9.3.</span> 0101 - 0200 Allgemeine Einführung, Lehr- und Handbücher, Gesamtübersichten, Mittelalter und Neuzeit umfassend</h4>
+</div>
+<div id="outline-container-org9c0bbd5" class="outline-4">
+<h4 id="org9c0bbd5"><span class="section-number-4">1.9.4.</span> 0251 - 0300 Gesamtübersichten zur Münz- und Geldgeschichte der Einzelstaaten und Länder, Mittelalter und Neuzeit umfassend (regional einzuordnen)</h4>
+</div>
+<div id="outline-container-orga44d2a6" class="outline-4">
+<h4 id="orga44d2a6"><span class="section-number-4">1.9.5.</span> 0351 - 0380 Einzelne Perioden der Münz- und Geldgeschichte: Völkerwanderung und Merowinger</h4>
+</div>
+<div id="outline-container-orgfe70512" class="outline-4">
+<h4 id="orgfe70512"><span class="section-number-4">1.9.6.</span> 0401 - 0450 Einzelne Perioden der Münz- und Geldgeschichte: Mittelalter - allgemeine Überblicke</h4>
+</div>
+<div id="outline-container-orgbbdc601" class="outline-4">
+<h4 id="orgbbdc601"><span class="section-number-4">1.9.7.</span> 0501 - 0550 Mittelalter - Einzelepochen</h4>
+</div>
+<div id="outline-container-org2be8b8d" class="outline-4">
+<h4 id="org2be8b8d"><span class="section-number-4">1.9.8.</span> 0051 - 0700 Mittelalter - landes- und ortsgeschichtliche Monographien (regional einzuordnen)</h4>
+</div>
+<div id="outline-container-orgad79cf7" class="outline-4">
+<h4 id="orgad79cf7"><span class="section-number-4">1.9.9.</span> 0751 - 0800 Einzelne Perioden der Münz- und Geldgeschichte: Neuzeit - allgemeine Überblicke</h4>
+</div>
+<div id="outline-container-org147886c" class="outline-4">
+<h4 id="org147886c"><span class="section-number-4">1.9.10.</span> 0801 - 0850 Neuzeit - Einzelepochen</h4>
+</div>
+<div id="outline-container-org34331ca" class="outline-4">
+<h4 id="org34331ca"><span class="section-number-4">1.9.11.</span> 0851 - 0900 Neuzeit - landes- und ortsgeschichtliche Monographien (regional einzuordnen)</h4>
+</div>
+<div id="outline-container-org832ef09" class="outline-4">
+<h4 id="org832ef09"><span class="section-number-4">1.9.12.</span> 0901 - 1000 Masse und Gewicht</h4>
+</div>
+</div>
+<div id="outline-container-org608d031" class="outline-3">
+<h3 id="org608d031"><span class="section-number-3">1.10.</span> Ao - Einführung in die Geschichtswissenschaft: Methodische Handbücher</h3>
+<div class="outline-text-3" id="text-1-10">
+</div>
+<div id="outline-container-orgf1108c8" class="outline-4">
+<h4 id="orgf1108c8"><span class="section-number-4">1.10.1.</span> 0001 - 0150 Einführung in die Gesamtgebiete der Geschichtswissenschaft</h4>
+</div>
+<div id="outline-container-org7150068" class="outline-4">
+<h4 id="org7150068"><span class="section-number-4">1.10.2.</span> 0151 - 0300 Einführung in die mittelalterliche Geschichte</h4>
+</div>
+<div id="outline-container-org5848ba7" class="outline-4">
+<h4 id="org5848ba7"><span class="section-number-4">1.10.3.</span> 0301 - 0450 Einführung in die neuere Geschichte</h4>
+</div>
+<div id="outline-container-orgdd6460d" class="outline-4">
+<h4 id="orgdd6460d"><span class="section-number-4">1.10.4.</span> 0451 - 0500 Sonstige einführende Werke</h4>
+</div>
+<div id="outline-container-org9e34ed4" class="outline-4">
+<h4 id="org9e34ed4"><span class="section-number-4">1.10.5.</span> 0501 - 0700 Methodische Handbücher</h4>
+</div>
+</div>
+<div id="outline-container-org35a1bee" class="outline-3">
+<h3 id="org35a1bee"><span class="section-number-3">1.11.</span> Aq - Archiv- und Bibliothekskunde</h3>
+<div class="outline-text-3" id="text-1-11">
+</div>
+<div id="outline-container-orgfd6508b" class="outline-4">
+<h4 id="orgfd6508b"><span class="section-number-4">1.11.1.</span> 0001 - 0200 Allgemeine Archivkunde</h4>
+</div>
+<div id="outline-container-org7a8a3c2" class="outline-4">
+<h4 id="org7a8a3c2"><span class="section-number-4">1.11.2.</span> 0201 - 0400 Bestandsübersichten und Inventare einzelner Archive</h4>
+</div>
+<div id="outline-container-orgfd89820" class="outline-4">
+<h4 id="orgfd89820"><span class="section-number-4">1.11.3.</span> 0401 - 0500 Allgemeine Bibliothekskunde</h4>
+</div>
+<div id="outline-container-org12c6c18" class="outline-4">
+<h4 id="org12c6c18"><span class="section-number-4">1.11.4.</span> 0501 - 9999 Führer zu einzelnen Bibliotheken</h4>
+</div>
+</div>
+<div id="outline-container-org431b9b3" class="outline-3">
+<h3 id="org431b9b3"><span class="section-number-3">1.12.</span> Ar - Museumswissenschaft / Museumskunde</h3>
+</div>
+<div id="outline-container-org17450c6" class="outline-3">
+<h3 id="org17450c6"><span class="section-number-3">1.13.</span> As - Mittelalterliche Archäologie</h3>
+<div class="outline-text-3" id="text-1-13">
+</div>
+<div id="outline-container-org7bec643" class="outline-4">
+<h4 id="org7bec643"><span class="section-number-4">1.13.1.</span> 0001 - 0200 Allgemeines, Einführungen, Übersichten</h4>
+</div>
+<div id="outline-container-org36c3da0" class="outline-4">
+<h4 id="org36c3da0"><span class="section-number-4">1.13.2.</span> 0201 - 0300 Nordeuropa</h4>
+</div>
+<div id="outline-container-orgd716d3a" class="outline-4">
+<h4 id="orgd716d3a"><span class="section-number-4">1.13.3.</span> 0301 - 0400 Westeuropa</h4>
+</div>
+<div id="outline-container-org9e9afaa" class="outline-4">
+<h4 id="org9e9afaa"><span class="section-number-4">1.13.4.</span> 0401 - 0500 Mitteleuropa</h4>
+</div>
+<div id="outline-container-orgd824d0b" class="outline-4">
+<h4 id="orgd824d0b"><span class="section-number-4">1.13.5.</span> 0501 - 0600 Osteuropa</h4>
+</div>
+<div id="outline-container-org683f354" class="outline-4">
+<h4 id="org683f354"><span class="section-number-4">1.13.6.</span> 0601 - 0700 Südeuropa</h4>
+</div>
+</div>
+<div id="outline-container-org68137db" class="outline-3">
+<h3 id="org68137db"><span class="section-number-3">1.14.</span> Au - Bibliographieren und Quellenkunden</h3>
+<div class="outline-text-3" id="text-1-14">
+</div>
+<div id="outline-container-org56fb3ed" class="outline-4">
+<h4 id="org56fb3ed"><span class="section-number-4">1.14.1.</span> 0001 - 0030 Einführungen in die Bibliographien- und Quellenkunde</h4>
+</div>
+<div id="outline-container-org84aebc8" class="outline-4">
+<h4 id="org84aebc8"><span class="section-number-4">1.14.2.</span> 0031 - 0130 Bibliographien zur gesamten Weltgeschichte</h4>
+</div>
+<div id="outline-container-org8123d8c" class="outline-4">
+<h4 id="org8123d8c"><span class="section-number-4">1.14.3.</span> 0131 - 0250 Bibliographien zur deutschen Geschichte: allgemein</h4>
+</div>
+<div id="outline-container-orgd4c3ac6" class="outline-4">
+<h4 id="orgd4c3ac6"><span class="section-number-4">1.14.4.</span> 0251 - 0450 Bibliographien zur deutschen Geschichte: Neuzeit</h4>
+<div class="outline-text-4" id="text-1-14-4">
+</div>
+<ol class="org-ol">
+<li><a id="org71443ab"></a>0300 - 0450 einzelne Epochen<br /></li>
+</ol>
+</div>
+<div id="outline-container-orgb792213" class="outline-4">
+<h4 id="orgb792213"><span class="section-number-4">1.14.5.</span> 0451 - 0500 Bibliographien zur deutschen Geschichte: Mittelalter</h4>
+</div>
+<div id="outline-container-org4e17da4" class="outline-4">
+<h4 id="org4e17da4"><span class="section-number-4">1.14.6.</span> 0501 - 0650 Bibliographien zur Geschichte der deutschen Territorien und Länder</h4>
+</div>
+<div id="outline-container-org3563aa2" class="outline-4">
+<h4 id="org3563aa2"><span class="section-number-4">1.14.7.</span> 0651 - 0850 Bibliographien zur Geschichte einzelner Länder außer Deutschland</h4>
+</div>
+<div id="outline-container-org6f384e5" class="outline-4">
+<h4 id="org6f384e5"><span class="section-number-4">1.14.8.</span> 0851 - 0999 Bibliographien zu einzelnen systematischen Gebieten der Geschichtswissenschaft - Spezialbibliographien</h4>
+</div>
+</div>
+<div id="outline-container-orgf9faa0e" class="outline-3">
+<h3 id="orgf9faa0e"><span class="section-number-3">1.15.</span> Aw - Allgemeine Enzyklopädien, Historische Sachwörterbücher, Biographische Wörterbücher</h3>
+<div class="outline-text-3" id="text-1-15">
+</div>
+<div id="outline-container-org2755af5" class="outline-4">
+<h4 id="org2755af5"><span class="section-number-4">1.15.1.</span> 0001 - 0050 Allgemeine Lexika</h4>
+</div>
+<div id="outline-container-org799d077" class="outline-4">
+<h4 id="org799d077"><span class="section-number-4">1.15.2.</span> 0051 - 0300 Historische und politische Sachwörterbücher (allgemeine, sachliche, begriffliche, ausländische)</h4>
+</div>
+<div id="outline-container-org5129fb5" class="outline-4">
+<h4 id="org5129fb5"><span class="section-number-4">1.15.3.</span> 0301 - 0500 Deutschland</h4>
+</div>
+<div id="outline-container-org6b332e5" class="outline-4">
+<h4 id="org6b332e5"><span class="section-number-4">1.15.4.</span> 0501 - 0999 Biographische Wörterbücher</h4>
+<div class="outline-text-4" id="text-1-15-4">
+</div>
+<ol class="org-ol">
+<li><a id="orgf9faff6"></a>0501 - 0600 Allgemein und international<br /></li>
+<li><a id="org119c1e8"></a>0601 - 0800 Ausland in der Reihenfolge: angelsächsischer Bereich, romantisch-lateinische Welt, östliche Europa, Asien, Afrika<br /></li>
+<li><a id="org4622ee0"></a>0801 - 0900 Deutschland<br /></li>
+<li><a id="org57e560f"></a>0901 - 0999 Deutsche Länder in der Reihenfolge: Nord-, Ost-, Mittel-, West- und Süddeutschland<br /></li>
+</ol>
+</div>
+</div>
+<div id="outline-container-orgb31120c" class="outline-3">
+<h3 id="orgb31120c"><span class="section-number-3">1.16.</span> Ax - Spezielle Nachslagewerke</h3>
+<div class="outline-text-3" id="text-1-16">
+</div>
+<div id="outline-container-org2ee245d" class="outline-4">
+<h4 id="org2ee245d"><span class="section-number-4">1.16.1.</span> 0001 - 0100 Staat, Gesellschaft, Soziologie, Politik</h4>
+</div>
+<div id="outline-container-org601077d" class="outline-4">
+<h4 id="org601077d"><span class="section-number-4">1.16.2.</span> 0101 - 0150 Wirtschaft</h4>
+</div>
+<div id="outline-container-org3eeaebf" class="outline-4">
+<h4 id="org3eeaebf"><span class="section-number-4">1.16.3.</span> 0151 - 0200 Recht, Völkerrecht</h4>
+</div>
+<div id="outline-container-org8b6d147" class="outline-4">
+<h4 id="org8b6d147"><span class="section-number-4">1.16.4.</span> 0300 - 0999 Theologie</h4>
+</div>
+</div>
+<div id="outline-container-orge156e8e" class="outline-3">
+<h3 id="orge156e8e"><span class="section-number-3">1.17.</span> Ay - Elektronische Nachschlagewerke, EDV-Literatur, Neue Medien</h3>
+<div class="outline-text-3" id="text-1-17">
+</div>
+<div id="outline-container-org07909bf" class="outline-4">
+<h4 id="org07909bf"><span class="section-number-4">1.17.1.</span> 0001 - 0200 Elektronische Nachschlagewerke, CD-Roms</h4>
+</div>
+<div id="outline-container-orgacb852e" class="outline-4">
+<h4 id="orgacb852e"><span class="section-number-4">1.17.2.</span> 0201 - 0400 DVDs</h4>
+</div>
+<div id="outline-container-org360109c" class="outline-4">
+<h4 id="org360109c"><span class="section-number-4">1.17.3.</span> 0401 - 0600 Neue Medien und Geschichtswissenschaft</h4>
+</div>
+<div id="outline-container-orgc540bfd" class="outline-4">
+<h4 id="orgc540bfd"><span class="section-number-4">1.17.4.</span> 0601 - 0900 EDV-Literatur</h4>
+</div>
+</div>
+</div>
+<div id="outline-container-orgdd5a147" class="outline-2">
+<h2 id="orgdd5a147"><span class="section-number-2">2.</span> <span class="todo TODO">TODO</span> B - Quellen zur Geschichte des Mittelalters</h2>
+<div class="outline-text-2" id="text-2">
+</div>
+<div id="outline-container-orgc9290f8" class="outline-3">
+<h3 id="orgc9290f8"><span class="section-number-3">2.1.</span> Ba - Allgemeine Quellensammlungen, Folio und Quart, innerhalb der MGH</h3>
+</div>
+<div id="outline-container-org9561eef" class="outline-3">
+<h3 id="org9561eef"><span class="section-number-3">2.2.</span> Bb - Allgemeine Quellensammlungen, Folio und Quart, außerhalb der MGH</h3>
+</div>
+<div id="outline-container-org318aab6" class="outline-3">
+<h3 id="org318aab6"><span class="section-number-3">2.3.</span> Bc - Allgemeine Quellensammlungen, nicht Folio und Quart</h3>
+</div>
+<div id="outline-container-orgb7c1e34" class="outline-3">
+<h3 id="orgb7c1e34"><span class="section-number-3">2.4.</span> Bd - Einzelausgaben nicht urkundlicher Quellen</h3>
+</div>
+<div id="outline-container-orgba0d807" class="outline-3">
+<h3 id="orgba0d807"><span class="section-number-3">2.5.</span> Be - Rechtsquellen, einschließlich urbarialer Aufzeichnungen</h3>
+</div>
+<div id="outline-container-orgec9443f" class="outline-3">
+<h3 id="orgec9443f"><span class="section-number-3">2.6.</span> Bf - Papsturkunden</h3>
+</div>
+<div id="outline-container-orgf19b063" class="outline-3">
+<h3 id="orgf19b063"><span class="section-number-3">2.7.</span> Bg - Urkunden deutscher Kaiser und Könige; Urkunden deutscher Territorien, Klöster, Stifte und Städte</h3>
+</div>
+<div id="outline-container-orgac103f3" class="outline-3">
+<h3 id="orgac103f3"><span class="section-number-3">2.8.</span> Bh - Urkunden außerdeutscher Herrscher, Territorien, Klöster, Stifte und Städte</h3>
+</div>
+<div id="outline-container-org2a87e61" class="outline-3">
+<h3 id="org2a87e61"><span class="section-number-3">2.9.</span> Bm - Quellen zur Geschichte der mittelalterlichen Orden</h3>
+</div>
+<div id="outline-container-org8479309" class="outline-3">
+<h3 id="org8479309"><span class="section-number-3">2.10.</span> Bo - Texte zur lateinischen, deutschen und sonstigen nationalsprachlichen Dichtung ('Literatur') des Mittelalters, auch Übersetzungen poetischer Texte</h3>
+</div>
+<div id="outline-container-org5663830" class="outline-3">
+<h3 id="org5663830"><span class="section-number-3">2.11.</span> Bp - Inschriften; sonstige Quellengattungen</h3>
+</div>
+<div id="outline-container-org1cab895" class="outline-3">
+<h3 id="org1cab895"><span class="section-number-3">2.12.</span> Bx - Übungstexte und Quellenauswahlen</h3>
+</div>
+<div id="outline-container-org1a42316" class="outline-3">
+<h3 id="org1a42316"><span class="section-number-3">2.13.</span> Bz - Übersetzungen von im engeren Sinn historischen Quellen</h3>
+</div>
+</div>
+<div id="outline-container-org3eeaf73" class="outline-2">
+<h2 id="org3eeaf73"><span class="section-number-2">3.</span> <span class="todo TODO">TODO</span> C - Hilfsmittel und Literatur zu den Quellen der Geschichte des Mittelalters</h2>
+<div class="outline-text-2" id="text-3">
+</div>
+<div id="outline-container-orgccd6ed3" class="outline-3">
+<h3 id="orgccd6ed3"><span class="section-number-3">3.1.</span> Ca - Einführung in Studium und Quellen des Mittelalters</h3>
+</div>
+<div id="outline-container-org6a1e2d2" class="outline-3">
+<h3 id="org6a1e2d2"><span class="section-number-3">3.2.</span> Cb - bleibt frei</h3>
+</div>
+<div id="outline-container-orgf2eae1a" class="outline-3">
+<h3 id="orgf2eae1a"><span class="section-number-3">3.3.</span> Cc - Allgemeine Quellenkunde und Verzeichnisse der nichturkundlichen Quellen zur Geschichte des Mittelalters</h3>
+</div>
+<div id="outline-container-org16c562e" class="outline-3">
+<h3 id="org16c562e"><span class="section-number-3">3.4.</span> Cd - Literatur zu den einzelnen Gattungen historischer Quellen (mit Ausschluß der Urkundenlehre)</h3>
+</div>
+<div id="outline-container-orgaaa59eb" class="outline-3">
+<h3 id="orgaaa59eb"><span class="section-number-3">3.5.</span> Ce - Literatur zu einzelnen erzählenden Quellen oder Quellengruppen</h3>
+</div>
+<div id="outline-container-org6979d56" class="outline-3">
+<h3 id="org6979d56"><span class="section-number-3">3.6.</span> Cf - Literatur zur Geschichte der mittelalterlichen Literaturen (Darstellungen und Monographien)</h3>
+</div>
+<div id="outline-container-org87a4afb" class="outline-3">
+<h3 id="org87a4afb"><span class="section-number-3">3.7.</span> Cg - bleibt frei</h3>
+</div>
+<div id="outline-container-org7e9b91f" class="outline-3">
+<h3 id="org7e9b91f"><span class="section-number-3">3.8.</span> Ch - bleibt frei</h3>
+</div>
+<div id="outline-container-orgc48db65" class="outline-3">
+<h3 id="orgc48db65"><span class="section-number-3">3.9.</span> Ci - Diplomatik, Gesamtdarstellungen, Monographien und Spezialliteratur zu den Urkunden des Mittelalters</h3>
+</div>
+<div id="outline-container-org587faec" class="outline-3">
+<h3 id="org587faec"><span class="section-number-3">3.10.</span> Ck - Regestenwerke und Urkundenverzeichnisse</h3>
+</div>
+<div id="outline-container-orgd5ffac3" class="outline-3">
+<h3 id="orgd5ffac3"><span class="section-number-3">3.11.</span> Cl - bleibt frei</h3>
+</div>
+<div id="outline-container-org350d297" class="outline-3">
+<h3 id="org350d297"><span class="section-number-3">3.12.</span> Cy - bleibt frei</h3>
+</div>
+<div id="outline-container-orgbc0a905" class="outline-3">
+<h3 id="orgbc0a905"><span class="section-number-3">3.13.</span> Cz - Auswertung des Quellenmaterials zur darstellenden Verzeichnung in chronologischer oder geographischer Anordnung (vgl. Erläuterung)</h3>
+</div>
+</div>
+<div id="outline-container-org48eee44" class="outline-2">
+<h2 id="org48eee44"><span class="section-number-2">4.</span> <span class="todo TODO">TODO</span> D - Darstellungen zur Geschichte des Mittelalters, chronologisch geordnet</h2>
+<div class="outline-text-2" id="text-4">
+</div>
+<div id="outline-container-orgade8b23" class="outline-3">
+<h3 id="orgade8b23"><span class="section-number-3">4.1.</span> Da - Gesamtdarstellungen und Monographien zu gesamtmittelalterlichen Problemen</h3>
+<div class="outline-text-3" id="text-4-1">
+</div>
+<div id="outline-container-orgc0b0e99" class="outline-4">
+<h4 id="orgc0b0e99"><span class="section-number-4">4.1.1.</span> 0001 - 0100 Das Mittelalter: Literatur zum Begriff, zur Periodisierung, zur Problematik, zum 'Erbe des Mittelalters', Einzelnes</h4>
+<div class="outline-text-4" id="text-4-1-1">
+</div>
+<ol class="org-ol">
+<li><a id="org68968b7"></a>0062 - 0070 Biographische Sammelwerke zur ganzen mittelalterlichen Geschichte<br /></li>
+</ol>
+</div>
+<div id="outline-container-org288cca2" class="outline-4">
+<h4 id="org288cca2"><span class="section-number-4">4.1.2.</span> 0101 - 0200 Gesamtdarstellungen der Geschichte des Mittelalters</h4>
+<div class="outline-text-4" id="text-4-1-2">
+</div>
+<ol class="org-ol">
+<li><a id="orga4aac26"></a>0101 - 0150 in deutscher Sprache<br /></li>
+<li><a id="org8d063e2"></a>0151 - 0200 in anderen Sprachen<br /></li>
+</ol>
+</div>
+<div id="outline-container-org93f8c6e" class="outline-4">
+<h4 id="org93f8c6e"><span class="section-number-4">4.1.3.</span> 0201 - 0300 knappe Schul- und Handbücher zur Geschichte des ganzen Mittelalters</h4>
+<div class="outline-text-4" id="text-4-1-3">
+</div>
+<ol class="org-ol">
+<li><a id="org77ac1a5"></a>0201 - 0250 in deutscher Sprache<br /></li>
+<li><a id="orgc67cf87"></a>0251 - 0300 in anderen Sprachen<br /></li>
+</ol>
+</div>
+<div id="outline-container-org5dbe4a5" class="outline-4">
+<h4 id="org5dbe4a5"><span class="section-number-4">4.1.4.</span> 0301 - 0500 leer</h4>
+</div>
+<div id="outline-container-orga7081f2" class="outline-4">
+<h4 id="orga7081f2"><span class="section-number-4">4.1.5.</span> 0501 - 0700 deutsche Geschichte im gesamten Mittelalteraa</h4>
+<div class="outline-text-4" id="text-4-1-5">
+</div>
+<ol class="org-ol">
+<li><a id="orgec6e0c5"></a>0501 moderne Literatur<br /></li>
+<li><a id="org48244cd"></a>0551 ältere Werke<br /></li>
+<li><a id="orgc41594c"></a>0601 Einzelnes, Aufsätze, Vorträge, Reden zur deutschen Geschichte im Mittelalter<br /></li>
+</ol>
+</div>
+<div id="outline-container-orgb590916" class="outline-4">
+<h4 id="orgb590916"><span class="section-number-4">4.1.6.</span> 0701 - 0800 freibleibend für gesamtmittelalterliche Erscheinungen außer den Kreuzzügen</h4>
+</div>
+<div id="outline-container-orgb7d34d6" class="outline-4">
+<h4 id="orgb7d34d6"><span class="section-number-4">4.1.7.</span> 0801 - 0900 Die Kreuzzüge (nur über die Jahrhunderte hinweggehende Gesamtdarstellungen der Kreuzzüge)</h4>
+</div>
+<div id="outline-container-org45f57a7" class="outline-4">
+<h4 id="org45f57a7"><span class="section-number-4">4.1.8.</span> 0901 - 0999 Monographien zu Einzelaspekten der gesamten Kreuzzugsgeschichte</h4>
+</div>
+</div>
+<div id="outline-container-org3428b74" class="outline-3">
+<h3 id="org3428b74"><span class="section-number-3">4.2.</span> Db - leer</h3>
+</div>
+<div id="outline-container-org3062b48" class="outline-3">
+<h3 id="org3062b48"><span class="section-number-3">4.3.</span> Dc - Frühgeschichteliche, nichtantike Voraussetzungen der mittelalterlichen Geschichte</h3>
+<div class="outline-text-3" id="text-4-3">
+</div>
+<div id="outline-container-orge5ae787" class="outline-4">
+<h4 id="orge5ae787"><span class="section-number-4">4.3.1.</span> 0001 - 0015 Methodisches und Grundsätzliches zur Vor- und Frühgeschichte</h4>
+</div>
+<div id="outline-container-orgd780544" class="outline-4">
+<h4 id="orgd780544"><span class="section-number-4">4.3.2.</span> 0016 - 0050 Gesamtdarstellungen der Vorgeschichte</h4>
+</div>
+<div id="outline-container-orgc1aba86" class="outline-4">
+<h4 id="orgc1aba86"><span class="section-number-4">4.3.3.</span> 0051 - 0070 Die Indogermanenfrage</h4>
+</div>
+<div id="outline-container-org0a2dd1e" class="outline-4">
+<h4 id="org0a2dd1e"><span class="section-number-4">4.3.4.</span> 0071 - 0090 Die Kelten</h4>
+</div>
+<div id="outline-container-orgb4a76cd" class="outline-4">
+<h4 id="orgb4a76cd"><span class="section-number-4">4.3.5.</span> 0091 - 0100 Die Illyrer</h4>
+</div>
+<div id="outline-container-orgcdac46a" class="outline-4">
+<h4 id="orgcdac46a"><span class="section-number-4">4.3.6.</span> 0101 - 0120</h4>
+</div>
+<div id="outline-container-org1344752" class="outline-4">
+<h4 id="org1344752"><span class="section-number-4">4.3.7.</span> 0121 - 0150</h4>
+</div>
+<div id="outline-container-orgc231bb9" class="outline-4">
+<h4 id="orgc231bb9"><span class="section-number-4">4.3.8.</span> 0151 - 0300</h4>
+</div>
+<div id="outline-container-org7cac668" class="outline-4">
+<h4 id="org7cac668"><span class="section-number-4">4.3.9.</span> 0301 - 0400</h4>
+</div>
+<div id="outline-container-org2fae83d" class="outline-4">
+<h4 id="org2fae83d"><span class="section-number-4">4.3.10.</span> 0401 - 0500</h4>
+</div>
+<div id="outline-container-orge532be1" class="outline-4">
+<h4 id="orge532be1"><span class="section-number-4">4.3.11.</span> 0501 - 0600</h4>
+</div>
+<div id="outline-container-org2fdb39e" class="outline-4">
+<h4 id="org2fdb39e"><span class="section-number-4">4.3.12.</span> 0601 - 0800</h4>
+</div>
+<div id="outline-container-org7bd23ce" class="outline-4">
+<h4 id="org7bd23ce"><span class="section-number-4">4.3.13.</span> 0801 - 0900</h4>
+</div>
+<div id="outline-container-orgf202969" class="outline-4">
+<h4 id="orgf202969"><span class="section-number-4">4.3.14.</span> 0901 - 0999</h4>
+</div>
+</div>
+<div id="outline-container-org44a676c" class="outline-3">
+<h3 id="org44a676c"><span class="section-number-3">4.4.</span> Dd - Spätantike und frühchristliche Voraussetzungen der mittelalterlichen Geschichte: Die Mittelmeerwelt bis 600</h3>
+</div>
+<div id="outline-container-orgcdfb113" class="outline-3">
+<h3 id="orgcdfb113"><span class="section-number-3">4.5.</span> De - Das frühe Mittelalter, Gesamtdarstellungen: Das Zeitalter der Merowinger</h3>
+</div>
+<div id="outline-container-org7612825" class="outline-3">
+<h3 id="org7612825"><span class="section-number-3">4.6.</span> Df - Das Zeitalter der Karolinger</h3>
+</div>
+<div id="outline-container-orgbfe3215" class="outline-3">
+<h3 id="orgbfe3215"><span class="section-number-3">4.7.</span> Dg - Das Hochmittelalter, Gesamtdarstellungen: Das 10. Jahrhundert (Ottonen) und das 11. Jahrhundert (Salier vor dem Investiturstreit)</h3>
+<div class="outline-text-3" id="text-4-7">
+</div>
+<div id="outline-container-org7127e68" class="outline-4">
+<h4 id="org7127e68"><span class="section-number-4">4.7.1.</span> 0001 - 0050 Gesamtdarstellungen der europäischen und deutschen Geschichte im Hochmittelalter</h4>
+<div class="outline-text-4" id="text-4-7-1">
+</div>
+<ol class="org-ol">
+<li><a id="org8809a43"></a>0001 - 0010 Bibliographische Hilfsmittel<br /></li>
+<li><a id="org37d02e5"></a>0011 - 0050 Gesamtdarstellungen<br /></li>
+</ol>
+</div>
+<div id="outline-container-org1ddcb53" class="outline-4">
+<h4 id="org1ddcb53"><span class="section-number-4">4.7.2.</span> 0051 - 0150 Monographien zum gesamten Hochmittelalter</h4>
+</div>
+<div id="outline-container-orgb5b65fa" class="outline-4">
+<h4 id="orgb5b65fa"><span class="section-number-4">4.7.3.</span> 0151 - 0200 Gesamtdarstellungen und Monographien zur Geschichte einzelner Länder (außer Deutschland) im Hochmittelalter</h4>
+<div class="outline-text-4" id="text-4-7-3">
+</div>
+<ol class="org-ol">
+<li><a id="org87ce915"></a>0151 - 0160 Westeuropa, Frankreich<br /></li>
+<li><a id="org31c77df"></a>0161 - 0170 Burgund<br /></li>
+<li><a id="org5319241"></a>0171 - 0200 England<br /></li>
+</ol>
+</div>
+<div id="outline-container-org276a341" class="outline-4">
+<h4 id="org276a341"><span class="section-number-4">4.7.4.</span> 0201 - 0700 Das 10. Jahrhundert und das Zeitalter der Ottonen</h4>
+<div class="outline-text-4" id="text-4-7-4">
+</div>
+<ol class="org-ol">
+<li><a id="org5ae9d88"></a>0201 - 0240 Gesamtdarstellungen<br /></li>
+<li><a id="org2ffb15f"></a>0241 - 0310 Monograpien<br />
+<ol class="org-ol">
+<li><a id="org1717ad0"></a>0291 Das Reichskirchensystem<br /></li>
+</ol>
+</li>
+<li><a id="orgecd25ed"></a>0311 - 0330 Konrad I.<br /></li>
+<li><a id="org6ca91d8"></a>0331 - 0400 Heinrich I.<br />
+<ol class="org-ol">
+<li><a id="org35e1517"></a>0331 Gesamtdarstellungen<br /></li>
+<li><a id="org2acf9f6"></a>0351 Monographien<br /></li>
+</ol>
+</li>
+<li><a id="org9d47727"></a>0401 - 0500 Otto der Große<br />
+<ol class="org-ol">
+<li><a id="org7b13db7"></a>0401 Gesamtdarstellungen<br /></li>
+<li><a id="org90fd2a3"></a>0431 Monographien<br /></li>
+<li><a id="org987662c"></a>0415 Geschichte, chronologisch, vor 955<br /></li>
+<li><a id="orgd91ac46"></a>0476 dasselbe nach 955<br /></li>
+</ol>
+</li>
+<li><a id="org5de5b21"></a>0501 - 0530 Otto II.<br /></li>
+<li><a id="org9928801"></a>0531 - 0600 Otto III.<br /></li>
+<li><a id="org6f12226"></a>0601 - 0700 Nichtdeutsche Länder im 10. Jahrhundert<br />
+<ol class="org-ol">
+<li><a id="org0958037"></a>0601 Byzanz<br /></li>
+<li><a id="orgcce6240"></a>0616 Italien<br /></li>
+<li><a id="org0aa0729"></a>0626 Frankreich<br /></li>
+<li><a id="orgef68fe8"></a>0641 Burgund<br /></li>
+<li><a id="orgc89b91b"></a>0651 England<br /></li>
+<li><a id="org04b14c6"></a>0661 Normannen und Skandinavier<br /></li>
+<li><a id="orga86a36b"></a>0681 Ungarn und slavische Völker<br /></li>
+</ol>
+</li>
+</ol>
+</div>
+<div id="outline-container-orgf907413" class="outline-4">
+<h4 id="orgf907413"><span class="section-number-4">4.7.5.</span> 0701 - 0999 Das 11. Jahrhudnert vor dem Investiturstreit</h4>
+</div>
+</div>
+<div id="outline-container-org5a58f36" class="outline-3">
+<h3 id="org5a58f36"><span class="section-number-3">4.8.</span> Dh - Der Investiturstreit (letztes Drittel des 11. Jahrhunderts): Das Zeitalter der Staufer bis zum Tode Heinrichs VI. (12. Jh.)</h3>
+</div>
+<div id="outline-container-org8422a9b" class="outline-3">
+<h3 id="org8422a9b"><span class="section-number-3">4.9.</span> Di - leer</h3>
+</div>
+<div id="outline-container-org7af52ad" class="outline-3">
+<h3 id="org7af52ad"><span class="section-number-3">4.10.</span> Dk - Das Spätmittelalter (nur Gesamtdarstellungen und Monographien)</h3>
+</div>
+<div id="outline-container-org12e04a0" class="outline-3">
+<h3 id="org12e04a0"><span class="section-number-3">4.11.</span> Dl - Geschichte des 13. Jahrhunderts</h3>
+</div>
+<div id="outline-container-org120b698" class="outline-3">
+<h3 id="org120b698"><span class="section-number-3">4.12.</span> Dm - Geschichte des 14. Jahrhunderts</h3>
+</div>
+<div id="outline-container-org6c544a4" class="outline-3">
+<h3 id="org6c544a4"><span class="section-number-3">4.13.</span> Dn - leer</h3>
+</div>
+<div id="outline-container-org5b5a8f3" class="outline-3">
+<h3 id="org5b5a8f3"><span class="section-number-3">4.14.</span> Do - Geschichte des 15. Jahrhunderts</h3>
+</div>
+<div id="outline-container-org8e564b9" class="outline-3">
+<h3 id="org8e564b9"><span class="section-number-3">4.15.</span> Dp - Frührenaissance (Italien im 14. und 15. Jh.); Das Zeitalter Maximilians I.; Deutschland vor der Reformation</h3>
+</div>
+</div>
+<div id="outline-container-orgb21712e" class="outline-2">
+<h2 id="orgb21712e"><span class="section-number-2">5.</span> <span class="todo TODO">TODO</span> E - Darstellungen zur Geschichte des Mittelalters, sachlich geordnet</h2>
+<div class="outline-text-2" id="text-5">
+</div>
+<div id="outline-container-orgad58f16" class="outline-3">
+<h3 id="orgad58f16"><span class="section-number-3">5.1.</span> Ea - Geschichte europäischer Länder und Landschaften I. Die Mittelmeerländer</h3>
+</div>
+<div id="outline-container-org0a3e160" class="outline-3">
+<h3 id="org0a3e160"><span class="section-number-3">5.2.</span> Eb - Geschichte europäischer Länder und Landschaften II. West-, Nord- und Osteuropa</h3>
+</div>
+<div id="outline-container-org984e78f" class="outline-3">
+<h3 id="org984e78f"><span class="section-number-3">5.3.</span> Ec - Geschichte europäischer Länder und Landschaften III. Deutsche Gebiete</h3>
+</div>
+<div id="outline-container-orgc796ff5" class="outline-3">
+<h3 id="orgc796ff5"><span class="section-number-3">5.4.</span> Ed - freibleibend</h3>
+</div>
+<div id="outline-container-org42d8983" class="outline-3">
+<h3 id="org42d8983"><span class="section-number-3">5.5.</span> Ee - Rechtsgeschichte</h3>
+</div>
+<div id="outline-container-orgee6abb9" class="outline-3">
+<h3 id="orgee6abb9"><span class="section-number-3">5.6.</span> Ef - Verfassungsgeschichte</h3>
+</div>
+<div id="outline-container-org2caec50" class="outline-3">
+<h3 id="org2caec50"><span class="section-number-3">5.7.</span> Eg - Königtum, Zentralverwaltung, Königsgut</h3>
+</div>
+<div id="outline-container-orgd27d0ed" class="outline-3">
+<h3 id="orgd27d0ed"><span class="section-number-3">5.8.</span> Eh - Fürstentum, Landeshoheit</h3>
+</div>
+<div id="outline-container-org3353b8d" class="outline-3">
+<h3 id="org3353b8d"><span class="section-number-3">5.9.</span> Ei - Lehnswesen und Lehnrecht</h3>
+</div>
+<div id="outline-container-org670e426" class="outline-3">
+<h3 id="org670e426"><span class="section-number-3">5.10.</span> Ek - Mittelatlerliches Staatsdenken</h3>
+</div>
+<div id="outline-container-org88be706" class="outline-3">
+<h3 id="org88be706"><span class="section-number-3">5.11.</span> El - Das Kaisertum im Abendland</h3>
+</div>
+<div id="outline-container-org282a03d" class="outline-3">
+<h3 id="org282a03d"><span class="section-number-3">5.12.</span> Em - freibleibend</h3>
+</div>
+<div id="outline-container-org70a1f15" class="outline-3">
+<h3 id="org70a1f15"><span class="section-number-3">5.13.</span> En - Kirchengeschichte</h3>
+</div>
+<div id="outline-container-orgc9461ff" class="outline-3">
+<h3 id="orgc9461ff"><span class="section-number-3">5.14.</span> Eo - Mittelalterliches Geistesleben (Weltbild, Philosophie, Wissenschaften, Bildung und Unterricht)</h3>
+</div>
+<div id="outline-container-org84ea4a8" class="outline-3">
+<h3 id="org84ea4a8"><span class="section-number-3">5.15.</span> Ep - Kulturgeschichte</h3>
+<div class="outline-text-3" id="text-5-15">
+</div>
+<div id="outline-container-org2f72b3f" class="outline-4">
+<h4 id="org2f72b3f"><span class="section-number-4">5.15.1.</span> 0001 - 0050 Gesamtdarstellungen</h4>
+</div>
+<div id="outline-container-orgbf9e998" class="outline-4">
+<h4 id="orgbf9e998"><span class="section-number-4">5.15.2.</span> 0051 - 0100 Studien und Sammlungen zur mittelalterlichen Kulturgeschichte</h4>
+<div class="outline-text-4" id="text-5-15-2">
+</div>
+<ol class="org-ol">
+<li><a id="orgf4f3377"></a>0054 - 0098 Ritual im Mittelalter<br /></li>
+</ol>
+</div>
+<div id="outline-container-org66114dd" class="outline-4">
+<h4 id="org66114dd"><span class="section-number-4">5.15.3.</span> 0101 - 0200 Kulturgeschichte einzelner Länder im Mittelalter</h4>
+<div class="outline-text-4" id="text-5-15-3">
+</div>
+<ol class="org-ol">
+<li><a id="org97cfc53"></a>0101 Deutschland<br /></li>
+</ol>
+</div>
+<div id="outline-container-orgaac69b6" class="outline-4">
+<h4 id="orgaac69b6"><span class="section-number-4">5.15.4.</span> 0201 - 0400 Darstellungen zur Kulturgeschichte, chronologisch geordnet</h4>
+<div class="outline-text-4" id="text-5-15-4">
+</div>
+<ol class="org-ol">
+<li><a id="org11853cd"></a>0201 Frühmittelalter<br />
+<ol class="org-ol">
+<li><a id="org11505c7"></a>0201 Gesamtdarstellungen und Frühzeit<br /></li>
+<li><a id="orgb1355a6"></a>0221 Fränkische Kultur<br /></li>
+</ol>
+</li>
+<li><a id="org6e9615b"></a>0251 Hochmittelalter<br />
+<ol class="org-ol">
+<li><a id="org5addc60"></a>0251 Gesamtdarstellungen<br /></li>
+<li><a id="org3c60314"></a>0271 Einzelnes<br />
+<ol class="org-ol">
+<li><a id="org7420484"></a>0276 Vagantentum<br /></li>
+</ol>
+</li>
+</ol>
+</li>
+<li><a id="orgba9d8ec"></a>0301 Spätmittelalter<br />
+<ol class="org-ol">
+<li><a id="orgf8327d2"></a>0351 burgundische Kultur<br /></li>
+<li><a id="org1b489d7"></a>0381 Totentanzmotivik<br /></li>
+</ol>
+</li>
+</ol>
+</div>
+<div id="outline-container-org210e16f" class="outline-4">
+<h4 id="org210e16f"><span class="section-number-4">5.15.5.</span> 0401 - 0450 Die Physis, Körperbau, Gesundheitspflege, körperliches Befinden, Krankheiten</h4>
+</div>
+<div id="outline-container-org08f1ed1" class="outline-4">
+<h4 id="org08f1ed1"><span class="section-number-4">5.15.6.</span> 0451 - 0550 Mittelalterliche Sittengeschichte, Die Frau im Mittelalter</h4>
+<div class="outline-text-4" id="text-5-15-6">
+</div>
+<ol class="org-ol">
+<li><a id="org24db99b"></a>0530 Gender Studies<br /></li>
+</ol>
+</div>
+<div id="outline-container-org1ebb9d2" class="outline-4">
+<h4 id="org1ebb9d2"><span class="section-number-4">5.15.7.</span> 0551 - 0600 Sitte und Brauchtum</h4>
+</div>
+<div id="outline-container-org10ead64" class="outline-4">
+<h4 id="org10ead64"><span class="section-number-4">5.15.8.</span> 0601 - 0700 Höfische Kultur, Rittertum</h4>
+</div>
+<div id="outline-container-org525c86c" class="outline-4">
+<h4 id="org525c86c"><span class="section-number-4">5.15.9.</span> 0701 - 0999 Die materielle Kultur</h4>
+<div class="outline-text-4" id="text-5-15-9">
+</div>
+<ol class="org-ol">
+<li><a id="org9f6375e"></a>0701 - 0800 Technik, Erfindungen<br />
+<ol class="org-ol">
+<li><a id="org06fa48a"></a>0701 Gesamtdarstellungen<br /></li>
+<li><a id="orgdd719f1"></a>0721 Agrartechnik<br /></li>
+<li><a id="org2f9a639"></a>0771 Schiffbau<br /></li>
+</ol>
+</li>
+<li><a id="org22dde1e"></a>0801 - 0900 Wohnen und Hausrat (Architektur siehe Eq)<br /></li>
+<li><a id="org34d4dfc"></a>0901 - 0999 Sonstiges<br /></li>
+</ol>
+</div>
+</div>
+<div id="outline-container-org9591d4d" class="outline-3">
+<h3 id="org9591d4d"><span class="section-number-3">5.16.</span> Eq - Archäologie und Kunstgeschichte</h3>
+</div>
+<div id="outline-container-org6b82932" class="outline-3">
+<h3 id="org6b82932"><span class="section-number-3">5.17.</span> Er - Kriegsgeschichte, Seefahrt</h3>
+</div>
+</div>
+<div id="outline-container-org1eaedd9" class="outline-2">
+<h2 id="org1eaedd9"><span class="section-number-2">6.</span> <span class="todo TODO">TODO</span> F - 15. - 18. Jahrhundert</h2>
+<div class="outline-text-2" id="text-6">
+</div>
+<div id="outline-container-orgf7de9a2" class="outline-3">
+<h3 id="orgf7de9a2"><span class="section-number-3">6.1.</span> Fa - Renaissance und Humanismus in Italien</h3>
+</div>
+<div id="outline-container-orgc178338" class="outline-3">
+<h3 id="orgc178338"><span class="section-number-3">6.2.</span> Fb - Humanismus in Deutschland</h3>
+</div>
+<div id="outline-container-orgd3de829" class="outline-3">
+<h3 id="orgd3de829"><span class="section-number-3">6.3.</span> Fc - Das Entdeckungszeitalter</h3>
+</div>
+<div id="outline-container-orged41af1" class="outline-3">
+<h3 id="orged41af1"><span class="section-number-3">6.4.</span> Fd - Europäische Geschichte und Weltgeschichte 1492 bis 1559</h3>
+</div>
+<div id="outline-container-org4539058" class="outline-3">
+<h3 id="org4539058"><span class="section-number-3">6.5.</span> Fe - Die Reformation in Deutschland (Quellen und Gesamtdarstellungen)</h3>
+</div>
+<div id="outline-container-orga7546fa" class="outline-3">
+<h3 id="orga7546fa"><span class="section-number-3">6.6.</span> Ff - Die Reformatoren (Luther, Melanchthon, Zwingli, Calvin)</h3>
+</div>
+<div id="outline-container-orgf2f6650" class="outline-3">
+<h3 id="orgf2f6650"><span class="section-number-3">6.7.</span> Fg - Deutsche Geschichte im Reformationszeitalter bis 1555</h3>
+</div>
+<div id="outline-container-orge5ecfda" class="outline-3">
+<h3 id="orge5ecfda"><span class="section-number-3">6.8.</span> Fh - Reformation und Gegenreformation in den deutschen Ländern bis 1618</h3>
+</div>
+<div id="outline-container-org8ce8ee7" class="outline-3">
+<h3 id="org8ce8ee7"><span class="section-number-3">6.9.</span> Fi - Wirtschaftsgeschichte des Frühkapitalismus</h3>
+</div>
+<div id="outline-container-orgcf90b71" class="outline-3">
+<h3 id="orgcf90b71"><span class="section-number-3">6.10.</span> Fk - Europäische Länder im 16. Jahrhundert (außer Italien - Fa und Fl; Spanien - Fb; Deutschland - Fe bis Fh)</h3>
+</div>
+<div id="outline-container-org0314d67" class="outline-3">
+<h3 id="org0314d67"><span class="section-number-3">6.11.</span> Fl - Die Gegenreformation: Europäische Politik und Weltpolitik 1559 - 1618</h3>
+</div>
+<div id="outline-container-org2e4ca27" class="outline-3">
+<h3 id="org2e4ca27"><span class="section-number-3">6.12.</span> Fm - Deutsche Geschichte im Zeitalter der Gegenreformation bis 1618</h3>
+</div>
+<div id="outline-container-org22f0571" class="outline-3">
+<h3 id="org22f0571"><span class="section-number-3">6.13.</span> Fn - Dreißigjähriger Krieg</h3>
+</div>
+<div id="outline-container-org87dd68b" class="outline-3">
+<h3 id="org87dd68b"><span class="section-number-3">6.14.</span> Fo - Frankreich 1610 bis 1715</h3>
+</div>
+<div id="outline-container-orge1699c4" class="outline-3">
+<h3 id="orge1699c4"><span class="section-number-3">6.15.</span> Fp - Europäische Geschichte und Weltgeschichte 1648 bis 1715 (1721)</h3>
+</div>
+<div id="outline-container-org109ae7a" class="outline-3">
+<h3 id="org109ae7a"><span class="section-number-3">6.16.</span> Fr - Europäische Länder im 17. Jahrhundert (außer Frankreich - Fo und Deutschland)</h3>
+</div>
+<div id="outline-container-orgca83a30" class="outline-3">
+<h3 id="orgca83a30"><span class="section-number-3">6.17.</span> Fs - Deutsche Geschichte 1648 bis 1740</h3>
+</div>
+<div id="outline-container-org0f9db51" class="outline-3">
+<h3 id="org0f9db51"><span class="section-number-3">6.18.</span> Ft - Deutsche Länder 1648 bis 1740</h3>
+</div>
+<div id="outline-container-org880e1b5" class="outline-3">
+<h3 id="org880e1b5"><span class="section-number-3">6.19.</span> Fu - Europäische Geschichte und Weltgeschichte 1715 bis 1789</h3>
+</div>
+<div id="outline-container-org7dfc2ae" class="outline-3">
+<h3 id="org7dfc2ae"><span class="section-number-3">6.20.</span> Fw - Europäische Länder im 18. Jahrhundert (außer Frankreich - Fx und Deutschland)</h3>
+</div>
+<div id="outline-container-orgc4201f5" class="outline-3">
+<h3 id="orgc4201f5"><span class="section-number-3">6.21.</span> Fx - Frankreich 1715 bis 1789 und die Aufklärung</h3>
+</div>
+<div id="outline-container-org5b0eefe" class="outline-3">
+<h3 id="org5b0eefe"><span class="section-number-3">6.22.</span> Fy - Deutsche Geschichte 1700 bis 1789</h3>
+</div>
+<div id="outline-container-orgb2f2400" class="outline-3">
+<h3 id="orgb2f2400"><span class="section-number-3">6.23.</span> Fz - Preußen 1713 bis 1796</h3>
+</div>
+</div>
+<div id="outline-container-org6f90c09" class="outline-2">
+<h2 id="org6f90c09"><span class="section-number-2">7.</span> <span class="todo TODO">TODO</span> G - Von der Französischen Revolution bis zum Ende des Zweiten Weltkriegs (1789 - 1945)</h2>
+<div class="outline-text-2" id="text-7">
+</div>
+<div id="outline-container-org900b168" class="outline-3">
+<h3 id="org900b168"><span class="section-number-3">7.1.</span> Gc Österreich und Preußen zur Zeit der französischen Revolution und Napoleon</h3>
+<div class="outline-text-3" id="text-7-1">
+<p>
+0001 - 0120 Österreich (zur Zeit Franz II.)
+0051 - 0090 Metternich und Gentz
+0121 - 0150 Preußen, allgemein
+0181 - 0200 Friedrich Wilehlm III. und der preußische Hof
+0201 - 0290 Militäre und Heeresreform
+0301 - 0350 Staats- und Gesellschaftsreform: allgemeine Darstellungen und einzelne Quellen
+0351 - 0390 Stein
+0391 - 0410 Hardenberg
+0411 - 0430 Verfassungsfrage
+0431 - 0470 Verwaltung und Beamte
+0471 - 0500 Adel (Marwitz)
+0501 - 0520 Bildungsreform
+0521 - 0540 Humboldt
+0541 - 0560 frei
+0561 - 0570 Schleiermacher
+0571 - 0620 Deutscher Idealismus
+0621 - 0700 Deutsche Bewegung (Arndt, Görres)
+0701 - 0780 Romantik und ihre Staatstheorie
+0781 - 0800 frei
+0801 - 0900 Carl August von Weimar und die Klassik
+0900 - 0999 Goethe
+</p>
+</div>
+</div>
+</div>
+<div id="outline-container-orgd5b7842" class="outline-2">
+<h2 id="orgd5b7842"><span class="section-number-2">8.</span> <span class="todo TODO">TODO</span> H - Gegenwart (ab 1945)</h2>
+</div>
+<div id="outline-container-org0608ede" class="outline-2">
+<h2 id="org0608ede"><span class="section-number-2">9.</span> <span class="todo TODO">TODO</span> J - Weltgeschichte, Post Colonial Studies</h2>
+</div>
+<div id="outline-container-org616a50a" class="outline-2">
+<h2 id="org616a50a"><span class="section-number-2">10.</span> <span class="todo TODO">TODO</span> K - Geschichte Asiens, Australiens, Afrikas</h2>
+</div>
+<div id="outline-container-orgcf10892" class="outline-2">
+<h2 id="orgcf10892"><span class="section-number-2">11.</span> <span class="todo TODO">TODO</span> L - Geschichte der europäischen Staaten</h2>
+</div>
+<div id="outline-container-org979e948" class="outline-2">
+<h2 id="org979e948"><span class="section-number-2">12.</span> <span class="todo TODO">TODO</span> M - Deutsche Geschichte und Geschichte der deutschen Territorien</h2>
+</div>
+<div id="outline-container-org9467a20" class="outline-2">
+<h2 id="org9467a20"><span class="section-number-2">13.</span> <span class="todo TODO">TODO</span> N - Anthropologie, Völkerkunde, Bevölkerungswissenschaft</h2>
+</div>
+<div id="outline-container-orgad17dae" class="outline-2">
+<h2 id="orgad17dae"><span class="section-number-2">14.</span> <span class="todo TODO">TODO</span> O - Recht, Politik, Staat und Gesellschaft, Internationale Beziehungen</h2>
+</div>
+<div id="outline-container-orgd159f32" class="outline-2">
+<h2 id="orgd159f32"><span class="section-number-2">15.</span> <span class="todo TODO">TODO</span> P - Wirtschafts- und Sozialgeschichte: Handbücher, Städtewesen, Biographien</h2>
+</div>
+<div id="outline-container-org12b2671" class="outline-2">
+<h2 id="org12b2671"><span class="section-number-2">16.</span> <span class="todo TODO">TODO</span> Q - Wirtschafts- und Sozialgeschichte: Mittelalter, Neuzeit</h2>
+</div>
+<div id="outline-container-orgf87991d" class="outline-2">
+<h2 id="orgf87991d"><span class="section-number-2">17.</span> <span class="todo TODO">TODO</span> R - Kulturgeschichte, Geschichte der Künste, Geschichte der Technik, Mediengeschichte, Umweltgeschichte</h2>
+</div>
+<div id="outline-container-org99f7ea3" class="outline-2">
+<h2 id="org99f7ea3"><span class="section-number-2">18.</span> <span class="todo TODO">TODO</span> S - Kriegs- und Militärgeschichte</h2>
+</div>
+<div id="outline-container-org37e0506" class="outline-2">
+<h2 id="org37e0506"><span class="section-number-2">19.</span> <span class="todo TODO">TODO</span> T - Religions- und Kirchengeschichte</h2>
+</div>
+<div id="outline-container-orga4cf2f2" class="outline-2">
+<h2 id="orga4cf2f2"><span class="section-number-2">20.</span> <span class="todo TODO">TODO</span> U - Geistesgeschichte und Geschichte der Wissenschaften</h2>
+</div>
+<div id="outline-container-org2af8500" class="outline-2">
+<h2 id="org2af8500"><span class="section-number-2">21.</span> <span class="todo TODO">TODO</span> V - Aufsatzsammlungen und sonstitge Sammelschriften einzelner Verfasser</h2>
+</div>
+<div id="outline-container-org64db53e" class="outline-2">
+<h2 id="org64db53e"><span class="section-number-2">22.</span> <span class="todo TODO">TODO</span> W - Fest- und Gedenkschriften</h2>
+</div>
+<div id="outline-container-orgb1ed194" class="outline-2">
+<h2 id="orgb1ed194"><span class="section-number-2">23.</span> <span class="done DONE">DONE</span> Z - Zeitschriften, Jahrbücher, Dissertationen</h2>
+<div class="outline-text-2" id="text-23">
+</div>
+<div id="outline-container-orgc0a07a3" class="outline-3">
+<h3 id="orgc0a07a3"><span class="section-number-3">23.1.</span> Za - Allgemeine Zeitschriften</h3>
+</div>
+<div id="outline-container-org734e70e" class="outline-3">
+<h3 id="org734e70e"><span class="section-number-3">23.2.</span> Zb - Allgemeine historische Zeitschriften</h3>
+</div>
+<div id="outline-container-org9943e0b" class="outline-3">
+<h3 id="org9943e0b"><span class="section-number-3">23.3.</span> Zc - Mittelalter und Hilfswissenschaften</h3>
+</div>
+<div id="outline-container-orgd6ed295" class="outline-3">
+<h3 id="orgd6ed295"><span class="section-number-3">23.4.</span> Zd - Neuzeit</h3>
+</div>
+<div id="outline-container-org91434c1" class="outline-3">
+<h3 id="org91434c1"><span class="section-number-3">23.5.</span> Ze - Regionale Zeitschriften (auch ausländische)</h3>
+</div>
+<div id="outline-container-org779fb14" class="outline-3">
+<h3 id="org779fb14"><span class="section-number-3">23.6.</span> Zf - Ausländische Zeitschriften</h3>
+</div>
+<div id="outline-container-org9edae3c" class="outline-3">
+<h3 id="org9edae3c"><span class="section-number-3">23.7.</span> Zg - Systematische Zeitschriften</h3>
+</div>
+<div id="outline-container-org6ce4fd3" class="outline-3">
+<h3 id="org6ce4fd3"><span class="section-number-3">23.8.</span> Zl - Jahrbücher</h3>
+</div>
+<div id="outline-container-org5f9dbbf" class="outline-3">
+<h3 id="org5f9dbbf"><span class="section-number-3">23.9.</span> Zs - Dissertationen</h3>
+</div>
+</div>
+</div>
+<div id="postamble" class="status">
+<p class="author">Author: Aaron Vanides</p>
+<p class="date">Created: 2022-05-04 Wed 18:59</p>
+<p class="validation"><a href="https://validator.w3.org/check?uri=referer">Validate</a></p>
+</div>
+</body>
+</html>
