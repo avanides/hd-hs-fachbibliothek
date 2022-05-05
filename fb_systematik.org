@@ -176,20 +176,87 @@ CLOSED: [2022-05-03 Tue 20:27]
 ** Bp - Inschriften; sonstige Quellengattungen
 ** Bx - Übungstexte und Quellenauswahlen
 ** Bz - Übersetzungen von im engeren Sinn historischen Quellen
-* TODO C - Hilfsmittel und Literatur zu den Quellen der Geschichte des Mittelalters
-** Ca - Einführung in Studium und Quellen des Mittelalters
-** Cb - bleibt frei
-** Cc - Allgemeine Quellenkunde und Verzeichnisse der nichturkundlichen Quellen zur Geschichte des Mittelalters
-** Cd - Literatur zu den einzelnen Gattungen historischer Quellen (mit Ausschluß der Urkundenlehre)
-** Ce - Literatur zu einzelnen erzählenden Quellen oder Quellengruppen
-** Cf - Literatur zur Geschichte der mittelalterlichen Literaturen (Darstellungen und Monographien)
-** Cg - bleibt frei
-** Ch - bleibt frei
-** Ci - Diplomatik, Gesamtdarstellungen, Monographien und Spezialliteratur zu den Urkunden des Mittelalters
-** Ck - Regestenwerke und Urkundenverzeichnisse
-** Cl - bleibt frei
-** Cy - bleibt frei
-** Cz - Auswertung des Quellenmaterials zur darstellenden Verzeichnung in chronologischer oder geographischer Anordnung (vgl. Erläuterung)
+* DOING C - Hilfsmittel und Literatur zu den Quellen der Geschichte des Mittelalters
+** DONE Ca - Einführung in Studium und Quellen des Mittelalters
+*** 0001 - 0100 frei
+*** 0101 - 0200 deutsche Einführungen in Studium und Methode (Mittelalter)
+*** 0201 - 0300 nichtdeutsche Einführungen
+*** 0301 - 0400 einführende Überblicke über die Literatur zur Geschichte des Mittelalters
+*** 0401 - 0450 Einführungen in die Rechts- und Verfassungsgeschichte
+*** 0451 - 0500 Einführungen in die Kirchengeschichte
+*** 0501 - 0550 Einführungen in die Wirtschafts- und Sozialgeschichte
+*** 0551 - 0600 Einführungen in die Kulturgeschichte
+*** 0601 - 0650 Einführungen in die Kunstgeschichte
+*** 0651 - 0700 Einführungen in sonstige Teilgebiete der Geschichte des Mittelalters
+*** 0701 - 0800 Einführungen zur Geschichte des Frühmittelalters
+*** 0801 - 0900 Einführungen zur Geschichte des Hochmittelalters
+*** 0901 - 0999 Einführungen zur Geschichte des Spätmittelalters
+** DONE Cb - bleibt frei
+** DONE Cc - Allgemeine Quellenkunde und Verzeichnisse der nichturkundlichen Quellen zur Geschichte des Mittelalters
+CLOSED: [2022-05-04 Wed 19:28]
+*** 0001 - 0100 Verzeichnisse der nichturkundlichen Quellen zur Geschichte des Mittelalters
+*** 0101 - 0200 frei
+*** 0201 - 0300 Allgemeine Quellenkunde zur allgemeinen Geschichte des Mittelalters
+*** 0301 - 0500 Allgemeine Quellenkunde zur deutschen Geschichte des Mittelalters
+*** 0501 - 0700 Allgemeine Quellenkunde zur Geschichte anderer Länder im Mittelalter
+**** 0501 Frankfreich
+**** 0531 Italien
+**** 0551 England
+**** 0581 Skandinavien
+**** 0601 Slavische Länder
+**** 0631 Byzanz
+**** 0661 Islam
+**** 0681 sonstige
+*** 0701 - 0800 Allgemeine Quellenkunde zur Geschichte des Frühmittelalters
+*** 0801 - 0900 Allgemeine Quellenkunde zur Geschichte des Hochmittelalters
+*** 0901 - 0999 Allgemeine Quellenkunde zur Geschichte des Spätmittelalters
+** DONE Cd - Literatur zu den einzelnen Gattungen historischer Quellen (mit Ausschluß der Urkundenlehre)
+CLOSED: [2022-05-04 Wed 19:38]
+*** 0001 - 0100 frei
+*** 0101 - 0200 Annalen
+**** 0101 - 0140 Allgemeines
+**** 0141 - 0160 Frühmittelalter
+**** 0161 - 0180 Hochmittelalter
+*** 0201 - 0400 Chronistik und Weltchronistik
+**** 0201 - 0230 Allgemeine Literatur zur Chronistik
+**** 0231 - 0270 Chronistik in den einzelnen Ländern
+**** 0271 - 0300 Weltchroniken
+**** 0301 - 0320 Bistumschroniken
+**** 0321 - 0350 Klosterchroniken und sonstige (außer Städtechroniken)
+**** 0351 - 0400 Städtechroniken
+*** 0401 - 0500 Literatur zur Biographie und Personenschilderung (Unterteilung vergleiche 0101 - 0200: Annalen)
+*** 0501 - 0600 Literatur zur Hagiographie (Unterteilung vergleiche 0101 - 0200: Annalen)
+*** 0601 - 0700 Literatur zu Briefen, Korrespondenzen, Akten im Mittelalter
+*** 0701 - 0800 Literatur zu Staatsschriften, politischen Lehrschriften, politischer Publizistik im Mittelalter
+*** 0801 - 0950 Literatur zu den Rechtsquellen und urbarialen Aufzeichnungen
+**** 0901 - 0902 zu liturgischen Texten
+**** 0903 - 0950 zum Kanonischen Recht
+*** 0951 - 0980 Literatur zu den archäologischen Quellen
+*** 0981 - 0999 Literatur zu den Inschriften
+** DONE Ce - Literatur zu einzelnen erzählenden Quellen oder Quellengruppen
+CLOSED: [2022-05-04 Wed 19:41]
+*** 0001 - 0200 Räumliche Anordnung für die nicht chronologisch einzuordnenden
+**** 0001 - 0050 Norddeutschland
+**** 0051 - 0100 Süddeutschland
+**** 0101 - 0180 außerdeutsches Europa
+**** 0181 - 0200 sonstige
+*** 0201 - 0250 Antike und Spätantike
+*** 0251 - 0300 Frühmittelalter (bis ca. 700)
+*** 0301 - 0400 Karolinger
+*** 0401 - 0500 10. Jahrhundert
+*** 0501 - 0600 11. Jahrhundert
+*** 0601 - 0700 12. Jahrhundert
+*** 0701 - 0800 13. Jahrhundert
+*** 0801 - 0900 14. Jahrhundert
+*** 0901 - 0999 15. Jahrhundert
+** TODO Cf - Literatur zur Geschichte der mittelalterlichen Literaturen (Darstellungen und Monographien)
+** TODO Cg - bleibt frei
+** TODO Ch - bleibt frei
+** TODO Ci - Diplomatik, Gesamtdarstellungen, Monographien und Spezialliteratur zu den Urkunden des Mittelalters
+** TODO Ck - Regestenwerke und Urkundenverzeichnisse
+** TODO Cl - bleibt frei
+** TODO Cy - bleibt frei
+** TODO Cz - Auswertung des Quellenmaterials zur darstellenden Verzeichnung in chronologischer oder geographischer Anordnung (vgl. Erläuterung)
 * TODO D - Darstellungen zur Geschichte des Mittelalters, chronologisch geordnet
 ** Da - Gesamtdarstellungen und Monographien zu gesamtmittelalterlichen Problemen
 *** 0001 - 0100 Das Mittelalter: Literatur zum Begriff, zur Periodisierung, zur Problematik, zum 'Erbe des Mittelalters', Einzelnes
