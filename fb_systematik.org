@@ -176,7 +176,8 @@ CLOSED: [2022-05-03 Tue 20:27]
 ** Bp - Inschriften; sonstige Quellengattungen
 ** Bx - Übungstexte und Quellenauswahlen
 ** Bz - Übersetzungen von im engeren Sinn historischen Quellen
-* DOING C - Hilfsmittel und Literatur zu den Quellen der Geschichte des Mittelalters
+* DONE C - Hilfsmittel und Literatur zu den Quellen der Geschichte des Mittelalters
+CLOSED: [2022-05-05 Thu 14:57]
 ** DONE Ca - Einführung in Studium und Quellen des Mittelalters
 *** 0001 - 0100 frei
 *** 0101 - 0200 deutsche Einführungen in Studium und Methode (Mittelalter)
@@ -249,52 +250,172 @@ CLOSED: [2022-05-04 Wed 19:41]
 *** 0701 - 0800 13. Jahrhundert
 *** 0801 - 0900 14. Jahrhundert
 *** 0901 - 0999 15. Jahrhundert
-** TODO Cf - Literatur zur Geschichte der mittelalterlichen Literaturen (Darstellungen und Monographien)
-** TODO Cg - bleibt frei
-** TODO Ch - bleibt frei
-** TODO Ci - Diplomatik, Gesamtdarstellungen, Monographien und Spezialliteratur zu den Urkunden des Mittelalters
+** DONE Cf - Literatur zur Geschichte der mittelalterlichen Literaturen (Darstellungen und Monographien)
+CLOSED: [2022-05-05 Thu 14:44]
+*** 0001 - 0050 Allgemeines und Darstellungen _aller_ europäischen Literaturen in _einem_ Werk
+*** 0051 -0150 Monographien zu der allen Literaturen gemeinsamen Problematik
+**** 0051 - 0070 Formprobleme
+**** 0071 - 0100 Übersetzungsprobleme; Begriffswelt
+**** 0101 - 0150 Literarische Gattungen
+*** 0151 - 0200 Altchristliche, spätantike und byzantinische Literatur
+*** 0201 - 0400 Lateinische Literatur des Mittelalters
+**** 0201 - 0250 Gesamtdarstellungen
+**** 0251 - 0275 Frühmittelalter
+**** 0276 - 0300 Hochmittelalter
+**** 0301 - 0350 Spätmittelalter
+**** 0351 - 0400 einzelnes (sachlich)
+*** 0401 - 0600 Deutsche Literatur des Mittelalters
+**** 0401 - 0450 Gesamtdarstellungen
+**** 0451 - 0500 Hochmittelalter
+**** 0501 - 0550 Spätmittelalter
+**** 0551 - 0600 einzelnes (sachlich)
+*** 0601 - 0700 französische Literatur des Mittelalters
+**** 0601 - 0625 Gesamtdarstellungen
+**** 0626 - 0650 Hochmittelalter
+**** 0651 - 0675 Spätmittelalter
+**** 0676 - 0700 einzelnes (sachlich)
+*** 0701 - 0800 Italienische Literatur des Mittelalters
+**** 0701 - 0725 Gesamtdarstellungen
+**** 0726 - 0750 Hochmittelalter
+**** 0751 - 0775 Spätmittelalter
+**** 0776 - 0800 einzelnes (sachlich)
+*** 0801 - 0900 Englische Literatur des Mittelalters
+**** 0801 - 0825 Gesamtdarstellungen
+**** 0826 - 0850 Früh- und Hochmittelalter
+**** 0851 - 0875 Spätmittelalter
+**** 0876 - 0900 einzelnes (sachlich)
+*** 0901 - 0999 sonstige Literaturen des Mittelalters
+** DONE Cg - bleibt frei
+CLOSED: [2022-05-05 Thu 14:44]
+** DONE Ch - bleibt frei
+CLOSED: [2022-05-05 Thu 14:44]
+** DONE Ci - Diplomatik, Gesamtdarstellungen, Monographien und Spezialliteratur zu den Urkunden des Mittelalters
+CLOSED: [2022-05-05 Thu 14:54]
+*** 0001 - 0050 Grundsätzliches zum mittelalterlichen Urkundenwesen
+*** 0051 - 0100 Spätantike Voraussetzungen
+*** 0101 - 0150 Verzeichnisse der gedruckten und ungedruckten Urkundensammlungen
+*** 0151 - 0200 Gesamtdarstellungen der Urkundenlehre
+*** 0201 - 0400 Gesamtsdarstellungen und Spezialliteratur zur Lehre von den Königsurkunden
+**** 0201 - 0220 Allgemeines
+**** 0221 - 0250 zu den deutschen Königsurkunden
+**** 0251 - 0280 zu nichtdeutschen Königsurkunden
+**** 0281 - 0400 Kanzleigeschichte (innere und äußere Merkmale)
+***** 0281 - 0300 Merowinger
+***** 0301 - 0330 Karolinger
+***** 0331 - 0360 Hochmittelalter
+***** 0361 - 0400 Spätmittelalter
+*** 0401 - 0600 Gesamtdarstellungen und Spezialliteratur zur Lehre von den Papsturkunden
+**** 0401 - 0450 Gesamtdarstellungen und Darstellungen von Teilaspekten durch das ganze Mittelalter
+**** 0451 - 0500 Kanzleigeschichte und Registerwesen, Frühmittelalter
+**** 0501 - 0550 Kanzleigeschichte und Registerwesen, Hochmittelalter
+**** 0551 - 0600 Kanzleigeschichte und Registerwesen, Spätmittelalter
+*** 0601 - 0850 Gesamtdarstellungen und Spezialliteratur zur Lehre von den Privaturkunden
+**** 0601 - 0650 Gesamtdarstellungen 
+**** 0651 - 0700 Bischofskanzleien, Offizialat
+**** 0701 - 0750 Fürstliche Kanzleien
+**** 0751 - 0770 Kanzlei- und Schreibschulen
+**** 0771 - 0800 Formular- und Briefsteller-Literatur
+**** 0801 - 0830 Notariatsurkunde
+**** 0831 - 0850 sonstiges
+*** 0851 - 0999 Untersuchungen zu bestimmten Empfängerkomplexen (Fälschungsnachweise) und zu Einzelstücken (regional geordnet)
+**** 0851 - 0900 nördliches und mittleres Deutschland
+**** 0901 - 0950 Süddeutschland
+**** 0951 - 0999 außerdeutsche Empfänger bzw. Urkunden
 ** TODO Ck - Regestenwerke und Urkundenverzeichnisse
-** TODO Cl - bleibt frei
-** TODO Cy - bleibt frei
-** TODO Cz - Auswertung des Quellenmaterials zur darstellenden Verzeichnung in chronologischer oder geographischer Anordnung (vgl. Erläuterung)
+** DONE Cl - bleibt frei
+CLOSED: [2022-05-05 Thu 14:54]
+** DONE Cy - bleibt frei
+CLOSED: [2022-05-05 Thu 14:54]
+** DONE Cz - Auswertung des Quellenmaterials zur darstellenden Verzeichnung in chronologischer oder geographischer Anordnung (vgl. Erläuterung)
+CLOSED: [2022-05-05 Thu 14:57]
+(darstellender Charakter, aber die _Hilfsmittel_-Eigenschaft steht im Vordergrund)
+*** 0001 - 0100 Jahrbücher der deutschen Geschichte (einschließlich Jahrbücher der fränkischen Geschichte)
+*** 0101 - 0200 Sonstige chronologisch geordnete Auswertung
+*** 0201 - 0500 Auswertung in geographischer Anordnung, Deutschland
+**** 0201 - 0300 Allgemeines
+**** 0301 - 0500 deutsche Landschaften
+*** 0501 - 0999 Außerdeutsche Länder und Gebiete, Auswertung in geographischer Anordnung
 * TODO D - Darstellungen zur Geschichte des Mittelalters, chronologisch geordnet
-** Da - Gesamtdarstellungen und Monographien zu gesamtmittelalterlichen Problemen
-*** 0001 - 0100 Das Mittelalter: Literatur zum Begriff, zur Periodisierung, zur Problematik, zum 'Erbe des Mittelalters', Einzelnes
+** DONE Da - Gesamtdarstellungen und Monographien zu gesamtmittelalterlichen Problemen
+CLOSED: [2022-05-05 Thu 15:09]
+*** DONE 0001 - 0100 Das Mittelalter: Literatur zum Begriff, zur Periodisierung, zur Problematik, zum 'Erbe des Mittelalters', Einzelnes
+CLOSED: [2022-05-05 Thu 15:08]
 **** 0062 - 0070 Biographische Sammelwerke zur ganzen mittelalterlichen Geschichte
-*** 0101 - 0200 Gesamtdarstellungen der Geschichte des Mittelalters
+*** DONE 0101 - 0200 Gesamtdarstellungen der Geschichte des Mittelalters
+CLOSED: [2022-05-05 Thu 15:08]
 **** 0101 - 0150 in deutscher Sprache
 **** 0151 - 0200 in anderen Sprachen
-*** 0201 - 0300 knappe Schul- und Handbücher zur Geschichte des ganzen Mittelalters
+*** DONE 0201 - 0300 knappe Schul- und Handbücher zur Geschichte des ganzen Mittelalters
+CLOSED: [2022-05-05 Thu 15:09]
 **** 0201 - 0250 in deutscher Sprache
 **** 0251 - 0300 in anderen Sprachen
-*** 0301 - 0500 leer
-*** 0501 - 0700 deutsche Geschichte im gesamten Mittelalteraa
+*** DONE 0301 - 0500 leer
+CLOSED: [2022-05-05 Thu 15:08]
+*** DONE 0501 - 0700 deutsche Geschichte im gesamten Mittelalteraa
+CLOSED: [2022-05-05 Thu 15:09]
 **** 0501 moderne Literatur
 **** 0551 ältere Werke
 **** 0601 Einzelnes, Aufsätze, Vorträge, Reden zur deutschen Geschichte im Mittelalter
-*** 0701 - 0800 freibleibend für gesamtmittelalterliche Erscheinungen außer den Kreuzzügen
-*** 0801 - 0900 Die Kreuzzüge (nur über die Jahrhunderte hinweggehende Gesamtdarstellungen der Kreuzzüge)
-*** 0901 - 0999 Monographien zu Einzelaspekten der gesamten Kreuzzugsgeschichte
-** Db - leer
-** Dc - Frühgeschichteliche, nichtantike Voraussetzungen der mittelalterlichen Geschichte
+*** DONE 0701 - 0800 freibleibend für gesamtmittelalterliche Erscheinungen außer den Kreuzzügen
+CLOSED: [2022-05-05 Thu 15:09]
+*** DONE 0801 - 0900 Die Kreuzzüge (nur über die Jahrhunderte hinweggehende Gesamtdarstellungen der Kreuzzüge)
+CLOSED: [2022-05-05 Thu 15:09]
+*** DONE 0901 - 0999 Monographien zu Einzelaspekten der gesamten Kreuzzugsgeschichte
+CLOSED: [2022-05-05 Thu 15:09]
+** DONE Db - leer
+CLOSED: [2022-05-05 Thu 15:07]
+** DONE Dc - Frühgeschichteliche, nichtantike Voraussetzungen der mittelalterlichen Geschichte
+CLOSED: [2022-05-05 Thu 15:13]
 *** 0001 - 0015 Methodisches und Grundsätzliches zur Vor- und Frühgeschichte
 *** 0016 - 0050 Gesamtdarstellungen der Vorgeschichte
 *** 0051 - 0070 Die Indogermanenfrage
 *** 0071 - 0090 Die Kelten
 *** 0091 - 0100 Die Illyrer
-*** 0101 - 0120
-*** 0121 - 0150
-*** 0151 - 0300
-*** 0301 - 0400
-*** 0401 - 0500
-*** 0501 - 0600
-*** 0601 - 0800
-*** 0801 - 0900
-*** 0901 - 0999
-** Dd - Spätantike und frühchristliche Voraussetzungen der mittelalterlichen Geschichte: Die Mittelmeerwelt bis 600
-** De - Das frühe Mittelalter, Gesamtdarstellungen: Das Zeitalter der Merowinger
-** Df - Das Zeitalter der Karolinger
-** Dg - Das Hochmittelalter, Gesamtdarstellungen: Das 10. Jahrhundert (Ottonen) und das 11. Jahrhundert (Salier vor dem Investiturstreit)
+*** 0101 - 0120 Sonstige indogermanische und nichtindogermanische Sprachgruppen und Völker (außer: Germanen)
+*** 0121 - 0150 _Die Germanen_: Einzelnes zu ihrer Entstehung und zur Problematik
+**** 0126 - 0150 Zur Geschichte der Germanenforschung und des Germanenbildes
+*** 0151 - 0300 Die Germanen: Gesamtdarstellungen und Altertumskunde
+*** 0301 - 0400 Sprachgeschichte; Stammeskunde; Ostgermanen und Westgermanen
+*** 0401 - 0500 Kultur und Religion der Germanen
+*** 0501 - 0600 Recht und Staat bei den Germanen
+*** 0601 - 0800 Siedlungsgeschichte einzelner germanischer Völker (ab 3. Jahrhundert; für die davorliegende Stammeskunde siehe oben 301 ff.)
+*** 0801 - 0900 Die Christianisierung der Germanen
+*** 0901 - 0999 frei
+** DONE Dd - Spätantike und frühchristliche Voraussetzungen des Mittelalters: Der Untergang der antiken Welt und die Völkerwanderung (= politische Geschichte des Mittelmeerraumes bis ins 6. Jahrhundert)
+CLOSED: [2022-05-05 Thu 15:24]
+*** 0001 - 0100 Gesamtdarstellungen der spätantiken Welt und des Untergangs der antiken Welt
+**** 0001 - 0050 Gesamtdarstellungen
+**** 0051 - 0100 Monographien und kleinere Schriften zum Problem des Untergangs der Antike und zum Kontinuitätsproblem
+*** 0101 - 0200 Einzelne Teile und Provinzen des Imperiums (grundsätzlich _vor 400_)
+**** 0101 - 0150 der Westen
+**** 0151 - 0200 der Osten
+*** 0201 - 0300 Einzelne Lebensbereiche der antiken Welt (_außer_: Religionen)
+**** 0201 - 0220 Militärverfassung
+**** 0221 - 0250 Reichsorganisation
+**** 0251 - 0275 Sozial- und Wirtschaftsgeschichte
+**** 0276 - 0300 Kulturgeschichte
+*** 0301 - 0400 Spätantike Religions- und Kirchengeschichte
+*** 0401 - 0500 Politische Geschichte bis 395/406
+**** 0451 Konstantin der Große
+*** 0501 - 0800 Geschichte der Völkerwanderung
+**** 0501 - 0520 Gesamtdarstellungen
+**** 0521 - 0550 Monographien zur gesamten Völkerwanderungsgeschichte
+**** 0551 - 0800 Geschichte der einzelner Stämme und Völker im Zeitalter der Völkerwanderung (_mit Ausnahme der Franken_)
+***** 0551 - 0560 Ost- und Westgermanen, Gesamtdarstellungen
+***** 0561 - 0600 westgermanische Völker und Stammesgruppen (außer Franken)
+***** 0601 - 0800 die Ostgermanen
+****** 0601 - 0630 Westgoten
+****** 0631 - 0670 Ostgoten
+****** 0671 - 0700 Wandalen
+****** 0701 - 0730 Burgunden
+****** 0731 - 0760 sonstige germanische Völker
+****** 0761 - 0800 nichtgermanische Völker
+******* 0766 - xxxx die Hunnen
+*** 0801 - 0900 Politische Geschichte der Mittelmeerwelt im 5. Jahrhundert (chronologisch)
+*** 0901 - 0999 Politische Geschichte der Mittelmeerwelt im 6. Jahrhundert (chronologisch)
+** TODO De - Das frühe Mittelalter, Gesamtdarstellungen: Das Zeitalter der Merowinger
+** TODO Df - Das Zeitalter der Karolinger
+** TODO Dg - Das Hochmittelalter, Gesamtdarstellungen: Das 10. Jahrhundert (Ottonen) und das 11. Jahrhundert (Salier vor dem Investiturstreit)
 *** 0001 - 0050 Gesamtdarstellungen der europäischen und deutschen Geschichte im Hochmittelalter
 **** 0001 - 0010 Bibliographische Hilfsmittel
 **** 0011 - 0050 Gesamtdarstellungen
@@ -327,30 +448,32 @@ CLOSED: [2022-05-04 Wed 19:41]
 ***** 0661 Normannen und Skandinavier
 ***** 0681 Ungarn und slavische Völker
 *** 0701 - 0999 Das 11. Jahrhudnert vor dem Investiturstreit
-** Dh - Der Investiturstreit (letztes Drittel des 11. Jahrhunderts): Das Zeitalter der Staufer bis zum Tode Heinrichs VI. (12. Jh.)
-** Di - leer
-** Dk - Das Spätmittelalter (nur Gesamtdarstellungen und Monographien)
-** Dl - Geschichte des 13. Jahrhunderts
-** Dm - Geschichte des 14. Jahrhunderts
-** Dn - leer
-** Do - Geschichte des 15. Jahrhunderts
-** Dp - Frührenaissance (Italien im 14. und 15. Jh.); Das Zeitalter Maximilians I.; Deutschland vor der Reformation
+** TODO Dh - Der Investiturstreit (letztes Drittel des 11. Jahrhunderts): Das Zeitalter der Staufer bis zum Tode Heinrichs VI. (12. Jh.)
+** DONE Di - leer
+CLOSED: [2022-05-05 Thu 15:07]
+** TODO Dk - Das Spätmittelalter (nur Gesamtdarstellungen und Monographien)
+** TODO Dl - Geschichte des 13. Jahrhunderts
+** TODO Dm - Geschichte des 14. Jahrhunderts
+** DONE Dn - leer
+CLOSED: [2022-05-05 Thu 15:07]
+** TODO Do - Geschichte des 15. Jahrhunderts
+** TODO Dp - Frührenaissance (Italien im 14. und 15. Jh.); Das Zeitalter Maximilians I.; Deutschland vor der Reformation
 * TODO E - Darstellungen zur Geschichte des Mittelalters, sachlich geordnet
-** Ea - Geschichte europäischer Länder und Landschaften I. Die Mittelmeerländer
-** Eb - Geschichte europäischer Länder und Landschaften II. West-, Nord- und Osteuropa
-** Ec - Geschichte europäischer Länder und Landschaften III. Deutsche Gebiete
-** Ed - freibleibend
-** Ee - Rechtsgeschichte
-** Ef - Verfassungsgeschichte
-** Eg - Königtum, Zentralverwaltung, Königsgut
-** Eh - Fürstentum, Landeshoheit
-** Ei - Lehnswesen und Lehnrecht
-** Ek - Mittelatlerliches Staatsdenken
-** El - Das Kaisertum im Abendland
-** Em - freibleibend
-** En - Kirchengeschichte
-** Eo - Mittelalterliches Geistesleben (Weltbild, Philosophie, Wissenschaften, Bildung und Unterricht)
-** Ep - Kulturgeschichte
+** TODO Ea - Geschichte europäischer Länder und Landschaften I. Die Mittelmeerländer
+** TODO Eb - Geschichte europäischer Länder und Landschaften II. West-, Nord- und Osteuropa
+** TODO Ec - Geschichte europäischer Länder und Landschaften III. Deutsche Gebiete
+** TODO Ed - freibleibend
+** TODO Ee - Rechtsgeschichte
+** TODO Ef - Verfassungsgeschichte
+** TODO Eg - Königtum, Zentralverwaltung, Königsgut
+** TODO Eh - Fürstentum, Landeshoheit
+** TODO Ei - Lehnswesen und Lehnrecht
+** TODO Ek - Mittelatlerliches Staatsdenken
+** TODO El - Das Kaisertum im Abendland
+** TODO Em - freibleibend
+** TODO En - Kirchengeschichte
+** TODO Eo - Mittelalterliches Geistesleben (Weltbild, Philosophie, Wissenschaften, Bildung und Unterricht)
+** TODO Ep - Kulturgeschichte
 *** 0001 - 0050 Gesamtdarstellungen
 *** 0051 - 0100 Studien und Sammlungen zur mittelalterlichen Kulturgeschichte
 **** 0054 - 0098 Ritual im Mittelalter
@@ -379,34 +502,34 @@ CLOSED: [2022-05-04 Wed 19:41]
 ***** 0771 Schiffbau
 **** 0801 - 0900 Wohnen und Hausrat (Architektur siehe Eq)
 **** 0901 - 0999 Sonstiges
-** Eq - Archäologie und Kunstgeschichte
-** Er - Kriegsgeschichte, Seefahrt
+** TODO Eq - Archäologie und Kunstgeschichte
+** TODO Er - Kriegsgeschichte, Seefahrt
 * TODO F - 15. - 18. Jahrhundert
-** Fa - Renaissance und Humanismus in Italien
-** Fb - Humanismus in Deutschland
-** Fc - Das Entdeckungszeitalter
-** Fd - Europäische Geschichte und Weltgeschichte 1492 bis 1559
-** Fe - Die Reformation in Deutschland (Quellen und Gesamtdarstellungen)
-** Ff - Die Reformatoren (Luther, Melanchthon, Zwingli, Calvin)
-** Fg - Deutsche Geschichte im Reformationszeitalter bis 1555
-** Fh - Reformation und Gegenreformation in den deutschen Ländern bis 1618
-** Fi - Wirtschaftsgeschichte des Frühkapitalismus
-** Fk - Europäische Länder im 16. Jahrhundert (außer Italien - Fa und Fl; Spanien - Fb; Deutschland - Fe bis Fh)
-** Fl - Die Gegenreformation: Europäische Politik und Weltpolitik 1559 - 1618
-** Fm - Deutsche Geschichte im Zeitalter der Gegenreformation bis 1618
-** Fn - Dreißigjähriger Krieg
-** Fo - Frankreich 1610 bis 1715
-** Fp - Europäische Geschichte und Weltgeschichte 1648 bis 1715 (1721)
-** Fr - Europäische Länder im 17. Jahrhundert (außer Frankreich - Fo und Deutschland)
-** Fs - Deutsche Geschichte 1648 bis 1740
-** Ft - Deutsche Länder 1648 bis 1740
-** Fu - Europäische Geschichte und Weltgeschichte 1715 bis 1789
-** Fw - Europäische Länder im 18. Jahrhundert (außer Frankreich - Fx und Deutschland)
-** Fx - Frankreich 1715 bis 1789 und die Aufklärung
-** Fy - Deutsche Geschichte 1700 bis 1789
-** Fz - Preußen 1713 bis 1796
+** TODO Fa - Renaissance und Humanismus in Italien
+** TODO Fb - Humanismus in Deutschland
+** TODO Fc - Das Entdeckungszeitalter
+** TODO Fd - Europäische Geschichte und Weltgeschichte 1492 bis 1559
+** TODO Fe - Die Reformation in Deutschland (Quellen und Gesamtdarstellungen)
+** TODO Ff - Die Reformatoren (Luther, Melanchthon, Zwingli, Calvin)
+** TODO Fg - Deutsche Geschichte im Reformationszeitalter bis 1555
+** TODO Fh - Reformation und Gegenreformation in den deutschen Ländern bis 1618
+** TODO Fi - Wirtschaftsgeschichte des Frühkapitalismus
+** TODO Fk - Europäische Länder im 16. Jahrhundert (außer Italien - Fa und Fl; Spanien - Fb; Deutschland - Fe bis Fh)
+** TODO Fl - Die Gegenreformation: Europäische Politik und Weltpolitik 1559 - 1618
+** TODO Fm - Deutsche Geschichte im Zeitalter der Gegenreformation bis 1618
+** TODO Fn - Dreißigjähriger Krieg
+** TODO Fo - Frankreich 1610 bis 1715
+** TODO Fp - Europäische Geschichte und Weltgeschichte 1648 bis 1715 (1721)
+** TODO Fr - Europäische Länder im 17. Jahrhundert (außer Frankreich - Fo und Deutschland)
+** TODO Fs - Deutsche Geschichte 1648 bis 1740
+** TODO Ft - Deutsche Länder 1648 bis 1740
+** TODO Fu - Europäische Geschichte und Weltgeschichte 1715 bis 1789
+** TODO Fw - Europäische Länder im 18. Jahrhundert (außer Frankreich - Fx und Deutschland)
+** TODO Fx - Frankreich 1715 bis 1789 und die Aufklärung
+** TODO Fy - Deutsche Geschichte 1700 bis 1789
+** TODO Fz - Preußen 1713 bis 1796
 * TODO G - Von der Französischen Revolution bis zum Ende des Zweiten Weltkriegs (1789 - 1945)
-** Gc Österreich und Preußen zur Zeit der französischen Revolution und Napoleon
+** TODO Gc Österreich und Preußen zur Zeit der französischen Revolution und Napoleon
 0001 - 0120 Österreich (zur Zeit Franz II.)
 0051 - 0090 Metternich und Gentz
 0121 - 0150 Preußen, allgemein
