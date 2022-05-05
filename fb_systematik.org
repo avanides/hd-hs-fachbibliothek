@@ -413,8 +413,77 @@ CLOSED: [2022-05-05 Thu 15:24]
 ******* 0766 - xxxx die Hunnen
 *** 0801 - 0900 Politische Geschichte der Mittelmeerwelt im 5. Jahrhundert (chronologisch)
 *** 0901 - 0999 Politische Geschichte der Mittelmeerwelt im 6. Jahrhundert (chronologisch)
-** TODO De - Das frühe Mittelalter, Gesamtdarstellungen: Das Zeitalter der Merowinger
-** TODO Df - Das Zeitalter der Karolinger
+** DONE De - Das frühe Mittelalter, Gesamtdarstellungen: Das Zeitalter der Merowinger
+CLOSED: [2022-05-05 Thu 21:35]
+*** 0001 - 0100 Gesamtdarstellungen des Frühmittelalters
+*** 0101 - 0200 Monographien zur _gesamten_ Geschichte des Frühmittelalters
+*** 0201 - 0300 Das nichtfränkische Frühmittelalter, 500 ff. (_nach_ der Wanderung) soweit nicht eng chronologisch begrenzt
+**** 0205 - 0250 Angelsachsen und Britannien
+**** 0251 - 0300 Byzanz
+*** 0301 - 0400 Gesamtdarstellungen der fränkischen Geschichte; Gesamtdarstellungen der Merowingerzeit
+*** 0401 - 0600 Monographien zur Geschichte des Frankenreichs, sachlich geordnet
+**** 0401 - 0420 zur gesamten fränkischen Geschichte
+**** 0421 - 0430 Völker im Frankenreich
+**** 0431 - 0450 das Problem der fränkischen Landnahme (soweit nicht chronologisch)
+**** 0451 - 0480 der archäologische Befund zur fränkischen Geschichte 
+**** 0481 - 0510 Kirche
+**** 0511 - 0550 Grundherrschaft; Agrar- und Wirtschaftsgeschichte
+**** 0581 - 0600 sonstiges
+*** 0601 - 0700 Monographien zum Frankenreich, räumlich geordnet
+**** 0601 - 0630 Neustrien
+**** 0631 - 0660 Austrasien und Nachbargebiete
+**** 0661 - 0681 Burgund und Provence
+**** 0682 - 0690 Aquitanien und Gascogne
+**** 0691 - 0700 sonstige Gebiete
+*** 0701 - 0800 Chronologische Anordnung, bis 511
+**** 0751 - xxxx Chlodwig
+*** 0801 - 0900 Das 6. Jahrhundert (ohne Mittelmeerraum)
+*** 0901 - 0999 Das 7. Jahrhundert und die erste Hälfte des 8. Jahrhunderts (mit Mittelmeerraum)
+**** 0951 - xxxx Mohammed
+
+** DONE Df - Das Zeitalter der Karolinger
+CLOSED: [2022-05-05 Thu 21:45]
+*** 0001 - 0100 Gesamtdarstellungen der Karolingerzeit
+*** 0101 - 0300 Monographien zur Karolingerzeit (sachlich)
+**** 0151 - 0170 archäologischer Befund
+**** 0171 - 0200 Kirche
+**** 0211 - 0270 Staat, Recht und Verfassung
+**** 0271 - 0300 Sozial- und Wirtschaftsgeschichte
+*** 0301 - 0400 Monographien zu einzelnen Gebieten des Karolingerreichs
+**** 0301 - 0310 der Südosten
+**** 0311 - 0340 Fränkische Kernlande
+**** 0341 - 0370 Provence
+**** 0371 - 0400 Italien
+*** 0401 - 0500 Das nichtfränkische Europa in karolingischer Zeit und seine Beziehungen zum Frankenreich
+**** 0401 - 0410 Byzanz
+**** 0411 - 0420 Mähren
+**** 0421 - 0450 Langobarden
+**** 0451 - 0470 Angelsachsen
+**** 0471 - 0500 Normannen
+*** 0501 - 0600 Die Karolinger vor Karl dem Großen (chronologische Anordnung)
+*** 0601 - 0799 Karl der Große und sein Zeitalter
+**** 0601 - 0609 bibliographische Hilfsmittel
+**** 0610 - 0630 Gesamtdarstellungen
+**** 0631 - 0660 Monographien
+**** 0661 - 0670 das Fortleben Karls des Großen
+**** 0671 - 0730 die Eroberungen und der Machtausbau
+***** 0681 - 0700 Sachsenkriege
+***** 0701 - 0710 ostfränkischer Machtausbau
+***** 0711 - 0720 Spanien
+***** 0721 - 0730 sonstiges
+**** 0731 - 0750 innere Regierung und Kultur
+**** 0751 - 0780 das Kaisertum Karls des Großen
+**** 0781 - 0799 sonstiges
+*** 0800 - 0850 Ludwig der Fromme und der Streit seiner Söhne (1.H.9.Jh.)
+*** 0851 - 0999 Die zweite Hälfte des 9. Jahrhunderts (843 ff.)
+**** 0851 - 0860 Gesamtdarstellungen
+**** 0861 - 0900 Sachmonographien
+**** 0901 - 0924 Vertrag von Verdun und unmittelbare Folgezeit
+**** 0925 - 0950 Nikolaus I. 
+**** 0951 - 0970 die Entwicklung seit 888
+**** 0971 - 0975 einzelne Gebiete: Italien
+**** 0976 - 0985 Frankenreich am Ende des 9. Jahrhunderts
+**** 0986 - 0999 Ostfranken (Deutschland) am Ende des 9. Jahrhunderts
 ** TODO Dg - Das Hochmittelalter, Gesamtdarstellungen: Das 10. Jahrhundert (Ottonen) und das 11. Jahrhundert (Salier vor dem Investiturstreit)
 *** 0001 - 0050 Gesamtdarstellungen der europäischen und deutschen Geschichte im Hochmittelalter
 **** 0001 - 0010 Bibliographische Hilfsmittel
