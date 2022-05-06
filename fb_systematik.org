@@ -746,10 +746,187 @@ CLOSED: [2022-05-06 Fri 19:36]
 *** 0751 - 0800 der deutsche Humanismus
 *** 0801 - 0999 Deutschland vor der Reformation, Kulturgeschichte
 * TODO E - Darstellungen zur Geschichte des Mittelalters, sachlich geordnet
-** TODO Ea - Geschichte europäischer Länder und Landschaften I. Die Mittelmeerländer
-** TODO Eb - Geschichte europäischer Länder und Landschaften II. West-, Nord- und Osteuropa
-** TODO Ec - Geschichte europäischer Länder und Landschaften III. Deutsche Gebiete
-** TODO Ed - freibleibend
+** DONE Ea - Geschichte europäischer Länder und Landschaften I. Die Mittelmeerländer
+CLOSED: [2022-05-06 Fri 21:15]
+*** 0001 - 0050 Gesamtdarstellungen und Monographien zum Mittelmeerraum im Mittelalter
+*** 0051 - 0070 Gesamtdarstellungen und Monographien zur mittelalterlichen Geschichte Südosteuropas
+*** 0071 - 0100 Ungarn
+*** 0101 - 0120 Die Südslaven (Gesamtdarstellungen und Monographien)
+*** 0121 - 0130 speziell: Kroaten, Slovenen
+*** 0141 - 0150 Die Serben
+*** 0151 - 0200 Bulgaren und andere Balkanvölker
+*** 0201 - 0400 Byzanz (Kirchengeschichte vgl. En 86 ff.)
+**** 0201 - 0220 Gesamtdarstellungen
+**** 0221 - 0230 Monographien zur Staats- und Kaiseridee
+**** 0231 - 0245 zur Verfassung und Verwaltung
+**** 0246 - 0250 auswärtige Beziehungen
+**** 0251 - 0270 frühmittelalterliche Byzanz
+**** 0271 - 0290 spätmittelalterliche Byzanz
+**** 0291 - 0310 spätmittelalterliche Byzanz
+**** 0311 - 0400 Die einzelnen Teile des Reichs
+***** 0321 - xxxx Griechenland und Athen
+*** 0401 - 0500 Die Kreuzfahrerstaaten
+**** 0401 - 0430 Gesamtdarstellungen und Monographien zu allen oder mehreren Kreuzfahrerstaaten
+**** 0431 - 0450 Königreich Jerusalem
+**** 0451 - 0460 Tripolis
+**** 0461 - 0470 Antiochien, Nord-Syrien
+**** 0471 - 0489 Sonstige
+**** 0490 - 0500 Völker Mittelasiens
+*** 0501 - 0600 Islamische Staaten
+**** a) im Osten
+**** b) im Süden des Mittelmeeres
+(im Westen siehe Iberische Halbinsel)
+*** 0601 - 0850 Italien im Mittelalter
+**** 0601 - 0640 Gesamtdarstellungen und Monographien zur ganzen italienischen Geschichte im Mittelalter
+**** 0641 - 0700 Unteritalien und Sizilien
+***** 0650 - 0670 Langobarden
+***** 0671 - 0679 Sizilien speziell
+***** 0680 - 0700 Normannen in Italien
+**** 0701 - 0780 Mittelitalien, Rom Kirchenstaat (vgl. Pf)
+***** 0701 - 0715 Kirchenstaat
+***** 0716 - 0730 Rom
+***** 0731 - 0750 Bologna und sonstige
+***** 0751 - 0760 Toscana
+***** 0761 - 0770 speziell Florenz
+***** 0771 - 0780 sonstige in Toscana
+**** 0781 - 0850 Oberitalien (von West nach Ost)
+***** 0781 - 0790 Gesamtdarstellungen und Monographien
+***** 0791 - 0800 Savoyen/Piemont
+***** 0801 - 0830 Mailand
+***** 0831 - 0850 Venedig
+*** 0851 - 0999 Iberische Halbinsel
+***** 0851 - 0880 Gesamtdarstellungen
+***** 0881 - 0890 Asturien, Navarra
+***** 0891 - 0920 Spanische Mark, Barcelona, Aragon
+***** 0921 - 0950 Kastilien, Leon
+***** 0951 - 0960 Portugal
+***** 0961 - 0999 Islamische Gebiete in Spanien
+** DONE Eb - Geschichte europäischer Länder und Landschaften II. West-, Nord- und Osteuropa
+CLOSED: [2022-05-06 Fri 21:51]
+*** 0001 - 0030 Westeuropa, Gesamtdarstellung und Monographien
+*** 0031 - 0350 Das mittelalterliche Frankenreich
+**** 0031 - 0050 Gesamtdarstellungen
+**** 0051 - 0060 Das Königtum
+**** 0061 - 0070 Beziehungen zu anderen Staaten
+**** 0071 - 0080 Nordfrankreich, Gesamtdarstellungen
+***** 0081 - 0105 Neustrien (ohne Normandie)
+****** 0091 - 0095 Anjou
+****** 0096 - 0100 Maine
+****** 0101 - 0105 Touraine
+***** 0106 - 0120 Bretagne
+***** 0121 - 0150 Normandie
+***** 0151 - 0180 Frandia, Paris, Ile de France (zu Paris nicht die stadtgeschcihtliche Literatur! Q)
+***** 0181 - 0200 Champagne
+***** 0201 - 0220 Flandern, Picardie
+**** 0221 - 0230 Südfrankreich, Gesamtdarstellungen
+***** 0231 - 0260 Aquitanien, Gesamtdarstellungen und speziell Poitou und einzelne Territorien Aquitaniens
+***** 0261 - 0280 Gascogne 
+***** 0281 - 0300 Der Südosten (Septimanien, Toulousain, Roussillon)
+***** 0301 - 0320 Auvergne und Centre (Berry)
+***** 0321 - 0350 französisch Burgund
+*** 0351 - 0400 "Burgund" im Spätmittelalter
+**** 0351 - 0370 Allgemeines, Kultur
+**** 0371 - 0385 Die frühe Periode
+**** 0386 - 0400 Die späte Periode
+*** 0401 - 0500 Königreich Burgund
+**** 0401 - 0430 Gesamtdarstellungen
+**** 0431 - 0460 Hochburgund
+**** 0461 - 0480 Niederburgund
+**** 0481 - 0500 Provence
+*** 0501 - 0600 England im Mittelalter
+**** 0501 - 0530 Gesamtdarstellungen
+**** 0531 - 0550 Früh- und Hochmittelalter
+**** 0551 - 0570 Spätmittelalter
+**** 0571 - 0600 Einzelne Landschaften
+*** 0601 - 0615 Wales
+*** 0616 - 0635 Schottland
+*** 0635 - 0650 Irland
+*** 0651 - 0750 Skandinavien im Mittelalter
+**** 0651 - 0670 Gesamtdarstellungen
+**** 0671 - 0700 Dänemark
+**** 0701 - 0720 Norwegen
+**** 0721 - 0750 Schweden
+*** 0751 - 0999 Osteuropa und die Slaven im Mittelalter
+**** 0751 - 0780 Gesamtdarstellungen
+**** 0781 - 0800 Westslaven (außer Polen)
+**** 0801 - 0850 Polen
+**** 0851 - 0870 Litauen
+**** 0871 - 0880 die Letten
+**** 0881 - 0900 die Esten
+**** 0901 - 0999 Rußland
+***** 0901 - 0930 Allgemeines
+***** 0931 - 0950 Früh- und Hochmittelalter
+***** 0951 - 0970 Spätmittelalter
+***** 0971 - 0999 Einzelne Gebiete
+****** 0981 - xxxx Ukraine
+** DONE Ec - Geschichte europäischer Länder und Landschaften III. Deutsche Gebiete
+CLOSED: [2022-05-06 Fri 22:09]
+*** 0001 - 0100 Bayern und Österreich
+**** 0001 - 0010 Gesamt (frühe bayerische Geschichte)
+**** 0011 - 0030 Ostmark-Österreich 
+**** 0031 - 0040 Kärnten, Krain Steiermark
+**** 0041 - 0050 Salzburg, Tirol, Vorderösterreich
+**** 0051 - 0080 Bayern
+**** 0081 - 0090 Nordgau, Oberpfalz
+**** 0091 - 0100 bayerisches Schwaben
+*** 0101 - 0200 Schwaben
+**** 0101 - 0110 Gesamt
+**** 0111 - 0115 Rätien, Chur
+**** 0116 - 0135 alemannische Schweiz
+***** 0116 - 0125 Gesamt und Entstehung
+***** 0126 - 0135 einzelne Gebiete
+**** 0136 - 0140 Bodenseegebiete 
+**** 0141 - 0160 Innerschwaben, Württemberg
+**** 0161 - 0180 Schwarzwald und Baden
+**** 0181 - 0200 Elsass
+*** 0201 - 0300 Franken
+**** 0201 - 0210 Gesamt
+**** 0211 - 0230 Mainfranken
+**** 0231 - 0250 Hessen
+**** 0251 - 0270 Rheinfranken
+**** 0271 - 0300 Pfalz, Worms und Speyer
+*** 0301 - 0380 Rheinlande
+**** 0301 - 0320 Gesamt
+**** 0321 - 0330 Westrich, Saarland
+**** 0331 - 0350 Kurtrier, Mosellande, Luxemburg, Eifel
+**** 0351 - 0370 Kurköln, Jülich, Kleve, Mark
+**** 0371 - 0380 sonstige niederrheinische Landschaften und Territorien
+*** 0381 - 0430 Oberlothringen
+**** 0381 - 0390 Gesamt
+**** 0391 - 0410 Herzogtum Lothringen
+**** 0411 - 0415 Bar
+**** 0416 - 0430 Metz, Toul, Verdun
+*** 0431 - 0500 Niederlothringen, Niederlande (und "Belgien")
+**** 0431 0 0450 Gesamt
+**** 0451 - 0470 Brabant, Limburg
+**** 0471 - 0485 Hennegau, Lüttich, Namur
+**** 0486 - 0500 Geldern, Utrecht, Friesland
+*** 0501 - 0600 Sachsen
+**** 0501 - 0530 Gesamt
+**** 0531 - 0550 Westfalen
+**** 0551 - 0560 Engern
+**** 0561 - 0580 Ostfalen
+**** 0581 - 0590 Hamburg-Bremen
+**** 0591 - 0600 Transalbingien, Holstein, Schleswig
+*** 0601 - 0650 Deutsche Ostkolonisation im Mittelalter, Gesamtdarstellungen und einzelne Aspekte
+*** 0651 - 0670 Mecklenburg
+*** 0671 - 0690 Pommern
+*** 0691 - 0730 Mark Brandenburg
+*** 0731 - 0750 Mark Meissen
+*** 0751 - 0770 Thüringen
+*** 0771 - 0780 Kursachsen
+*** 0781 - 0790 Lausitz
+*** 0791 - 0810 Schlesien
+*** 0811 - 0840 Böhmen
+*** 0841 - 0850 Mähren
+*** 0851 - 0999 Deutschordensgebiete und Deutschordensgeschichte als Territorialgeschichte
+**** 0851 - 0865 Gesamtdarstellungen
+**** 0866 - 0900 Monographien
+**** 0901 - 0930 Territorialgeschichte Preussens
+**** 0931 - 0960 einzelne Aspekte des Ordensstaates
+**** 0961 - 0999 zur chronologischen Geschichte des Ordensstaates
+** DONE Ed - frei
+CLOSED: [2022-05-06 Fri 22:10]
 ** TODO Ee - Rechtsgeschichte
 ** TODO Ef - Verfassungsgeschichte
 ** TODO Eg - Königtum, Zentralverwaltung, Königsgut
@@ -760,7 +937,8 @@ CLOSED: [2022-05-06 Fri 19:36]
 ** TODO Em - freibleibend
 ** TODO En - Kirchengeschichte
 ** TODO Eo - Mittelalterliches Geistesleben (Weltbild, Philosophie, Wissenschaften, Bildung und Unterricht)
-** TODO Ep - Kulturgeschichte
+** DONE Ep - Kulturgeschichte
+CLOSED: [2022-05-06 Fri 22:11]
 *** 0001 - 0050 Gesamtdarstellungen
 *** 0051 - 0100 Studien und Sammlungen zur mittelalterlichen Kulturgeschichte
 **** 0054 - 0098 Ritual im Mittelalter
