@@ -484,7 +484,8 @@ CLOSED: [2022-05-05 Thu 21:45]
 **** 0971 - 0975 einzelne Gebiete: Italien
 **** 0976 - 0985 Frankenreich am Ende des 9. Jahrhunderts
 **** 0986 - 0999 Ostfranken (Deutschland) am Ende des 9. Jahrhunderts
-** TODO Dg - Das Hochmittelalter, Gesamtdarstellungen: Das 10. Jahrhundert (Ottonen) und das 11. Jahrhundert (Salier vor dem Investiturstreit)
+** DONE Dg - Das Hochmittelalter, Gesamtdarstellungen: Das 10. Jahrhundert (Ottonen) und das 11. Jahrhundert (Salier vor dem Investiturstreit)
+CLOSED: [2022-05-06 Fri 09:06]
 *** 0001 - 0050 Gesamtdarstellungen der europäischen und deutschen Geschichte im Hochmittelalter
 **** 0001 - 0010 Bibliographische Hilfsmittel
 **** 0011 - 0050 Gesamtdarstellungen
@@ -495,7 +496,7 @@ CLOSED: [2022-05-05 Thu 21:45]
 **** 0171 - 0200 England 
 *** 0201 - 0700 Das 10. Jahrhundert und das Zeitalter der Ottonen
 **** 0201 - 0240 Gesamtdarstellungen
-**** 0241 - 0310 Monograpien
+**** 0241 - 0310 Monographien
 ***** 0291 Das Reichskirchensystem
 **** 0311 - 0330 Konrad I.
 **** 0331 - 0400 Heinrich I. 
@@ -517,11 +518,124 @@ CLOSED: [2022-05-05 Thu 21:45]
 ***** 0661 Normannen und Skandinavier
 ***** 0681 Ungarn und slavische Völker
 *** 0701 - 0999 Das 11. Jahrhudnert vor dem Investiturstreit
-** TODO Dh - Der Investiturstreit (letztes Drittel des 11. Jahrhunderts): Das Zeitalter der Staufer bis zum Tode Heinrichs VI. (12. Jh.)
+**** 0701 - 0750 Heinrich II.
+**** 0751 - 0775 Salier, Gesamtdarstellungen und Monographien zur salischen und frühsalischen Kaiserzeit
+**** 0776 - 0850 Konrad II.
+**** 0851 - 0950 Heinrich III.
+**** 0926 - 0950 Regentschaft der Agnes
+**** 0951 - 0999 Die Kirche vor dem Investiturstreit
+** DONE Dh - Der Investiturstreit (letztes Drittel des 11. Jahrhunderts): Das Zeitalter der Staufer bis zum Tode Heinrichs VI. (12. Jh.)
+CLOSED: [2022-05-06 Fri 09:20]
+*** 0001 - 0500 Das Zeitalter des Investiturstreits (2. Drittel 11. Jh. - 1125)
+**** 0001 - 0050 Gesamtdarstellungen des Investiturstreits
+**** 0051 - 0100 Monographien zur gesamten Geschichte des Investiturstreits
+**** 0101 - 0150 Unmittelbare Vorgeschichte des Streits
+**** 0151 - 0200 Heinrich IV. und seine Umgebung
+**** 0201 - 0250 Gregor VII. und seine Umgebung
+**** 0251 - 0300 Der Höhepunkt des Investiturstreits
+***** 0276 - 0284 Einzelne Fürsten und Territorien
+***** 0285 - 0300 einzelne Bischöfe und Bistümer
+***** 0301 - 0350 übrige Literatur zur 2. Hälfte des 11. Jh.
+***** 0351 - 0400 Nichtdeutsche Einzelstaaten, 2. Hälfte des 11. Jh.
+***** 0401 - 0450 der 1. Kreuzzug
+***** 0451 - 0500 Heinrich V. und das Wormser Konkordat
+**** 0500 - 0999 Das Zeitalter der Staufer (12. Jahrhundert)
+***** 0501 - 0550 Gesamtdarstellungen der Staufer und des 12. Jahrhunderts 
+***** 0551 - 0630 Monographien zum 12. Jahrhundert
+****** 0551 - 0580 Sachthemen
+******* 0561 - 0580 Zisterzienser
+****** 0581 - 0630 Regionalthemen (Ländern)
+******* 0581 - 0600 Normannen und Byzanz
+******* 0601 - 0610 Frankfreich
+******* 0612 - 0620 England
+******* 0621 - 0630 sonstige
+***** 0631 - 0660 Kaiser Lothar III.
+***** 0661 - 0700 Konrad III. und der 2. Kreuzzug
+***** 0701 - 0900 Friedrich I. Barbarossa und sein Zeitalter
+****** 0701 - 0710 Hilfsmittel
+****** 0711 - 0730 Gesamtdarstellungen
+***** 0731 - 0800 Monographien zur ganzen Regierungszeit
+******* 0751 - 0775 Staatsdenken und Reichsverfassung
+******* 0776 - 0800 einzelne Reichsteile, Heinrich der Löwe und sein Staat
+****** 0801 - 0840 Einzeldarstellungen zum chronologischen Ablauf bis 1158
+****** 0841 - 0850 dasselbe, 1159-1177
+****** 0851 - 0875 Alexander III.
+****** 0876 - 0900 dasselbe bis 1190
+******* 0876 - 0885 Italien nach dem Frieden von Venedig
+******* 0886 - 0895 der Prozess Heinrichs des Löwen
+******* 0896 - 0900 sonstiges
+****** 0901 - 0980 Heinrich VI.
+****** 0981 - 0999 Europa und der 3. Kreuzzug
 ** DONE Di - leer
 CLOSED: [2022-05-05 Thu 15:07]
-** TODO Dk - Das Spätmittelalter (nur Gesamtdarstellungen und Monographien)
-** TODO Dl - Geschichte des 13. Jahrhunderts
+** DONE Dk - Das Spätmittelalter (nur Gesamtdarstellungen und Monographien)
+CLOSED: [2022-05-06 Fri 12:55]
+*** 0001 - 0050 Spezialbibliographien, Hilfsmittel, Einführungen
+*** 0051 - 0100 Essais zum Charakter des Spätmittelalters
+*** 0101 - 0200 Gesamtdarstellungen der europäischen Geschichte im Spätmittelalter
+*** 0201 - 0300 dasselbe zur deutschen Geschichte im Spätmittelalter
+*** 0301 - 0500 Sachmonographien zum gesamten Spätmittelalter
+**** 0301 - 0350 (vergleichende) Verfassungsgeschichte
+**** 0351 - 0380 Kirchengeschichte
+**** 0381 - 0400 Kreuzzüge im Spätmittelalter
+**** 0401 - 0450 Wirtschafts- und Sozialgeschichte
+**** 0451 - 0500 Kulturgeschichte
+*** 0501 - 0999 Regionalmonographien zum gesamten Spätmittelalter
+**** 0701 - 0740 Westeuropa
+**** 0741 - 0760 nichtdeutsches Mitteleuropa
+**** 0761 - 0800 Osteuropa
+**** 0801 - 0999 deutsche Landschaften und Territorien
+***** 0801 - 0820 Bayern und Österreich
+***** 0821 - 0840 Schwaben, Elsass, Schweiz
+***** 0841 - 0860 Franken und Pfalz
+***** 0861 - 0880 Rheinlande
+***** 0881 - 0900 Lothringen
+***** 0901 - 0920 Sachsen und Thüringen
+***** 0921 - 0940 Mecklenburg und Pommern
+***** 0941 - 0960 Marken, Lausitz, Brandenburg
+***** 0961 - 0980 Böhmen und Schlesien
+***** 0981 - 0999 sonstiges (deutsches Ordensterritorium)
+Ordensgeschichts selbst siehe Ec
+
+** DONE Dl - Geschichte des 13. Jahrhunderts
+CLOSED: [2022-05-06 Fri 14:39]
+*** 0001 - 0150 Gesamtdarstellungen und Monographien zur Geschichte des 13. Jahrhunderts und einzelner Länder und Territorien in dieser Zeit
+**** 0001 - 0075 einzelne Länder
+***** 0051 - xxxx Italien
+**** 0076 - 0150 deutsche Territorien im 13. Jahrhundert
+*** 0151 - 0350 Sachmonographien zum 13. Jahrhundert
+**** 0151 - 0180 Papsttum und Rom
+**** 0181 - 0210 Bettelorden, vgl. En 721 ff.
+**** 0211 - 0250 Ende des Königreichs Jerusalem, späte Kreuzzüge
+**** 0250 - 0350 Verfassungsgeschichte
+*** 0351 - 0400 Das Zeitalter Innocenz III.
+**** 0381 - 400 Otto IV. und Philipp von Schwaben
+**** 0401 - 0700 Friedrich II. und der Untergang der Staufer
+***** 0401 - 0430 Gesamtdarstellungen der Geschichte Friedrichs II.
+***** 0431 - 0470 Monographien
+***** 0471 - 0500 chronologisch bis ca. 1220 
+***** 0501 - 0550 chronologisch 1220-1240, Gregor IX.
+***** 0581 - 0620 Konrad IV., Wilhelm von Holland
+***** 0621 - 0640 die Spätzeit Friedrichs, 1240-1250 und die ersten Gegenkönige
+***** 0641 - 0700 die letzten Staufer in Italien; Anjou in Italien
+****** 0651 - 0670 Manfred
+****** 0671 - 0680 Konradin
+****** 0681 - 0700 Karl von Anjou
+**** 0701 - 0800 ausserdeutsche Staaten im 13. Jahrhundert
+***** 0701 - 0730 Frankreich
+***** 0731 - 0750 England
+***** 0751 - 0800 sonstige
+**** 0801 - 0875 Deutschland im Zeitalter des Interregnum
+***** 0801 - 0810 Gesamtdarstellungen
+***** 0811 - 0840 Monographien über die Zustände im Interregnum
+***** 0841 - 0850 Richard von Cornwall
+***** 0851 - 0860 Alfons von Kastilien
+***** 0861 - 0875 Gregor X. und die letzten Jahre des Interregnums
+**** 0876 - 0950 Von der Wahl Rudolfs bis zum Tode Albrechts I.
+***** 0876 - 0920 Rudolf von Habsburg
+***** 0921 - 0930 Adolf von Nassau
+***** 0931 - 0950 Albrecht I.
+**** 0951 - 0999 Das Zeitalter Bonifaz VIII. und Philipps des Schönen
 ** TODO Dm - Geschichte des 14. Jahrhunderts
 ** DONE Dn - leer
 CLOSED: [2022-05-05 Thu 15:07]
