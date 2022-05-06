@@ -335,7 +335,8 @@ CLOSED: [2022-05-05 Thu 14:57]
 **** 0201 - 0300 Allgemeines
 **** 0301 - 0500 deutsche Landschaften
 *** 0501 - 0999 Außerdeutsche Länder und Gebiete, Auswertung in geographischer Anordnung
-* TODO D - Darstellungen zur Geschichte des Mittelalters, chronologisch geordnet
+* DONE D - Darstellungen zur Geschichte des Mittelalters, chronologisch geordnet
+CLOSED: [2022-05-06 Fri 19:36]
 ** DONE Da - Gesamtdarstellungen und Monographien zu gesamtmittelalterlichen Problemen
 CLOSED: [2022-05-05 Thu 15:09]
 *** DONE 0001 - 0100 Das Mittelalter: Literatur zum Begriff, zur Periodisierung, zur Problematik, zum 'Erbe des Mittelalters', Einzelnes
@@ -636,11 +637,114 @@ CLOSED: [2022-05-06 Fri 14:39]
 ***** 0921 - 0930 Adolf von Nassau
 ***** 0931 - 0950 Albrecht I.
 **** 0951 - 0999 Das Zeitalter Bonifaz VIII. und Philipps des Schönen
-** TODO Dm - Geschichte des 14. Jahrhunderts
+** DONE Dm - Geschichte des 14. Jahrhunderts
+CLOSED: [2022-05-06 Fri 19:10]
+*** 0001 - 0050 Gesamtdarstellungen und Monographien, sachlich
+*** 0051 - 0150 dasselbe, räumlich, außerdeutsche Länder
+**** 0131 - xxxx Byzanz, s. auch Türkei
+*** 0151 - 0250 dasselbe, räumlich, deutsche Territorien
+**** 0166 - xxxx Schweiz
+**** 0231 - xxxx Hanse (frühe Periode), Politische Geschichte
+*** 0251 - 0300 Heinrich VII.
+*** 0301 - 0351 Das Papsttum in Avignon
+*** 0351 - 0450 Ludwig der Bayer
+**** 0351 - 0360 Gesamtdarstellungen
+**** 0361 - 0450 Monographien
+***** 0371 - 0380 Deutsche Politik
+***** 0381 - 0390 Rhens
+***** 0391 - 0410 Kampf mit der Kurie
+***** 0411 - 0431 sonstiges in der Zeit Ludwig des Bayern
+*** 0451 - 0550 Der 100jährige Krieg (1. Phase, bis 1380)
+**** 0451 - 0470 Vorgeschichte in England und Frankreich
+**** 0471 - 0480 Gesamtdarstellungen des ganzen Krieges bzw. der 1. Phase
+**** 0481 - 0500 Monographien zum ganzen Krieg bzw. zur 1. Phase
+**** 0501 - 0520 chronologisch bis 1346
+**** 0521 - 0535 chronologisch bis 1360
+**** 0536 - 0550 chronologisch bis 1380, König Karl V.
+*** 0551 - 0650 Das Zeitalter Karls VI.
+**** 0551 - 0560 Gesamtdarstellungen
+**** 0561 - 0650 Monographien
+***** 0561 - 0610 Reichspolitik, Verfassungsgeschichte (Territ.- u. Städtepolitik)
+***** 0611 - 0620 Beziehungen zur Kurie
+***** 0621 - 0630 Außenpolitik
+***** 0631 - 0650 Sonstiges in seiner Zeit
+*** 0651 - 0750 König Wenzel und der Ausgang des 14. Jh. in Deutschland
+**** 0651 - 0680 Wenzel
+**** 0681 - 0720 Einzelne deutsche Fürsten und Territorien
+**** 0721 - 0750 Die Städte, die Fürsten udn der König
+*** 0751 - 0800 Das große Schisma
+**** 0751 - 0755 Gesamtdarstellungen
+**** 0756 - 0765 Verlauf; einzelne Päpste
+**** 0781 - 0800 einzelne Länder
+*** 0801 - 0900 Der burgundische Staat: Gesamtdarstellungen und Frühzeit
+**** 0801 - 0810 Gesamtdarstellungen der Geschichte der spätmittelalterlichen Herzöge von Burgund
+**** 0811 - 0850 Monographien
+**** 0851 - 0900 Philipp der Kühne
+*** 0901 - 0999 Der 100jährige Krieg (2. Phase, 1380-1415)
+**** 0941 - xxxx Armagnacs und Bourguignons
+***** 0951 - xxxx Cabochiens
+**** 0982 - xxxx England
 ** DONE Dn - leer
 CLOSED: [2022-05-05 Thu 15:07]
-** TODO Do - Geschichte des 15. Jahrhunderts
-** TODO Dp - Frührenaissance (Italien im 14. und 15. Jh.); Das Zeitalter Maximilians I.; Deutschland vor der Reformation
+** DONE Do - Geschichte des 15. Jahrhunderts
+CLOSED: [2022-05-06 Fri 19:30]
+*** 0001 - 0050 Gesamtdarstellungen und Monographien, sachlich 
+*** 0051 - 0150 dasselbe, räumlich, deutsche Geschichte und außerdeutsche Länder
+*** 0151 - 0250 dasselbe, räumlich, deutsche Territorien
+*** 0251 - 0300 König Ruprecht
+*** 0301 - 0420 Das Konzilszeitalter
+**** 0301 - 0310 Gesamtdarstellungen
+**** 0311 - 0330 Monographien
+**** 0331 - 0350 Konstanz
+**** 0351 - 0370 Basel
+**** 0371 - 0390 einzelne Personen und Probleme
+**** 0391 - 0420 Huss und die Hussitenkriege
+*** 0421 - 0500 Kaiser Sigismund
+**** 0421 - 0430 Gesamtdarstellungen
+**** 0431 - 0450 Monographien
+**** 0451 - 0480 deutsche Politik (zur Konzilspolitik siehe 331)
+**** 0481 - 0500 Außenpolitik
+*** 0501 - 0580 Der 100jährige Krieg (Endphase, 1415-1450)
+**** 0521 - xxxx Jeanne d'Arc
+**** 0551 - 0560 Friede von Arras
+**** 0561 - 0580 Karl VII.
+*** 0581 - 0630 Osteuropa
+**** 0601 - 0610 Polen und der deutsche Orden
+**** 0611 - 0630 Ungarn
+*** 0631 - 0650 König Albrecht II.
+*** 0651 - 0750 Friedrich III.
+**** 0651 - 0660 Gesamtdarstellungen
+**** 0661 - 0700 Monographien
+***** 0681 - 0700 Außenpolitik
+***** 0701 - 0750 chronologisch, 2. Hälfte 15. Jh.
+*** 0751 - 0800 Deutsche Landesfürsten im 15. Jahrhundert
+*** 0801 - 0950 Westeuropa in der 2. Hälfte des 15. Jahrhunderts
+**** 0811 - xxxx Ludwig XI.
+**** 0851 - xxxx Karl der Kühne
+*** 0951 - 0999 Osteuropa in der 2. Hälfte des 15. Jh.
+** DONE Dp - Frührenaissance (Italien im 14. und 15. Jh.); Das Zeitalter Maximilians I.; Deutschland vor der Reformation
+CLOSED: [2022-05-06 Fri 19:36]
+*** 0001 - 0100 Gesamtdarstellungen und Begriffsbestimmungen (Essais) zur Geschichte der italienischen Frührenaissance (Renaissancebegriff und Gesamtdarstellungen des ganzen Renaissance-Zeitalters sieh xxxx)
+*** 0101 - 0200 Monographien zur italienischen Frührenaissance
+*** 0201 - 0300 Italienischer Humanismus im engeren Sinne
+**** 0201 - 0220 Gesamtdarstellungen
+**** 0221 - 0250 Monographien
+**** 0251 - xxxx Aeneas Sylvio
+*** 0301 - 0500 Politische Geschichte Italiens im 14. u. 15. Jh.
+(zur Wirtschafts- und Sozialgeschichte siehe Q)
+**** 0301 - 0325 Gesamtdarstellungen
+**** 0326 - 0350 Monographien, sachlich
+**** 0351 - 0450 räumlich: einzelne Signorien und Prinzipate
+**** 0451 - 0500 Einzelnes (auch Personen), chronologisch
+*** 0501 - 0750 Das Zeitalter Maximilians I.
+**** 0501 - 0520 Gesamtdarstellungen
+**** 0521 - 0750 Monographien
+***** 0551 - 0600 die Reichsreformsbestrebungen
+***** 0601 - 0650 deutsche Territorien
+***** 0651 - 0680 Außenpolitik
+***** 0681 - 0750 außerdeutsche Staaten
+*** 0751 - 0800 der deutsche Humanismus
+*** 0801 - 0999 Deutschland vor der Reformation, Kulturgeschichte
 * TODO E - Darstellungen zur Geschichte des Mittelalters, sachlich geordnet
 ** TODO Ea - Geschichte europäischer Länder und Landschaften I. Die Mittelmeerländer
 ** TODO Eb - Geschichte europäischer Länder und Landschaften II. West-, Nord- und Osteuropa
