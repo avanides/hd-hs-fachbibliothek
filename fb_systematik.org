@@ -1090,8 +1090,10 @@ CLOSED: [2022-05-09 Mon 10:40]
 ** TODO Ei - Lehnswesen und Lehnrecht
 ** TODO Ek - Mittelatlerliches Staatsdenken
 ** TODO El - Das Kaisertum im Abendland
-** TODO Em - freibleibend
-** TODO En - Kirchengeschichte
+** DONE Em - freibleibend
+CLOSED: [2022-05-09 Mon 12:59]
+** DONE En - Kirchengeschichte
+CLOSED: [2022-05-09 Mon 12:59]
 *** 0001 - 0025 Allgemeine Geschichte der christlichen Kirche im Mittelalter
 *** 0026 - 0100 Gesamtdarstellungen der mittelalterlichen Kirchengeschichte einzelner Länder
 **** 0026 - 0045 Deutschland
@@ -1100,7 +1102,126 @@ CLOSED: [2022-05-09 Mon 10:40]
 **** 0071 - 0085 Osteuropa
 **** 0086 - 0100 Byzanz
 *** 0101 - 0170 Gesamtdarstellungen, nach Epochen (auch Monographien allgemeiner Art)
-** TODO Eo - Mittelalterliches Geistesleben (Weltbild, Philosophie, Wissenschaften, Bildung und Unterricht)
+**** 0101 - 0120 Frühmittelalter
+**** 0121 - 0140 Hochmittelalter
+**** 0141 - 0170 Spätmittelalter
+*** 0171 - 0250 Allgemeine kirchliche Verfassungsgeschichte im Mittelalter
+(zur Kanonistik siehe Ee)
+**** 0186 - 0190 Frühmittelalter
+**** 0191 - 0195 Hochmittelalter 
+**** 0196 - 0200 Spätmittelalter
+**** 0201 - 0220 Deutschland
+**** 0221 - 0250 andere Länder
+*** 0251 - 450 Monographien zur Geschichte des Papsttums im Mittelalter
+(Gesamtdarstellungen der Papstgeschichte sämtlich unter T)
+**** 0251 - 0280 der päpstliche Primat
+**** 0281 - 0300 die Papstwahl
+**** 0301 - 0320 Kardinalkollegium
+**** 0321 - 0340 Kirchenstaat (grundsätzlich, nicht territorialgeschichtlich)
+**** 0341 - 0350 Beziehungen zu Byzanz und zur Ostkirche
+**** 0351 - 0370 Päpstliche Lehnshoheitsansprüche über mittelalterliche Staaten
+**** 0371 - 0430 Kurialverwaltung
+***** 0401 - xxxx speziell Finanzverwaltung
+**** 0431 - 0440 päpstliche Symbole
+**** 0441 - 0450 Sonstiges
+*** 0451 - 0480 Die mittelalterlichen Konzilien
+*** 0481 - 0500 Kirchenprovinz und Metropolitangewalt
+*** 0501 - 0530 Bischof und Diözese
+*** 0531 - 0570 Wahl und Einsetzung der Beschöfe
+*** 0571 - 0600 Die Domkapitel und ihre Zusammensetzung
+*** 0601 - 0615 Der hohe Klerus und seine Herkunft
+*** 0616 - 0630 Organisation innerhalb der Diözesen, Pfründenwesen
+*** 0613 - 0770 Das mittelalterliche Mönchtum 
+**** 0631 - 0640 Gesamtdarstellungen
+**** 0641 - 0650 einzelne Probleme
+**** 0651 - 0660 das Mönchtum in einzelnen Ländern, Gesamtdarstellungen
+**** 0661 - 0670 vorbenediktinisches Mönchtum
+**** 0671 - 0700 die Benediktiner
+***** 0681 - 0700 die Reformbewegungen
+**** 0701 - 0720 die Zisterzienser
+**** 0721 - 0740 die Bettelorden (vgl. Dl 181 ff.)
+**** 0741 - 0750 sonstige Orden (En 748,15: Regularkanoniker)
+**** 0751 - 0770 Einzelne bedeutende Abteien des Mittelalters
+*** 0771 - 0950 Frömmigkeit und religiöses Leben im Mittelatler
+**** 0771 - 0780 Gesamtdarstellungen
+**** 0781 - 0810 einzelne Beispiele
+**** 0811 - 0820 Liturgie
+**** 0821 - 0840 Wunderglaube, Aberglaube, Wahnvorstellungen
+**** 0841 - 0860 Heiligenverehrung, Reliquienkult
+**** 0861 - 0880 Wallfahrten, Pilgerreisen
+**** 0881 - 0890 christliche Liebestätigkeit
+**** 0891 - 0900 Seelsorge
+**** 0901 - 0930 Häresien
+**** 0930 - 0950 Inquisition
+*** 0951 - 0999 Kirche und Staat im Mittelalter
+**** 0951 - 0955 Gesamtdarstellungen
+**** 0956 - 0960 Theoretische Grundlagen
+**** 0961 - 0970 Frühmittelalter
+**** 0971 - 0980 Hochmittelalter
+**** 0981 - 0990 Spätmittelalter
+**** 0991 - 0999 einzelne Länder
+** DONE Eo - Mittelalterliches Geistesleben (Weltbild, Philosophie, Wissenschaften, Bildung und Unterricht)
+CLOSED: [2022-05-09 Mon 15:51]
+*** 0001 - 0100 Gesamtdarstellungen des mittelalterlichen Geisteslebens und der mittelalterlichen Philosophie
+**** 0001 - 0020 Geistesleben allgemein, Gesamtdarstellungen
+**** 0021 - 0050 Aufsatzsammlungen und Studien zum Geistesleben
+**** 0051 - 0070 Gesamtdarstellungen zur Philosophiegeschichte
+**** 0071 - 0080 "Weltanschauung"
+**** 0081 - 0100 Aufsatzsammlungen und Einzelstudien zur Philosophiegeschichte
+*** 0101 - 0200 Gesamtdarstellungen und Monographien zur Einzelbereichen des mittelalterlichen Geisteslebens und der Philosophie
+**** 0111 - 0150 Naturgefühl
+**** 0151 - 0170 Ethik
+**** 0171 - 0200 Logik
+*** 0201 - 0500 Die Geschichte der mittelalterlichen Philosophie und des Geisteslebens, chronologisch geordnet
+**** 0201 - 0280 das Frühmittelalter
+***** 0201 - 0210 Gesamtdarstellungen
+***** 0211 - 0235 spätantike Voraussetzungen
+****** 0221 - 0235 Einzelnes (Augustin, Boetius)
+***** 0236 - 0280 die Patristik (sachlich, im Einzelnen)
+****** 0251 - xxxx Einzelne Philosophen
+**** 0281 - 0360 das Hochmittelalter
+***** 0281 - 0300 Gesamtdarstellungen (Frühscholastik)
+***** 0301 - 0325 das 10. und 11. Jh., Anselm
+***** 0326 - 0360 das 12. Jh.
+******* 0336 - 0340 Abälard
+******* 0341 - 0351 Bernhard
+******* 0352 - 0355 die Schule von Chartres
+******* 0356 - 0360 Johann von Salesbury
+**** 0361 - 0500 das Spätmittelalter 
+***** 0361 - 0380 Gesamtdarstellungen (Zeitalter der Scholastik)
+***** 0381 - 0385 Albert
+***** 0386 - 0395 Thomas von Aquin
+***** 0396 - 0400 Roger Bacon
+***** 0401 - 0405 andere Philosophen des 13. Jh.
+***** 0406 - 0410 die Mystik, Gesamtdarstellungen
+***** 0411 - 0420 Eckhart
+***** 0421 - 0430 Tauler u.a. Mystiker
+***** 0431 - 0450 andere Philosophen des 14. Jh., Occam
+***** 0451 - 0500 Spätscholastik im allgemeinen
+****** 0471 - 0500 Niolaus von Cues
+*** 0501 - 0600 Einzelne Wissenschaften im Mittelalter
+**** 0501 - 0510 Gesamtdarstellungen der Wissenschaftsgeschichte 
+**** 0511 - 0550 Naturwissenschaften (einschließlich Magie, Alchimie etc.)
+**** 0551 - 0600 sonstige Wissenschaften
+Komputistik siehe A (Chronologie)
+Musik siehe Eq (Kunstgeschichte)
+Technik siehe Ep (Kulturgeschichte)
+*** 0601 - 0999 Das mittelalterliche Bildungs- und Unterrichtswesen
+**** 0601 - 0620 Gesamtdarstellungen
+**** 0621 - 0640 Spätantike und Frühmittelalter
+**** 0641 - 0660 Hochmittelalter
+**** 0661 - 0700 Spätmittelalter
+**** 0701 - 0750 Einzelprobleme des Bildungswesens
+***** 0721 - xxxx Fortleben der Antike
+**** 0751 - 0800 Das Unterrichtssystem: Die Artes Liberales
+**** 0801 - 0850 Klosterschulen
+**** 0851 - 0900 Bischofs- und Kapitelschulen
+***** 0871 - xxxx einzelne bedeutende Schulen
+***** 0901 - 0950 Städtische, fürstliche und sonstige Schulen
+****** 0921 - xxxx einzelne Schulen
+***** 0951 - 0999 Die mittelalterlichen Universitäten
+****** 0951 - 0980 Gesamtdarstellungen und Entstehungsgeschichte
+****** 0981 - 0999 einzelne Universitäten
 ** DONE Ep - Kulturgeschichte
 CLOSED: [2022-05-06 Fri 22:11]
 *** 0001 - 0050 Gesamtdarstellungen
