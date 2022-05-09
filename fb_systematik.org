@@ -5,12 +5,13 @@
 
 ---
 
+[[https://github.com/avanides/hd-hs-fachbibliothek][laufend aktualisiert auf GitHub]]
+
 [[https://www.uni-heidelberg.de/md/zegk/histsem/seminar/systematik_hs.pdf][Maschinenschriftliche Systematik]]
 
 [[https://heibox.uni-heidelberg.de/seafhttp/files/e109dd32-78e0-4dad-9543-0959920bbc67/Historisches_Seminar_Heidelberg_Lageplan_Bibliothek.pdf][Plan der Fachbibliothek]]
 
 ---
-
 * DONE A - Hilfsmittel und Hilfswissenschaften, EDV-Literatur, Neue Medien
 CLOSED: [2022-05-03 Tue 20:27]
 ** Aa - Wörterbücher und philologische Hilfsmittel
@@ -748,7 +749,8 @@ CLOSED: [2022-05-06 Fri 19:36]
 ***** 0681 - 0750 außerdeutsche Staaten
 *** 0751 - 0800 der deutsche Humanismus
 *** 0801 - 0999 Deutschland vor der Reformation, Kulturgeschichte
-* DOING E - Darstellungen zur Geschichte des Mittelalters, sachlich geordnet
+* DONE E - Darstellungen zur Geschichte des Mittelalters, sachlich geordnet
+CLOSED: [2022-05-09 Mon 21:57]
 ** DONE Ea - Geschichte europäischer Länder und Landschaften I. Die Mittelmeerländer
 CLOSED: [2022-05-06 Fri 21:15]
 *** 0001 - 0050 Gesamtdarstellungen und Monographien zum Mittelmeerraum im Mittelalter
@@ -1086,10 +1088,137 @@ CLOSED: [2022-05-09 Mon 10:40]
 ***** 0901 - 0920 Frankreich
 ***** 0921 - 0940 England
 ***** 0941 - 0999 Sonstige
-** TODO Eh - Fürstentum, Landeshoheit
-** TODO Ei - Lehnswesen und Lehnrecht
-** TODO Ek - Mittelatlerliches Staatsdenken
-** TODO El - Das Kaisertum im Abendland
+** DONE Eh - Fürstentum, Landeshoheit
+CLOSED: [2022-05-09 Mon 20:29]
+"Adel" siehe Qd
+*** 0001 - 0120 Der großfränkische Hochadel als Vorstufe des hochmittelalterlichen Fürstentums in den karolingischen Nachfolgestaaten
+**** 0001 - 0030 Gesamtdarstellungen
+**** 0031 - 0060 Aufsatzsammlungen, Einzelstudien zum Gesamtproblem
+**** 0061 - 0120 Einzelne bedeutende Geschlechter
+*** 0121 - 0160 Die Entstehung des Fürstentums in Deutschland und Frankreich
+*** 0161 - 0200 Der Höhepunkt der Entwicklung des Fürstentums
+*** 0201 - 0250 Das Problem des "Stammesherzogtums"
+*** 0251 - 0300 Die Stufen der weltlichen Hierarchie: Literatur zu Herzog, Markgraf, Graf, etc. 
+*** 0301 - 0650 Die Entstehung der Landeshoheit und Territorien
+**** 0301 - 0320 Gesamtdarstellungen
+**** 0321 - 0350 Darstellungen für einzelne Territorien (nicht geistliche, siehe 821)
+**** 0251 - 0380 Das Problem des früh- und hochmittelalterlichen Gaus
+**** 0381 - 0420 Das Problem der Grafschaftsverfassung
+**** 0421 - 0440 Twing und Bann: Der Königsbann
+**** 0441 - 0480 Immunität, Vogtei und Eigenkirchenwesen
+***** 0511 - 0520 Die Eigenkirche, Gesamtdarstellungen
+***** 0521 - 0535 Einzelnes
+**** 0536 - 0550 Adelsimmunität und Allodialgut
+**** 0551 - 0600 Landfriedenswahrung
+**** 0601 - 0650 Fürstlicher Landesausbau, Rodung, Rodungsfreie, Städtegründung
+*** 0651 - 0700 Vom Lehnstaat zum Ständestaat
+*** 0701 - 0800 Das Reichskirchengut
+**** 0721 - 0750 Reichskirchensystem, Reichseigenkirchen
+**** 0751 - 0760 Servitium regis
+**** 0761 - 0780 Regalienrecht
+**** 0781 - 0800 Niederes Kirchengut
+*** 0801 - 0900 Die Entstehung der geistlichen Fürstentümer
+**** 0801 - 0820 Gesamtdarstellungen
+**** 0821 - 0850 Einzelne geistliche Territorien, soweit die Entstehung grundsätzlich
+**** 0851 - 0870 Die Beschofsherrschaft in der Civitas
+**** 0871 - 0890 Bedeutung von Immunität und Bannimmunität
+**** 0891 - 0900 Bischöfliche Eigenkirchen und Vogteirechte
+*** 0901 - 0950 Die deutschen Fürsten des Mittelalters und das Reich
+*** 0951 - 0999 Die deutschen Fürsten und die außerdeutschen Mächte
+** DONE Ei - Lehnswesen und Lehnrecht
+CLOSED: [2022-05-09 Mon 21:13]
+*** 0001 - 010 Gesamtdarstellungen
+**** 0001 - 0030 Für die ganze Welt des Lehnszeitalters
+**** 0031 - 0060 Lehnswesen im engeren Sinn
+**** 0061 - 0100 Lehnrecht im engeren Sinn
+*** 0101 - 0200 Literatur zur Entstehung des Lehnswesens und zu seinen Voraussetzungen: Vasallität und Beneficium
+*** 0201 - 0700 Einzelne Institute und Problemkreise des Lehnrechts
+**** 0201 - 0250 Lehnshierarchie
+**** 0251 - 0300 Vasall und Aftervasall: Treuvorbehalt
+**** 0301 - 0350 Das Beneficium: Die Ausstattung des Vasallen
+**** 0351 - 0400 Kommendation, Huldigung, Treueid
+**** 0401 - 0450 Die Lehnspflichten
+**** 0451 - 0500 Das Erb- und Vormundschaftsrecht im Lehrnrecht
+**** 0551 - 0600 Das Lehnrecht als Vermögensrecht
+**** 0601 - 0650 Sonstige Institute des Lehnrechts
+**** 0651 - 0700 Sonstiges zum Lehnwesen
+***** 0681 - 0700 Lehsbeziehungen und zwischenstaatliche Beziehungen
+*** 0701 - 0999 Lehnswesen und Lehnrecht in einzelnen Ländern und Landschaften Europas
+**** 0701 - 0800 Deutschland und deutsche Landschaften 
+**** 0801 - 0900 Westeuropa
+***** 0801 - 0850 Frankreich
+***** 0851 - 0900 Der anglonormannische Staat
+**** 0901 - 0999 Sonstige Länder
+** DONE Ek - Mittelatlerliches Staatsdenken
+CLOSED: [2022-05-09 Mon 21:24]
+*** 0001 - 0050 Gesamtdarstellungen für das ganze Mittelalter
+*** 0051 - 0080 Gesamtdarstellungen für das frühe Mittelalter
+*** 0081 - 0120 Gesamtdarstellungen für das hohe Mittelalter
+*** 0121 - 0200 Gesamtdarstellungen für das späte Mittelalter
+*** 0201 - 0300 Gesamtdarstellungen für einzelne Teile Europas
+*** 0301 - 0400 Die Funktion des Staats im christlichen Welt- und Geschichtsbild: Das augustinische Staatsdenken und sein Fortwirken im Mittelalter
+**** 0301 - 0320 Gesamtdarstellungen
+**** 0321 - xxxx zur Civitas Dei
+*** 0401 - 0450 Der Gedanke der monarchischen Gewalt und der Souveränität
+(Monarchie Mundi siehe El)
+*** 0451 - 0500 Die Lehre vom guten Herrscher und vom Tyrannen: Die Literatur der Fürstenspiegel
+*** 0501 - 0550 Die Lehre vom Consensus und von der Vertretung der Untertanen
+*** 0551 - 0600 Die Lehre vom Widerstandsrecht und vom Tyrannenmord
+*** 0601 - 0650 Die Lehre von der Volkssouveränität und ihre Entwicklungsstufen
+*** 0651 - 0720 Nationen und Nationalgedanke im Mittelalter
+**** 0651 - 0675 Gesamtdarstellungen und Begriffsbestimmungen
+**** 0676 - 0700 Früh- und Hochmittelalter
+**** 0701 - 0720 Spätmittelalter
+*** 0721 - 0999 Einzelne bedeutende Autoren zum mittelalterlichen Staatsdenken (nur Literatur dazu. Quellen siehe Bl)
+**** 0721 - 0750 Frühmittelalter
+**** 0751 - 0850 Hochmittelalter
+**** 0851 - 0999 Spätmittelalter
+***** 0851 - 0890 13. Jahrhundert
+****** 0876 - xxxx Marsilius von Padua
+***** 0891 - 0940 14. Jahrhundert
+****** 0901 - xxxx Dante (soweit politisches Denken. Vgl. Cf 756 ff.)
+***** 0941 - 0999 15. Jahrhundert
+** DONE El - Das Kaisertum im Abendland
+CLOSED: [2022-05-09 Mon 21:35]
+*** 0001 - 0100 Gesamtdarstellungen: Rom-, Kaiser- und Reichsgedanke im Mittelalter
+*** 0101 - 0150 Fortleben des antiken Romgedankens
+*** 0151 - 0200 Der antike Kaisergedanke und sein Fortleben
+**** 0166 - 0175 Heerkaisertum
+**** 0176 - 0185 Majestätsverbrechen
+**** 0186 - 0200 kaiserliche Prärogative
+*** 0201 - 0300 Byzanz und der Westkaiser
+**** 0201 - 0220 Gesamtdarstellungen und Grundsätzliches
+**** 0221 - 0230 im Zeitalter der Karolinger
+**** 0231 - 0240 im Zeitalter der Ottonen und Salier
+**** 0241 - 0260 im Zeitalter der Staufer
+**** 0261 - 0275 im Spätmittelalter
+**** 0276 - 0300 Einzelfragen
+*** 0301 - 0550 Kaisertum und Papsttum (nur allgemeine und grundsätzliche Abhandlungen)
+**** 0401 - 0430 Die Kaiserkrönung
+**** 0431 - 0450 Kaiserliturgie
+**** 0451 - 0500 Die Herrschaft des Kaisers in Rom
+***** 0471 - 0480 im Zeitalter der Karolinger
+***** 0481 - 0490 im Zeitalter der Ottonen und Salier
+***** 0491 - 0500 Seit der Stauferzeit
+**** 0501 - 0550 Der Gedanke der Translatio Imperii
+*** 0551 - 0600 "Romfreies" Kaisertum
+*** 0601 - 0650 Die fränkische Reichsidee und ihr Fortleben
+*** 0651 - 0900 Kaisertum und Reichsidee im deutschen Mittelalter
+**** 0651 - 0700 Allgemeines: Beziehungen zu abhängigen Staaten
+**** 0701 - 0720 Ostkriege und Mission
+**** 0721 - 0750 Kaisertum und deutsches Königtum
+**** 0751 - 0850 Einzelnes, chronologisch
+***** 0751 - 0770 Ottonen
+***** 0771 - 0790 Salier
+***** 0791 - 0820 Staufer
+***** 0821 - 0850 Spätmittelalter
+**** 0851 - 0900 Die Kaisersage
+***** 0871 - xxxx Endkaiser-Prophetie
+*** 0901 - 0950 Das mittelalterliche Kaisertum in der Auffassung der nichtdeutschen Völker
+**** 0921 - 0930 Ottonenzeit
+**** 0931 - 0940 Salierzeit
+**** 0941 - 0950 seit der Stauferzeit
+*** 0951 - 0999 Die Beziehungen des Kaisertums zu anderen souveränen Staaten
 ** DONE Em - freibleibend
 CLOSED: [2022-05-09 Mon 12:59]
 ** DONE En - Kirchengeschichte
@@ -1252,8 +1381,99 @@ CLOSED: [2022-05-06 Fri 22:11]
 ***** 0771 Schiffbau
 **** 0801 - 0900 Wohnen und Hausrat (Architektur siehe Eq)
 **** 0901 - 0999 Sonstiges
-** TODO Eq - Archäologie und Kunstgeschichte
-** TODO Er - Kriegsgeschichte, Seefahrt
+** DONE Eq - Archäologie und Kunstgeschichte
+CLOSED: [2022-05-09 Mon 21:47]
+*** 0001 - 0020 Gesamtdarstellungen der mittelalterlichen Kunstgeschichte
+*** 0021 - 0040 Aufsatzsammlungen und Einzelstudien
+*** 0041 - 0200 Kunstgeschichte einzelner Länder
+**** 0041 - 0090 Deutschland
+***** 0071 - xxxx
+**** 0091 - 0110 Frankreich
+**** 0111 - 0130 England
+**** 0131 - 0160 Italien
+**** 0161 - 0200 Sonstige
+*** 0201 - 0300 Gesamtdarstellungen, chronologisch geordnet
+**** 0201 - 0220 Frühmittelalter (karolingische Kunst)
+**** 0221 - 0250 Hochmittelalter (Ottonische, salische staufische Romanik)
+**** 0251 - 0300 Spätmittelalter (Gotik)
+*** 0301 - 0400 Malerei des Mittelalters
+**** 0301 - 0320 Gesamtdarstellungen
+**** 0321 0 0250 Miniatur, Buchmalerei
+**** 0351 - 0390 Tafelmalerei
+***** 0371 - 0390 einzelne Künstler
+**** 0391 - 0400 Sonstiges
+*** 0401 - 0500 Plastik des Mittelalters
+**** 0401 0 0415 Gesamtdarstellungen
+**** 0416 - 0440 Großplastik (Bildhauerei)
+**** 0441 - 0460 Kleinplastik (z.B. Elfenbein)
+**** 0461 - 0480 Siegel- und Münzkunst
+**** 0481 - 0500 Sonstiges
+*** 0501 - 0620 Herrscherbilder und Herrschaftszeichen des Mittelalters
+**** 0501 - 0530 Herrscherbilder
+**** 0531 - 0550 Herrschaftszeichen und Staatssymbolik, Allgemeines
+**** 0551 - 0565 Deutsche Reichskleinodien
+**** 0566 - 0620 Einzelne Zeichen
+***** 0566 - 0570 Kronen
+***** 0571 - 0575 Thron
+***** 0576 - 0580 Gewänder
+***** 0581 - 0585 Lanze
+***** 0586 - 0590 Szepter
+***** 0591 - 0595 Globus
+***** 0596 - 0599 Sonstiges (Herrschergrab)
+***** 0600 - 0620 Rechtsarchäologie
+*** 0621 - 0900 Geschichte der mittelalterlichen Architektur
+**** 0621 - 0635 Gesamtdarstellungen
+**** 0636 - 0650 Frühmittelalter (Vorromanik)
+**** 0651 - 0675 Hochmittelalter (Romanik)
+**** 0676 - 0700 Spätmittelalter (Gotik)
+**** 0701 - 0750 Sakrale Architektur
+**** 0751 - 0850 Der mittelalterliche Profanbau
+***** a) der Wehrbau, Burgen und Schlößer
+***** 0751 - 0770 Gesamtdarstellungen der mittelalterlichen Befestigungskunst
+***** 0771 - 0790 Burgen im Allgemeinen
+***** 0791 - 0800 Königspfalzen und Königsburgen
+***** 0801 - 0850 Einzelne Burgen und feste Häuser
+**** 0851 - 0900 der mittelalterliche Profanbau
+***** b) Wohnbauten
+*** 0901 - 0950 Kleinkusnt, Kunsthandwerk
+*** 0951 - 0999 Musikgeschichte des Mittelalters
+** DONE Er - Kriegsgeschichte, Seefahrt
+CLOSED: [2022-05-09 Mon 21:55]
+(Befestigungskunst siehe Eq 751 ff.)
+*** 0001 - 0050 Gesamtdarstellungen der mittelalterlichen Kriegsgeschichte
+*** 0051 - 0100 Einzelstudien und Sammelwerke
+*** 0101 - 0150 Kriegsgeschichte des frühen Mittelalters
+*** 0151 - 0200 Allgemeine und deutsche Kriegsgeschichte im Hochmittelalter
+*** 0201 - 0300 Allgemeine und deutsche Kriegsgeschichte im Spätmittelalter
+*** 0301 - 0500 Kriegsgeschichte nichtdeutscher Länder im Mittelalter
+**** 0301 - 0330 Italien
+**** 0331 - 0370 Frankfreich
+**** 0371 - 0390 England und britische Inseln
+**** 0391 - 0410 Skandinavien
+**** 0411 - 0430 Slavische Länder
+**** 0431 - 0460 Byzanz
+**** 0461 - 0490 Islam
+**** 0491 - 0500 Sonstige
+*** 0501 - 0800 Einzelprobleme der mittelalterlichen Kriegskunst und Geschichte
+**** 0501 - 0530 Truppenstärke
+**** 0531 - 0550 Marschgeschwindigkeit
+**** 0551 - 0570 Versorgung: Nachschub
+**** 0571 - 0600 Rekrutierung, Aufgebot, Söldnerwesen (581)
+**** 0601 - 0650 Bewaffnung
+***** 0631 - xxxx Feuerwaffen
+**** 0651 - 0680 Heeresorganisation und Verwaltung
+**** 0681 - 0700 Schlachtschilderung im Mittelalter: Vorstellung vom Krieg
+**** 0701 - 0730 Krieg als Gottesurteil: Bellum justum
+**** 0731 - 0750 Krieg und Fehde: Die Schlachtordnung und Ankündigung
+**** 0751 - 0770 "Verheeren" als Kriegsform
+**** 0771 - 0800 Sonstiges
+*** 0801 - 0999 Seefahrt und Seekrieg im Mittelalter (Schiffbau siehe Ep 771)
+**** 0801 - 0820 Gesamtdarstellungen
+**** 0821 - 0840 Frühmittelalter
+**** 0841 - 0860 Hochmittelalter
+**** 0861 - 0900 Spätmittelalter
+**** 0901 - 0950 Die Nordseeländer
+**** 0951 - 0999 Die Mittelmeerländer
 * TODO F - 15. - 18. Jahrhundert
 ** TODO Fa - Renaissance und Humanismus in Italien
 ** TODO Fb - Humanismus in Deutschland
