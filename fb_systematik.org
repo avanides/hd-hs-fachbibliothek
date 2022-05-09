@@ -1,4 +1,7 @@
 #+TITLE: Systematische Bibliotheksgliederung des Historischen Seminars
+#+SUBTITLE: Ruprecht-Karls-Universität Heidelberg
+#+DATE: Last Updated: \today
+#+LATEX_HEADER: \usepackage[a4paper]{geometry}
 
 ---
 
@@ -745,7 +748,7 @@ CLOSED: [2022-05-06 Fri 19:36]
 ***** 0681 - 0750 außerdeutsche Staaten
 *** 0751 - 0800 der deutsche Humanismus
 *** 0801 - 0999 Deutschland vor der Reformation, Kulturgeschichte
-* TODO E - Darstellungen zur Geschichte des Mittelalters, sachlich geordnet
+* DOING E - Darstellungen zur Geschichte des Mittelalters, sachlich geordnet
 ** DONE Ea - Geschichte europäischer Länder und Landschaften I. Die Mittelmeerländer
 CLOSED: [2022-05-06 Fri 21:15]
 *** 0001 - 0050 Gesamtdarstellungen und Monographien zum Mittelmeerraum im Mittelalter
@@ -927,15 +930,176 @@ CLOSED: [2022-05-06 Fri 22:09]
 **** 0961 - 0999 zur chronologischen Geschichte des Ordensstaates
 ** DONE Ed - frei
 CLOSED: [2022-05-06 Fri 22:10]
-** TODO Ee - Rechtsgeschichte
-** TODO Ef - Verfassungsgeschichte
-** TODO Eg - Königtum, Zentralverwaltung, Königsgut
+** DONE Ee - Rechtsgeschichte
+CLOSED: [2022-05-07 Sat 22:07]
+Gesamtdarstellungen und Monographien zur mittelalterlichen Rechtsgeschichte (außer Lehnrecht, siehe Ei)
+
+Zu den Rechtsquellen, siehe Ba, Be - Bi, zur Literatur über Rechtsquellen Cd 0801 - 0950
+
+*** 0001 - 0050 Gesamtdarstellungen der europäischen Rechtsgeschichte im Mittelalter
+*** 0051 - 0250 Gesamtdarstellungen der Rechtsgeschichte einzelner Länder
+**** 0051 - 0100 Deutschland
+***** 0081 - 0090 Oberdeutschland
+***** 0091 - 0100 Niederdeutschland
+**** 0101 - 0115 Italien
+**** 0116 - 0125 Spanien und Portugal
+**** 0126 - 0144 Frankreich
+**** 0145 - 0150 Burgund und Provence
+**** 0151 - 0175 England
+**** 0176 - 0180 sontiges, britische Inseln
+**** 0181 - 0200 Skandinavien
+**** 0201 - 0220 Slavische Länder
+**** 0221 - 0250 sonstige Länder
+*** 0251 - 0350 Gesamtdarstellungen und Monographien zu einzelnen Rechtsmaterien
+**** 0251 - 0275 Gerichtsverfassung, Rechtsverfahren
+***** 0266 - xxxx Gottesurteil
+**** 0276 - 0300 Strafrecht
+**** 0301 - 0350 Sonstiges
+***** 0301 - xxxx Fehderecht
+*** 0351 - 0450 Das römische Recht im Mittelalter
+**** 0351 - 0380 Gesamtdarstellungen, Grundsätzliches, Essais
+**** 0381 - 0390 Frühmittelalter
+**** 0391 - 0400 Hochmittelalter
+**** 0401 - 0425 Spätmittelalter
+**** 0426 - 0450 
+*** 0451 - 0550 Das mittelalterliche Kirchenrecht (Kanonistik)
+**** 0451 - 0470 Gesamtdarstellungen
+**** 0471 - 0480 Das vorgratianische Kirchenrecht, Gesamtdarstellungen
+**** 0481 - 0500 dasselbe, Einzlnes
+**** 0501 - 0550 Das nachgratianische Kirchenrecht
+*** 0551 - 0600 Gesamtdarstellungen der germanischen Rechtsgeschichte und Monographien zu den germanischen Grundlagen des mittelalterlichen Rechtslebens
+*** 0601 - 0650 Literatur zur Rechtsgeschichte des Frühmittelalters (mit Ausnahme der fränkischen Rechtsgeschichte)
+*** 0651 - 0750 Die fränkische Zeit 
+**** 0651 - 0670 Gesamtdarstellungen: Die fränkischen Volksrechte
+**** 0671 - 0680 Gerichtsverfassung und -verfahren
+**** 0681 - 0700 Strafrecht
+**** 0701 - 0750 einzelne Materien
+***** a) Wergeld
+*** 0751 - 0850 Das Hochmittelalter
+**** 0751 - 0770 Gesamt
+**** 0771 - 0780 Strafrecht
+**** 0801 - 0850 einzelnes
+*** 0851 - 0999 Das Spätmittelalter
+**** 0851 - 0875 Gesamt
+**** 0876 - 0899 Gerichtsverfassung
+**** 0900 - 0925 Strafrecht
+**** 0926 - 0999 Sontiges
+** DONE Ef - Verfassungsgeschichte
+CLOSED: [2022-05-08 Sun 09:14]
+(vgl. jedoch auch Eg Königtum, Zentralverwaltung, Königsgut; Eh Fürstentum, Landeshoheit; Ei Lehnswesen, Lehnrecht; Ek Mittelalterliches Staatsdenken; El Kaisertum im Abendland)
+*** 0001 - 0050 Gesamtdarstellungen der europäischen Verfassungsgeschichte (vergleichende Verfassungsgeschichte). Auch Monographien, Essais und Aufssatzsammlungen zu diesem Fragenkreis
+*** 0051 - 0250 Die Verfassungsgeschichte der einzelnen Länder
+**** 0051 - 0100 Deutschland
+**** 0101 - 0115 Italien
+**** 0116 - 0125 Spanien und Portugal
+**** 0126 - 0145 Frankfreich
+**** 0146 - 0150 Burgund und Provence
+**** 0151 - 0175 England
+**** 0176 - 0180 Sonstiges, britische Inseln
+**** 0181 - 0200 Slavische Länder
+**** 0221 - 0250 Sonstiges
+*** 0251 - 0400 Monographien zu einzelnen Problemen der mittelalterlichen Verfassungsgeschichte
+**** 0251 - 0260 Widerstandsrecht
+**** 0261 - 0280 Ständewesen
+**** 0281 - 0300 Landfrieden
+***** 0291 - xxxx Gottesfrieden (Landeshoheit siehe Eh)
+**** 0301 - 0320 Zentz
+**** 0231 - 0340 Pfalzgraphen
+**** 0341 - 0360 Gesandtschaftswesen
+**** 0361 - 0400 Sonstiges
+*** 0401 - 0600 Frühmittelalter und fränkische Zeit
+**** 0401 - 0420 Allgemeines
+**** 0421 - 0450 Fränkische Verfassungsgeschichte
+**** 0451 - 0500 Einzelnes, sachlich
+**** 0501 - 0600 Einzelnes, chronologisch
+*** 0601 - 0800 Hochmittelalter
+**** 0601 - 0630 Gesamtdarstellungen
+**** 0631 - 0700 Einzelnes, sachlich
+**** 0701 - 0800 Einzelnes, chronologisch
+*** 0801 - 0999 Spätmittelalter
+**** 0801 - 0830 Gesamtdarstellungen
+**** 0831 - 0900 Einzelnes, sachlich
+**** 0901 - 0999 Einzelnes, chronologisch
+** DONE Eg - Königtum, Zentralverwaltung, Königsgut
+CLOSED: [2022-05-09 Mon 10:40]
+*** 0001 - 0050 Allgemeines zum mittelalterlichen Königtum
+**** 0031 - 0050 Aufsatzsammlungen
+*** 0051 - 0200 Monographien zum mittelalterlichen Königtum
+**** 0051 - 0060 Ursprünge
+**** 0061 - 0080 Königsheil
+**** 0081 - 0100 Geblütsrecht (zur Wahl siehe 201 ff.)
+**** 0101 - 0120 Gottesgnadentum
+**** 0121 - 0130 Königsverehrung
+***** 0128 - 0130 Christus als König und Lehnherr
+**** 0131 - 0150 Königsgewalt (Souveränität)
+**** 0151 - 0180 Königtum und Recht
+**** 0181 - 0200 Sonstiges
+*** 0201 - 0400 Königswahl, Krönung und Erhebung
+**** 0201 - 0230 Gesamtdarstellungen
+**** 0231 - 0270 im Einzelnen, sachlich
+**** 0271 - 0400 im Einzelnen, chronologisch
+***** 0271 - 0290 Frühmittelalter
+***** 0291 - 0310 Hochmittelalter
+***** 0311 - 0350 Spätmittelalter
+****** 0321 - xxxx Kurfürstenkolleg
+***** 0351 - 0370 Krönung
+***** 0371 - 0385 Krönungsordnungen
+***** 0386 - 0400 Krönungsgeld
+*** 0401 - 0600 Die königliche Familie: Hof und Zentralverwaltung
+**** 0401 - 0440 Die Familie des Königs
+***** 0411 - 0420 die Königin
+***** 0421 - 0440 der Thronfolger und die übrigen Kinder des Königs
+**** 0441 - 0600 Der Hof und die Zentralverwaltung
+***** 0441 - 0450 Allgemein
+***** 0451 - 0465 die Kapelle
+***** 0466 - 0490 die Hofämter
+***** 0491 - 0500 Missi und andere Machtboten
+***** 0501 - 0520 Gesandschaftswesen
+***** 0521 - 0530 Hoftage
+***** 0531 - 0570 Curia regis, Teilnahme der Großen an der Regierung
+***** 0571 - 0600 Sonstiges (z.B. Steuerwesen und Verwaltung)
+*** 0601 - 0999 Königsgut (Reichtsgut)
+**** 0601 - 0630 Gesamtdarstellungen
+**** 0631 - 0650 Verwlater und Inhaber des Königsguts: Die Königsfreien
+**** 0651 - 0680 Reichsgutsurbare
+**** 0681 - 0750 Einzelnes, chronologisch
+***** 0681 - 0690 Der spätantike Fiskus
+***** 0691 - 0710 Merowinger und Karolinger
+***** 0711 - 0717 Ottonen
+***** 0718 - 0724 Salier
+***** 0725 - 0730 Staufer
+***** 0731 - 0750 Spätmittelalter
+**** 0751 - 0999 Königsgutin einzelnen Ländern und Landschaften
+***** 0751 - 0850 Deutschland
+****** 0751 - 0760 Bayern und Österreich
+****** 0761 - 0780 Schwaben und Elsass
+****** 0781 - 0800 Franken und Rheinland
+****** 0801 - 0815 Ober- und Niederlothringen
+****** 0816 - 0830 Sachsen und Thüringen
+****** 0831 - 0840 Gebiete der Ostkolonisation
+****** 0841 - 0850 Norddeutschland
+***** 0851 - 0885 Italien
+****** 0861 - 0870 Lombardei
+****** 0871 - 0880 Toscana
+****** 0881 - 0885 Sonstiges
+***** 0886 - 0900 Burgund
+***** 0901 - 0920 Frankreich
+***** 0921 - 0940 England
+***** 0941 - 0999 Sonstige
 ** TODO Eh - Fürstentum, Landeshoheit
 ** TODO Ei - Lehnswesen und Lehnrecht
 ** TODO Ek - Mittelatlerliches Staatsdenken
 ** TODO El - Das Kaisertum im Abendland
 ** TODO Em - freibleibend
 ** TODO En - Kirchengeschichte
+*** 0001 - 0025 Allgemeine Geschichte der christlichen Kirche im Mittelalter
+*** 0026 - 0100 Gesamtdarstellungen der mittelalterlichen Kirchengeschichte einzelner Länder
+**** 0026 - 0045 Deutschland
+**** 0046 - 0060 West- und Nordeuropa
+**** 0061 - 0070 Südeuropa
+**** 0071 - 0085 Osteuropa
+**** 0086 - 0100 Byzanz
+*** 0101 - 0170 Gesamtdarstellungen, nach Epochen (auch Monographien allgemeiner Art)
 ** TODO Eo - Mittelalterliches Geistesleben (Weltbild, Philosophie, Wissenschaften, Bildung und Unterricht)
 ** DONE Ep - Kulturgeschichte
 CLOSED: [2022-05-06 Fri 22:11]
