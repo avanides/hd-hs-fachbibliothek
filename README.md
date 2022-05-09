@@ -1,1 +1,2 @@
-# hd-hs-fachbibliothek
+# Systematische Bibliotheksgliederung des Historischen Seminars
+## in suchbarer Form
