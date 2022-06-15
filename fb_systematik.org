@@ -983,22 +983,8 @@ CLOSED: [2022-05-06 Fri 22:09]
 CLOSED: [2022-06-15 Wed 10:59]
 *** 0001 - 0199 Allgemein und Theorie
 *** 0200 - 0399 Orientierung: Afrika
-**** xxxx - xxxx Allgemein
-**** xxxx - xxxx Nordafrika
-**** xxxx - xxxx Südafrika
-**** xxxx - xxxx Westafrika
-**** xxxx - xxxx Ostafrika
 *** 0400 - 0599 Orientierung: Asien
-**** xxxx - xxxx Allgemein
-**** xxxx - xxxx Nordasien
-**** xxxx - xxxx Südasien
-**** xxxx - xxxx Zentralasien
-**** xxxx - xxxx Westasien
-**** xxxx - xxxx Ostasien
 *** 0600 - 0799 Orientierung: Die Amerikas
-**** xxxx - xxxx Allgemein
-**** xxxx - xxxx Nordamerika
-**** xxxx - xxxx Südamerika
 *** 0800 - 0999 Orientierung: Ozeanien
 ** DONE Ee - Rechtsgeschichte
 CLOSED: [2022-05-07 Sat 22:07]
