@@ -9,8 +9,6 @@
 
 [[https://www.uni-heidelberg.de/md/zegk/histsem/seminar/systematik_hs.pdf][Maschinenschriftliche Systematik]]
 
-[[https://heibox.uni-heidelberg.de/seafhttp/files/e109dd32-78e0-4dad-9543-0959920bbc67/Historisches_Seminar_Heidelberg_Lageplan_Bibliothek.pdf][Plan der Fachbibliothek]]
-
 ---
 * DONE A - Hilfsmittel und Hilfswissenschaften, EDV-Literatur, Neue Medien
 CLOSED: [2022-05-03 Tue 20:27]
@@ -168,6 +166,50 @@ CLOSED: [2022-05-03 Tue 20:27]
 *** 0601 - 0900 EDV-Literatur
 * TODO B - Quellen zur Geschichte des Mittelalters
 ** Ba - Allgemeine Quellensammlungen, Folio und Quart, innerhalb der MGH
+*** 0001 - 0100 MGH SS
+**** 0001 - 0035 SS., Folio Serie
+**** 0051 - 0065 Auct. Ant.
+**** 0071 - 0077 SS. rer. Merov.
+**** 0080 - xxxx SS. rer. Langob.
+**** 0082 - xxxx Gesta pont. Roman.
+**** 0084 - 0089 SS. qui vernacula lingua usi sunt
+**** 0093 - 0095 Libelli de lite
+*** 0101 - 0150 MGH LL., Folio-Serie
+**** 0101 - 0105 LL, Folio
+**** 0106 - 0120 LL., Sectio I, Volkerecht
+**** 0121 - 0122 LL., Sectio II, Capitularia
+**** 0126 - 0134 LL., Sectio III, Concilia
+**** 0135 - 0147 LL., Sectio IV, Constitutiones
+**** 0148 - xxxx LL., Sectio V, Formulae
+*** 0151 - 0200 MGH DD
+**** 0151 - xxxx DD. Mrov. (Folio)
+**** 0152 - 0154 frei für DD Mer. in Quart
+**** 0155 - xxxx DD. Karol. Bd. 1
+**** 0157 - xxxx DD. Loth. I und II
+**** 0161 - 0164 DD. der dt. Karolinger
+**** 0166 - 0170 DD. Burgund u.a.
+***** 0168 - xxxx DD. Burgund I
+**** 0171 - 0180 DD. der dt. Könige und Kaiser
+**** 0181 - 0184 frei für wetere dt. DD.
+**** 0185 - 0200 frei für evt. (Privat-)urk.- Serien in Quart
+***** 0190 - xxxx DD. Heinrich der Löwe
+*** 0201 - 0230 MGH Epp.
+**** 0201 - 0208 Epp., Quartserie.
+**** 0209 - 0220 frei
+**** 0221 - 0223 Epp. saec. XIII., in Quart
+*** 0231 - 0270 MGH Antiquitates
+**** 0231 - 0236 Poetae latini, Quart
+**** 0246 - 0250 Necrologia
+**** 0261 - xxxx Libri Confraternitatum
+**** 0271 - xxxx Libri Memoriales
+*** 0475 - xxxx MGH Indices
+*** 0751 - 0949 MGH andere Reihen
+**** 0751 - 0760 Staatschriften des späten Mittelalters
+**** 0781 - 0805 Fontes iuris Germ. antiqui
+**** 0821 - 0825 Briefe der dt. Kaiserzeit
+**** 0841 - 0845 Epistolae selectae
+**** 0900 - 0911 Quellen zur Geistesgeschichte des Mittelalters
+**** 0921 - 0924 Deutsches Mittelalter
 ** Bb - Allgemeine Quellensammlungen, Folio und Quart, außerhalb der MGH
 ** Bc - Allgemeine Quellensammlungen, nicht Folio und Quart
 ** Bd - Einzelausgaben nicht urkundlicher Quellen
@@ -367,8 +409,15 @@ CLOSED: [2022-05-05 Thu 15:09]
 CLOSED: [2022-05-05 Thu 15:09]
 *** DONE 0901 - 0999 Monographien zu Einzelaspekten der gesamten Kreuzzugsgeschichte
 CLOSED: [2022-05-05 Thu 15:09]
-** DONE Db - leer
-CLOSED: [2022-05-05 Thu 15:07]
+** WAITING Db - Mittelalterrezeption
+*** xxxx - xxxx Monumente
+*** xxxx - xxxx Film
+*** xxxx - xxxx Theater
+*** xxxx - xxxx Literatur
+*** xxxx - xxxx Musik
+*** xxxx - xxxx Spiele
+*** xxxx - xxxx Werbung
+*** xxxx - xxxx Sonstiges
 ** DONE Dc - Frühgeschichteliche, nichtantike Voraussetzungen der mittelalterlichen Geschichte
 CLOSED: [2022-05-05 Thu 15:13]
 *** 0001 - 0015 Methodisches und Grundsätzliches zur Vor- und Frühgeschichte
@@ -930,8 +979,27 @@ CLOSED: [2022-05-06 Fri 22:09]
 **** 0901 - 0930 Territorialgeschichte Preussens
 **** 0931 - 0960 einzelne Aspekte des Ordensstaates
 **** 0961 - 0999 zur chronologischen Geschichte des Ordensstaates
-** DONE Ed - frei
-CLOSED: [2022-05-06 Fri 22:10]
+** DONE Ed - Globalgeschichte vor 1500 
+CLOSED: [2022-06-15 Wed 10:59]
+*** 0001 - 0199 Allgemein und Theorie
+*** 0200 - 0399 Orientierung: Afrika
+**** xxxx - xxxx Allgemein
+**** xxxx - xxxx Nordafrika
+**** xxxx - xxxx Südafrika
+**** xxxx - xxxx Westafrika
+**** xxxx - xxxx Ostafrika
+*** 0400 - 0599 Orientierung: Asien
+**** xxxx - xxxx Allgemein
+**** xxxx - xxxx Nordasien
+**** xxxx - xxxx Südasien
+**** xxxx - xxxx Zentralasien
+**** xxxx - xxxx Westasien
+**** xxxx - xxxx Ostasien
+*** 0600 - 0799 Orientierung: Die Amerikas
+**** xxxx - xxxx Allgemein
+**** xxxx - xxxx Nordamerika
+**** xxxx - xxxx Südamerika
+*** 0800 - 0999 Orientierung: Ozeanien
 ** DONE Ee - Rechtsgeschichte
 CLOSED: [2022-05-07 Sat 22:07]
 Gesamtdarstellungen und Monographien zur mittelalterlichen Rechtsgeschichte (außer Lehnrecht, siehe Ei)
