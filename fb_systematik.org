@@ -7,7 +7,11 @@
 
 [[https://github.com/avanides/hd-hs-fachbibliothek][laufend aktualisiert auf GitHub]]
 
-[[https://www.uni-heidelberg.de/md/zegk/histsem/seminar/systematik_hs.pdf][Maschinenschriftliche Systematik]]
+[[https://www.uni-heidelberg.de/md/zegk/histsem/seminar/systematik_hs.pdf][Maschinenschriftliche Systematik des Historischen Seminars]]
+
+[[https://www.uni-heidelberg.de/md/zegk/histsem/seminar/systematik_fpi.pdf][Maschinenschriftliche Systematik des Instituts für Fränkisch-Pfälzische Geschichte und Landeskunde]]
+
+[[https://www.uni-heidelberg.de/md/zegk/histsem/seminar/systematik_schurman.pdf][Systematik der Schurman Bibliothek]]
 
 ---
 * TODO Historisches Seminar
@@ -1602,6 +1606,2782 @@ CLOSED: [2022-05-03 Tue 20:26]
 ** Zg - Systematische Zeitschriften
 ** Zl - Jahrbücher
 ** Zs - Dissertationen
+* TODO Institut für Fränkisch-Pfälzische Geschichte und Landeskunde
+
+Die Mitglieder des Instituts werden gebeten, Wünsche um Neu-
+
+anschaffungen von Büchern dem Assistenten mitzuteilen und auf
+diese Weise an der Ausgestaltung der Bibliothek mitzuwirken.
+
+Die Mitglieder des Historischen Seminars haben das Recht, die
+Bibliothek des Instituts zu benutzen. Doch werden Dauerbenut-
+zer gebeten, sich bei dem geschäftsführenden Direktor des In-
+stituts und dem Assistenten vorzustellen.
+
+Als "Räume des Instituts" im obigen Sinne gelten bis auf wei-
+teres die Räume des Historischen Seminars.
+
+II, Hinweise zum Verständnis der Signaturen
+
+Die Bibliothek des Instituts ging zum großen Teil aus der
+Abteilung D (Badisch-pfälzische Landeskunde) der Bibliothek
+
+des Historischen Seminars hervor. Die Werke tragen deshalb
+
+auf der Signatur noch ein D, das jedoch für die Einteilung
+
+der Bibliothek des Instituts keine Bedeutung hat.
+Zusammengehörige Literatur ist oft in einer Nummer vereinigt,
+etwas XII 216 a, XII 216 b, usw.
+
+Wo sich der Rahmen der Bibliothekseinteilung als zu eng erwies,
+ist das Bruchstrichschema eingeführt, etwa:
+
+190 190
+VII En vII 577, usw.
+
+Aus schreibtechnischen Gründen wird dafür in angefügter Über-
+sicht immer, wie folgt, geschrieben: VII 190/1, VII 190/2, usw.
+Elsaß-Lothringen ist unter den Signaturen vom Elsaß zu suchen,
+ebenso ist Kurpfalz gelegentlich unter Baden zu suchen. Bei
+der eigenartigen Entwicklung der südwestdeutschen Territorien
+ließen sich auch in anderen Fällen gelegentlich Überschnei-
+dungen nicht vermeiden.
+
+
+III, Übersicht über die Hauptabteilungen der Bibliothek
+
+xIIl
+
+Bibliographie und Hilfswissenschaften, zur landesge-
+schichtlichen Methode
+
+Zeitschriften und Buchreihen
+
+Festschriften und Sammelbände
+
+Biographische und statistische Nachschlagewerke
+Allgemeine Landesgeschichte
+
+Geschichte einzelner Orte und Gebiete
+
+Landes- und Siedlungskunde
+
+Sprache, Volkskunde und Bevölkerungsgeschichte
+Wirtschaft und soziale Zustände
+
+Verfassung und Recht
+
+Kirchengeschichte
+
+Kultur- und Bildungsgeschichte
+Literaturdenkmäler (Texte)
+
+Karten
+Wandkarten
+Reisebücher
+
+I. _Bibliographie und Hilfswissenschaften
+
+I
+I
+I
+
+1 ff
+10 ff
+40 ff
+40 ff
+47-49
+50 ff
+60 ff
+
+69/1 ff
+
+69/20 ff
+69/40 ff
+69/60 ff
+69/80 ff
+69/100 ff
+69/120 ff
+
+70
+70
+80
+90
+100
+120
+130
+130
+140
+
+ff
+ff
+ff
+ff
+ff
+ff
+ff
+ff
+ff
+
+149/1
+149/30 ff
+
+150
+200
+300
+400
+450
+500
+
+
+
+Bibliographie, allgemein
+Allgemeine Quellenkunde
+
+Bibliothekskunde ,Regionalbibliographien
+Baden
+
+Baden-Württemberg
+Pfalz
+
+Saar
+
+Elsaß
+
+Lothringen
+Luxemburg
+
+Hessen (Rheinland)
+Franken
+Württemberg
+Weitere Gebiete
+
+Archivkunde
+Baden
+
+Pfalz
+
+Saar
+
+Elsaß
+Lothringen
+Luxemburg
+Hessen (Rheinland)
+Franken
+Württemberg
+Weitere Gebiete
+
+Museumskunde
+
+Historische Hilfswissenschaften (Heraldik)
+Siegel- und Wappenkunde
+
+Münzkunde
+
+Archäologie (Burgenkunde etc) /Ur-u.Frühgeschichte
+Chronologie
+
+II
+
+&I
+
+II
+
+II
+
+II
+
+II
+
+II
+
+II
+
+II
+
+ZI
+
+-5.
+
+Zeitschriften und Buchreihen
+
+140
+150
+
+180
+
+185
+
+195
+
+200
+
+220
+
+240
+
+300
+
+400
+
+
+
+Allgemein Rheinisches und Südwestdeutsches
+
+Baden
+
+Badische Heimatzeitschriften für
+einzelne Gegenden und Orte
+
+Pfalz
+
+Pfälzische Heimatzeitschriften für
+einzelne Gegenden und Orte
+
+Zeitungen
+Saar
+Elsaß
+
+Lothringen
+
+Luxemburg
+
+Hessen (Rheinland)
+Franken
+
+Württemberg
+
+Weitere Gebiete
+
+Zeitschriften allgemeinen, besonders
+methodischen Inhalts
+
+- 5a -
+
+Festschriften und Sammelbände
+
+III
+
+III
+
+III
+
+III
+
+III
+
+III
+
+III)
+
+III
+
+III
+
+- 1 £f
+
+15 ££
+
+50 ff
+
+70 ££
+
+130 ££
+
+140 ££
+
+149/1 ££
+
+150 ff
+
+180 ff
+
+210 ff
+
+250 ff
+
+Allgemeines
+
+Pfalz
+
+Franken
+
+Württemberg
+
+Weitere Gebiete
+
+IV
+
+IV
+
+IV
+
+IV
+
+IV
+
+IV
+
+IV
+
+IV
+
+IV
+
+IV
+
+IV
+
+Familien vgl. VIII 900 ff
+
+100
+
+150
+
+200
+
+250
+
+300
+
+350
+
+400
+
+435
+
+450
+
+ff
+
+ff
+
+ff
+
+ff
+
+ff
+
+ff
+
+ff
+
+
+4
+
+
+
+Saar
+
+Elsaß
+
+Lothringen
+
+Luxemburg
+
+Hessen (Rheinland)
+
+Franken
+
+Württemberg
+
+Baden-Württemberg
+
+Weitere Gebiete
+
+V. Allgemeine Landesgeschichte
+
+V
+
+<
+
+=
+
+1
+
+10
+
+30
+
+100
+
+1000
+
+1010
+
+1100
+
+2000
+
+3000
+
+4000
+
+5000
+
+6000
+
+7000
+
+8000
+
+9000
+
+10000
+
+11000
+12000
+
+13000
+
+Allgemeine Geschichte des Oberrheingebietes
+Baden
+Gesamtdarstellungen badischer Einzelgebiete
+
+Einzelne Epochen und Ereignisse
+(chronologisch)
+
+Pfalz + Kurtrier + Oberpfalz
+
+Gesamtdarstellungen pfälzischer
+Einzelgebiete
+
+Die einzelnen Epochen und Ereignisse
+Saar (Einteilung wie Pfalz)
+Elsaß(Einteilung wie Pfalz)
+Lothringen(Einteilung wie Pfalz)
+Luxemburg(Einteilung wie Pfalz)
+Hessen (Rheinland), Kurmainz, Rheinland-Westfalen
+KOSTEN Ge 221
+Fränken (Einteilung wie Pfalz)
+Württemberg (Einteilung wie Pfalz)
+Weitere Gebiete (Einteilung wie Pfalz)
+
+Bayern (Einteilung wie Pfalz)
+
+Süddeutschland allgemein (Einteilung wie Pfalz)
+Baden-Württemberg (Einteilung wie Pfalz)
+
+Limes und Römer
+VI. Geschichte einzelner Orte
+(im alphabetischer Reihenfolge)
+
+Alle Orte, die früher selbständig waren,
+werden gesondert aufgeführt.
+
+VII. Landes- und Siedlungskunde, Atlanten
+
+VII 1
+VII 10
+
+20
+40
+60
+94
+150
+200
+220
+240
+250
+260
+350
+400
+410
+
+vıI
+
+vIiI
+
+430
+435
+449
+A60
+
+vII
+
+480
+499/1
+vII 500
+510
+
+530
+549/1
+550
+560
+
+vII
+
+580
+599/1
+600
+610
+
+VII
+
+630
+649/1
+
+Allgemein Oberrheinisches
+Baden
+
+Geologische Grundlagen
+Geographische Grundlagen, Pflanzen-u.Tierwel
+Einzelne Gebiete und Orte
+
+Amtl. Kreisbeschreibungen(heutiges Baden)
+
+Siedlungskunde
+
+Pfalz + Kurtrier
+
+Saar
+
+Geologische Grundlagen
+Pflanzen- und Tierwelt
+Geographische Grundlagen
+Einzelne Gebiete und Orte
+Siedlungskunde
+
+Geologische und geographische
+Pflanzen- und Tierwelt
+
+Einzelne Gebiete und Orte
+Siedlungskunde
+
+Grundlagen,
+
+Elsaß
+
+Geologische und geographische
+Pflanzen- und Tierwelt
+
+Einzelne Gebiete und Orte
+Siedlungskunde
+
+Grundlagen,
+
+Lothringen
+
+Geologische und geographische
+Pflanzen- und Tierwelt
+
+Einzelne Gebiete und Orte
+Siedlungskunde
+
+Grundlagen,
+
+Luxemburg
+
+Geologische und Geographische
+Pflanzen- und Tierwelt
+
+Einzelne Gebiete und Orte
+Siedlungskunde
+
+Grundlagen,
+
+Hessen (Rheinland) + Kurmainz
+
+Geologische und geographische
+Pflanzen- und Tierwelt
+
+Einzelne Gebiete und Orte
+Siedlungskunde
+
+Grundlagen,
+vII 650
+660
+
+680
+
+699/1
+
+vII 700
+710
+
+730
+750
+760
+VII 800
+
+ff
+ff
+
+ff
+ff
+ff
+ff
+
+ff
+ff
+ff
+ff
+
+vII 1000 ff
+
+-10-
+
+Franken
+
+Geologische und geographische Grundlagen,
+Pflanzen- und Tierwelt
+
+Einzelne Gebiete und Orte
+Siedlungskunde
+
+Württemberg
+
+Geologische und geographische Grundlagen,
+Pflanzen- und Tierwelt
+
+Einzelne Gebiete und Orte
+
+Siedlungskunde
+
+Amtl. Kreisbeschreibungen
+Weitere Gebiete
+
+Literatur allgemeinen, besonders methodi-
+schen Inhalts
+
+VIII. Sprache, Volkskunde und Bevölkerungsgeschichte
+
+vIlI 1 ff Allgemein OÖberrheinisches
+vIIl 10 ff Volkskunde Baden
+10 ff Allgemeine Volkskunde
+15 ff Einzelne Gebiete und Orte
+149/1 ff Äußerungen des Volkstums
+VIII 150 ff Volkskunde Pfalz
+150 ff Allgemeine Volkskunde
+170 ff Einzelne Gebiete und Orte
+180 ff Dorf- und Stadtbild
+190 ff Volkstrachten
+200 ff Einzelne Bräuche
+210 ff Volkskunst
+VIII 300 ff Volkskunde Saar
+300 ff Allgemeine Volkskunde
+308/1 ff Äußerungen des Volkstums
+309/1 ff. Einzelne Gebiete und Orte
+vIII 310 ff Volkskunde Elsaß
+310 ff Allgemeine Volkskunde
+318/1 ff Äußerungen des Volkstums
+319/1 ff Einzelne Gebiete und Orte
+VIII 320 ff Volkskunde Lothringen
+320 ff Allgemeine Volkskunde
+328/1 ff Äußerungen des Volkstums
+329/1 ff Einzelne Gebiete und Orte
+VIII 330 ff Volkskunde Luxemburg
+330 ff Allgemeine Volkskunde
+338/1 ff Äußerungen des Volkstums
+339/1 ff Einzelne Gebiete und Orte
+VIII 340 ff Volkskunde Hessen (Rheinland)
+340 ff Allgemeine Volkskunde
+348/1 ff Äußerungen des Volkstums
+349/1 ff Einzelne Gebiete und Orte
+vIII 350 ff Volkskunde Franken
+350 ff Allgemeine Volkskunde
+358/1 ff Äußerungen des Volkstums
+
+359/1 ff Einzelne Gebiete und Orte
+vIIiI
+
+VIII
+VIII
+
+vIII
+
+VIII
+
+VIII
+
+VIII
+
+vIII
+
+VIII
+
+vIII
+
+vIII
+
+VIII
+
+VIII
+
+360
+360
+368/1
+369/1
+370
+380
+
+400
+400
+
+410
+500
+500
+530
+600
+600
+640
+700
+700
+725
+750
+750
+770
+790
+790
+799/1
+800
+800
+815
+825
+825
+840
+850
+850
+865
+875
+
+ff
+ff
+ff
+ff
+ff
+ff
+
+ff
+ff
+
+ff
+ff
+ff
+ff
+ff
+ff
+ff
+ff
+ff
+ff
+ff
+ff
+ff
+ff
+ff
+ff
+ff
+ff
+ff
+ff
+ff
+ff
+ff
+ff
+
+ff -
+
+ff
+
+-12-
+
+Volkskunde Württemberg
+Allgemeine Volkskunde
+
+Äußerungen des Volkstums
+Einzelne Gebiete und Orte
+Weitere Gebiete
+
+Oberrhein (Elsaß/Baden/Schweiz)
+
+Sprache Baden
+
+Allgemeines: Wörterbücher, Namenbücher,
+Sprachliche Bewegungen u.a.
+
+Einzelne Gegenden und Orte
+Sprache Pfalz
+
+Allgemeines
+
+Einzelne Gegenden und Orte
+Sprache Saar
+
+Allgemeines
+
+Einzelne Gegenden und Orte
+Sprache Elsaß
+
+Allgemeines
+
+Einzelne Gegenden und Orte
+Sprache Lothringen
+
+Allgemeines
+
+Einzelne Gegenden und Orte
+Sprache Luxemburg
+
+Allgemeines
+
+Einzelne Gegenden und Orte
+Sprache Hessen (Rheinland)
+
+Allgemeines
+
+Einzelne Gegenden und Orte
+Sprache Franken
+
+Allgemeines
+
+Einzelne Gegenden und Orte
+Sprache Württemberg
+Allgemeines
+Einzelne Gegenden und Orte
+
+Sprache Weitere Gebiete:
+-13-
+
+VIII 900 ff Bevölkerungsgeschichte u. Einzelfamilien
+
+910 ff Baden
+
+950 ff Pfalz
+
+960 ff Elsaß
+
+965 ff Lothringen
+
+970 ff Luxemburg
+
+975 ff Hessen (Rheinland)
+980 ff Franken
+
+985 ff Württemberg
+
+990 ff Weitere Gebiete
+
+vIII 1000 ff Wanderungen
+
+De
+
+VIII 1000 ff Badische + pfälzische Auswanderung
+
+vIII 1100 ff Wanderbewegungen an der Westgrenze
+
+1110 ff im Elsaß
+1150 ff in Lothringen
+1200 ff in Luxemburg
+
+vIII 1250 ff Wanderbewegungen im Innern
+
+1260 ff in Hessen (Rheinland)
+1300 ff in Franken
+
+1350 ff in Württemberg
+
+1400 ff in weiteren Gebieten
+
+vIII 1500 ff Allgemeine, besonders methodische Literatur
+zur Bevölkerungsgeschichte
+
+VIII 1600 ff Flüchtlingsprobleme. Geschichte der Vertreibung
+und Eingliederung in die örtliche Bevölkerung.
+
+vIII 1700 ff Juden
+1766 ff Allgemein
+1710 ff in Baden
+1726 ff in Pfalz etc.
+IX.
+IX
+IX
+
+IX
+
+IX
+
+IX
+
+IX
+
+IX
+
+IX
+IX
+
+-14-
+
+Wirtschaft und soziale Zustände
+
+1
+
+ff
+£f
+ff
+ff
+ff
+ff
+ff
+ff
+ER
+ff
+ff
+ff
+ff
+ff
+ff
+ff
+ff
+ff
+ff
+ff
+ff
+ff
+ff
+ff
+ff
+ff
+ff
+ff
+ff
+3
+ff
+ff
+ff
+ff
+ff
+ff
+ff
+ff
+
+ff
+ff
+
+ff
+
+Allgemein Oberrheinisches
+Baden
+
+Allgemeines
+Einzelne Gegenden und Orte
+
+Badische Landwirtschaft
+
+Ländliche Besitzverhältnisse
+
+Domänen und Großgrundbesitz
+Bäuerlicher Kleinbesitz
+Geschichte des Bauerntums
+
+Landwirtschaftliche Betriebslehre
+
+Einzelne Zweige:
+Weinbau
+Forstwirtschaft
+
+Badische; Gewerbe und Industrie
+Allgemeines
+
+Einzelne Gewerbe und Gebiete
+
+Baugewerbe
+Badischer Handel und Verkehr
+
+Allgemeines
+
+Einzelne Zweige und Gebiete
+
+Grundstückhandel
+
+Verkehr
+
+Straßen
+
+Eisenbahnen
+
+Wasserstraßen
+Geld- und Bankwesen in Baden
+Sozialpolitik in Baden
+Bfalz_und_Kurtrier
+
+Allgemeines
+
+Einzelne Gegenden und Orte
+Landwirtschaft
+
+Wein- und Obstbau
+
+Forstwirtschaft
+Gewerbe und Industrie
+
+Einzelne Gewerbszweige
+
+Einzelne Gegenden und Orte
+Handel und Verkehr
+
+Einzelne Zweige des Handels
+
+Verkehr in der Pfalz
+Geldwesen und Banken
+
+Sozialpolitik
+IX
+
+IX
+IX
+
+IX
+
+IX
+IX
+IX
+
+IX
+
+IX
+
+IX
+IX
+
+Ex
+
+1000
+1000
+1050
+1070
+2000
+2010
+2030
+2040
+2050
+2070
+2090
+3010
+3100
+3100
+3150
+3200
+3300
+3320
+3400
+3500
+3520
+3600
+3700
+3900
+4000
+4000
+4100
+4200
+4300
+4320
+4400
+4500
+4520
+4600
+4700
+4900
+
+ff
+ff
+ff
+ff
+ff
+ff
+ff
+ff
+ff
+ff
+ff
+ff
+Er
+FE
+ff
+ff
+ff
+ff
+ff
+ff
+ff
+ff
+ft
+ff
+Er
+ff
+ff
+ff
+ff
+ff
+ff
+ff
+ff
+ff
+ff
+ff
+
+-15-
+
+Allgemeines
+
+Einzelne Gegenden und Orte
+Saarländische Landwirtschaft
+Gewerbe und Industrie
+
+Einzelne Gewerbezweige
+
+Einzelne Gegenden und Orte
+Handel und Verkehr
+
+Einzelne Zweige des Handels
+
+Verkehr
+Geldwesen und Banken
+
+Sozialpolitik
+Elsaß
+Allgemeines
+Einzelne Gegenden und Orte
+Landwirtschaft
+Gewerbe und Industrie
+
+Einzelne Gewerbszweige
+
+Einzelne Gegenden und Orte
+Handel und Verkehr
+Einzelne Zweige des Handels
+Verkehr
+Geldwesen
+
+Sozialpolitik
+Lothringen
+
+Allgemeines
+
+Einzelne Gegenden und Orte
+Landwirtschaft
+Gewerbe und Industrie
+
+Einzelne Gewerbszweige
+Einzelne Gegenden und Orte
+Handel und Verkehr
+Einzelne Zweige des Handels
+Verkehr
+Geldwesen
+
+Sozialpolitik
+IX
+
+IX
+
+IX
+
+IX
+
+IX
+
+IX
+
+IX
+
+IX
+
+IX
+
+IX
+
+IX
+
+IX
+
+IX
+
+IX
+IX
+
+5000
+
+5000
+5100
+5200
+
+5300
+5320
+5400
+5500
+5520
+5600
+5700
+
+5900
+
+6000
+
+6000
+6100
+6200
+
+6300
+6320
+6400
+6500
+6520
+6600
+6700
+
+6900
+
+7000
+
+7000
+7100
+7200
+
+7300
+7320
+7400
+
+ff
+
+ff
+ff
+ff
+
+ff
+ff
+ff
+ff
+ff
+ff
+ff
+
+ff
+
+ff
+
+ff
+ff
+ff
+
+ff
+ff
+ff
+ff
+ff
+ff
+ff
+
+ff
+
+ff
+
+ff
+ff
+ff
+
+ff
+ff
+ff
+
+-16-
+
+Luxembürg
+Allgemeines
+
+Einzelne Gegenden und Orte
+Landwirtschaft
+
+Gewerbe und Industrie
+Einzelne Gewerbszweige
+Einzelne Gegenden und Orte
+Handel und Verkehr
+Einzelne Zweige des Handels
+Verkehr
+Geldwesen
+
+Sozialpolitik
+
+Hessen (Rheinland + Kurmainz
+zz 2222 = =
+
+zezmzmmuemmzzmzmeomcz
+Allgemeines
+Einzelne Gegenden und Orte
+
+Landwirtschaft
+
+Gewerbe und Industrie
+Einzelne Gewerbszweige
+Einzelne Gegenden und Orte
+
+Handel und Verkehr
+
+Einzelne Zweige des Handels»
+Verkehr
+
+Geldwesen
+
+Sozialpolitik
+
+Franken
+vsemumum
+Allgemeines
+
+Einzelne Gegenden und Orte
+Landwirtschaft
+
+Gewerbe und Industrie
+Einzelne Gewerbszweige
+Einzelne Gegenden und Orte
+
+IX
+
+IX
+
+IX
+
+IX
+
+IX
+IX
+
+IX
+
+IX
+IX
+
+IX
+
+IX
+
+7500
+7520
+7600
+7700
+
+7900
+
+8000
+
+8000
+8100
+8200
+8300
+8320
+8400
+8500
+8520
+8600
+8700
+8900
+
+9000
+
+10000 ff
+
+ff
+ff
+ff
+ff
+
+ff
+
+ff
+
+ff
+ff
+ff
+ff
+ff
+ff
+ff
+2?
+ff
+ff
+ff
+
+ff
+
+-17-
+
+Handel und Verkehr
+Einzelne Zweige des Handels
+Verkehr
+
+Geldwesen
+
+Sozialpolitik
+
+Württemberg
+
+Allgemeines
+
+Einzelne Gegenden und Orte
+Landwirtschaft
+Gewerbe und Industrie
+
+Einzelne Gewerbszweige
+Einzelne Gegenden und Orte
+Handel und Verkehr
+Einzelne Zweige des Handels
+Verkehr
+Geldwesen
+
+Sozialpolitik
+
+Weitere Gebiete
+
+Literatur allgemeinen, besonders
+methodischen Inhalts
+-18B-
+
+X. Verfassung und Recht
+
+150
+
+175
+175
+180
+210
+220
+240
+270
+280
+300
+
+400
+400
+500
+550
+555
+570
+590
+600
+
+700
+705
+800
+840
+850
+950
+1050
+1100
+
+ff Allgemein Oberrheinisches und darüber hinaus
+
+ff
+ff
+ff
+ff
+ff
+
+ff
+ff
+ff
+ff
+ff
+ff
+ff
+ff
+ff
+
+ff
+ff
+ff
+ff
+ff
+ff
+ff
+ff
+ff
+
+ff
+ff
+ff
+ff
+ff
+ff
+ff
+ff
+ff
+
+Baden
+Verfassung und öffentliches Recht
+Mittelalter
+Frühe Neuzeit
+
+Allgemeine Verfassungseinrichtungen
+seit 1803
+
+Spezielle Institutionen
+Landtag
+Finanzen und Steuern
+Standesherren
+Kaiser und Staat
+Gemeinden
+Öffentlicher Besitz
+Ländliche Rechtsverhältnisse
+Privat- und Strafrecht
+
+Bfalz
+Verfassung und öffentliches Recht
+Mittelalter
+Neuzeit
+Spezielle Institutionen
+Städtewesen
+Ländliche Rechtsverhältnisse
+Sonstige öffentliche Rechtsverhältnisse
+Privat- und Strafrecht
+
+Saar
+
+Verfassung und öffentliches Recht
+Mittelalter
+Neuzeit
+
+Spezielle Institutionen
+Städtewesen
+Ländliche Rechtsverhältnisse
+Sonstige öffentliche Rechtsverhältnisse
+
+Privat- und Strafrecht
+x 1200
+1250
+1255
+1300
+1350
+
+1400
+1500
+1600
+1700
+
+2100
+2110
+2200
+2300
+2400
+2500
+2600
+2700
+
+3100
+3110
+3200
+3300
+3400
+3500
+3600
+3700
+
+X 4000
+4100
+4110
+4200
+4300
+4400
+4500
+4600
+4700
+
+ff
+ff
+ff
+ff
+ff
+ff
+ff
+ff
+ff
+
+ff
+ff
+ff
+ff
+ff
+ff
+ff
+ff
+ff
+
+ff
+ff
+ff
+ff
+ff
+ff
+ff
+ff
+ff
+
+ff
+ff
+ff
+ff
+ff
+ff
+ff
+ff
+ff
+
+-19-
+
+Els
+Wertung und öffentliches Recht
+Mittelalter
+Neuzeit
+Spezielle Institutionen
+Städtewesen
+Ländliche Rechtsverhältnisse
+Sonst.öffentliche Rechtsverhältnisse
+Privat- und Strafrecht
+Lothringen
+Verfassung und öffentliches Recht
+Mittelalter
+Neuzeit
+Spezielle Institutionen
+Städtewesen
+Ländliche Rechtsverhältnisse
+Sonst.öffentliche Rechtsverhältnisse
+Privat- und Strafrecht
+
+Luxemburg
+
+Verfassung und öffentliches Recht
+Mittelalter
+Neuzeit
+
+Spezielle Institutionen
+Städtewesen
+Ländliche Rechtsverhältnisse
+Sonst.öffentliche Rechtsverhältnisse
+
+Privat- und Strafrecht
+
+dessen (Rheinland)
+
+Verfassung und öffentliches Recht
+Mittelalter
+Neuzeit
+
+Spezielle Institutionen
+Städtewesen
+Ländliche Rechtsverhältnisse
+Sonst.öffentliche Rechtsverhältnisse
+
+Privat- und Strafrecht
+x 5000
+5100
+5110
+5200
+5300
+5400
+5500
+5600
+5700
+5800
+
+6100
+6110
+6200
+6300
+6400
+6500
+6600
+6700
+
+x 7000
+
+x 9000
+
+ff
+ff
+ff
+ff
+ff
+Er
+ff
+ff
+ff
+ff
+
+ff
+ff
+ff
+ff
+ff
+ff
+ff
+ff
+ff
+
+ff
+
+ff
+
+-20-
+
+Ezanken
+
+Verfassung und Öffentliches Recht
+Mittelalter
+Neuzeit
+
+Spezielle Institutionen
+Städtewesen
+Ländliche Rechtsverhältnisse
+Sonst.öffentl. Rechtsverhältnisse
+
+Privat- und Strafrecht
+
+Hochstift Würzburg
+
+erfassung und öffentliches Recht
+
+Mittelalter
+Neuzeit
+
+Spezielle Institutionen
+Städtewesen
+Ländliche Rechtsverhältnisse
+Sonst.öffentliche Rechtsverhältnisse
+
+Privat- und Strafrecht
+
+eitere Gebiete
+sSzzamzzzezom zum
+Al gemeine Literatur zur Rechts- und
+= zzzzm zu zz zz zu zum zz go mug zsuzacomcomzmumu
+V
+-21-
+
+XI. _Kirchengeschichte
+
+100
+150
+
+190
+
+xI 200
+210
+210
+250
+280
+320
+380
+
+XI 400
+
+410
+430
+450
+480
+500
+520
+
+xI 550
+
+560
+600
+650
+700
+800
+900
+
+xI 1000
+1010
+1050
+1100
+
+ff
+ff
+ff
+ff
+72
+ff
+ff
+
+ff
+
+ff
+ff
+ff
+ff
+ff
+ff
+ff
+
+ff
+
+ff
+ff
+ff
+ff
+ff
+ff
+
+ff
+
+ff
+ff
+ff
+ff
+ff
+ff
+
+ff
+ff
+f£
+ff
+
+Allgemein OÖberrheinisches
+
+Baden
+zzz==
+Katholische Kirche (Gesamtdarstellungen)
+Mittelalter
+Neuzeit
+
+Einzelne Kirchen
+
+Evangelische Kirche (Gesamtdarstellungen-
+Neuzeit)
+Einzelne Kirchen
+
+E£alz (sScenzgehiete, „2.B. „Irier)
+Katholische Kirche
+Mittelalter
+Neuzeit
+Einzelne Kirchen
+Evangelische Kirche
+
+Einzelne Kirchen
+
+Saar
+Katholische Kirche
+Mittelalter
+Neuzeit
+Einzelne Kirchen
+Evangelische Kirche
+Einzelne Kirchen
+
+1saß
+m==
+Katholische Kirche
+Mittelalter
+Neuzeit
+Einzelne Kirchen
+Evangelische Kirche
+Einzeine Kirchen
+Lothringen (Trier)
+zszzzmm zu ämzz zz mzz zz
+Katholische Kirche
+Mittelalter
+
+Neuzeit
+XI
+
+XI
+
+XI
+
+xI
+
+XI
+
+XI
+XI
+
+xI
+
+xI
+
+1200
+1300
+1400
+
+1500
+1510
+1550
+1600
+1700
+1800
+1900
+2000
+
+2010
+2050
+2080
+2096
+
+2200
+2300
+2400
+2500
+2510
+2550
+2600
+2700
+2800
+2900
+3000
+3010
+3050
+3100
+3200
+3300
+3400
+4000
+
+4800
+
+6000
+
+7000
+
+ff
+ff
+ff
+ff
+ff
+ff
+ff
+ff
+ff
+ff
+ff
+
+ff
+ff
+ff
+ff
+ff
+ff
+ff
+
+ff
+ff
+ff
+ff
+ff
+ff
+ff
+ff
+ff
+ff
+ff
+£r
+ff
+ff
+ff
+
+Ef
+
+ff
+
+ff
+
+=22=
+
+Einzelne Kirchen
+Evangelische Kirche
+Einzelne Kirchen
+
+Luxssburg
+Katholische Kirche
+Mittelalter
+Neuzeit
+Einzelne Kirchen
+Evangelische Kirche
+Einzelne Kirchen
+Hessen
+
+Katholische Kirche
+Mittelalter
+Mainz
+Neuzeit
+Einzelne Kirchen
+Evangelische Kirche
+Einzelne Kirchen
+Eranken
+Katholische Kirche
+Mittelalter
+Neuzeit
+Einzelne Kirchen
+Evangelische Kirche
+Einzelne Kirchen
+
+Württemberg
+Katholische Kirche
+Mittelalter
+Neuzeit
+
+Einzelne Kirchen
+
+Evangelische Kirche
+
+Einzelne Kirchen
+Weitere Gebiste
+
+Sammelwerke
+Schweiz
+zzmen mm
+
+(Rheinland-Rheinhessen)
+szzzzzmzzzzm2 zz zz ze m 2
+ge
+
+XII, Kultur- und Bildungsgeschichte + Führer:
+
+XII
+xII
+
+xII
+
+XII
+
+AII
+
+xII
+
+XII
+
+XII
+
+110
+
+120
+130
+130
+250
+
+300
+400
+
+450
+500
+
+550
+600
+
+650
+700
+710
+750
+800
+820
+820
+900
+1000
+1050
+1150
+1200
+1210
+1285
+1300
+1305
+1305
+1350
+
+ff
+ff
+
+ff
+
+ff
+
+ff
+ff
+ff
+ff
+
+ff
+Fr
+
+ff
+ff
+
+ff
+ff
+
+ff
+ff
+ff
+ff
+ff
+ff
+ff
+ff
+ff
+ff
+ff
+ff
+ff
+ff
+ff
+ff
+ff
+ff
+
+Kunst, Baudenkmäler usw. (vgl. XXII)
+
+Allgemein Oberrheinisches
+Baden, Pfalz, Saar
+
+Allgemein badische geistesgeschichtliche
+Darstellungen
+
+Allgemein pfälzische und saarländische
+geistesgeschichtliche Darstellungen
+
+Einzelne Gegenden
+Einzelne Zeiten
+Mittelalter
+
+16. und 17. Jh.: Allgemeine Geistes-
+und Literaturgeschichte
+
+Einzelne Sachgebiete und Wissenschaften
+
+18. Jh.: Allgemeine Geistes- und
+Literaturgeschichte
+
+Einzelne Sachgebiete und Wissenschaften
+
+19. Jh.s Allgemeine Geistes- und
+Literaturgeschichte
+
+Einzelne Sachgebiete und Wissenschaften
+
+20. Jh.:s Allgemeine Geistes- und
+Literaturgeschichte
+
+Einzelne Sachgebiete und Wissenschaften
+Musik, Feste, Theater (Allgemeines)
+Einzelne Kulturmittelpunkte
+Theater
+Bildende Kunst (Allgemeines)
+Einzelne Zeiten
+Mittelalter
+16. und 17. Jh.
+18. Jh.
+19. und 20. Jh.
+Einzelne Orte (alphabetisch)
+Hochschulen und Forschungsstätten (Allgemeines)
+Heidelberg
+Freiburg usw.
+Kaiserslautern (Saarpfälzisches Institut)
+Schulen
+Badisches Bildungswesen, Allgemeines
+Einzelne badische Schulen
+xII
+
+xII
+XII
+XII
+XII
+
+XII
+
+XII
+
+xII
+
+XII
+
+XII
+XII
+XII
+
+XII
+
+XII
+
+XII
+
+XII
+
+1400
+1450
+1500
+1600
+1700
+1800
+2000
+
+2000
+
+2020
+2100
+2100
+2150
+2200
+2240
+2300
+2320
+2320
+2400
+2500
+2600
+2620
+2640
+2650
+2670
+2700
+2800
+2900
+
+3000
+
+4000
+
+5000
+5000
+
+5020
+5100
+5100
+5150
+
+ff
+ff
+ff
+ff
+ff
+ff
+ff
+
+£f
+
+ff
+ff
+ff
+ff
+ff
+ff
+ff
+ff
+ff
+ff
+ff
+ff
+ff
+ff
+ff
+ff
+ff
+ff
+ff
+
+ff
+
+ff
+
+ff
+ff
+
+ff
+ff
+ff
+ff
+
+-24-
+
+Pfälzisches Schulwesen, Allgemeines
+Einzelne pfälzische Schulen
+Schulwesen an der Saar
+Vereinswesen
+Gesundheitswesen
+Presse
+Elsaß
+
+Allgemeine geistes- und literaturgeschicht-
+
+liche Darstellungen
+Einzelne Gegenden
+
+Einzelne Zeiten
+Mittelalter
+Neuzeit
+
+Musik, Theater, Feste (Allgemeines)
+Einzelne Kulturmittelpunkte
+
+Bildende Kunst (Allgemeines)
+Einzelne Zeiten
+Mittelalter
+Neuzeit
+Einzelne Orte (alphabetisch)
+Lehr- und Forschungsstätten (Allgemeines)
+Universitäten
+Forschungsstätten
+Schulwesen im Allgemeinen
+Einzelne Schulen
+Vereinswesen
+Gesundheitswesen
+Presse
+
+Lothringen
+(Aufbau wie Elsaß)
+
+Luxemburg
+(Aufbau wie Elsaß)
+Hessen (Rheinland)
+3 = zz zum zu
+
+Allgemeine geistes- und literaturgeschicht-
+
+liche Darstellungen
+Einzelne Gegenden
+
+Einzelne Zeiten
+Mittelalter
+Neuzeit
+xII
+
+XII
+
+XII
+
+xII
+XII
+XII
+
+XII
+
+XII
+
+XII
+
+xIl
+AIIl
+
+XII
+XIl
+xII
+
+5200
+5240
+5300
+5320
+5320
+5400
+5500
+5600
+5620
+5640
+5650
+5670
+5700
+5800
+5900
+
+6000
+6000
+
+6020
+6100
+6100
+6150
+6200
+6240
+6300
+6320
+6320
+6400
+6500
+6600
+6620
+6640
+6650
+6670
+6700
+6800
+6900
+
+ff
+ff
+ff
+ff
+ff
+ff
+ff
+ff
+ff
+ff
+ff
+ff
+ff
+ff
+ff
+
+ff
+ff
+
+ff
+ff
+ff
+ff
+ff
+ff
+ff
+ff
+ff
+ff
+ff
+ff
+ff
+ff
+ff
+ff
+ff
+ff
+ff
+
+25.
+
+Musik, Theater, Feste (Allgemeines)
+Einzelne Kulturmittelpunkte
+
+Bildende Kunst (Allgemeines)
+Einzelne Zeiten
+Mittelalter
+Neuzeit
+Einzelne Orte (alphabetisch)
+Lehr- und Forschungsstätten (Allgemeines)
+Universitäten
+Forschungsstätten
+Schulwesen im Allgemeinen
+Einzelne Schulen
+Vereinswesen
+Gesundheitswesen
+Presse
+
+Franken
+z=
+
+Allgemeine geistes- und literaturgeschicht-
+
+liche Darstellungen
+Einzelne Gegenden
+
+Einzelne Zeiten
+Mittelalter
+Neuzeit
+
+Musik, Theater, Feste (Allgemeines)
+Einzelne Kulturmittelpunkte
+
+Bildende Kunst (Allgemeines)
+Einzelne Zeiten
+Mittelalter
+Neuzeit
+Einzelne Orte (alphabetisch)
+Lehr- und Forschungsstätten (Allgemeines)
+Universitäten
+Forschungsstätten
+Schulwesen im Allgemeinen
+Einzelne Schulen
+Vereinswesen
+Gesundheitwesen
+
+Presse
+XII 7000 £f Württemberg
+
+XII 7000 ff Allgemeine geistes- und literaturgeschicht-
+liche Darstellungen
+
+7020 ff Einzelne Gegenden
+7100 ff Einzelne Zeiten
+7100 ff Mittelalter
+7150 ff Neuzeit
+XII 7200 ff Musik, Theater, Feste (Allgemeines)
+7240 ff Einzelne Kulturmittelpunkte
+xII 7300 ff Bildende Kunst (Allgemeines)
+7320 ff Einzelne Zeiten
+7320 ff Mittelalter
+7400 ff Neuzeit
+7500 ff Einzelne Orte (alphabetisch)
+XII. 7600 ff Lehr- und Forschungsstätten (Allgemeines)
+7620 ff Universitäten
+7640 ff Forschungsstätten
+7650 ff Schulwesen im Allgemeinen
+7670 ff Einzelne Schulen
+
+XII 7700 ff Vereinswesen
+XII 7800 ff Gesundheitswesen
+XII 7900 ff Presse
+
+XIT 9000 ff Weitere Gebiete und Allgemeings
+9950 ff Historiographie
+-2I-
+
+XIII. Literaturdenkmäler (Texte)
+
+XIII aaa
+
+XIII pi
+XIII 10
+
+50
+75
+100
+125
+150
+175
+200
+225
+250
+300
+XIII 400
+
+xIII 500
+xIII 550
+
+600
+650
+7090
+750
+800
+850
+900
+950
+1000
+1100
+
+XIII 1200
+
+ff
+
+ff
+ff
+
+ff
+ff
+ff
+ff
+ff
+ff
+ff
+ff
+ff
+ff
+ff
+
+£f
+ff
+
+ff
+ff
+ff
+ff
+ff
+ff
+ff
+ff
+ff
+ff
+
+ff
+
+Denkmäler nach Verfassern (alphabetisch)
+
+(die Signatur enthält jeweils die drei
+ersten Buchstaben des Verfassernamens)
+
+Sammlungen von Literaturdenkmälern
+
+Sammlungen nach landschaftlichen
+Gesichtspunkten
+
+Baden
+
+Pfalz
+
+Saar
+
+Elsaß
+
+Lothringen
+
+Luxemburg
+
+Hessen (Rheinland)
+
+Franken
+
+Württemberg
+
+Weitere Gebiete
+Sammlungen nach anderen Gesichtspunkten
+
+Sammlungen von Inschriften und ähnlichem
+
+Sammlungen nach landschaftlichen
+Gesichtspunkten
+
+Baden
+
+Pfalz
+
+Saar
+
+Elsaß
+
+Lothringen
+Luxemburg
+
+Hessen (Rheinland)
+Franken
+Württemberg
+Weitere Gebiete
+
+Sammlungen nach anderen Gesichtspunkten
+-28-
+
+XX. Karten
+
+xx 1ı ff Karten größerer Gebiete
+
+xX 50 ££f Kartensammlungem
+
+xXX 100 ff Landschaften
+
+100 ff Baden
+
+200 ff Pfalz
+
+300 ff Saar
+
+400 ff Elsaß
+
+500 ff Lothringen
+
+600 ff Luxemburg
+
+700 ff Hessen ((Rheinland)
+800 ff Franken
+
+20 ff Württemberg
+1000 ff Weitere Gebiete
+
+x aaa ff Orte ((alphabetisch)
+XXI. Wandkarten
+
+xXI 1
+
+xxI 50
+
+XXI 100
+100
+200
+300
+400
+500
+600
+700
+800
+900
+
+1000
+
+XXI aaa
+
+ff
+
+ff
+
+ff
+ff
+ff
+ff
+ff
+ff
+ff
+ff
+ff
+ff
+ff
+
+ff
+
+Karten größerer Gebiete
+
+Kartensammlungen
+
+Landschaften
+Baden
+Pfalz
+Saar
+Elsaß
+Lothringen
+Luxemburg
+Hessen (Rheinland)
+Franken
+Württemberg
+Weitere Gebiete
+
+Orte (alphabetisch)
+-30-
+
+XXII. Reisebücher
+
+XXIl 1
+
+XXII 50
+
+xXII 100
+100
+200
+300
+400
+500
+600
+700
+800
+900
+
+1000
+
+XXII aaa
+
+ff
+
+ff
+
+ff
+ff
+ff
+ff
+ff
+ff
+ff
+ff
+ff
+4
+ff
+
+ff
+
+Allgemeines
+
+Sammelwerke
+
+Landschaften
+Baden
+Pfalz
+Saar
+Elsaß
+Lothringen
+Luxemburg
+Hessen (Rheinland)
+Franken
+Württemberg
+Weitere Gebiete
+
+Orte (alphabetisch)
+
 * TODO Schurman Bibliothek
 Alle Signaturen fangen mit ~Sch~
 ** I. Allgemeines
@@ -2621,3 +5401,4 @@ Alle Signaturen fangen mit ~Sch~
 80. *Zeitschriften*
 
 90. *Working Papers*
+
