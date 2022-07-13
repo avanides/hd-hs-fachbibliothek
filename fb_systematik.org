@@ -1,4 +1,4 @@
-+TITLE: Systematische Bibliotheksgliederung des Historischen Seminars
+#+TITLE: Systematische Bibliotheksgliederung des Historischen Seminars
 #+SUBTITLE: Ruprecht-Karls-Universität Heidelberg
 #+DATE: Last Updated: \today
 #+LATEX_HEADER: \usepackage[a4paper]{geometry}
