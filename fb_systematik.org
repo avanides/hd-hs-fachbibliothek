@@ -1,4 +1,4 @@
-#+TITLE: Systematische Bibliotheksgliederung des Historischen Seminars
++TITLE: Systematische Bibliotheksgliederung des Historischen Seminars
 #+SUBTITLE: Ruprecht-Karls-Universität Heidelberg
 #+DATE: Last Updated: \today
 #+LATEX_HEADER: \usepackage[a4paper]{geometry}
@@ -1580,6 +1580,365 @@ CLOSED: [2022-05-09 Mon 21:55]
 0801 - 0900 Carl August von Weimar und die Klassik
 0900 - 0999 Goethe
 * TODO H - Gegenwart (ab 1945)
+Internationale Politik nach 1945
+
+Europäische Staaten: Innenpolitik
+
+Quellen zur deutschen Geschichte seit 1945
+
+Methodische Arbeiten zur Zeitgeschichte (1 - 200)
+Gesamtdarstellungen zur deutschen Geschichte seit 1945 (1 - 200)
+Besatzungszeit in Deutschland 1945 — 1949 (1 — 1400)
+Bundesrepublik Deutschland (1 — 18300)
+
+Deutsche Demokratische Republik (1-6500)
+
+Internationale Politik nach 1945
+
+I- ı00
+101 - 300
+301 - 800
+801 - 1300
+
+1301 - 3600
+
+3601 - 4000
+
+4001 - 5500
+
+5501 - 5900
+
+Quellen (Sammelwerke)
+
+Gesamtdarstellungen zur Weltpolitik
+
+UNO und andere Weltorganisationen
+
+Friedensverträge und Literatur bis zum Kalten Krieg
+
+Weltpolitik ab 1947
+
+1301 - 2000
+
+2001 - 3100
+
+3101 - 3600
+
+frei
+
+Europäische
+
+4001
+Kıol
+4301
+4601
+4701
+
+14901
+
+1100
+4300
+4600
+4700
+4900
+
+5500
+
+Kalter Krieg
+
+1301 - 1500 Ursachen
+1501 - 1700 Koreakrieg
+1701 - 1800 Deutschland
+1801 - 2000 Verlauf
+
+Entspannung
+
+2001 - 2300 Entspannungspolitik
+2301 - 2900 cherheitspolitik
+2901 - 3100 Abrüstungspolitik
+Regionale Konflikte und Dritte Welt
+3101 - 3300 Naher Osten
+
+3301 - 3100 Suez-Krise
+3101 - 3600 Entkolonialisierung
+
+Integration
+Bibliographien
+Quellen
+Europa-Idee
+Europarat
+Gesamteuropa
+
+Europäische Gemeinshhaften (EG)
+
+Militärische Bündnisse
+
+5501
+
+5601
+
+57oi
+
+5801
+
+5901
+
+5600
+
+5800
+3900
+
+6000
+
+Quellen
+
+EVG /WEU
+
+NATO
+Warschauer Pakt
+
+frei
+
+
+USA und Europa
+
+6301 -
+
+6601 - 7000
+
+7001 -
+
+Allgemeine Betrachtungen zur Gegenwart (chronologise
+
+e Ordnung)
+
+
+50 Skandinavien
+
+200 Grossbritannien und Irland
+
+270 Belgien, Niederlande und Luxemburg
+400 Frankreich
+
+470 Spanien und Portugal
+
+550 Italien
+
+600 Schweiz und Österreich
+
+Jugoslawien und Albanien
+
+A- AO Türkei
+Griechenland u F N
+
+Zypem
+
+BZ Bulgarien
+
+Rumänien
+
+Ungarn
+
+Tschechoslowakei
+- 1000 Polen
+
+1001 ££, Allgemeine Darstellungen zur Geschichte der
+osteuropäischen Staaten nach 1945
+
+
+Hd Quellen zur deutschen Geschichte seit 1945
+1- 500 Gesamtdarstellungen
+501-1000 Besatzungszeit in Deutschland 1945 - 1949
+
+1001-2500 Bundesdesrepublik Deutschland
+1001-1500 Gesamtdarstellungen
+1501-2000 Außenpolitik
+2001-2500 Innenpolitik
+
+2501-4000 Deutsche Demokratische Republik
+2501-3000 Gesamtdarstellungen
+3001-3500 Außenpolitik
+3501-4000 Innenpolitik
+
+4001-4500 Deutsche Wiedervereingung
+He Methodische Arbeiten und didaktisches Material zur Zeitgeschichte (1 - 200)
+Hf Gesamtdarstellungen zur deutschen Geschichte seit 1945 (1 - 200)
+
+Hg Besatzungszeit in Deutschland 1945 - 1949 (1- 1400)
+1-300 Gesamtdarstellungen und Zonen übergreifende Werke
+301 - 600 Amerikanische Zone
+
+601-900 Sowjetische Zone
+
+1001-1200 Britische Zone
+
+1201-1400 Französische Zone
+
+Hi Bundesrepublik Deutschland
+
+1- 3000 Gesamtdarstellungen
+1 -1000 übergreifend
+1001-2000 1949 - 1969
+2001-2499 1970 - 1990
+2500-3000 1990 -
+
+3001-11000 Außenpolitik
+3001-3750 Gesamtdarstellungen
+3751-4500 Zwischenstaatliche Außenpolitik
+
+3751-4000 Gesamtdarstellungen
+4001-4250 1949 — 1969
+4251-4349 1970 - 1990
+4350-4500 1990 -
+4501-5250 Internationale Organisationen (UNO, KSZE, etc.)
+4501-4750 Gesamtdarstellungen
+
+4751-5000 1949 — 1969
+5001-5149 1970 - 1990
+
+5150-5250 1990 -
+5251-8000 Militärpolitik (NATO etc.)
+5251-5500 Gesamtdarstellungen
+
+5501-5750 1949 - 1969
+5751-5849 1970 - 1990
+5850-6000 1990 -
+
+9001-11000 Europa-Politik
+9001-10000 Gesamtdarstellungen
+
+10001-10500 Äußeres
+10501-11000 Inneres
+11001-12000 Deutsche Frage, Berlin und deutsch-deutsche Politik 1949 — 1990
+12001-16000 Innenpolitik
+12001--12800 Gesamtdarstellungen
+12801-13500 Sozialstruktur und Sozialpolitik
+12801-13100 Gesamtdarstellungen
+13101-13300 1949 - 1969
+13301-13399 1970 - 1990
+13400-13500 1990 -
+13501-14300 Parteien, Verbände, Gewerkschaften, Kirchen
+13501-13800 Gesamtdarstellungen
+13801-140560 1949 - 1969
+13801-13850 CDU/CSU
+13851-13900 SPD
+13901-13930 FDP
+13931-13950 andere Parteien
+13951-14050 Verbände, Gewerkschaften, Kirchen
+14051-14300 1970 -
+14051-14090 CDU/CSU
+14091-14130 SPD
+14131-14170 FDP
+14171-14210 Bündnis 90/Die Grünen
+14211-14250 andere Parteien
+14251-14300 Verbände, Gewerkschaften, Kirchen
+14301-15100 Regierungssystem, Institutionen, Innere Sicherheit
+14301-14700 Gesamtdarstellungen
+14301-14433 Innere Sicherheit
+14434-14566 Regierungssystem
+14567-14700 Institutionen
+14701-14900 1949-1969
+14701-147668 Innere Sicherheit
+14767-14833  Regierungssystem
+14834 -14900 Institutionen
+14901-15100 1970 -
+14901-149668 Innere Sicherheit
+14967-15033 Regierungssystem
+15034-15100 Institutionen
+15101-15300 Wirtschafts- und Finanzpolitik
+15101-15200 Gesamtdarstellungen
+15201-15250 1949 — 1969
+15251-185300 1970 -
+15301-15500 Vergangenheitsbewältigung, Mentalitäten, Erinnerungskultur
+15301-15400 Gesamtdarstellungen
+15401-15450 1949 — 1969
+15451-158500 1970 -
+15501-15700 Kultur, Wissenschaft, Hochschulpolitik
+15501-15600 Gesamtdarstellungen
+15601-156500 1949 - 1969
+15651-15700 1970 -
+15701-16000 Länder und Kommunen
+15701-15750 Gesamtdarstellungen
+15751-15874 1949 — 1990
+15875-16000 1990 —
+
+17501-18300 Memoiren und Biographien
+17501-18099 Einzelbiographien und Memoiren
+18100-18300 Sammelbiographien
+
+Hi Deutsche Demokratische Republik (1-6500)
+
+1-2000 Gesamtdarstellungen
+1 -1000 übergreifen
+1001-1500 1949-1961
+1501-2000 1961-1990
+
+2001-4000 Außenpolitik
+2001-2500 Gesamtdarstellungen
+2501-3000 Zwischenstaatliche Außenpolitik
+
+2501-2600 Gesamtdarstellungen
+2601-2800 1949-1961
+2801-3000 1961-1990
+3001-3500 Internationale Organisationen (Uno/KSZE, etc.)
+3001-3100 Gesamtdarstellungen
+3101-3300 1949-1961
+3301-3500 1961-1990
+3501-4000 Militärpolitik (Nato etc.)
+3501-3600 Gesamtdarstellungen
+3601-3800 1949-1951
+3801-4000 1961-1990
+
+4001-6200 Innenpolitik
+4001-4300 Gesamtdarstellungen
+4301-4600 Sozialstruktur und Sozialpolitik
+4301-4400 Gesamtdarstellungen
+4401-4500 1949-1961
+4501-4600 1961-1990
+4601-4900 Parteien, Verbände, Gewerkschaften, Kirchen
+4601-4700 Gesamtdarstellungen
+4701-4800 1949-1961
+4701-4750 SED
+4751-4770 andere Parteien
+4771-4800 Gewerkschaften, Verbände, Kirchen
+4801-4900 1961-1990
+4801-4850 SED
+4851-4870 andere Parteien
+4871-4900 Gewerkschaften, Verbände, Kirchen
+4901-5200 Regierungssystem, Institutionen, Innere Sicherheit
+4901-5000 Gesamtdarstellungen
+4901-4933 Innere Sicherheit
+4934-4966 Regierungssystem
+4967-5000 Institutionen
+5001-5100 1949-1961
+5001-5033 Innere Sicherheit
+5034-5066 Regierungssystem
+5067-5100 Institutionen
+5101-5200 1961-1990
+5101-5133 Innere Sicherheit
+
+5167-5200 Institutionen
+5201-5500 Wirtschafts- und Finanzpolitik
+5201-5300 Gesamtdarstellungen
+5301-5400 1949-1961
+5401-5500 1961-1990
+5501-5800 Vergangenheitsbewältigung, Mentalitäten, Erinnerungskultur
+5501-5600 Gesamtdarstellungen
+5601-5700 1949-1961
+5701-5800 1961-1990
+5801-6000 Kultur, Wissenschaft, Hochschulpolitik
+5801-5880 Gesamtdarstellungen
+5881-5940 1949-1961
+5941-8000 1961-1990
+6001-6200 Länder und Kommunen
+6001-6080 Gesamtdarstellungen
+6081-6140 1949-1961
+6141-6200 1961-1990
+
+6201-6700 Memoiren und Biographien
+6201-6499 Einzelbiographien und Memoiren
+6500-6700 Sammelbiographien
+
 * TODO J - Weltgeschichte, Post Colonial Studies
 * TODO K - Geschichte Asiens, Australiens, Afrikas
 * TODO L - Geschichte der europäischen Staaten
