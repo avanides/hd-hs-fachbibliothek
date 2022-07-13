@@ -1588,6 +1588,42 @@ CLOSED: [2022-05-09 Mon 21:55]
 * TODO O - Recht, Politik, Staat und Gesellschaft, Internationale Beziehungen
 * TODO P - Wirtschafts- und Sozialgeschichte: Handbücher, Städtewesen, Biographien
 * TODO Q - Wirtschafts- und Sozialgeschichte: Mittelalter, Neuzeit
+** DONE Qc - Einführungen, Überblicke (Mittelalter)
+CLOSED: [2022-07-13 Wed 20:05]
+*** 0001 - 0100 Einführungen in die mittelalterliche Sozial- und Wirtschaftsgeschichte
+*** 0101 - 0200 Aufsatzsammlungen und Sammelwerke zur mittelalterlichen Sozial- und Wirtschaftsgeschichte
+*** 0201 - 0300 Gesamtdarstellungen
+*** 0301 - 0400 Gesamtdarstellungen: Europa regional
+*** 0401 - 0500 Gesamtdarstellungen: Deutschland gesamt und regional
+*** 0501 - 0600 Frühmittelalter (alle Länder)
+*** 0601 - 0700 Hochmittelalter (alle Länder)
+*** 0701 - 0800 Spätmittelalter (alle Länder)
+*** 0801 - 0900 Allgemeine Quellensammlungen zur mittelalterlichen Sozial- und Wirtschaftsgeschichte
+** DONE Qd - Stände (ohne Bürgertum, Mittelalter)
+CLOSED: [2022-07-13 Wed 20:05]
+*** 0101 - 0150 Gesamtdarstellungen und grundsätzliche Untersuchungen
+*** 0151 - 0250 Gesamtdarstellungen: Europa regional
+*** 0251 - 0300 Unfreiheit (s. auch Bauern)
+*** 0301 - 0400 Freiheit (Stände der Freien)(s. auch Bauern)
+*** 0401 - 0430 Adel: Grundsätzliche Diskussion
+*** 0431 - 0500 Adel: Epochen (Frühmittelalter)
+*** 0501 - 0550 Adel: regional
+*** 0551 - 0650 Sogenannte niederer Adel und Ministerialen
+*** 0701 - 0800 Rittertum
+*** 0801 - 0900 Juden
+*** 1000 - xxxx Randgruppen
+** Qf - Agrargeschichte (Mittelalter)
+** TODO Qg - Industrie und Gewerbe (Mittelalter)
+** TODO Qh - Handel und Verkehr (Mittelalter)
+** TODO Qi - Oberdeutschland und Niederdeutschland, Geschichte der Hanse
+** TODO Qk - Geld-, Bank-, Kreditwesen (Mittelalter)
+** TODO Qn - Agrargeschichte (allgemein und Neuzeit)
+** TODO Qp - Gewerbliche Wirtschaft, Bergbau und Energiewirtschaft (allgemein und Neuzeit)
+** TODO Qr - Verkehrsgeschichte (allgemein und Neuzeit)
+** TODO Qs - Handel (allgemein und Neuzeit)
+** TODO Qv - Wirtschaftspolitik
+** TODO Qw - Sozialpolitik und soziale Frage
+** TODO Qz - Wirtschatstheorie und Volkwirtschaftslehre
 * TODO R - Kulturgeschichte, Geschichte der Künste, Geschichte der Technik, Mediengeschichte, Umweltgeschichte
 * TODO S - Kriegs- und Militärgeschichte
 * TODO T - Religions- und Kirchengeschichte
