@@ -14,7 +14,6 @@
 [[https://www.uni-heidelberg.de/md/zegk/histsem/seminar/systematik_schurman.pdf][Systematik der Schurman Bibliothek]]
 
 ---
-* TODO Historisches Seminar
 * DONE A - Hilfsmittel und Hilfswissenschaften, EDV-Literatur, Neue Medien
 CLOSED: [2022-05-03 Tue 20:27]
 ** Aa - Wörterbücher und philologische Hilfsmittel
@@ -1597,15 +1596,15 @@ CLOSED: [2022-05-09 Mon 21:55]
 * TODO W - Fest- und Gedenkschriften
 * DONE Z - Zeitschriften, Jahrbücher, Dissertationen
 CLOSED: [2022-05-03 Tue 20:26]
-** Za - Allgemeine Zeitschriften
-** Zb - Allgemeine historische Zeitschriften
-** Zc - Mittelalter und Hilfswissenschaften
-** Zd - Neuzeit
-** Ze - Regionale Zeitschriften (auch ausländische)
-** Zf - Ausländische Zeitschriften
-** Zg - Systematische Zeitschriften
-** Zl - Jahrbücher
-** Zs - Dissertationen
+*** Za - Allgemeine Zeitschriften
+*** Zb - Allgemeine historische Zeitschriften
+*** Zc - Mittelalter und Hilfswissenschaften
+*** Zd - Neuzeit
+*** Ze - Regionale Zeitschriften (auch ausländische)
+*** Zf - Ausländische Zeitschriften
+*** Zg - Systematische Zeitschriften
+*** Zl - Jahrbücher
+*** Zs - Dissertationen
 * TODO Institut für Fränkisch-Pfälzische Geschichte und Landeskunde
 
 Die Mitglieder des Instituts werden gebeten, Wünsche um Neu-
@@ -4382,6 +4381,7 @@ Weitere Gebiete
 
 Orte (alphabetisch)
 
+* TODO Lateinische Philologie des Mittelalters und der Neuzeit
 * TODO Schurman Bibliothek
 Alle Signaturen fangen mit ~Sch~
 ** I. Allgemeines
