@@ -1607,133 +1607,28 @@ CLOSED: [2022-05-03 Tue 20:26]
 *** Zs - Dissertationen
 * TODO Institut für Fränkisch-Pfälzische Geschichte und Landeskunde
 
-Die Mitglieder des Instituts werden gebeten, Wünsche um Neu-
 
-anschaffungen von Büchern dem Assistenten mitzuteilen und auf
-diese Weise an der Ausgestaltung der Bibliothek mitzuwirken.
+** I - Bibliographie und Hilfswissenschaften, zur landesgeschichtlichen Methode
 
-Die Mitglieder des Historischen Seminars haben das Recht, die
-Bibliothek des Instituts zu benutzen. Doch werden Dauerbenut-
-zer gebeten, sich bei dem geschäftsführenden Direktor des In-
-stituts und dem Assistenten vorzustellen.
+*** 01 ff - Bibliographie, allgemein
+*** 10 ff - Allgemeine Quellenkunde
+*** 40 ff - Bibliothekskunde, Regionalbibliographien
 
-Als "Räume des Instituts" im obigen Sinne gelten bis auf wei-
-teres die Räume des Historischen Seminars.
-
-II, Hinweise zum Verständnis der Signaturen
-
-Die Bibliothek des Instituts ging zum großen Teil aus der
-Abteilung D (Badisch-pfälzische Landeskunde) der Bibliothek
-
-des Historischen Seminars hervor. Die Werke tragen deshalb
-
-auf der Signatur noch ein D, das jedoch für die Einteilung
-
-der Bibliothek des Instituts keine Bedeutung hat.
-Zusammengehörige Literatur ist oft in einer Nummer vereinigt,
-etwas XII 216 a, XII 216 b, usw.
-
-Wo sich der Rahmen der Bibliothekseinteilung als zu eng erwies,
-ist das Bruchstrichschema eingeführt, etwa:
-
-190 190
-VII En vII 577, usw.
-
-Aus schreibtechnischen Gründen wird dafür in angefügter Über-
-sicht immer, wie folgt, geschrieben: VII 190/1, VII 190/2, usw.
-Elsaß-Lothringen ist unter den Signaturen vom Elsaß zu suchen,
-ebenso ist Kurpfalz gelegentlich unter Baden zu suchen. Bei
-der eigenartigen Entwicklung der südwestdeutschen Territorien
-ließen sich auch in anderen Fällen gelegentlich Überschnei-
-dungen nicht vermeiden.
-
-
-III, Übersicht über die Hauptabteilungen der Bibliothek
-
-xIIl
-
-Bibliographie und Hilfswissenschaften, zur landesge-
-schichtlichen Methode
-
-Zeitschriften und Buchreihen
-
-Festschriften und Sammelbände
-
-Biographische und statistische Nachschlagewerke
-Allgemeine Landesgeschichte
-
-Geschichte einzelner Orte und Gebiete
-
-Landes- und Siedlungskunde
-
-Sprache, Volkskunde und Bevölkerungsgeschichte
-Wirtschaft und soziale Zustände
-
-Verfassung und Recht
-
-Kirchengeschichte
-
-Kultur- und Bildungsgeschichte
-Literaturdenkmäler (Texte)
-
-Karten
-Wandkarten
-Reisebücher
-
-I. _Bibliographie und Hilfswissenschaften
-
-I
-I
-I
-
-1 ff
-10 ff
-40 ff
-40 ff
-47-49
-50 ff
-60 ff
-
-69/1 ff
-
-69/20 ff
-69/40 ff
-69/60 ff
-69/80 ff
-69/100 ff
-69/120 ff
-
-70
-70
-80
-90
-100
-120
-130
-130
-140
-
-ff
-ff
-ff
-ff
-ff
-ff
-ff
-ff
-ff
-
-149/1
-149/30 ff
-
-150
-200
-300
-400
-450
-500
-
-
+** II - Zeitschriften und Buchreihen
+** III - Festschriften und Sammelbände
+** IV - Biographische und statistische Nachschlagewerke
+** V - Allgemeine Landesgeschichte
+** VI - Geschichte einzelner Orte und Gebiete
+** VII - Landes- und Siedlungskunde
+** VIII - Sprache, Volkskunde und Bevölkerungsgeschichte
+** IX - Wirtschaft und soziale Zustände
+** X - Verfassung und Recht
+** XI - Kirchengeschichte
+** XII - Kultur- und Bildungsgeschichte
+** XIII - Literaturdenkmäler (Texte)
+** XX - Karten
+** XXI - Wandkarten
+** XXII - Reisebücher
 
 Bibliographie, allgemein
 Allgemeine Quellenkunde
