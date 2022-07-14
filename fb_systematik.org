@@ -4960,12 +4960,12 @@ Orte (alphabetisch)
 ****** nodie
 ****** 440-449: allgemeine Offiziendichtung
 ****** 450-599: römische Hymnodie
-******* 450-459: Anfänge bis VIII. Jhd.
-******* 460-479: IX. Jhd.
-******* 480-509. X. Jhd.
-******* 510-539: XI. Jhd.
-******* 540-569: XII. Jhd.
-******* 570-599: XIII. – XV. Jhd.
+450-459: Anfänge bis VIII. Jhd.
+460-479: IX. Jhd.
+480-509. X. Jhd.
+510-539: XI. Jhd.
+540-569: XII. Jhd.
+570-599: XIII. – XV. Jhd.
 **** 0600- 799: Poetische Corpora
 ***** 600- 619: allgemeine Corpora
 ***** 620- 799: einzelne Zeiträume
@@ -5030,43 +5030,43 @@ Sonstige
 1300-1340:
 ****** 1341-1380: MGH (Monumenta Germaniae
 historica)
-******* 1341: Scriptores in 2° und
-******* 4°
-******* 1342: Auctores antiquissimi
-******* 1343: Scriptores rerum Mero-
-******* vingicarum
-******* 1344: Scriptores rerum Lan-
-******* gobardicarum
-******* 1345: Libelli de Lite
-******* 1346:
-******* 1351: Leges in 2° und 4°
-******* 1352:
-******* 1353: Capitularia
-******* 1354: Concilia
-******* 1355: Constitutiones et Acta
-******* publica
-******* 1356: Formulae
-******* 1359: Fontes iuris Germanici
-******* Antiqui (Nova Series)
-******* 1365: Diplomata 2°
-******* 1366: Diplomata Carolina in
-******* 4°
-******* 1367: Diplomata regum Germa-
-******* niae ex stirpe Caroli-
-******* norum
-******* 1368: Diplomata regum et im-
-******* peratorum Germaniae
-******* 1369: Dynastenurkunden
-******* 1371: Epistolae in 4°
-******* 1372: Epistolae saec. XIII.
-******* 1373: Briefe der deutschen
-******* Kaiserzeit
-******* 1375: Libri memoriales
-******* 1377: Poetae latini
-******* 1378: Necrologia
-******* 1379: Libri confraternitatum
+1341: Scriptores in 2° und
+4°
+1342: Auctores antiquissimi
+1343: Scriptores rerum Mero-
+vingicarum
+1344: Scriptores rerum Lan-
+gobardicarum
+1345: Libelli de Lite
+1346:
+1351: Leges in 2° und 4°
+1352:
+1353: Capitularia
+1354: Concilia
+1355: Constitutiones et Acta
+publica
+1356: Formulae
+1359: Fontes iuris Germanici
+Antiqui (Nova Series)
+1365: Diplomata 2°
+1366: Diplomata Carolina in
+4°
+1367: Diplomata regum Germa-
+niae ex stirpe Caroli-
+norum
+1368: Diplomata regum et im-
+peratorum Germaniae
+1369: Dynastenurkunden
+1371: Epistolae in 4°
+1372: Epistolae saec. XIII.
+1373: Briefe der deutschen
+Kaiserzeit
+1375: Libri memoriales
+1377: Poetae latini
+1378: Necrologia
+1379: Libri confraternitatum
 
-******* 1380: Indices
+1380: Indices
 1381-1419:
 ******** 1420-1499: Zeitlich begrenzte Corpora 1500-1899: Nationale historische Corpora (lokale
 ******** Corpora erhalten die jeweils letzten 30 Num-
@@ -6668,13 +6668,8 @@ Alle Signaturen fangen mit ~Sch~
     3. Besondere Themen
 
 ** V. Periodika/Microformen
-  :PROPERTIES:
-  :CUSTOM_ID: v.-periodikamicroformen
-  :END:
+*** Mikroformen
+*** Zeitschriften
+*** Working Papers
 
-70. *Mikroformen*
-
-80. *Zeitschriften*
-
-90. *Working Papers*
-
+    
