@@ -5029,85 +5029,82 @@ Sonstige
 ***** 1300-1419: Allgemeines
 1300-1340:
 ****** 1341-1380: MGH (Monumenta Germaniae
-historica)
-1341: Scriptores in 2° und
-4°
-1342: Auctores antiquissimi
-1343: Scriptores rerum Mero-
-vingicarum
-1344: Scriptores rerum Lan-
-gobardicarum
-1345: Libelli de Lite
-1346:
-1351: Leges in 2° und 4°
-1352:
-1353: Capitularia
-1354: Concilia
-1355: Constitutiones et Acta
-publica
-1356: Formulae
-1359: Fontes iuris Germanici
-Antiqui (Nova Series)
-1365: Diplomata 2°
-1366: Diplomata Carolina in
-4°
-1367: Diplomata regum Germa-
-niae ex stirpe Caroli-
-norum
-1368: Diplomata regum et im-
-peratorum Germaniae
-1369: Dynastenurkunden
-1371: Epistolae in 4°
-1372: Epistolae saec. XIII.
-1373: Briefe der deutschen
-Kaiserzeit
-1375: Libri memoriales
-1377: Poetae latini
-1378: Necrologia
-1379: Libri confraternitatum
+****** historica)
+****** 1341: Scriptores in 2° und
+****** 4°
+****** 1342: Auctores antiquissimi
+****** 1343: Scriptores rerum Mero-
+****** vingicarum
+****** 1344: Scriptores rerum Lan-
+****** gobardicarum
+****** 1345: Libelli de Lite
+****** 1346:
+****** 1351: Leges in 2° und 4°
+****** 1352:
+****** 1353: Capitularia
+****** 1354: Concilia
+****** 1355: Constitutiones et Acta
+****** publica
+****** 1356: Formulae
+****** 1359: Fontes iuris Germanici
+****** Antiqui (Nova Series)
+****** 1365: Diplomata 2°
+****** 1366: Diplomata Carolina in
+****** 4°
+****** 1367: Diplomata regum Germa-
+****** niae ex stirpe Caroli-
+****** norum
+****** 1368: Diplomata regum et im-
+****** peratorum Germaniae
+****** 1369: Dynastenurkunden
+****** 1371: Epistolae in 4°
+****** 1372: Epistolae saec. XIII.
+****** 1373: Briefe der deutschen
+****** Kaiserzeit
+****** 1375: Libri memoriales
+****** 1377: Poetae latini
+****** 1378: Necrologia
+****** 1379: Libri confraternitatum
 
-1380: Indices
-1381-1419:
-******** 1420-1499: Zeitlich begrenzte Corpora 1500-1899: Nationale historische Corpora (lokale
-******** Corpora erhalten die jeweils letzten 30 Num-
-******** mern)
-******** 1500-1549: Italien
-******** 1550-1599: Iberische Halbinsel 1600-1640: Gallien
-******** 1650-1699: Irland und England 1700-1749: Deutschland 1750-1779: Ungarn und Böhmen 1780-1799: Polen
-******** 1800-1824: Skandinavien 1825-1849: Regesten (alphabetisch) 1850-1899:
-******** 1900-1999: Brief-Corpora
-******** 1900-1909: Allgemeine
-******** 1910-1949: Zeitlich begrenzte
-******** 1950-1999: Regionale Corpora
-Italien
-Iberische Halbinsel
-Gallien
-Irland
-England
-Niederlande
-Deutschland
-Südosteuropa
-Böhmen
-Polen
-Skandinavien
-2000-2499: Inschriften
-2000-2099: Allgemeine
-2100-2499: Regionale Corpora
-Italien
-2500-2999:
-Iberische Halbinsel
-Gallien
-Irland
-England
-Niederlande
-Deutschland
-Südosteuropa
-Böhmen
-Polen
-Skandinavien
-
-3000-3999: Adespota und Pseudoepigrapha
-3000–3099: Allgemeines
+****** 1380: Indices
+****** 1381-1419:
+****** 1420-1499: Zeitlich begrenzte Corpora 1500-1899: Nationale historische Corpora (lokale
+****** Corpora erhalten die jeweils letzten 30 Num-
+****** mern)
+****** 1500-1549: Italien
+****** 1550-1599: Iberische Halbinsel 1600-1640: Gallien
+****** 1650-1699: Irland und England 1700-1749: Deutschland 1750-1779: Ungarn und Böhmen 1780-1799: Polen
+****** 1800-1824: Skandinavien 1825-1849: Regesten (alphabetisch) 1850-1899:
+****** 1900-1999: Brief-Corpora
+****** 1900-1909: Allgemeine
+****** 1910-1949: Zeitlich begrenzte
+****** 1950-1999: Regionale Corpora
+******* Italien
+******* Iberische Halbinsel
+******* Gallien
+******* Irland
+******* England
+******* Niederlande
+******* Deutschland
+******* Südosteuropa
+******* Böhmen
+******* Polen
+******* Skandinavien
+******* 2000-2499: Inschriften
+******* 2000-2099: Allgemeine
+******* 2100-2499: Regionale Corpora
+******* Italien
+******* 2500-2999:
+******* Iberische Halbinsel
+******* Gallien
+******* Irland
+******* England
+******* Niederlande
+******* Deutschland
+******* Südosteuropa
+******* Böhmen
+******* Polen
+******* Skandinavien
 3100–3199: Kleine Formen, Accesus
 3200–3299: Fabeln
 3300-3399: Exempla
@@ -5156,280 +5153,281 @@ n.Chr. (Signatur ergibt sich
 aus dem Todesjahr)
 Bsp. Beda Venerabilis   (†  735) –> A II  735X
 Francesco Petrarca († 1374) -> A II 1374X
-30000-3250: Übersetzungen ins Lateinische
-30000:  500 v.Chr.
-30010:  400 v.Chr.
-30020:  300 v.Chr.
-30030:  200 v.Chr.
-30040:  100 v.Chr.
-30050:    0
-30060:  100 n.Chr.
-30070:  200 n.Chr.
-30080:  300 n.Chr.
-30090:  400 n.Chr.
-30100:  500 n.Chr.
-30110:  600 n.Chr.
-30120:  700 n.Chr.
-30130:  800 n.Chr.
-30140:  900 n.Chr.
-30150: 1000 n.Chr.
-30160: 1100 n.Chr.
-30170: 1200 n.Chr.
-30180: 1300 n.Chr.
-30190: 1400 n.Chr.
-30200: 1500 n.Chr.
-30210: 1600 n.Chr.
-30220: 1700 n.Chr.
-30230: 1800 n.Chr.
-30240: 1900 n.Chr.
-30250: 2000 n.Chr.
+**** 30000-3250: Übersetzungen ins Lateinische
+**** 30000:  500 v.Chr.
+**** 30010:  400 v.Chr.
+**** 30020:  300 v.Chr.
+**** 30030:  200 v.Chr.
+**** 30040:  100 v.Chr.
+**** 30050:    0
+**** 30060:  100 n.Chr.
+**** 30070:  200 n.Chr.
+**** 30080:  300 n.Chr.
+**** 30090:  400 n.Chr.
+**** 30100:  500 n.Chr.
+**** 30110:  600 n.Chr.
+**** 30120:  700 n.Chr.
+**** 30130:  800 n.Chr.
+**** 30140:  900 n.Chr.
+**** 30150: 1000 n.Chr.
+**** 30160: 1100 n.Chr.
+**** 30170: 1200 n.Chr.
+**** 30180: 1300 n.Chr.
+**** 30190: 1400 n.Chr.
+**** 30200: 1500 n.Chr.
+**** 30210: 1600 n.Chr.
+**** 30220: 1700 n.Chr.
+**** 30230: 1800 n.Chr.
+**** 30240: 1900 n.Chr.
+**** 30250: 2000 n.Chr.
 *** III Analekten und Anthologien
-1-499: Analekten (geordnet nach Erscheinungsjahr 1900 = 100, ab 1900 zwei Nummern pro Jahr)
-500-999: Anthologien (geordnet wie Analekten, 1900 = 600)
+**** 1-499: Analekten (geordnet nach Erscheinungsjahr 1900 = 100, ab 1900 zwei Nummern pro Jahr)
+**** 500-999: Anthologien (geordnet wie Analekten, 1900 = 600)
 
 ** B Lexikographie und Sprachwissenschaft
 *** I Wörterbücher
-1- 49: Allgemeine (TLL B I 2)
-50- 69: Regional begrenzte Wörterbücher (B I 58* = Spa-
-nien, allen Regionen/Reiche/Zeiten)
-70- 99: Wörterbücher über besondere Gebiete (geordnet nach Fakultäten)
-100-   : Nichtlateinische Wörterbücher
-Italien
-Iberische Halbinsel
-Gallien
-Irland
-England
-Niederlande
-Deutschland
-Südosteuropa
-Böhmen
-Polen
-Skandinavien
+**** 1- 49: Allgemeine (TLL B I 2)
+**** 50- 69: Regional begrenzte Wörterbücher (B I 58* = Spa-
+**** nien, allen Regionen/Reiche/Zeiten)
+**** 70- 99: Wörterbücher über besondere Gebiete (geordnet nach Fakultäten)
+**** 100-   : Nichtlateinische Wörterbücher
+***** Italien
+***** Iberische Halbinsel
+***** Gallien
+***** Irland
+***** England
+***** Niederlande
+***** Deutschland
+***** Südosteuropa
+***** Böhmen
+***** Polen
+***** Skandinavien
 *** II Indices, Konkordanzen und Spezialwörterbücher
-1- 49: Autoren der vorchristlichen Jahrhunderte
-50-1999: Autoren der nachchristlichen Jahrhunderte
-50-  99: I.     Jhd.
-100- 199: II.    Jhd.
-200- 299: III.   Jhd.
-300- 399: IV.    Jhd.
-400- 499: V.     Jhd.
-500- 599: VI.    Jhd.
-600- 699: VII.   Jhd.
-700- 799: VIII.  Jhd.
-800- 899: IX.    Jhd.
-900- 999: X.     Jhd.
-1000-1099: XI.    Jhd.
-1100-1199: XII.   Jhd.
-1200-1299: XIII.  Jhd.
-1300-1399: XIV.   Jhd.
-1400-1499: XV.    Jhd.
-1500-1599: XVI.   Jhd.
-1600-1699: XVII.  Jhd.
-1700-1799: XVIII. Jhd.
-1800-1899: XIX.   Jhd.
-1900-1999: XX.    Jhd.
+**** 1- 49: Autoren der vorchristlichen Jahrhunderte
+**** 50-1999: Autoren der nachchristlichen Jahrhunderte
+**** 50-  99: I.     Jhd.
+**** 100- 199: II.    Jhd.
+**** 200- 299: III.   Jhd.
+**** 300- 399: IV.    Jhd.
+**** 400- 499: V.     Jhd.
+**** 500- 599: VI.    Jhd.
+**** 600- 699: VII.   Jhd.
+**** 700- 799: VIII.  Jhd.
+**** 800- 899: IX.    Jhd.
+**** 900- 999: X.     Jhd.
+**** 1000-1099: XI.    Jhd.
+**** 1100-1199: XII.   Jhd.
+**** 1200-1299: XIII.  Jhd.
+**** 1300-1399: XIV.   Jhd.
+**** 1400-1499: XV.    Jhd.
+**** 1500-1599: XVI.   Jhd.
+**** 1600-1699: XVII.  Jhd.
+**** 1700-1799: XVIII. Jhd.
+**** 1800-1899: XIX.   Jhd.
+**** 1900-1999: XX.    Jhd.
 *** III Lexikologie und Glossgraphie 1- 19: Allgemeines
-20- 399: Editionen (chronologisch) 400- 499: Differentiae verborum
+**** 20- 399: Editionen (chronologisch)
+**** 400- 499: Differentiae verborum
 401- 409: Allgemeines
 *** IV Grammatik und Sprachgeschichte 1- 999: Grammatik
 33
-1-  99: Gesamtdarstellungen
-100- 199: Laut und Formenlehre
-100-119: Gesamtdarstellungen
-120-129: Lautlehre
-130-199: Formenlehre
-200- 299: Syntax
-300- 399: Wortbildungslehre
-400- 899:
-900- 999: nichtlateinische Grammatiken
-1000-2999: Sprachgeschichte
-1000-1099: Gesamtzeitraum
-1100-1199: Klassische Zeit (bis 200 n.Chr.) 1200-1299: Spätlateinische Zeit (III.- V. Jhd.) 1300-1399: Vulgärlatein / VI.- VIII. Jhd. 1400-1499: Mittellatein
-1500-1599: Neulatein
-3000-4499: Semasiologie und Onomasiologie
-3000-3099: Allgemeines
-3100-4399: Wortmonographien (50 Nummern pro Buch-
-stabe, d.h. 3100-3149 für A, usw.) 4400-4499: Logik und Semantik
+**** 1-  99: Gesamtdarstellungen
+**** 100- 199: Laut und Formenlehre
+**** 100-119: Gesamtdarstellungen
+**** 120-129: Lautlehre
+**** 130-199: Formenlehre
+**** 200- 299: Syntax
+**** 300- 399: Wortbildungslehre
+**** 400- 899:
+**** 900- 999: nichtlateinische Grammatiken
+**** 1000-2999: Sprachgeschichte
+**** 1000-1099: Gesamtzeitraum
+**** 1100-1199: Klassische Zeit (bis 200 n.Chr.) 1200-1299: Spätlateinische Zeit (III.- V. Jhd.) 1300-1399: Vulgärlatein / VI.- VIII. Jhd. 1400-1499: Mittellatein
+**** 1500-1599: Neulatein
+**** 3000-4499: Semasiologie und Onomasiologie
+**** 3000-3099: Allgemeines
+**** 3100-4399: Wortmonographien (50 Nummern pro Buch-
+**** stabe, d.h. 3100-3149 für A, usw.) 4400-4499: Logik und Semantik
 *** V Sprache einzelner Autoren (Signaturen wie in A II)
 
 ** C Paläographie und Handschriftenkunde
 *** I Allgemeine Paläographie
-1- 50: Schrift (allgemein)
-51-  62: griechische Paläographie
-63- 99: lateinische Paläographie (Einführungen)
-100- 360: gesammelte Paläographische Schriften (alphab-
-ethisch geordnet) 450- 549: Tafelwerke
-550: Palaeographia Latina (Zs., abges.) 551- 649: spezielle paläographische Probleme 650- 669: Papyrologie
-670- 699: Authentiken
-700- 749: Geheimschriften, Tironische Noten 750- 799: Abbreviaturen, Ligaturen etc.
-800- 850: Mss datés, Kolophone
+**** 1- 50: Schrift (allgemein)
+**** 51-  62: griechische Paläographie
+**** 63- 99: lateinische Paläographie (Einführungen)
+**** 100- 360: gesammelte Paläographische Schriften (alphab-
+**** ethisch geordnet) 450- 549: Tafelwerke
+**** 550: Palaeographia Latina (Zs., abges.) 551- 649: spezielle paläographische Probleme 650- 669: Papyrologie
+**** 670- 699: Authentiken
+**** 700- 749: Geheimschriften, Tironische Noten 750- 799: Abbreviaturen, Ligaturen etc.
+**** 800- 850: Mss datés, Kolophone
 *** II Reproduktionen und Monographien
-1-2599: einzelne Standorte(Alphabetisch nach Bibliotheksor-
-ten, 100 Nummern pro Buchstabe, d.h. 1-99 für A; 100-
-199 für B; 200-299 für C; usw.) 2600- : gemischte Standorte
+**** 1-2599: einzelne Standorte(Alphabetisch nach Bibliotheksor-
+**** ten, 100 Nummern pro Buchstabe, d.h. 1-99 für A; 100-
+**** 199 für B; 200-299 für C; usw.) 2600- : gemischte Standorte
 *** III Handschriftenkunde
-1- 49: Buch- und Schriftwesen
-(C III 41* Medienwandel; C III 42* Tinte)
-50-  99: Reisebreichte, Hss-Funde etc.
-100- 199: Pergament und Lagen
-200- 299:
-300- 399:
-400- 659:
-Schreibschulen (mehrere)
-einzelne Schreibschulen (alphabetisch geordnet, 10
-Nummern pro Buchstabe, d.h. 400-409 für A; 410-419 für
-B; usw.) 660- 699:
-700- 750: Buchtypen
-751- 799:
-800- 899: Buchmalerei
-900- 950: Einbände
+**** 1- 49: Buch- und Schriftwesen
+**** (C III 41* Medienwandel; C III 42* Tinte)
+**** 50-  99: Reisebreichte, Hss-Funde etc.
+**** 100- 199: Pergament und Lagen
+**** 200- 299:
+**** 300- 399:
+**** 400- 659:
+**** Schreibschulen (mehrere)
+**** einzelne Schreibschulen (alphabetisch geordnet, 10
+**** Nummern pro Buchstabe, d.h. 400-409 für A; 410-419 für
+**** B; usw.) 660- 699:
+**** 700- 750: Buchtypen
+**** 751- 799:
+**** 800- 899: Buchmalerei
+**** 900- 950: Einbände
 *** IV Kataloge
-1- 99: Sammlungen mittelalterlicher Kataloge (alphabe-
-tisch geordnet, 10 Nummern pro Buchstabe) 100- 399: Lokale Kataloge des Mittelalters
-400-1179: Moderne Handschriftenkataloge
-400- 409: Allgemeine
-410-1179: Einzelne Sammlungen (alphabe- tisch geordnet, 30 Nummern pro Buch-
-stabe)
+**** 1- 99: Sammlungen mittelalterlicher Kataloge (alphabe-
+**** tisch geordnet, 10 Nummern pro Buchstabe) 100- 399: Lokale Kataloge des Mittelalters
+**** 400-1179: Moderne Handschriftenkataloge
+**** 400- 409: Allgemeine
+**** 410-1179: Einzelne Sammlungen (alphabe- tisch geordnet, 30 Nummern pro Buch-
+**** stabe)
 *** V Geschichte der Handschriftensammlungen 1- 49: Allgemeines
-50- 99: Regionale Sammlungen
-100- 619: Lokale Sammlungen (alphabetisch geordnet, 20
-Nummern pro Buchstabe)
+**** 50- 99: Regionale Sammlungen
+**** 100- 619: Lokale Sammlungen (alphabetisch geordnet, 20
+**** Nummern pro Buchstabe)
 *** VI Inkunabelkunde
-1- 49: Allgemeines
-50- 99: regionale Sammlungen
-100- : lokale Sammlung (alphabetisch geordnet, 20
+**** 1- 49: Allgemeines
+**** 50- 99: regionale Sammlungen
+**** 100- : lokale Sammlung (alphabetisch geordnet, 20
 Nummern pro Buchstabe)
 *** VII Reproduktionen autornaher Überlieferung (Signaturen wie in A II)
 
 ** D Historia Litterarum
 *** I Literaturgeschichte allgemein
-1- 149: allgemeine Darstellungen
-150- 299: Einzelprobleme der Literaturgeschichte
-300- 499: Engere Zeiträume
-300- 319: Klassische Antike (vor 250 n.Chr.)
-320- 369: Spätantike (250-600 n.Chr.)
-370- 429: Frühmittelalter (600-900 n.Chr.)
-430- 459: Hochmittelalter (900-1250 n.Chr.)
-460- 499: Spätmittelalter (1250-1500 n.Chr.)
-500- 799: Einzelne Länder/Regionen
-500- 550: Italien
-800- 999:
-1000-1199:
-551- 569: Africa
-570- 599: Iberische Halbinsel
-600- 649: Gallia
-650- 699: britische Inseln
-700- 749: Deutschland
-750- 759: Ungarn
-760- 769: Böhmen
-770- 779: Polen
-780- 789: Skandinavien
-790- 799: Sonstige
-Stoff- und Motivgeschichte (geordnet nach Chrono- logie der Stoffe und Motive)
-Nachleben antiker Autoren (geordnet nach Chronolo- gie der Autoren)
-1000-1014: Allgemeines
-1015-1099: lateinische Autoren
-1100-1199: griechische Autoren
-1200-1599: außerlateinische Literatur
-1200-1285: gr. und byzan. Literatur
-1200-1209: klass. gr. Literatur
-1210-1219: urchristl. Literatur
-1220-1249: patristische Literatur
-1250-1269: Überlieferung der patrist-
-ischen Literatur
-1270-1285: byzan. Literatur
-1286-1299: jüdische und arabische Literatur
-1300-1399: germanische Literatur
-1300-1319: Allgemeines
-1320-1339: England
-1340-1369: Deutschland
-1370-1389: Skandinavien
-1390-1399: Sonstige
-1400-1499: keltische Literatur
-1500-1799: romanische Literatur
-1500-1549: Allgemeines
-1550-1599: italienische Literatur
-1600-1649: iberoromanische Literatur
+**** 1- 149: allgemeine Darstellungen
+**** 150- 299: Einzelprobleme der Literaturgeschichte
+**** 300- 499: Engere Zeiträume
+**** 300- 319: Klassische Antike (vor 250 n.Chr.)
+**** 320- 369: Spätantike (250-600 n.Chr.)
+**** 370- 429: Frühmittelalter (600-900 n.Chr.)
+**** 430- 459: Hochmittelalter (900-1250 n.Chr.)
+**** 460- 499: Spätmittelalter (1250-1500 n.Chr.)
+**** 500- 799: Einzelne Länder/Regionen
+**** 500- 550: Italien
+**** 800- 999:
+**** 1000-1199:
+**** 551- 569: Africa
+**** 570- 599: Iberische Halbinsel
+**** 600- 649: Gallia
+**** 650- 699: britische Inseln
+**** 700- 749: Deutschland
+**** 750- 759: Ungarn
+**** 760- 769: Böhmen
+**** 770- 779: Polen
+**** 780- 789: Skandinavien
+**** 790- 799: Sonstige
+**** Stoff- und Motivgeschichte (geordnet nach Chrono- logie der Stoffe und Motive)
+**** Nachleben antiker Autoren (geordnet nach Chronolo- gie der Autoren)
+**** 1000-1014: Allgemeines
+**** 1015-1099: lateinische Autoren
+**** 1100-1199: griechische Autoren
+**** 1200-1599: außerlateinische Literatur
+**** 1200-1285: gr. und byzan. Literatur
+**** 1200-1209: klass. gr. Literatur
+**** 1210-1219: urchristl. Literatur
+**** 1220-1249: patristische Literatur
+**** 1250-1269: Überlieferung der patrist-
+**** ischen Literatur
+**** 1270-1285: byzan. Literatur
+**** 1286-1299: jüdische und arabische Literatur
+**** 1300-1399: germanische Literatur
+**** 1300-1319: Allgemeines
+**** 1320-1339: England
+**** 1340-1369: Deutschland
+**** 1370-1389: Skandinavien
+**** 1390-1399: Sonstige
+**** 1400-1499: keltische Literatur
+**** 1500-1799: romanische Literatur
+**** 1500-1549: Allgemeines
+**** 1550-1599: italienische Literatur
+**** 1600-1649: iberoromanische Literatur
 
-1650-1699: provençalische und franz.
-Literatur
-1700-1799: Sonstige
+**** 1650-1699: provençalische und franz.
+**** Literatur
+**** 1700-1799: Sonstige
 *** II Geschichte der Gattungen
-1- 99: Allgemeine Form der Gattungsgeschichte
-1-  49: äußere Probleme
-50-  99: innere Probleme
-100- 599: Versdichtung
-100- 149: Allgemeines
-150- 449: lyrische Gattungen
-150- 159: Allgemeines
-160- 179: Epigramm
-180- 189: Rätsel
-190- 219: Epitaph
-220- 229: Merkvers
-230- 259: Preislied
-260- 269: Städtelob
-270- 289: Satire
-290- 299: Cantica
-300- 319: Psalmen
-320- 329: Preces
-330- 349: Hymnus
-350- 359: Sequenz
-360- 369: Tropen und Musik
-370- 399: Minnesang und Vagantendich-
-tung
-400- 409: Carmen figuratum
-410- 419: Streitgedicht
-420- 429: Ars Moriendi
-430- 439:
-440- 449: Emblematik
-450- 499: epische Gattungen
-450- 459: Allgemeines
-460- 469: Heiligenlob und Bibelepik
-470- 479: Carmen historicum
-480- 489: Ekphrasis
-490- 499: Makkaronische Dichtung
-500- 595: Drama und Schauspiel
-596- 599: Totentanz
-600-1699: Prosa
-600- 699: Allgemeines
-700-1699: Einzelne Gattungen
-700- 710: Enzyklopädie
-711- 719: Sentenzen und Sprichwörter
-720- 739: Annalen
-740- 769: Historiographie und Chro-
-nistik
-770- 789: Biographie
-790- 819: Brief
-820- 849: Roman
+**** 1- 99: Allgemeine Form der Gattungsgeschichte
+**** 1-  49: äußere Probleme
+**** 50-  99: innere Probleme
+**** 100- 599: Versdichtung
+**** 100- 149: Allgemeines
+**** 150- 449: lyrische Gattungen
+**** 150- 159: Allgemeines
+**** 160- 179: Epigramm
+**** 180- 189: Rätsel
+**** 190- 219: Epitaph
+**** 220- 229: Merkvers
+**** 230- 259: Preislied
+**** 260- 269: Städtelob
+**** 270- 289: Satire
+**** 290- 299: Cantica
+**** 300- 319: Psalmen
+**** 320- 329: Preces
+**** 330- 349: Hymnus
+**** 350- 359: Sequenz
+**** 360- 369: Tropen und Musik
+**** 370- 399: Minnesang und Vagantendich-
+**** tung
+**** 400- 409: Carmen figuratum
+**** 410- 419: Streitgedicht
+**** 420- 429: Ars Moriendi
+**** 430- 439:
+**** 440- 449: Emblematik
+**** 450- 499: epische Gattungen
+**** 450- 459: Allgemeines
+**** 460- 469: Heiligenlob und Bibelepik
+**** 470- 479: Carmen historicum
+**** 480- 489: Ekphrasis
+**** 490- 499: Makkaronische Dichtung
+**** 500- 595: Drama und Schauspiel
+**** 596- 599: Totentanz
+**** 600-1699: Prosa
+**** 600- 699: Allgemeines
+**** 700-1699: Einzelne Gattungen
+**** 700- 710: Enzyklopädie
+**** 711- 719: Sentenzen und Sprichwörter
+**** 720- 739: Annalen
+**** 740- 769: Historiographie und Chro-
+**** nistik
+**** 770- 789: Biographie
+**** 790- 819: Brief
+**** 820- 849: Roman
 
 *** III Geschichte
-1- 49: Allgemeines
-850- 879: Bibelkommentar
-880- 889: liturgische Prosa
-890- 909: Homilie
-910- 959: Consolatio
-960- 979: Commonitorium
-980- 990: Exemplum
-991- 999: Bestiarium
-1000-1029: Hagiographie
-1030-1049: Martyrologium
-1050-1059: Benediktion
-1060-1069: Vision
-1070-1119: Regeln und Consuetudines
-1120-1199: Recht
-1200-1259: Urkunden und Kapitularien
-1260-1269: Fürstenspiegel
-1270-1379:
-1380-1429: Ars praedicandi und Predigt
-1430-1449: Quaestiones und Quodlibets
-1450-1459: Kasuistik
-1460-1479: Allegorie
-1480-1499: Dialog
-1500-1549: Fazetie
-1550-1599: Utopie
-1600-1649: Falkenbuch
-1650-1699: Übersetzungen
-1700-1749: Invektiven
+**** 1- 49: Allgemeines
+**** 850- 879: Bibelkommentar
+**** 880- 889: liturgische Prosa
+**** 890- 909: Homilie
+**** 910- 959: Consolatio
+**** 960- 979: Commonitorium
+**** 980- 990: Exemplum
+**** 991- 999: Bestiarium
+**** 1000-1029: Hagiographie
+**** 1030-1049: Martyrologium
+**** 1050-1059: Benediktion
+**** 1060-1069: Vision
+**** 1070-1119: Regeln und Consuetudines
+**** 1120-1199: Recht
+**** 1200-1259: Urkunden und Kapitularien
+**** 1260-1269: Fürstenspiegel
+**** 1270-1379:
+**** 1380-1429: Ars praedicandi und Predigt
+**** 1430-1449: Quaestiones und Quodlibets
+**** 1450-1459: Kasuistik
+**** 1460-1479: Allegorie
+**** 1480-1499: Dialog
+**** 1500-1549: Fazetie
+**** 1550-1599: Utopie
+**** 1600-1649: Falkenbuch
+**** 1650-1699: Übersetzungen
+**** 1700-1749: Invektiven
 der literarischen Kunstformen
 50- 299: Formen der Versdichtung
 50-  59: Allgemeines
@@ -5446,14 +5444,13 @@ der literarischen Kunstformen
 600-    : Stillfiguren
 *** IV Einzelne Autoren und einzelne Werke (Signaturen wie in A II)
 *** V Geschichte der Institutionen 1- 199: Schulen
-1-  49: Allgemeines
-50-  69: einzelne Zeiträume
-70-  99: regionale Schulgeschichte
-
-100- 199: Geschichte einzelner Schulen (geordnet nach Alter der Schulen)
-200- 999: Universitäten
-200- 249: Allgemeines
-250- 999:
+**** 1-  49: Allgemeines
+**** 50-  69: einzelne Zeiträume
+**** 70-  99: regionale Schulgeschichte
+**** 100- 199: Geschichte einzelner Schulen (geordnet nach Alter der Schulen)
+**** 200- 999: Universitäten
+**** 200- 249: Allgemeines
+**** 250- 999:
 einzelne Universitäten (geordnet nach Alter der Universitäten; Paris 260ff., Hei- delberg 430ff.)
 1000-1199: Kanzleien
 Italien
@@ -5470,12 +5467,12 @@ Skandinavien
 
 ** E Kirchen-, Philosophie- und Wissenschaftsgeschichte
 *** I Kirchengeschichte und Geschichte der Theologie 1- 99: Allgemeine Kirchengeschichte
-100- 199: Regionale Kirchengeschichte (alphabetisch geordnet nach Bistümern, Abteien, Herrschaften etc.)
-200- 399: Hagiographie
-200- 249: Allgemeines
-250- 399: Einzelne Heilige (alphabetisch geordnet) 400- 679: Mönchstum und Orden
-400- 499: Allgemeines
-500- 679: Regionale Ordensgeschichte
+**** 100- 199: Regionale Kirchengeschichte (alphabetisch geordnet nach Bistümern, Abteien, Herrschaften etc.)
+**** 200- 399: Hagiographie
+**** 200- 249: Allgemeines
+**** 250- 399: Einzelne Heilige (alphabetisch geordnet) 400- 679: Mönchstum und Orden
+**** 400- 499: Allgemeines
+**** 500- 679: Regionale Ordensgeschichte
 Italien
 Iberische Halbinsel
 Gallien
@@ -5487,10 +5484,10 @@ Südosteuropa
 Böhmen
 Polen
 Skandinavien
-680- 699: Judaica, Häresien, Sekten, Laienfrömimigkeit
-700- 899: Liturgiegeschichte
-700- 779: Allgemeines
-780- 899: Regionale und lokale Liturgiege-
+**** 680- 699: Judaica, Häresien, Sekten, Laienfrömimigkeit
+**** 700- 899: Liturgiegeschichte
+**** 700- 779: Allgemeines
+**** 780- 899: Regionale und lokale Liturgiege-
 schichte
 Italien
 Iberische Halbinsel
@@ -5503,63 +5500,63 @@ Südosteuropa
 Böhmen
 Polen
 Skandinavien
-900-1099: Geschichte des Bibeltextes und der Exegese
-900- 939: Allgemeines
-940- 979: Geschichte des Bibeltextes 980-1099: Einzelne biblische Bücher (geordnet
-nach Reihenfolge der Vulgata, Psalmen 1012;
-Hoheslied 1024, Hebräerbrief 1060) 1100-1299: Dogmengeschichte
-1300-    : Einzelne theologische Probleme
+**** 900-1099: Geschichte des Bibeltextes und der Exegese
+**** 900- 939: Allgemeines
+**** 940- 979: Geschichte des Bibeltextes 980-1099: Einzelne biblische Bücher (geordnet
+**** nach Reihenfolge der Vulgata, Psalmen 1012;
+**** Hoheslied 1024, Hebräerbrief 1060) 1100-1299: Dogmengeschichte
+**** 1300-    : Einzelne theologische Probleme
 
 *** II Geschichte der Philosophie
-1- 19: Allgemeine Philosophiegeschichte
-20-  99: christliche Philosophie des Mittelalters
-100- 299: einzelne Perioden
-100- 109: bis I. Jhd. n.Chr.
-110- 119: II.    Jhd.
-120- 129: III.   Jhd.
-130- 139: IV.    Jhd.
-140- 149: V.     Jhd.
-150- 159: VI.    Jhd.
-160- 169: VII.   Jhd.
-170- 179: VIII:  Jhd.
-180- 189: IX.    Jhd.
-190- 199: X.     Jhd.
-200- 219: XI.    Jhd.
-220- 239: XII.   Jhd.
-240- 259: XIII.  Jhd.
-260- 289: XIV.   Jhd.
-290- 299: XV.    Jhd.
-300- 339: Einzelne Schulen und Strömungen
-340- 499: Platonismus, Aristotelismus, Averroismus
-500- 999: Einzelne Gebiete
-500- 509: Allgemeines
-510- 599: Logik
-600- 749: Ethik
-750- 849: Ästhetik
-850- 919: Metaphysik
-920- 999: Geschichtsphilosophie
-1000-    : Einzelne Probleme
+**** 1- 19: Allgemeine Philosophiegeschichte
+**** 20-  99: christliche Philosophie des Mittelalters
+**** 100- 299: einzelne Perioden
+**** 100- 109: bis I. Jhd. n.Chr.
+**** 110- 119: II.    Jhd.
+**** 120- 129: III.   Jhd.
+**** 130- 139: IV.    Jhd.
+**** 140- 149: V.     Jhd.
+**** 150- 159: VI.    Jhd.
+**** 160- 169: VII.   Jhd.
+**** 170- 179: VIII:  Jhd.
+**** 180- 189: IX.    Jhd.
+**** 190- 199: X.     Jhd.
+**** 200- 219: XI.    Jhd.
+**** 220- 239: XII.   Jhd.
+**** 240- 259: XIII.  Jhd.
+**** 260- 289: XIV.   Jhd.
+**** 290- 299: XV.    Jhd.
+**** 300- 339: Einzelne Schulen und Strömungen
+**** 340- 499: Platonismus, Aristotelismus, Averroismus
+**** 500- 999: Einzelne Gebiete
+**** 500- 509: Allgemeines
+**** 510- 599: Logik
+**** 600- 749: Ethik
+**** 750- 849: Ästhetik
+**** 850- 919: Metaphysik
+**** 920- 999: Geschichtsphilosophie
+**** 1000-    : Einzelne Probleme
 *** III Geschichte der artes liberales 1- 59: Allgemeines
-60- 219: Trivium
-60-  69: Allgemeines, Etymologie
-70- 119: Grammatik
-120- 179: Rhetorik
-180- 219: Dialektik
-220- 499: Quadrivium
-220- 249: Allgemeines
-250- 299: Arithmetik
-300- 349: Geometrie
-350- 449: Musik
-450- 499: Astronomie
+**** 60- 219: Trivium
+**** 60-  69: Allgemeines, Etymologie
+**** 70- 119: Grammatik
+**** 120- 179: Rhetorik
+**** 180- 219: Dialektik
+**** 220- 499: Quadrivium
+**** 220- 249: Allgemeines
+**** 250- 299: Arithmetik
+**** 300- 349: Geometrie
+**** 350- 449: Musik
+**** 450- 499: Astronomie
 
-500- 899: artes illiberales
-500- 519: Allgemeines
-520- 599: Medizin
-600- 619: Geographie
-620- 899:
+**** 500- 899: artes illiberales
+**** 500- 519: Allgemeines
+**** 520- 599: Medizin
+**** 600- 619: Geographie
+**** 620- 899:
 *** IV Rechtsgeschichte
-1- 49: Allgemeines
-50-  99: regionale Rechtsgeschichte
+**** 1- 49: Allgemeines
+**** 50-  99: regionale Rechtsgeschichte
 Italien
 Iberische Halbinsel
 Gallien
