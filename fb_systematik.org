@@ -1534,28 +1534,531 @@ CLOSED: [2022-05-09 Mon 21:55]
 **** 0951 - 0999 Die Mittelmeerländer
 * TODO F - 15. - 18. Jahrhundert
 ** TODO Fa - Renaissance und Humanismus in Italien
+1-40 Allgemeine Darstellungen der Renaissance und des Humanismus
+in Europa.
+
+41 -100 Italien, Renaissance und Humanismis, Gesamtdarstellungen,.
+
+101-150 Einzelstudien zur Renaissance (Kunst, Soziologie ete,)
+
+151-290 Humanisten und Gestalten der Renaissance (Quellen und
+Biographien).
+
+291-350 Itslienische Geschichte im 15, und in der ersten Hälfte
+des 16, Jahrhunderts (Gesamtdarstellungen),
+
+351-600 Rom und Einzelstaaten Italiens,
+
+500 ff. Florenz
+550 fi, Savonarola
+
+601-700 MNagehiavelli und Magchiavellismus,
+701 ff, Guieciardini.
 ** TODO Fb - Humanismus in Deutschland
+Eb Humanismus in Deutschland,
+
+1 - 50 Gesantdarstellungen,
+51 -10oo Humanistische Geschichtsschreiber,
+101-130 Quellensammlungen.
+
+151-200 Eüh-Humanisten.
+
+201-350 Süddeutsche Humanisten.
+351-400 Humanismus -in Elsaß,
+401-500 Erasmus
+
+501-550 Hutten
+
 ** TODO Fc - Das Entdeckungszeitalter
+Fe Das Entdeckungszeitalter,
+Geschichte Iberiens (bis Philipp III. 1621).
+
+1-5 Gesamtdarstellungen.
+51 -180 Entdeokungen und Eroberungen Amerikas.
+
+201-350 Wirtschafts- und Sozialgeschichte, Kultur und Kirche,
+(Carl V. s. auch Deutsches Reich.)
+
+600 ff. Philipp II.
+
 ** TODO Fd - Europäische Geschichte und Weltgeschichte 1492 bis 1559
+1 - 50 Quellen (Relationen)
+51 -1oo allgemeine Darstellungen (z,T. bis 1648)
+101 £f, Einzeldarstellungen, chronologisch
+
 ** TODO Fe - Die Reformation in Deutschland (Quellen und Gesamtdarstellungen)
+Fe Die Reformation in Deutschland
+( Quellen und Gesamtdarstellungen )
+
+ı - 99 Quellensamlungen
+100 - 110 Zeitschriften zur Reformationsgeschichte
+Ill - 150 Vorgeschichte der Reformation
+
+XBcKk
+151 - 250 Gesamtdarstellungen der Reformation in Deutschland und Europa
+(z.T. einschliesslich der Gegenreformation)
+
+300 - 400 Sozial- und Kulturgeschichte
+401 - 500 Kirchliche Verfassungsfragen
+501 - 600 Religiöse und theologische Fragen (Spiritualismus und
+
+Toleranzproblem)
+800 ££. Wirkungsgeschichte der Reformation
+
 ** TODO Ff - Die Reformatoren (Luther, Melanchthon, Zwingli, Calvin)
+1 -300 Luther
+
+1 - 80 Quellen
+
+81 - 150 Gesamtdarstellungen
+
+151 - 200 Einzelfragen
+
+201 - 230 Luther und der Staatä
+
+231 - 260 Luthers Theologie
+
+261 - 280 Geschichte des Luthertums und des Lutherbildes
+
+301 - 350 Melanchthon (Quellen und Darstellungen)
+401 - 480  Zwingli (Quellen und Darstellungen)
+501 - 580 Calvin (Quellen und Darstellungen)
+
+601 - 800 weitere Reformatoren
+
+900 ff. Katholiken des Reformationszeitalters
+
 ** TODO Fg - Deutsche Geschichte im Reformationszeitalter bis 1555
+Kaiser und Reich, Bauernkrieg.
+
+(Gesamtdarstellungen s, Fe).
+
+1 - 50 Reichsreform, Verfassungsfragen, Schwäbischer Bund.
+51 -160 Kaiser und Habsburg (Maximilian I., Karl V.).
+
+161-200 (bleibt frei)
+
+201-260 Chromologische Darstellungen der Reformationszeit von
+Maximilian I. bis zum Bauernkrieg.
+
+261-289 Ritterkrieg; Sicokingen,
+290-560 Bauernkrieg
+
+290-350 Quellen
+
+331-390 Gesamtdarstellungen
+381-400 Vorgeschichte
+
+411-490 regionale Darstellungen
+491-530 Thomas Minzer
+
+531-560 (bleibt frei).
+
+561 ff. Chronologische Darstellungen 1525 ff,
+680 ff. Wiedertäufer,
+
+750 ff. Schmalkaläischer Bund
+830 Sleidan
+
+900 ff, Augsburger Religionsfriede,
+
 ** TODO Fh - Reformation und Gegenreformation in den deutschen Ländern bis 1618
+150-250 Habsburgische Lande einschließlich Schlesien,
+251-300 Schweiz
+
+301-400 Süddeutschland
+
+401-500 Süäwestdeutschland
+
+501-600 Westdeutschland
+
+601-800 Mitteldeutschland (Sachsen, Hessen, Wittenberg)
+801-900 Norddeutschland
+
+901-1000 Ostdeutschlanä
+
 ** TODO Fi - Wirtschaftsgeschichte des Frühkapitalismus
+1 -100 Allgemeines
+
+101-200 Quellen
+
+201-249 (bleibt frei)
+
+250.400 deutsche Handelshäuser (Fugger, Welser usw.)
+
+50 -300
+400=650
+700-800
+
+801-900
+901-1000
+
+1 - 50
+51 -100
+101-250
+
+251-500
+501-600
+601-650
+651-750
+751-800
+801 ff.
+
+910 ff.
+
+Europäische länder im 16. Jahrhundert,
+(außer Italien =Fa + Pl, Spanien =F%, Deutschland =!e bis Fh)
+
+Frankreich bis 1610,
+England in der Tudorzeit (bis 1603).
+Niederlande (bis 1648).
+
+Nordeuropa
+Ost- und Südosteuropa
+
 ** TODO Fk - Europäische Länder im 16. Jahrhundert (außer Italien - Fa und Fl; Spanien - Fb; Deutschland - Fe bis Fh)
+Frankreich bis 1610,
+England in der Tudorzeit (bis 1603).
+Niederlande (bis 1648).
+
+Nordeuropa
+Ost- und Südosteuropa
+
 ** TODO Fl - Die Gegenreformation: Europäische Politik und Weltpolitik 1559 - 1618
+
+Italien, Papst und Kirche, Barock.
+
+Quellen
+Gesamtdarstellungen
+Einzeläarstellungen von 1559 bis 1618
+
+(bleibt frei)
+
+Papst, Italien und römische Kirche
+Tridentinun
+
+desuitenorden
+
+Gegenreformatoren
+
+Baroek
+
+Gampanella, Boccalini, Bellarmin
+
 ** TODO Fm - Deutsche Geschichte im Zeitalter der Gegenreformation bis 1618
+1 - 50
+51 -200
+
+201-350
+351-500
+501 fi.
+
+701 ff,
+
+1-5
+51 -150
+151-250
+
+251-330
+341-380
+
+381-430
+431-550
+
+600-700
+
+En Dreißigjähriger Krieg.
+
+Kaiser und Reich, (Deutsche Länder s, Fh.)
+
+Gesamtdarstellungen (auch bis 1648)
+Kalser und Reich
+
+Einzeldarstellungen, chronologisch (1555 bis 1618)
+(bleibt frei)
+Sozialgeschichte
+
+Geistesgeschichte
+
 ** TODO Fn - Dreißigjähriger Krieg
+Kaiser und Reich, (Deutsche Länder s, Fh.)
+
+Gesamtdarstellungen (auch bis 1648)
+Kalser und Reich
+
+Einzeldarstellungen, chronologisch (1555 bis 1618)
+(bleibt frei)
+Sozialgeschichte
+
+Geistesgeschichte
+
+Kaiser, Reich und Länder,
+Quellen
+
+Gesamtdarstellungen
+Kaiser und Reich
+
+Chronologie bis zum Lübecker Frieden 1629.
+Gustav Adolf,
+
+Wallenstein,
+Chronologie bis zum Westfälischen Frieden 1648,
+
+Deutsche Länder.
+
 ** TODO Fo - Frankreich 1610 bis 1715
+Gesamtdarstellungen
+
+Sozial- und Wirtschaftsgeschichte
+
+Geistes- und Religionsgeschichte
+
+Richelieu und Iudwig XIII.
+
+(bleibt frei)
+
+Nazarin
+
+(bleibt frei)
+
+Ludwig XIV., Quellen und Gesamtdarstellungen
+
+systematische und chronolögische Einzeldarstellungen
+
+Männer unter Ludwig XIV.
+
+Opposition (Hugenotten; 1685 ff.)
+
 ** TODO Fp - Europäische Geschichte und Weltgeschichte 1648 bis 1715 (1721)
+Politik und Kriegsführung.
+
+Quellen
+Gesamntdarstellungen (z.T,. bis 1789)
+
+(bleibt frei für Rheinbund)
+
+1648 bis 1659 (Pyrenäenfrieden) und 1660 (Oliva)
+1659 bis 1679 (Nymweger Friede)
+
+(bleibt frei)
+
+der Pfälzische Krieg 1697 (Friede zu Ryswijk)
+(vleibt frei)
+
+die Türkenkriege bis 1699 (Friede zu Karlowitz)
+
+der Spanische Erbfolgekrieg
+
+der Nordische Krieg
+
 ** TODO Fr - Europäische Länder im 17. Jahrhundert (außer Frankreich - Fo und Deutschland)
+
+(sußer Frankreich = Fo und Deutschland)
+
+England und Schottland z.2+. der Stuarts (1603 bis 1688),
+
+31 - 99 Kirchen- und Verfassungsfragen
+100-370 die Revolution 1640 bis 1660
+250-500 Cromwell
+301-350 Hobbes,Harringto
+Milton usw.
+
+101-200 Ferdinand III, und Leopold I,
+
+1 -500
+1 - 20 Gesamtdarstellungen
+21 -— 30 Bacon
+400-450 Ende der Stuarts
+501-800 Niederlande (nach 1648), Nord- und Nordosteuropa
+801-850 Spanien (unter Philipp IV, bis Karl II.)
+901-950 Italien
+
 ** TODO Fs - Deutsche Geschichte 1648 bis 1740
+Kaiser und Reich,
+Sozial-, Wirtschafts, Verfassungs- und Geistesgeschichte.
+1 - 50 Gesamtdarstellungen (z.T. bis 1806)
+101 ££. Habsburg und Reich, chronologisch:
+(1705)
+210 ff. Prinz Eugen
+300 ff. Karl VI.
+500 ff, Sozial-, Wirtschafts- und Verfassungsgeschichte.
+700 ff. Geistesgeschichte
+
+750 ff. Abraham a Santa Clara
+750 ff. Leibniz, Pufendorf
+
 ** TODO Ft - Deutsche Länder 1648 bis 1740
+(außer Habeburg = Fsj Preußen nur bis 1713).
+1 -200 Preußen 1640 bis 1713
+250-300 Sachsen 2.2t, Augustsdes Starken
+350-400 Mitteldentschland und Hannover
+450-550 Westdeutschland
+
+600-700 Pfalz
+
+750 ff. Süddeutschland
+
 ** TODO Fu - Europäische Geschichte und Weltgeschichte 1715 bis 1789
+Politik und Kriegsführung,
+
+1 = 80 Quellen
+81 -150 Gesamtdarstellungen
+
+201-230 Türkenkrieg 1714 bis 1718
+251-270 Pragmatische Sanktion
+
+301-320 Polnischer Erbfolgekrieg
+341-360 Österreichischer Erbfolgekrieg
+
+401-510 Siebenjähriger Krieg
+
+401-470 Quellen und Gesamtäarstellungen
+471-510 Kriegsführung und Friedensschluß
+
+511-630 westliche Überseepolitik, erste polnische Teilung,
+Bayrischer Erbfolgekrieg
+
+651 ff. das Jahrzehnt vor der französischen Revolution, Fürstenbund
+
 ** TODO Fw - Europäische Länder im 18. Jahrhundert (außer Frankreich - Fx und Deutschland)
+(außer Frankreich = Fx und Deutschland).
+
+Großbritannien
+
+1 - 30 Gesamtdarstellungen.
+
+31 - 50 Geistesgeschichte, Englische Auf-
+Klärung.
+
+51 - 90 1688 und Locke,
+
+120 ff, Das aus Hannover bis zur franzö-
+sischen Revolution,
+
+320 ff. Burke
+Niederlande
+Dänemark und Skandinavien
+
+470 ff. Karl XII,
+Polen
+Türkei
+Italien
+Schweiz
+
+Spanien und Portugal
+
 ** TODO Fx - Frankreich 1715 bis 1789 und die Aufklärung
+Gesamtdarstellungen,
+
+Sozial-, Wirtschafts-, Kirchen- und Kulturgeschichte,
+
+Politische Geschichte, chronologisch.
+
+Die Aufklärung in Europa und Frankreich: Gesamtdarstellungen,
+
+Die französischen Aufklärer, chronologisch.
+
 ** TODO Fy - Deutsche Geschichte 1700 bis 1789
+
+Kaiser und Reich.Deutsche Länder (außer Preußen 3 Fz).
+Sozial-, Wirtschafts-, Verfassungsgeschichte,
+Aufklärung ın Deutschland.
+
+I-30
+50 -100
+
+101-200
+201-350
+
+400-750
+
+800-900
+901-920
+920 ff.
+
+Gesamtdarstellungen des 18. Jahrhunderts (2.7. bis 1806).
+
+Habsburg
+Habsburg
+Habsburg
+
+Deutsche
+
+Sozial-,
+Deutsche
+Deutsche
+
+1740 ff, Quellen,
+1740 ff. Darstellungen: Maria Theresia,
+
+1740 ff.: Joseph II., Leopold II. und
+
+Länder:
+
+420
+480
+520
+570
+650
+71o
+
+Josephinismus.
+
+ff. Sachsen und Mitteldeutschland
+ff, Norddeutschland
+
+ff. Westdeutschland
+
+ff. Südwestdeutschland
+
+If. Württemberg
+
+ff. Bayern
+
+Wirtschafts- und Verfassungsgeschichte,
+Aufklärung, Gesamtdarstellungen.
+Aufklärung, chronologisch.
+
 ** TODO Fz - Preußen 1713 bis 1796
+
+Quellen
+Friedrich Wilhelm I.
+
+Friedrich der Grosse. Bibliographie und Ikonographie
+
+Werke
+
+Gesamtdarstellungen
+Einzeldarstellungen, chronologisch
+Verwandte und Freunde
+
+Sachgebiete
+401 - 420
+421 - 480
+501 550
+551 650
+651 - 700
+701 750
+751 800
+801 850
+851 875
+876 - 900
+
+allgemeines
+Friedrich als Philosoph
+
+Religion und Kirche
+Staat
+
+Militär
+Sozialgeschichte
+Wirtschaft
+Provinzen
+Justizwesen
+Aussenpolitik
+
+Friedrich Wilhelm II. und seine Zeit
+
 * TODO G - Von der Französischen Revolution bis zum Ende des Zweiten Weltkriegs (1789 - 1945)
 ** TODO Gc Österreich und Preußen zur Zeit der französischen Revolution und Napoleon
 0001 - 0120 Österreich (zur Zeit Franz II.)
@@ -2251,14 +2754,10 @@ CLOSED: [2022-05-03 Tue 20:26]
 *** Zl - Jahrbücher
 *** Zs - Dissertationen
 * TODO Institut für Fränkisch-Pfälzische Geschichte und Landeskunde
-
-
 ** I - Bibliographie und Hilfswissenschaften, zur landesgeschichtlichen Methode
-
 *** 01 ff - Bibliographie, allgemein
 *** 10 ff - Allgemeine Quellenkunde
 *** 40 ff - Bibliothekskunde, Regionalbibliographien
-
 ** II - Zeitschriften und Buchreihen
 ** III - Festschriften und Sammelbände
 ** IV - Biographische und statistische Nachschlagewerke
