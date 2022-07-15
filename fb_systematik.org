@@ -1532,7 +1532,7 @@ CLOSED: [2022-05-09 Mon 21:55]
 **** 0861 - 0900 Spätmittelalter
 **** 0901 - 0950 Die Nordseeländer
 **** 0951 - 0999 Die Mittelmeerländer
-* TODO F - 15. - 18. Jahrhundert
+* DOING F - 15. - 18. Jahrhundert
 ** TODO Fa - Renaissance und Humanismus in Italien
 1-40 Allgemeine Darstellungen der Renaissance und des Humanismus
 in Europa.
@@ -2059,7 +2059,25 @@ Aussenpolitik
 
 Friedrich Wilhelm II. und seine Zeit
 
-* TODO G - Von der Französischen Revolution bis zum Ende des Zweiten Weltkriegs (1789 - 1945)
+* DOING G - Von der Französischen Revolution bis zum Ende des Zweiten Weltkriegs (1789 - 1945)
+** Ga Französische Revolution 1789 bis 1799
+** Gb Zeitalter Napoleons ( Europa ausser Österreich und Preussen )
+** Ge Österreich und Preussen z.Zt. des Französischen Revolution und Napoleon
+** Gd Deutschland im Vormärz
+** Ge 1815 - 1848: Internationale Geschichte. Europäische Länder( ausser Deutschland )
+** Gf [34 Die Revolution von 1848/49
+** Gg Europääsche Geschichte ünd Weltgeschichte, europäische und deutsche Länder in den Jahren 1849 bis 1871 ; Bismarckliteratur.
+** Gh Europäische Geschichte und Weltgeschichte 1871 bis 1890.Europäische Länder, deutsche Länder
+** Gi Europäische Geschichte und Weltgeschichte 1890 bis 191h. Europäische Länder ( ausser Deutschland - Gk )
+** Gk Deutsche Innenpolitik 1890 bis 1914
+** Gı Sozialistische Internationale. Deutsche Wirtschaftsgeschichte ( 1871 - 1915 )
+** Go Erster Weltkrieg : Vorgeschichte, Kriegsgeschichte ;deutsche Innenpolitkk.
+** Gp Erster Weltkrieg : nichtdeutsche Länder ; Diplomatiegeschichte
+** Ga Zwischenkriegszeit
+** Gr Weimarer Republik
+** Gs Nationalsozialismus
+** Gt Zweiter Weltkrieg : Diplomatie und Politik
+** Gu Zweiter Weltkrieg : Kriegsgeschichte
 ** TODO Gc Österreich und Preußen zur Zeit der französischen Revolution und Napoleon
 0001 - 0120 Österreich (zur Zeit Franz II.)
 0051 - 0090 Metternich und Gentz
@@ -2082,7 +2100,7 @@ Friedrich Wilhelm II. und seine Zeit
 0781 - 0800 frei
 0801 - 0900 Carl August von Weimar und die Klassik
 0900 - 0999 Goethe
-* TODO H - Gegenwart (ab 1945)
+* DOING H - Gegenwart (ab 1945)
 Internationale Politik nach 1945
 
 Europäische Staaten: Innenpolitik
@@ -2442,7 +2460,7 @@ Hi Deutsche Demokratische Republik (1-6500)
 6201-6499 Einzelbiographien und Memoiren
 6500-6700 Sammelbiographien
 
-* TODO J - Weltgeschichte, Post Colonial Studies
+* DOING J - Weltgeschichte, Post Colonial Studies
 ** Ja Vor- und Frühgeschichte
 
 ** Jb Alte Geschichte
@@ -2498,7 +2516,7 @@ Bolivien
 
 ** Jx, Jy und Jz bleiben frei
 
-* TODO K - Geschichte Asiens, Australiens, Afrikas
+* DOING K - Geschichte Asiens, Australiens, Afrikas
 Ka Asien ( Gesamtdarstellungen )
 
 Kb Ostasien ( Gesamtdarstellungen )
@@ -2694,12 +2712,1086 @@ Ky Ostafrika
 
 XKz Südafrika
 
-* TODO L - Geschichte der europäischen Staaten
-* TODO M - Deutsche Geschichte und Geschichte der deutschen Territorien
-* TODO N - Anthropologie, Völkerkunde, Bevölkerungswissenschaft
-* TODO O - Recht, Politik, Staat und Gesellschaft, Internationale Beziehungen
-* TODO P - Wirtschafts- und Sozialgeschichte: Handbücher, Städtewesen, Biographien
-* TODO Q - Wirtschafts- und Sozialgeschichte: Mittelalter, Neuzeit
+* DOING L - Geschichte der europäischen Staaten
+La Europäische Geschichte
+
+Ib Skandinayische Länder ( einschliesslich Finnland
+und Baltikum )
+
+Le Grossbritannien allgemein
+
+La Grossbritannien ( chronologisch ; grössere Zeiträume )
+
+Le Britisches Enpire ( und Literatur zum britischen Imperialismus )
+Lf Irland
+
+Lg Belgien
+
+Lh Niederlande und Iuxemburg
+
+Li
+
+Frankreich ( allgemeine Quellen und Darstellungen sowie
+systematische Abteilungen )
+
+Ik Frankreich ( Einzeldarstellungen, die nicht in die chronolo-
+gischen Abteilungen hineinpassen )
+
+Lı Französische Kolonien und Communaut®
+
+Im Spanien und Portugal
+
+In Italien ( allgemeine Darstellungen und systematische Abteilungen )
+Lo
+
+Italien ( Einzelstsaten und übergreifende chronologische
+Darstellungen )
+
+Lp Schweiz / Lp 1500 ff. Liechtenstein
+
+Lq Österreich ( Üsterreich-Ungarn )
+
+Lr Quellen und Darstellungen zur Geschichte Ost- und Südosteuropas
+Ls Polen und Tschechoslowakei
+
+Lt Ungarn, Jugoslawien und Albanien
+Iu Griechenland, Bulgarie:i und Rumänien
+Iv Russland. Quellen und Gesamtdarstellungen zur russischen
+
+Geschichte ( einschliessliche Landeskunde und Geschichte
+einzelner Territorien )
+
+Im Russische Bozial-, Wirtschafts- und Verfassungsgeschichte
+
+Russische Geistes- und Literaturgeschichte ( einschliesslich
+politischer Theorien )
+
+Geschichte Russlands bis 1917
+
+Lz Geschichte der Sowjetunion ( und der Kommunistischen
+Internationale )
+
+La Europäische Geschichte
+
+1 -400o Gesamtdarstellungen
+
+401-700 systematische Sondergebiete zur eurpäischen Geschichte
+(Staatsesysteme, Wechselbeziehungen, europäische
+Geistesgeschichte)
+
+701-1000 europäflsche Geschichte (chronologisch)
+
+Lb Skandinavische Länder (einschließlich Finnland
+und Baltikum)
+
+1 -100 Gesamtdarstellungen zur Geschichte der skandi-
+nayischen Staaten
+
+101-500 Schweden
+
+501-800 Finnland
+
+Bol-1ooo baltische Völker und Staaten
+1001-1400 Dänemark (einschließlich Grönland)
+1401-1800 Norwegen
+1801 ff. Island
+
+Le Großbritannien allgemein
+
+1 -400o Landeskunde, Quellen und Gesamtdarstellungen zur
+britischen Geschichte
+
+1 - 50 Landeskunde
+
+51 -300 Quellen und Gesamtäarstellungen
+301-350 deutsche England-Literatur
+351-400 Geschichte einzelner Territorien
+
+401-600 Geistes-, Religions- und Kirchengeschichte
+601-800 Rechts- und Verfassungsgeschichte
+
+801-1000 Sozial-, Wirtschaf®- und Parteiengeschichte
+(einschließlich politischer Ideologie)
+
+Ld Großbritannien (chronologisch ößere Zeiträume
+
+1 -300 Quellen und Darstellungen zur britischen Geschichte
+dis zum 18. Jahrhundert (sofern sie die chronologischen
+en übergreifen und in L e nicht einzuoränen
+sind).
+
+301 ff. Quellen und Darstellungen der britischen Geschichte vom
+18. Jahrhundert bis zur Gegenwart (s. oben).
+
+Le Britisches Empire (und Literatur zum britischen
+Imperialismus )
+
+1 -200 Quellen und Gesamtdarstellungen zum britischen Welt-
+reich (allgemein)
+
+201-300 Quellen und Derstellungen zum britischen Imperialismus
+301-500 Afrika und Naher Osten
+501-900 Mittlerer und Terner Osten
+600-Boo Indien
+901-1000 Australien, Südsee und Amerika
+
+Lt Irland
+Le Belgien
+
+1 -100 Landeskunde und Geschichte der Benelux-Staaten allgemein
+101 £f. Belgien
+
+Lh Niederlande und Luxemburg
+
+1 -80o0o Niederlande (und Kolonien)
+801-1000 Iuxemburg
+
+14 Frankreich (allgemeine Quellen und Darstellungen
+sowie systematische Abteilungen
+
+, - 100 Landeskunde (einschliesslich politische Geographie,
+Bevölkerungsgeschichte, allgemeine Probleme)
+
+101 = 300 Rechts-, Wersanrungss und Parteiengeschichte
+
+301 - 500 Geistes-, Religions- und Kirchengeschichte
+
+501 - 700 Sozial-_und Wirtschaftsgeschichte
+
+701 ff. Gesamtdarstellungen zur französischen Geschichte
+Ik Frankreäch (Einzeldarstellungen, die nicht in die
+cehronologischen Abtei en hineinpassen
+
+1 - 5300 bis zur grossen französischen Revolution 1789
+301 £f, 19. und 20. Jahrhundert (seit 1789)
+301 - 500 Gesamtdarstellungen des 19./20.
+Jahrhunderts
+501 - 700 1789 — 1870
+701 22, seit 1871
+
+u Französische Kolonien unä Communaut6 - Vietnam
+
+Im Spanien und Portugal
+
+‚ - 600 Spanien (einschliesslich der Kolonien I; vgl. Rn
+00 - 1000 Portugal (einschliesslich der Kolonien ; vgl. K
+
+In Italien (allgemeine Darstellungen und systematische
+Abteilungen
+
+1 - 500 Quellen und Gesamtdarstellungen zur Geschichte
+und Landeskunde Italiens
+
+501 - 750 Literatur-, Geistes- und Religionsgeschichte
+
+751 - 1000 Sozial-, Wirtschafts-, Rechts- und Verfgssungs-
+göschichte (einschliesslich Bevölkerungsgeschichte)
+
+Lq Österreichischer Gesamtstaat
+
+1 - 100 Quellen- und Quellensammlungen
+101 - 300 Gesamtdarstellungen und Allgemeines
+301 - 1000 Monographien
+301 -» 400 Kultur-, Geistes- und Religionsgeschichte
+
+401 = 650 Sozial- und Wirtschaftsgeschichte, Innenpolitik,
+Verwaltung, Finanzen
+
+651 - 300 Rechts- und Verfassungsgeschichte
+801 - 900 Außenpolitik / Heer
+901 - 1000 Nationalitätenprobleme
+
+1001 - 1300 Quellen und Darstellungen zur österreichischen
+Geschichte in einzelnen Zeitabschnitten (soweit
+sie nicht in die Abteilungen F, G und H einzu-
+ordnen sind)
+
+1301 - 2000 Österreichische Länder
+1301- 1400 Allgemein
+1401- 1500 Vorarlberg
+1501- 1600 Tirol
+1601- 1700 Kärnten
+1701- 1800 Steiermark
+1801- 1900 Niederösterreich
+1901- 2100 Böhmen und Mähren
+
+7 2; dr
+
+Lo Italien (Einzelstasten und übergreifende
+ehronologische Darstellungen)
+
+1 -300 Quellen und Gesamtdarstell n zur Geschichte der
+italienischen Einzelstaaten (einschließl. Kirchenstaat)
+
+301-1000 Quellen und Darstellungen zur italienischen Geschichte
+in einzelnen Zeitabschnitten (soweit sie nicht in den
+Abteilungen P, G und H einzuordnen sind) und zur
+italienischen Kolonialgeschichte (vel. K)
+
+Lp Schweiz
+
+1 -300 Queilen und Gesamtdarstellungen zur Geschichte der
+Schweiz
+
+301-400 Literatur-, Geistes- und Religionsgeschichte
+
+401-600 Sozial-, Wirtschafts-, Rechts- und Verfassungsge-
+schichte
+
+601-700 Quellen und Darstellungen zur Geschichte einzelner
+Kantone
+
+701-1000 Quellen und Darstellungen zur Geschichte der Schweiz
+in einzelnen Zeitabschnitten (soweit sie nicht in die
+Abteilungen F, G und H einzuordnen sind)
+
+1500 £f. Liechtenstein
+
+L Österreich (Üsterreich-Ungarn
+
+Ltd Olas u. bes
+1 -300 Quellen und Gesamtdarstellungen -
+301-500 Literatur-, Geistes- und Religionsgeschichte
+
+501-700 Sozial-, Wirtschafts-, Rechts- und Verfassungsge-
+schichte
+
+701-1000 Quellen und Darstellungen zur österreichischen Ge-
+schichte in einzelnen Zeitabschnitten (soweit sie
+nicht in die Abteilungen F, G und H einzuordnen sind)
+
+Lr ellen und Darstellungen zur Geschichte Ost- und
+Südosteuropas
+
+1 -500 Osteuropa und östliches Mitteleuropa
+501-1000 Südosteuropa
+
+L Polen und Tschechoslowakei
+
+1 -600 Folen
+601-1000 Tschechoslowakei
+
+Lt Ungarn, Jugoslavien und Albanien
+
+1 -400 Inga (vel: La)
+401-900 Jugoslavien
+901-1000 Albanien
+
+Lu Griechenland, Bulgarien und Rumänien
+
+1 -300 Griechenland
+501-600 Bulgarien
+601-1000 Rumänien
+
+Lv Rußland, Quellen und Gessmtäarstellungen zur russ,
+
+Geschichte (einschlie®l, Landeskunde und Geschichte
+einzelner Territorien).
+
+1 -150 Quellen (und Hilfsmittel)
+
+151-200 Landeskunde
+
+201-500 Gesamtdarstellungen der Geschichte Rußlanäs und der
+Sowjetunion (allgemein)
+
+501-700 Gesamtäarstellungen von Einzelgebieten (Außenpolitik,
+Innenpolitik usw.
+
+701-1000 National- und Regionalprobleme; Landeskunde und Ge-
+schichte einzelner Territorien
+
+701-800 Nationalitätenproblem und Föderalismus
+801-900 Ukraine und sonstiges europäisches Rußland
+901-1000 asiatisches Rußland
+
+Lw Russische Sozial-, Wirtschafte- und Verfassungsge-
+schichte
+
+1 -200 Gesamtdarstellungen zur Sozial- und Wirtschaftsgeschichte
+
+201-500 Einzeldarstellungen zur Sozial- und Wirtschaftsgeschichte
+(einschließlich Zwangsarbeit)
+
+501-700 Gesamtdarstellungen zur Rechts- und Verfassungsgeschichte
+
+701-1000 Quellen und Einzeldaretellungen zur Rechts- und
+Verfassungsgeschichte
+
+Lx Russische Geistes- und Literaturgeschichte (einschl.
+politischer Theorien)
+
+1 -300o Quellen und Darstellungen zur Geistes- und Literatur-
+geschichte.
+
+3om1-400 Quellen und Darstellungen zur Religions- und Kirchen-
+geschichte,
+
+401 ff. Politische Theorien in Rußland (allgemein)
+
+401-500 Konservatismus, Liberalismus, Menschewismus
+
+501-750 en Quellen und Selbstdarstellungen
+vel. Lz
+
+751-1000 Kommunismus, Sekundärliteratur (vgl. L z)
+
+Ly Geschichte Rußlands bis 1917
+
+1 - 20 Gesamtdarstellungen des Zeitraums,
+21 -100o Von den Anfängen bis zum Ende der Mongolenherrschaft.
+
+101-200 Vom Beginn der 'Moskauer Periode! (1462) bie zum
+Regierungsantritt Peters äes Großen (1689).
+
+201-500. Von Peter dem Großen bis zum Tode Alexandem I. (1825)
+
+501-800 Vom Dekabristenaufstand bis zum Tode Alexanders III.
+(1825-1894).
+
+801-1000 Vom Regierungsantritt Nikolaus II. bis zur Oktober-
+Revolution 1917
+
+1 -100
+
+101-300
+
+301-400
+401-600
+
+600 ff,
+
+Geschichte der Sowjetunion (und der Kummunistischen
+Internationale)
+
+Quellen und Gesamtdarstellungen zur Geschichte der
+Sowjetunion und der Kommunistischen Internationale.
+
+Die Periode des Kriegukommunismus und des Bürgerkriegs
+(1917-1921; einschließl. Kampf zwischen Bolschewiki und
+Menschewiki vor 1917); Lenins Literatur.
+
+Die Periode der NEP bis zum Beginn der Nachfolgekänpfe
+und Lenins Tod (1921-1923/24).
+
+Die Periode des Stalinismus (1925-19525 einschließl.
+Stalin-Literatur und ProtskirLiteratur nach 1925).
+
+Die Sowjetunion seit Stalins Tod
+
+* DOING M - Deutsche Geschichte und Geschichte der deutschen Territorien
+Deutsche Geschichte: Allgemeine Probleme
+
+Deutsche Geschichte: Gesamtdarstellungen
+Grenzprobleme und Beziehungen zu den Nachbarländern
+Auslandsdeutschtum
+
+Preussischer Gesamtstaat
+
+Ostdeutschland ( Gebiete östlich der Oder und Neisse )
+Norddeutschland
+
+Mitteldeutschland
+
+Westdeutschland
+
+Gebiet der Westgrenzen
+
+Büdwestdeutschland
+
+Süddeutschland
+
+Österreichischer Gesantstaat
+Österreichische Länder
+
+1- 500 Problem der deutschen Geschichte; Nation und
+Nationalisms
+501 - 600 (bleibt frei)
+601 - 800 Territorial- und Landesgeschichtes Allgemeines
+
+M_b___Deutsche Geschichtes Gesamtdarstellungen
+
+1= 500 Gesautdarstellungen (ohron. nach Erscheinungsjahr)
+501 - 700 Quellen und Quellensammlungen
+701 - 1000 Darstellungen einzelner Epochen (chron. nach Ep.)
+
+1- 200 Beziehungen zu den Nachbarländern allgemein
+201 - 350 Grenzprobleme allgemein
+351 - 450 Schleswig
+451 - 700 Ostgrenzen
+701 - 800 Südtirol -— Italien
+801 - 1000 Westgrenzen
+
+M e___Auslanäsdeutschtum
+
+1- 200 Allgemeines
+201 -— 300 Nordanerika
+301 - 400 Südamerika
+401 - 5 00 Afrika
+501 - 700 Balkan
+701 - 800 Polen und Rußland (ohne Baltendeutsähe)
+801 - 900 Baltikun
+1000 Sonstige Länder
+
+ne)
+©
+-
+L
+
+M_g___Freußischer Gesantstast
+
+1- 100 Quellen
+101 = 200 Gesantdarstellungen
+201 — 1000 Spezialuntersuchungen
+
+551 -
+
+751 -
+
+201 = 400 Allgemeine Probleme
+
+401 - 500 Ideen- und Geistesgeschichte
+
+501 - 700 Verwaltung, Finanzen, Recht u. Verfassung
+701 = 900 Außenpolitik
+
+900 ff, Polenfrage
+
+8 Gebiete Östlich der Oder Neiße
+
+Allgemeines (Problem der Oder-Weiße-Linie)
+Ost- und Westpreußen
+
+Posen und Warthegau
+
+Pommern
+
+Schlesien
+
+Allgemein
+
+Schleswig - Holstein
+Mecklenburg
+
+Hannover (Niedersachsen)
+Oldenburg
+
+Ostfriesland
+
+eld chl
+
+Allgemein
+
+Brandenburg
+
+Provinz Sachsen
+
+Königreich Sachsen
+
+sonstige sächsische und thürinzische Staaten
+
+Hu__Vontdeutschland
+
+100
+250
+350
+600
+
+Allgemein
+Westfalen, Lippe
+Rheinland allgemein
+
+Niederrhein (Jülich, Kleve) und Rhein - Rhur (Mark,
+Berg und Ravensberg)
+
+Mittelrhein (Erzbistum Köln)
+Moselgebiet (Erzbistum Trier)
+
+Hessische Staaten
+
+H_o__ Gebiet der Westgrenzen
+
+1 - 100 Allgemein
+101 - 250 Saarland
+251 - 300 Rheinpfalz
+301 - 500 Lothringen (Gesamt- und Niederlothringen)
+501 - 700 Elsaß (Oberlothringen)
+701 - 900 Rebhsland Elsa8 — Lothringen
+
+u Si stdeutschl.
+
+1=- 200 Allgemein
+201 - 500 Baden (Pfalz)
+501 - 800 Württenberg (Schwaben)
+801 —- 1000 Hohenzollern und sonstige kleinere Territorien
+
+Wr -äüddeutschland
+
+1- 200 Allgemein
+201 = 600 Bayern insgesamt
+601 - 700 Oberpfalz
+701 - 800 Pranken
+801 = 900 Altbayern
+901 - 1000 Bayrisches Schwaben
+
+* DOING N - Anthropologie, Völkerkunde, Bevölkerungswissenschaft
+N___ Anthropologie, Völkerkunde, Bevölkerungswissenschaft
+
+W_s__ _ Anthropologie
+
+1- 400 Allgemeine Anthropologie (chron. georänet)
+401 - 500 (bleidt frei)
+501 - 700 Spezialprobleme der Anthropologie
+
+H_e___Psychologie und Charskterkunde
+
+1 - 100 Allgemeine Psychologie. Einführungen
+
+101 - 250 Geschichte der Psychologie
+251 - 300 (bleibt frei)
+301 - 600 Spezialprobleme der Psychologie und Charakterkunde
+
+N_e___Rassenkunde (Ideologie der "Rasse" vgl. unter Ge!)
+
+1 - 300 Theorie, Allgemeines
+301 - 400 Handbtlicher, größere Darstellungen
+401 - 500 (bleibt frei)
+501 — 700 Einzeldarstellungen
+
+N.i__.Bevölkerungswissenschaft und Beyölkerungsgeschichte
+
+Einführungen, Methodik
+
+Handblicher, 'Gesamtdarstellungen der Bevölkerungs-
+wissenschaft
+
+200
+300
+301 - 500 Einzelprobleme der Bevölkerungswissensohaft
+00 Geschichte der Bevölkerungswissenschaft
+800 Quellen zur Bevölkerungsgeschichte
+880 Darstellungen zur Bevölkerungsgeschichte
+881 - 1000 Einzelprobleme der Jewölkerungsgeschichte
+
+W_j._ Statistik
+
+1- 200 Theprie, Methodik
+201 - 300 Quellen und Quellensammlungen
+301 =. 400 Handbücher, Gesamtdarstellungen
+401 — 600 Eingelprobleme
+601 - 700 (vleibt frei)
+701 - 1000 Geschichte der Statistik
+
+3_k___ Ethnologie und Völkerkunde
+
+1 =. 100 Einführungen, Allgemeines
+101 = 200 (bleibt frei)
+201 = 300 Handbücher, größere Darstellungen
+301 - 400 (bleibt frei)
+401 - 600 Spezialuntersuchungen
+601 - 700 (bleibt frei)
+701 - 1000 Gesshichte der Ethnologie
+
+N_u___Olckultisms, Astrologie, Kosmologie
+1- 100 Allgemeines
+101 - 200 (bleibt frei)
+201 = 300 Quellen und Dars tellungen zur Geschichte des
+Okkultisms
+301 = 400 (bleibt frei)
+401 - 500 Astrologie
+501 - 600 (bleibt frei)
+
+601 - 700 Kosmologie
+
+E_9__.Sesundheits- und Ernährungswssen
+1 = 200 Nahrungswesen, Geschichte der Ernährung
+201 - 300 (pleibt frei)
+301 - 500 Gesundheitswesen, Hygiene
+501 - 600 (bleibt frei)
+
+Seuchen und Seuchengeschichte
+* DOING O - Recht, Politik, Staat und Gesellschaft, Internationale Beziehungen
+0a Handbücher und Lexika
+
+O0e Rechtsphilosophie ; Römisches Recht ; Germanische Rechtsgeschichte
+
+Oe Staatsrecht und Verwaltungsrecht. Allgemeine und deutsche
+Verfassungsgeschichte
+
+08 Allgemeine Staats- und Verfassungälehre. Politik.
+
+Oh Spezielle Staats- und Verfassungslehre,
+Spezialprobleme der Folitischen Wissenschaft,
+
+Ok Volk, Nation, Nationalitäten und Minderheiten
+
+o1 Jüdische Geschichte
+
+Om Völkerrecht
+
+On Internationale Beziehungen. Geschichte der Diplomatie, Trunıch arp-
+
+Op Politische und soziale Theorien
+
+Or Allgemeine Gesellschaftslehre und Soziologie
+
+ot Spezialprobleme der Soziologie
+
+or Parteien und Verbände, Parteigeschichte, Wahlsoziologie.
+
+Ow Publizistik und Propagenda. Politische Ikonographie,
+
+O___RBecht; Politik; Staat und Gesellschaft
+
+0_a___ Handbücher und Lexika
+
+0_0__ Bechtsphilosophie; Römisches Recht; Germanisches
+
+Rechtsgeschichte
+1 - 100 Rechtsphilosophie. Allgemeine Probleme des Rechts
+und der Rechtewissenschaft
+101 - 190 Rönisches Recht; Geschichte des Römischen Rechts
+191 - 600 Germanische Rechtsgeschichte
+191 - 300 Handbücher und allgemeine Einführungen
+301 - 379 Quellen und Quellensammlungen
+371 - 500 Allgemeine Darstellungen
+501 = 550 Darstellungen einzelner Epochen;
+Monographien
+551 - 600 Darstellungen spezieller Probleme;
+Monographien
+601 - 800 (bleibt frei)
+801 - 900 Straf- und Privatrecht. Geschichte des Strafrechts
+
+und des Privatrechts
+
+Verfassungsgsschichte. (außerdeutsche Verfassungsgeschichte
+siehe bei den einzelnen Ländern)
+
+1:= 150 Staats- und Verwaltungsrecht
+
+151 - 1000 Tas ESUgagr Gen ent she (allgemein und Deutschland)
+151 — 20 Allgemeine Problematik
+
+201 - 400 Quellen und Queklensamnlungen
+
+401 - 500 Gesamtdarstellungen
+
+501 -.. 600 Darstellungen einzelner Epochen
+
+601 - 800 Spezialprobleme der Verfassungsgeschich
+
+801 - 900 Verwaltungsgeschichte
+
+901 - 1980 Vergleichende Verfassungsgeschichte.
+Verfasseungstypologie
+
+9_&__Allgemeine Stasts-_und Verfassungslehre. Politik.
+
+1- 30 Lexika; Handbücher
+
+31 - 300 Politische Wissenschaft. Begriff der allgemeinen
+Staatslehre
+
+301 - 400 (bleibt frei)
+
+401 = 800 Allgemeine Staate- und Verfassungslehre. Lehre von
+der Politik (chronologissh georänet)
+
+801 - 900 (bleibt frei)
+
+901 - 1000 Geschichte der Allgemeinen Staatslehre und der
+Politik
+
+w
+
+17-100 Monarchie
+101 - 150 Aristokratie und Adel
+151 = 220 Republik
+
+221 - 500 Demokratie, Repräsentation, Konstitutionalismus,
+Parlanentarismus
+
+501 - 600 Diktatur und Totslitarismus
+
+601 - 700 Menschenrechte, Naturrecht und Widerstandsrecht
+701 = 850 Staat und Revolution
+
+851 - 950 Legalität und Legitimität
+
+951 - 1050 Föderalismus
+
+1051 - 1200 Unitarismus
+1201 = 1400 Stastsverfassung und Heeresverfassung
+
+1- 250 Nation und Nationalstaat
+251 - 400 Nationalismus
+401 - .500 Volk und Nation
+501 - 600 (bleibt frei)
+
+601 - 900 Übernationaler Staat und Nationalitätenproblenz
+Minderheitenfragen
+
+901 - 1000 (Bleibt frei)
+
+a OR dische Geschichte _____ (soweit nicht chronologisch 2.B«
+bei @1 oder I eingeoränet)
+
+1- 100 Allgemeine Probleme
+Hilfsmittel, Bibliographien
+Lexika; Enzyklopädien
+
+201 - 320 Gesamtdarstellungen und Darstellungen der Geschichte
+des Judentums in einzelnen Ländern
+
+Regionale Darötellungen
+
+451 - 8600 Jüdische Geistes- und Kulturgeschichte
+601 - 700 Wirtschaftsgeschichte
+
+701 - 800 Rachtegeschichte
+
+801 - 900 Religionsgeschichte
+
+907 - 1100 Ziopismus
+
+Antisemitismus
+
+u
+no
+EA
+vı.
+nn -
+ou
+[>>]
+
+a
+n
+=,
+'
+ES
+un
+o
+
+1101 —- 1200
+
+Om Völkerrecht
+
+1 - 30 Handbücher und Lexika
+31 - 400 Geschichte des Völkerrechts
+31 - 80 Quellensammlungen zur Gesamtgeschichte des
+Völkerrechts
+
+81 - 140 Quellen zum Völkerrecht bis 1789
+
+141 - 200 Quellen zum Völkerrecht im 19. und 20.
+Jahrhundert
+
+201 - 300 Gesamtdarstellungen
+
+& 301 - 400 Monographien
+
+401 - 550 Theorie des Völkerrechts, Lehrbücher
+
+551 1000 Eiuzelprobleme des Völkerrechts
+
+55l - 600 Souveränität, Nichteinmischung,
+Schiedsgerichtsbarkeit
+
+601 - 650 Staatenverbindungfßen, Bündnisproblem,
+Internationale Organisationen
+
+651 - 720 Frieden und Friedenssicherung
+
+721 - 800 Kriegsrecht
+
+801 - 1000 Sonstige Probleme
+
+On Internationale Beziehungen. Geschichte der Diplomatie
+
+1 -100 Theorie und Begriff der Diplomatie und der Aussenpolitik
+101 - 200 Handwörterbücher und Nachschlagewerke
+
+201 - 700 Geschichte der Diplomatie
+201 - 450 Gesamtdarstellungen
+451 - 700 Geschichte einzielner Epochen
+
+701 - 800 bieibs-ärei Tirtiersellilfh und Tmsuahen runs
+801 - 900 Spezialprobleme der Diplomatiegeschichte ;
+Monographien
+
+901 - 1100 Imperialismus
+1101 ££. Multinationale Konzerne
+
+Op Politische und soziale Theorien
+1 - 200 Politische Theorie
+
+201 - 400 Allgemeine Darstellungen
+
+401 - 1400 Monögisphien
+401 - 450 Machtstaat und Staatsräson
+451 - 500 Utopien
+501 - 550 Friedensidee und Friedensbewegung
+551 - 600 Krieg und Kriegsbegriff
+601 - 650 Kaiseridee ; Monarchie
+651 - 720 Konservativismus
+721 - 800 Politishher Katholizismus
+801 - 950 Liberalismus und Demokratie
+951 - 1000 Anarchie und Autorität
+1001 - 1300 Sozialismus und Kommunismus
+
+1401 HuX ff. Faschismus
+
+Or Allgemeine Gesellschaftslehre und Soziologie
+
+450 ——tiendwörterbicher-und-bexike
+
+51 - 250 Begriff und Theorie der Soziolägie.
+Einführung in die Soziologie
+
+251 - 600 Begriff und Theorie der Gesellschaft ("bürgerliche Gesell-
+schaft", "Staat und Gesellschaft", Gesellschaft und Gemeinschaft")
+
+601 - 700 Enpiri, Soziologie
+
+701 - 800 Historische und politische Soziologie
+
+801 - 1000 Geschichte der Soziologie
+
+Ot Spezialprobleme der Soziologie
+ı - 100 Soziologie der Familie
+
+101 - 150 bleibt frei
+
+151 - 200 Mann, Frau, Kind
+
+201 - 300 Soziologie der Berufe
+
+301 - 600 Soziologie der Stände und der Klassen
+
+601 - 700 Massenaktionen, Soziologie der Revolution (Bürgerrechts-
+bewegungen, gewaltfreier Aufstand)
+
+701 - 900 Masse und Elite ; Führertum und Führungsauslese
+
+901 - 1000 Stadt und Land
+
+1001 ££. Subkulturen, Deviantenforschung
+
+ov Parteien und Verbäldei Farteigeschichte, Wahlsoziologie
+
+(allgemein und Deutschland) aussrrdeutsche Parteigeschichte
+siehe bei den einzelnen Ländern
+
+Y. [ =ı38 Begriff und Theorie der Partei
+
+151 - 300 Soziologie des Parteiwesens ; Parteienrecht
+
+301 - 500 Allgemeine Parteigeschichte, Vergleichende Geschichte
+der Parteien
+
+501 - 600 Deutsche Parteigeschichte: Einführungen
+601 - 750 Deutsche Parteigeschichte: Quellen und Quellensammlungen
+751 - 850 Deutsche Parteigeschichte: Gesamtdarstellungen
+
+851 - 1000 Deutsche Parteigeschichte: Geschichte einzelner Parteien
+1007- - 1100 Wahlrecht und Wahlsoziologie
+
+1101 - 1200 Geheimorganisationen. Geheimbünde
+
+1201 — 1400 Verbände und Geschichte der Verbände
+
+Ou Publizistik und Propaganda. Politische Ikonographie
+
+50 Öffentliche Meinung/Öffentlichkeit
+
+5l -150 Zeitungswissenschaft, Journalistik
+151 - 500 Zeitungsgeschichte
+501 - 1000 Politische Propaganda
+
+501 - 550 Allgemeines
+
+551 - 650 Flugblatt und Flugschrift
+
+651 - 750 Politische Dichtung
+
+751 - 900 Karikatur und Witz
+
+900 - 1000 Photographie und Film, Rundfunk
+1001 - 1200 Hoheitszeichen ; Staatssymbolik
+
+* DOING P - Wirtschafts- und Sozialgeschichte: Handbücher, Städtewesen, Biographien
+
+450 ——tiendwörterbicher-und-bexike
+
+51 - 250 Begriff und Theorie der Soziolägie.
+Einführung in die Soziologie
+
+251 - 600 Begriff und Theorie der Gesellschaft ("bürgerliche Gesell-
+schaft", "Staat und Gesellschaft", Gesellschaft und Gemeinschaft")
+
+601 - 700 Enpiri, Soziologie
+
+701 - 800 Historische und politische Soziologie
+
+801 - 1000 Geschichte der Soziologie
+
+Ot Spezialprobleme der Soziologie
+ı - 100 Soziologie der Familie
+
+101 - 150 bleibt frei
+
+151 - 200 Mann, Frau, Kind
+
+201 - 300 Soziologie der Berufe
+
+301 - 600 Soziologie der Stände und der Klassen
+
+601 - 700 Massenaktionen, Soziologie der Revolution (Bürgerrechts-
+bewegungen, gewaltfreier Aufstand)
+
+701 - 900 Masse und Elite ; Führertum und Führungsauslese
+
+901 - 1000 Stadt und Land
+
+1001 ££. Subkulturen, Deviantenforschung
+
+ov Parteien und Verbäldei Farteigeschichte, Wahlsoziologie
+
+(allgemein und Deutschland) aussrrdeutsche Parteigeschichte
+siehe bei den einzelnen Ländern
+
+Y. [ =ı38 Begriff und Theorie der Partei
+
+151 - 300 Soziologie des Parteiwesens ; Parteienrecht
+
+301 - 500 Allgemeine Parteigeschichte, Vergleichende Geschichte
+der Parteien
+
+501 - 600 Deutsche Parteigeschichte: Einführungen
+601 - 750 Deutsche Parteigeschichte: Quellen und Quellensammlungen
+751 - 850 Deutsche Parteigeschichte: Gesamtdarstellungen
+
+851 - 1000 Deutsche Parteigeschichte: Geschichte einzelner Parteien
+1007- - 1100 Wahlrecht und Wahlsoziologie
+
+1101 - 1200 Geheimorganisationen. Geheimbünde
+
+1201 — 1400 Verbände und Geschichte der Verbände
+
+Ou Publizistik und Propaganda. Politische Ikonographie
+
+50 Öffentliche Meinung/Öffentlichkeit
+
+5l -150 Zeitungswissenschaft, Journalistik
+151 - 500 Zeitungsgeschichte
+501 - 1000 Politische Propaganda
+
+501 - 550 Allgemeines
+
+551 - 650 Flugblatt und Flugschrift
+
+651 - 750 Politische Dichtung
+
+751 - 900 Karikatur und Witz
+
+900 - 1000 Photographie und Film, Rundfunk
+1001 - 1200 Hoheitszeichen ; Staatssymbolik
+
+B__ Wirtschafts - und Sozialgeschichter
+Handbücher; Städtewesen; Biographien,
+
+P_a___Hanfbücher, Einführungen und Sannelwerke_ (allgemein usNeuzeit)
+
+1- 50 Handbücher, Handwörterbücher
+51 - 100 (bleibt frei)
+101 = 400 Begriff der Wirtschafts - und Sozialgeschichte;
+allgemeine methodische Probleme
+300 ff, Speziell Sozialgeschichte
+401 - 550 Einführungen in die Wirtschafts - und Sozialgeschichte;
+500 ff, Speziell Sozialgeschichte
+551 - 700 Aufsatzsamnlungen
+701 = 800 Sammelwerke
+Pb ellensammlı n und Gesantdarstellungen (allgemein u.Neuzeit
+1- 200 Quellen und Quellensammlungen
+201 - 300 Gesantdarstellungen
+301 - 500 Gesamtdarstellungen der Wirtschaftsgeschichte
+einzelner Länder (außer Deutschland
+501 - 550 Gesamtdarst ellungen (Deutschland)
+551 - 700 Gesantdarstellungen (deutsche Territorien)
+701 - 800 Wirtschaftsgeschichte der Neuzeits Gesamtdarstellungen
+801 - 900 Wirtschaftsgeschichte der Neuzeit: 16. - 18. Jhdt.
+901 - 1000 Wirtschaftsgeschichte der Neuzeit: 19. - 20. Jhät,
+(jeweils für alle Länder)
+Po Stäädtewesens Äußere cheinungsformen
+1 = 100 Quellen (ohne Urkundenbticher)
+101 = 200 Die mittelalterliche Erscheinungsforn der Stadt:
+Allgemeines
+201 - 300 Die m&ttelalterliche Erscheimungsforn der Stadt:
+Europa regional
+301 - 400 Die mittelalterliche Erscheinungsform der Stadt:
+Deutschland
+401 - 500 Stadttypen und Stadtrechte
+501 - 6500 Stadt und flaches Land
+601 — 700 Der städtische Standı Bürgertum -— Allgemeines
+701 - 800 Der städtische Stand: Bürgertun, Bevölkerungsstatistik
+
+801 - 900
+
+und Soziologie
+Das Patriziat
+
+P_d__ Stäätewesen: Verwaltungs - und Rechtsfragen
+
+1- 100 Organisationsfornen des Handwerksı Zünfte -
+
+Allgemeines (s.2.98 201-250)
+
+101 - 200 Organisationsformen des Handwerkss Zünfte -
+Einzelnes
+
+201 - 300 Gewerberecht
+
+301 — 400 Stadtverfassung und Bürgerrecht
+
+401 - 500 Eigentunsverhältnisse
+
+501 - 600 Wirtschafts - und Wohlfahrtspolitik der Städte
+
+(ohne Finanz - und Steuerwesen, siehe hierzus
+Geld - und Bankwesen Qk)
+
+601 - 700 Gerichtswesen der Städte
+701 - 800 Wehrverfassung der Städte
+
+PB e__ Monographien zur inneren Geschichte der StädtesDeutschland
+
+1- 300 Norddeutsche Städte
+301 - 600 Mitteldeutsche Städte
+601 - 900 Süddeutsche Städte (einschl. Schweiz u. Österreich)
+
+B_f___Monographien zur inneren Geschichte der Stäätes
+außerädsutsche Städte
+
+1- 100 Skandinavische Städte
+101 - 200 VWesteuropäische Städte
+201 - 300 Südeuropäische Städte
+301 - 400 Osteuropäische Städte
+401 - 600 Außereuropäische Städte
+
+P m _ Wirtschaftsgeschichtliche Biographien (Neuzeit)
+
+1- 50 Allgemeine biographische Probleme
+51- 150 Biographische Sammelwerke
+150 - 200 Geschichte des Kaufmanns
+201 - 250 Geschichte der Bourgeoisie
+251 - 500 Geschichte des Bankiers
+301 - 400 Geschichte des Unternehmers
+401 - 500 (bleibt frei)
+
+501 - 1000 Wirtschaftsgeschichtliche Biographien
+( in alphabetischer Reihenfolge)
+
+* DOING Q - Wirtschafts- und Sozialgeschichte: Mittelalter, Neuzeit
 ** DONE Qc - Einführungen, Überblicke (Mittelalter)
 CLOSED: [2022-07-13 Wed 20:05]
 *** 0001 - 0100 Einführungen in die mittelalterliche Sozial- und Wirtschaftsgeschichte
@@ -2736,12 +3828,635 @@ CLOSED: [2022-07-13 Wed 20:05]
 ** TODO Qv - Wirtschaftspolitik
 ** TODO Qw - Sozialpolitik und soziale Frage
 ** TODO Qz - Wirtschatstheorie und Volkwirtschaftslehre
-* TODO R - Kulturgeschichte, Geschichte der Künste, Geschichte der Technik, Mediengeschichte, Umweltgeschichte
-* TODO S - Kriegs- und Militärgeschichte
-* TODO T - Religions- und Kirchengeschichte
-* TODO U - Geistesgeschichte und Geschichte der Wissenschaften
-* TODO V - Aufsatzsammlungen und sonstitge Sammelschriften einzelner Verfasser
-* TODO W - Fest- und Gedenkschriften
+* DOING R - Kulturgeschichte, Geschichte der Künste, Geschichte der Technik, Mediengeschichte, Umweltgeschichte
+R Kulturgeschichte, Geschichte der Künste, Geschichte
+
+der Technik
+
+Ra Lexika, allgemeine Atlanten und Biläwerke zur
+Kulturgeschichte
+
+Rb Allgemeine Darstellungen und Handblicher zur Kulturgeschichte
+
+Re Archäologie und Kunstgeschichte: Hilfsmittel und
+Gesamtdarstellungen
+
+R£ Archäologie und Kunstgeschichte: Monographien und systematische
+Darstellungen
+
+Rg Musikgeschichte
+
+Rh Sprachgeschichte
+
+Ri Literaturgeschichte
+
+Rk Geschichte des Buch- und Verlagswesens
+
+Rn Sittengeschichte
+
+Ro Volkskunde
+
+Rs Geschichte der R Technik: Problem und allgemeine Darstellungen, Halo. grlitk
+
+Rt Geschichte der Technik: Monographien
+
+Bu Umwaltaaschich ke
+
+R__Kulturgssohiohte, Geschiehte der Künste, Geschichte der
+Technik.
+
+Ze _leziks, Allgemeine Atlanten und Biläwerke_zur Kulturgeschichte
+
+1- 150 Lexika
+150 - 200 (bleibt frei)
+201 = 450 Atlanten
+450. = 600 (bleibt frei)
+601 - 900  Bildwerke
+900 - 1000 Sonstiges
+
+tell n Handbüoche; E]
+
+1- 200 Problem der "Kulturgeschichte"
+
+201 - 300 Systematische Handblioher
+
+301 - 400 (bleibt frei)
+
+401 = 600 Gesantdarstellungen
+
+co - 650 Kulturgeschichte der antiken Welt
+
+65; - 750 Kulturgeschichte des Mittelalters
+
+751 - 900 Kulturgeschichte der Neugeit
+
+901 - 1000 Kulturgeschichtliche Einzelfragen
+all Ferner Ye
+
+1- 100 Theorie der Kunst
+101 - +50 (bleibt frei)
+350 Hilfsmittel und Handwörterbücher
+400 (bleibt frei)
+401 - 600 Gesantdarstellungen
+800
+
+Darstellungen einzelner Epochen der Kunstgeschichte
+
+1 - 300 Architektur und Städtebau
+301 - 600 Plastik
+601 = 900 Malerei
+900 ff. Sonstiges
+B_g__ Musikgeschichte
+
+1- 100
+101 = 200
+201 - 350
+351 - 400
+401 - 500
+501 - 650
+651 - 800
+801 - 1000
+
+Allgemeines zur Theorie und Geschichte der Musik
+Quellen
+
+Lexika und sonstige Hilfsmittel
+
+(bleint frei)
+
+Gesantdarsteklungen der Musikgeschichte
+Derstellungen einzelner Epochen der Musikgeschichte
+Monographien
+
+Musikerbiographien
+
+R_b___Sprachgsschichte
+
+Einführungen und Hilfsmittel
+
+Quellen
+
+Theorie der Sprache
+
+Geschichte der Sprachen: Gesamtdarstellungen
+Geschichte der Sprachen: Binzeldarstellungen
+Geschichte der Sprachwissenschaft
+
+Ri Iiteraturgeschichte
+
+701 - 1000
+
+Lexika, Handbücher, Anthologien
+
+Einführungen
+
+Quellen
+
+Geschichte der deutschen Literaturs Gesantdarstellungen
+Geschichte außerdeutscher Literaturen
+
+Gesöhichte einzelner Epochen der deutschen Literatur;
+Biographien
+
+(bleibt frei)
+Spezialuntersuchungen, syatenatische Darstellungen
+
+R_k_ _ Geschichte des Buch-_ und Verlagswesens
+
+Buochwesen: Allgemeine Literatur
+Geschichte des Buchs und des Buchdrucks
+Geschichte des Buchhandels
+Bibliotheksgeschichte
+Verlagsgeschichte
+
+R_n__Sittengeschischte
+
+1- 100 Allgemeines
+101 - 400 Gesamtdarstellungen
+401. - 500 (bleibt frei)
+
+501 - 1000 Spezialuntersuchungen und Monographien
+501 = 650 Wohnung und Haus
+651 - 8300 Kleidung, Mode, Trachten
+801 - 1000 Sonstiges
+
+1- 200 Methodik, Einführungen
+201 - 300 Lexäka und sonstige Hilfsmittel
+301 - 350 (bleibt frei)
+350 - 500 Größere Darstellungen und Handblicher
+501 - 800 Spezialuntersuchungen
+801 - 1000 Quellen
+
+R_s__ Geschichte der Technik: Problem und allgem, Darstellungen
+
+1=- 200 Problem der Technik
+201 - 300 Lexika, Handwörterbticher, Hilfsmittel
+301 - 400 (bleibt frei)
+401 = 600 Geschichte der Technik: Allgemeine Darstellungen
+601 - 4988 Geschichte der Techniks Einzelne Epochen
+
+LO — Fakes Alk
+7
+
+R_t___Gesehichte der Technik: Monographien
+
+11-400 Monographien
+401 - 500 (bleibt frei)
+501 - 800 Biographien von Erfindern und Technikern
+801 - 1000 Sonstiges
+
+Unwelt geäehiche
+
+* DOING S - Kriegs- und Militärgeschichte
+
+a ei a . SEGEN:
+1 = 100 101 - 200 sb 201
+
+Gesamtdarstellungen der Kriegsgeschichte.
+1-200 allgemeines
+
+201-400 utschland
+
+401-600 West- und Südeuropa
+
+601-800 Ost- und Nordeuropa
+
+801-999 Übersee,
+
+Monographien und Spezialdarstellungen zur Kriegsgeschichte
+(ehronologisch),
+
+1-200 allgemein
+
+201-400 Deutschland
+401-600 West- und Südeuropa
+601-800 Ost- und Nordeuropa
+ab 801 Übersee.
+
+Armesgeschichte, Geschichte einzelner Heere und Einheiten.
+
+1-50 allgemein
+
+51-100 Antike
+ı 00 Deutschland
+401-650 West- und Südeuropa
+651-800 Ost- und Nordeuropa
+ab 801 Übersee.
+
+Seekriegsgeschichte
+
+1-200 allgemein
+201-400 Deutschland
+401-650 West- und Südeuropa
+651-800 Ost- und Nordeuropa
+ab 801 Übersee.
+
+Iuftkriegsgeschichte
+
+Politik und Kriegführung (Stellung des Militärs im Staate)
+soziologische, wirtschaftliche und Rechtsfragen. N
+
+1-300 allgemkin
+301-500 Deutschland
+501-700 West- und Südeuropa
+701-850 Nord- und Osteuropa
+851-999 Übersee.
+
+Partisanenkrieg
+
+noch 8
+
+81 Kriegslehre, Strategie, Taktik.
+
+1-400 allgemein und @eschichte der Kriegslehre
+401-600 Deutschland
+601-750 West- und Südeuropa
+751-850 Ost- und Nordeuropa
+ab 851 Übersee,
+
+Sn General=- und Admiralstäbe, Führung.
+
+1-200 allgemein
+201-400 Deutsshland
+401-600 West- und Südeuropa
+601-800 Ost- und Nordeuropa
+ab 801 Übersee.
+
+80 Waffen und Waffentechnik, Befestigungskunst.
+
+1-200 allgemein
+201-400 Deutschland
+401-600 West- und Südeuropa
+601-800 Ost- und Nordeuropa
+ab 801 Übersee.
+
+Tendenz: mögliehkt unter Ländern einoränen!
+Innerhalb der Untergruppen ohronologisch!
+
+* DOING T - Religions- und Kirchengeschichte
+TE Religions- unä Kirchengeschichte
+
+Ta Religionsgeschichte, Weltreligionen
+
+Tb Christentum: Grundlagen, Hilfsmittel und Lexika,
+Nachschlagewerke.
+
+ga Das Christemtum und seine Umwelt
+
+Tt Darstellungen der allgemeinen Kirchengeschichte
+
+Te Ergänzende Disziplinen: Papsttum, Patriarchate
+
+Th Ergänzende Disziplinen: Konzilien und Klerus
+
+TJ Orden
+
+m. Ergänzende Disziplinen
+
+Tan Ergänzende Disziplinen: Symbolik ( Konfessionskunde )
+
+To Kirchliche Rechtsgeschichte
+
+T - Religions- und Kirchengeschichte
+
+Ta Religionsgeschichte, Weltreligionen
+1 - 50 Religionswissenschaft, Phänomenologie der Religion,
+
+Religionssoziologie, allgemeine Darstellungen,
+grosse Reihen
+101 - 200 Allgemeine Religionsgeschichte, Lehrbücher, Kompendien,
+Einführungen in die Religionsgeschichte
+301 - 700 Ausserchristliche Weltreligionen
+301 - 350 Buddhismus
+351 - 400 Hinduismus
+401 - 450 Juden (vgl. Tn 851 £f. )
+451 - 500 Islam
+501 - 700 Sonstige (auch Germanen)
+751 - 800 Das Christentum und die Weltreligionen
+901 -930 Heilige Schriften! Allgemeine Erörterung
+931 - 970 Heilige Schriften: Texte
+
+Tb Christentum: Grundlagen, Hilfsmittel, Lexika, Nachschlagewerke
+1 - 50 Die Heilige Schrift
+101 - 200 Die Heilige Schrift: Einzeluntersuchungen, Überlieferung,
+
+Kanon usw,
+251 - 300 Jesus
+301 - 400 Altchristliche Literaturgeschichte (Patristik)
+451- 550 Nachschlagewerke, Lexika usw., die christliche Religsion,
+Theologie und Kirche betreffend
+55l - 600 Atlanten
+
+Td Das Christentum und seine Umwelt
+
+1 - 50 Mission
+5] - 150 Christentum und Kirche in ihrem Verhältnis zu Geschichte
+und Gegenwart
+201 - 300. Christentum und Staat (s. hierzu auch Kirchenrecht)
+35] - 500 Christliche Soziallehren, Kirche und soziale Einrichtungen
+55l - 650 Spezielle Arbeiten zum übergeordneten Thema: Katholizismus
+701 - 800 I = ” 3 " +; Protestantismus
+%i - 1000 Tagebücher, Biographien katholischer und protestantischer
+Theologen, Monographien zum geistlichen Stand
+
+T£ Darstellungen der allgemeinen Kirchengeschichte
+1 - 50 Allgemeine Einführungen ins Studium der Kirchengeschichte,
+
+Kirchengeschichtsschreibung (auch einzelner Perioden)
+und ihre Probleme
+101 - 200 Kürzere allgemeine Gesamtdarstellungen der Kirchengeschichte,
+Kompendien,
+251 - 350 Grössere Gesamtdarstellungen zur allgemeinen Kirchengeschichte,
+längere Perioden, Sammelwerke, Aufsatzsammlungen
+401 - 500 Die frühe Zeit der Kirchengeschichte (Entstehung der Kirche)
+501 - 950  Kirchengeschichte einzelner Länder, Territorien und Städte
+
+noch ?
+
+IE Ergänzende Disziplinens Papsttum, Patriarchate
+
+1-50 Quellen zur Geschichte des Papsttums;
+101-200 Allgemeine Oharakteristiken und kürzere Darstellungen;
+251-300 ee der Papetgeschichte MA und NZ umfas-
+
+send;
+
+351-450 Gesamtdarstellungen der Papstgeschichte das MA umfassend;
+501-600 Gesamtäarstellungen der Papstgeschichte die NZ umfassend;
+701-850 Einzeluntersuchungen;
+901-950 Patriarchate.
+
+2 E ende Disziplinen; Konsilien und Klerus
+
+101-200 Allgemeine Konziliengeschichte (auch längere Perioden);
+
+501-500 Konsziliengeschichte einzelner Länder, Territorien usw.
+auch längere Perioden);
+
+551-650 Einzelprobleme und Untersuchungen zur Konziliengeschichte,
+Vatikanische Konzilienz
+
+651-700 iskopalosmus;
+
+701-750 stümer, Bischofslisten (längere Perioden);
+
+se Klerus (allgemein, längere Perioden);
+
+01 Klerus bestimnter Diözesen (längere Perioden).
+
+1-30 Quellen;
+
+31-100 Allgemeine Geschichte der Orden und des Mönchtums;
+© a s Europa regionalj
+
+151-250 Benediktiners Allgemeines, Gesamtdarstellungen;
+
+251-350 Benediktinersı Untersuchungen und Darstellungen von
+
+Einzelproblemen (Oblateninstitut usw.);
+
+351-450 Benediktiners Einselne Klöster;
+
+501-570 Oisterzienser;
+
+651-700 Frangiskaner;
+
+751-850 Jesuiten;
+
+901-950 Sonstige.
+
+2 Er, ende zi e
+
+1-150 Geschichte der Frömmigkeitz
+251-400 Dogmengeschichte;
+501-600 Iiturgie - Praktische Theologie;
+701-800 Matrikel,
+
+In Er} ende Diszipline; Symbolik (Konfessionskunde
+
+1-100 Bekenntnisschriften (symbolische Bücher);
+151-250 Vergleichende Konfessionskunde;
+301-350 Katholäzispuss Deutschland;
+351-400 Katholizismus‘ Ausland;
+401-450 Protestantismuss Deutschland;
+451-500 Protestantismusı Ausland;
+551-650 Orthodoxes Christentum;
+751-800 Fragen der Oekumene;
+851-900 Christen und Juden;
+901-950 Sekten.
+
+noch T
+
+Kirchliche Rechtsgeschichte
+
+1-100
+101-200
+
+251-350
+451-650
+
+701-800
+851-950
+
+Quellen und Texte zum Kirchenrecht;
+Einseluntersuchungen zu Quellen und Texten des Kirchen-
+rechts; kirchenrechtliche EaMtZatergenehlinn!
+Allgemeine Einführungen in die kirchliche Rechte-
+
+een ehe
+
+esamtdarstellungen der kirchlichen Rechtsgeschichte;
+Einzeluntersuchungen zur kirchlichen Rechtsgeschichte;
+Die Kirchen in ihren Beziehungen zum Stast,
+
+Kirchliche Stasts- und Rechtslehre,
+
+Konkordate,s
+
+* DOING U - Geistesgeschichte und Geschichte der Wissenschaften
+Ua Bildung, Erziehung und Unterricht ( ausser Universitäten )
+Ub Geschichte der Iniversitäten, Akademien u. gelehrter Gesellschaften
+Ve Philosophie und Geschichte der Philosophie
+ur Geschichtsphilosophie
+Ug Geschichte der Wissenschaften ( allgemein E
+Wissenschaftspolitik, W 27... Asr
+Uk Geschichte der Naturwissenschaften
+u Geschichte der Geisteswissenschaften ;
+Geistesgeschichte
+Um Geschichte der Geschichtsschreibung und der
+
+Geschichtswissenschaft
+
+Uo Organisation der Geschichtswissenschaft
+
+1 Geistesgeschichte und Geschichte der Wissenschaften
+Va Bild Erzieh, und Unterricht ( ausser Universitäten
+
+ll - 50 Handblicher, Lexika
+
+51 - 100 Quellen zur Geschichte der Bildung und Erziehung
+
+101 - 400 Darstellungen
+
+101 - 650 Didaktik des Geschichtsunterrichts
+5L0 ff. Currieulumforschung
+
+651 - 750 Geschichte der Erziehung und des Unterrichts:
+allgemeine Darstellungen
+
+751 - 850 Geschichte der Erziehung und des Unterrichts:
+Schulen
+
+851 »1000 Geschichte des Geschichtsunterrichts
+
+Ub Geschichte der Universitäten, Akademien u. gelehrter Gesellschaften
+Pi - 200 Idee der Universität. Allgemeines
+201 - 250 Quellen und Monographien zur Universitätsgeschichte: Allgemein
+251 - 325 2 n I \ : Mittelalter
+326 - 100 ” L = u. 2 : Neuzeit
+
+401 - 900 Quellen und Monographien zur Universitätsgeschichte
+( Akademien und gelehrte Gesellschaften ): einzelne Länder
+" " " " " e
+
+4ol = 500 Deutschland
+501 = 550 " " ” ” " : England
+
+551 - 600 Li ” r “ ” : Frankreich
+601 - 650 u u 1 g v : Italien
+
+651 - 700 v — Mi # ii : Österreich
+701 - 750 iu N f = * : Schweiz
+
+751 - 900 " ? e er 2 : Übrige Länder
+
+901 - 1050 Studenten und studentische Organisationen
+1051- 1200 Professoren und Gelehrte
+
+n®:-w! Geschichte einzelner Universitäten, Akademien und gelehrter
+Gesellschaften ( alphabetische )
+
+Ve Philosophie und Geschichte der Philosophie
+
+1 -100 Handbücher, Handwörterbücher
+
+101 - 2DD Einführungen in die Philosophie, Lehrbücher
+
+201 - 500 Monographien
+
+501 - 700 Geschichte der Philosophie: Texte
+
+701 - 800 Geschichte der Philosophie: Gesamtdarstellungen
+
+800 =1100 Geschichte der Philosophie: einzelne Epochen
+950 ff, Biographien
+
+uf Geschichtsphilosophie
+1 - 50 Handbücher, Handwörterbücher
+
+51 - 100 Einführungen, Allgemeines
+101 - 850 Geschichtsphilosophie und Theorie der Geschichte
+101 - 250 Anfänge bis einschliesslich Aufklärung
+251 - 400° 19. Jahrhundert
+401 - 850 20. Jahrhundert
+851 -1300 Geschichte der Geschichtsphilosophie
+851 - 900 Quellensammlungen
+901 -100D Gesamtdarstellungen
+1001-1300 Darstellungen einzelner Epochen, Monographien
+1301-1400 Sonderprobleme der Geschichtsphilosophie
+
+noch U
+
+e
+
+Geschichte der Wissenschaften ( allgemein ). Wissenschaftspolitik.?Umnint -
+
+sell fh
+
+200 ff. Wissenschaftstheorie und Methodologie ( allgemein ) un
+Uk Geschichte der Neturwissenschaften
+
+1. - 20 Handbücher, Lexika
+
+21 -100 Gesamtdarstellungen
+
+101 - 250 Biographien
+
+251 - 300 bleibt frei
+
+301 - 350 Geschichte der Medizin
+
+351 - 450 Geschichte der Physik und der Chemie
+
+451 - 550 Geschichte der Biologie und Geologie
+
+551 - 600 bleibt frei
+
+601 - 650, Geschichte der Astronomie
+
+651 - 700 bleibt frei
+
+701 - 800 Geschichte sonstiger Naturwissenschaften
+u Geschichte der Geisteswissenschaften; Geistesgeschichte
+
+ll - 300 Allgemeine Probleme der Geschichte der Geisteswissenschaften
+
+301 - 500 Geschichte einzelner Disziplinen der Geisteswissenschaften
+501 - 60 bleibt frei
+601 -1000 Allgemeine Probleme der Geistesgeschichte
+
+noch U
+
+Um Geschichte der Geschichtsschreibung und der Geschichtswissenschaft
+
+1 - 200 Theorie und Begriff der Geschichtsschreibung und der
+Geschichtswissenschaft (chronologisch nach Erscheinungs-
+jahr)
+
+201 - 1150 Geschichte der Geschichtsschreibung und der Geschichts-
+wissenschaft
+201 - 250 Gesamtdarstellungen
+251 - 300 Darstellungen einzelner Epochen
+301 - 350 Gesamtdarstellungen: Deutschland
+351 - 450 Darstellungen einzelner Epochen: Deutschland
+451 - 700 Biographien: Alle Länder (alphabetisch)
+
+701 - 750 Gesamtdarstellungen und Monographien! Österreich
+" " "
+
+751 - 800 Schweiz
+801 - 830 MM M u Holland/Belgien
+831 - 880 “ a gi Frankreich
+881 - 930 z " ar England
+931 - 960 2 = r Skandinavien
+961 - 1000 # “ % Spanien/Portugal
+1001 = 1050 r “ “ Russland/Osteuropa
+1051 - 1100 u u hl USA
+1101 - 1150 r % ” sonstige EXHLänder
+1151 - 1400 Spezialprobleme der Historiographie
+1401 ff. Geschichtsdidaktik an Schule/Hochschule
+Uo Organisation der Geschichtswissenschaft
+
+1 - 200 Historische Forschungsinstitute
+201 - 400 Historische Kommissionen
+401 - 500 Forschungsförderung/Finanzierung
+
+501 - 700 Tagungs- und Kongressberichte
+701 - 800 bleibt frei
+801 - 1000 Historische Zeitschriften
+
+* DOING V - Aufsatzsammlungen und sonstitge Sammelschriften einzelner Verfasser
+
+(nigbahstiseh und nach Kleinbuchstaben einordnens
+
+5.B, Ranke = Vr).
+
+* DOING W - Fest- und Gedenkschriften
+
+(algbnbesisch und nach Kleinbuchstaben einordnens
+ie Pestechrift für Gerhard Ritter = Wr).
+
+W- lan Weir 
 * DONE Z - Zeitschriften, Jahrbücher, Dissertationen
 CLOSED: [2022-05-03 Tue 20:26]
 *** Za - Allgemeine Zeitschriften
