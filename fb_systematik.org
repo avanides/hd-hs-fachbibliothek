@@ -1533,101 +1533,63 @@ CLOSED: [2022-05-09 Mon 21:55]
 **** 0901 - 0950 Die Nordseeländer
 **** 0951 - 0999 Die Mittelmeerländer
 * DOING F - 15. - 18. Jahrhundert
-** TODO Fa - Renaissance und Humanismus in Italien
-1-40 Allgemeine Darstellungen der Renaissance und des Humanismus
-in Europa.
-
-41 -100 Italien, Renaissance und Humanismis, Gesamtdarstellungen,.
-
-101-150 Einzelstudien zur Renaissance (Kunst, Soziologie ete,)
-
-151-290 Humanisten und Gestalten der Renaissance (Quellen und
-Biographien).
-
-291-350 Itslienische Geschichte im 15, und in der ersten Hälfte
-des 16, Jahrhunderts (Gesamtdarstellungen),
-
-351-600 Rom und Einzelstaaten Italiens,
-
-500 ff. Florenz
-550 fi, Savonarola
-
-601-700 MNagehiavelli und Magchiavellismus,
-701 ff, Guieciardini.
-** TODO Fb - Humanismus in Deutschland
-Eb Humanismus in Deutschland,
-
-1 - 50 Gesantdarstellungen,
-51 -10oo Humanistische Geschichtsschreiber,
-101-130 Quellensammlungen.
-
-151-200 Eüh-Humanisten.
-
-201-350 Süddeutsche Humanisten.
-351-400 Humanismus -in Elsaß,
-401-500 Erasmus
-
-501-550 Hutten
-
-** TODO Fc - Das Entdeckungszeitalter
-Fe Das Entdeckungszeitalter,
-Geschichte Iberiens (bis Philipp III. 1621).
-
-1-5 Gesamtdarstellungen.
-51 -180 Entdeokungen und Eroberungen Amerikas.
-
-201-350 Wirtschafts- und Sozialgeschichte, Kultur und Kirche,
-(Carl V. s. auch Deutsches Reich.)
-
-600 ff. Philipp II.
-
-** TODO Fd - Europäische Geschichte und Weltgeschichte 1492 bis 1559
-1 - 50 Quellen (Relationen)
-51 -1oo allgemeine Darstellungen (z,T. bis 1648)
-101 £f, Einzeldarstellungen, chronologisch
-
-** TODO Fe - Die Reformation in Deutschland (Quellen und Gesamtdarstellungen)
-Fe Die Reformation in Deutschland
-( Quellen und Gesamtdarstellungen )
-
-ı - 99 Quellensamlungen
-100 - 110 Zeitschriften zur Reformationsgeschichte
-Ill - 150 Vorgeschichte der Reformation
-
-XBcKk
-151 - 250 Gesamtdarstellungen der Reformation in Deutschland und Europa
-(z.T. einschliesslich der Gegenreformation)
-
-300 - 400 Sozial- und Kulturgeschichte
-401 - 500 Kirchliche Verfassungsfragen
-501 - 600 Religiöse und theologische Fragen (Spiritualismus und
-
-Toleranzproblem)
-800 ££. Wirkungsgeschichte der Reformation
-
-** TODO Ff - Die Reformatoren (Luther, Melanchthon, Zwingli, Calvin)
-1 -300 Luther
-
-1 - 80 Quellen
-
-81 - 150 Gesamtdarstellungen
-
-151 - 200 Einzelfragen
-
-201 - 230 Luther und der Staatä
-
-231 - 260 Luthers Theologie
-
-261 - 280 Geschichte des Luthertums und des Lutherbildes
-
-301 - 350 Melanchthon (Quellen und Darstellungen)
-401 - 480  Zwingli (Quellen und Darstellungen)
-501 - 580 Calvin (Quellen und Darstellungen)
-
-601 - 800 weitere Reformatoren
-
-900 ff. Katholiken des Reformationszeitalters
-
+** DONE Fa - Renaissance und Humanismus in Italien
+CLOSED: [2022-07-15 Fri 19:41]
+*** 0001 - 0040 Allgemeine Darstellungen der Renaissance und des Humanismus in Europa.
+*** 0041 - 0100 Italien, Renaissance und Humanismis, Gesamtdarstellungen,.
+*** 0101 - 0150 Einzelstudien zur Renaissance (Kunst, Soziologie ete,)
+*** 0151 - 0290 Humanisten und Gestalten der Renaissance (Quellen und Biographien).
+*** 0291 - 0350 Itslienische Geschichte im 15, und in der ersten Hälfte des 16, Jahrhunderts (Gesamtdarstellungen),
+*** 0351 - 0600 Rom und Einzelstaaten Italiens,
+**** 0500 - 0549 Florenz
+**** 0550 - 0600 Savonarola
+*** 0601 - 0700 Magehiavelli und Magchiavellismus,
+*** 0701 - xxxx Guieciardini
+** DONE Fb - Humanismus in Deutschland
+CLOSED: [2022-07-15 Fri 19:43]
+*** 0001 - 0050 Gesantdarstellungen,
+*** 0051 - 0100 Humanistische Geschichtsschreiber,
+*** 0101 - 0130 Quellensammlungen.
+*** 0151 - 0200 Früh-Humanisten.
+*** 0201 - 0350 Süddeutsche Humanisten
+*** 0351 - 0400 Humanismus in Elsaß
+*** 0401 - 0500 Erasmus
+*** 0501 - 0550 Hutten
+** DONE Fc - Das Entdeckungszeitalter
+CLOSED: [2022-07-15 Fri 19:50]
+*** 0001 - 0005 Gesamtdarstellungen.
+*** 0051 - 0180 Entdeokungen und Eroberungen Amerikas.
+*** 0201 - 0350 Wirtschafts- und Sozialgeschichte, Kultur und Kirche (Carl V. s. auch Deutsches Reich.)
+*** 0600 - ffff Philipp II.
+** DONE Fd - Europäische Geschichte und Weltgeschichte 1492 bis 1559
+CLOSED: [2022-07-15 Fri 19:50]
+*** 0001 - 0050 Quellen (Relationen)
+*** 0051 - 0100 allgemeine Darstellungen (z,T. bis 1648)
+*** 0101 - ffff Einzeldarstellungen, chronologisch
+** DONE Fe - Die Reformation in Deutschland (Quellen und Gesamtdarstellungen)
+CLOSED: [2022-07-15 Fri 19:50]
+*** 0001 - 0099 Quellensamlungen
+*** 0100 - 0110 Zeitschriften zur Reformationsgeschichte
+*** 0111 - 0150 Vorgeschichte der Reformation
+*** 0151 - 0250 Gesamtdarstellungen der Reformation in Deutschland und Europa (z.T. einschliesslich der Gegenreformation)
+*** 0300 - 0400 Sozial- und Kulturgeschichte
+*** 0401 - 0500 Kirchliche Verfassungsfragen
+*** 0501 - 0600 Religiöse und theologische Fragen (Spiritualismus und Toleranzproblem)
+*** 0800 - ffff Wirkungsgeschichte der Reformation
+** DONE Ff - Die Reformatoren (Luther, Melanchthon, Zwingli, Calvin)
+CLOSED: [2022-07-15 Fri 19:53]
+*** 0001 - 0300 Luther
+**** 0001 - 0080 Quellen
+**** 0081 - 0150 Gesamtdarstellungen
+**** 0151 - 0200 Einzelfragen
+**** 0201 - 0230 Luther und der Staatä
+**** 0231 - 0260 Luthers Theologie
+**** 0261 - 0280 Geschichte des Luthertums und des Lutherbildes
+*** 0301 - 0350 Melanchthon (Quellen und Darstellungen)
+*** 0401 - 0480 Zwingli (Quellen und Darstellungen)
+*** 0501 - 0580 Calvin (Quellen und Darstellungen)
+*** 0601 - 0800 weitere Reformatoren
+*** 0900 - ffff Katholiken des Reformationszeitalters
 ** TODO Fg - Deutsche Geschichte im Reformationszeitalter bis 1555
 Kaiser und Reich, Bauernkrieg.
 
@@ -2079,27 +2041,27 @@ Friedrich Wilhelm II. und seine Zeit
 ** Gt Zweiter Weltkrieg : Diplomatie und Politik
 ** Gu Zweiter Weltkrieg : Kriegsgeschichte
 ** TODO Gc Österreich und Preußen zur Zeit der französischen Revolution und Napoleon
-0001 - 0120 Österreich (zur Zeit Franz II.)
-0051 - 0090 Metternich und Gentz
-0121 - 0150 Preußen, allgemein
-0181 - 0200 Friedrich Wilehlm III. und der preußische Hof
-0201 - 0290 Militäre und Heeresreform
-0301 - 0350 Staats- und Gesellschaftsreform: allgemeine Darstellungen und einzelne Quellen
-0351 - 0390 Stein
-0391 - 0410 Hardenberg
-0411 - 0430 Verfassungsfrage
-0431 - 0470 Verwaltung und Beamte
-0471 - 0500 Adel (Marwitz)
-0501 - 0520 Bildungsreform
-0521 - 0540 Humboldt
-0541 - 0560 frei
-0561 - 0570 Schleiermacher
-0571 - 0620 Deutscher Idealismus
-0621 - 0700 Deutsche Bewegung (Arndt, Görres)
-0701 - 0780 Romantik und ihre Staatstheorie
-0781 - 0800 frei
-0801 - 0900 Carl August von Weimar und die Klassik
-0900 - 0999 Goethe
+*** 0001 - 0120 Österreich (zur Zeit Franz II.)
+*** 0051 - 0090 Metternich und Gentz
+*** 0121 - 0150 Preußen, allgemein
+*** 0181 - 0200 Friedrich Wilehlm III. und der preußische Hof
+*** 0201 - 0290 Militäre und Heeresreform
+*** 0301 - 0350 Staats- und Gesellschaftsreform: allgemeine Darstellungen und einzelne Quellen
+*** 0351 - 0390 Stein
+*** 0391 - 0410 Hardenberg
+*** 0411 - 0430 Verfassungsfrage
+*** 0431 - 0470 Verwaltung und Beamte
+*** 0471 - 0500 Adel (Marwitz)
+*** 0501 - 0520 Bildungsreform
+*** 0521 - 0540 Humboldt
+*** 0541 - 0560 frei
+*** 0561 - 0570 Schleiermacher
+*** 0571 - 0620 Deutscher Idealismus
+*** 0621 - 0700 Deutsche Bewegung (Arndt, Görres)
+*** 0701 - 0780 Romantik und ihre Staatstheorie
+*** 0781 - 0800 frei
+*** 0801 - 0900 Carl August von Weimar und die Klassik
+*** 0900 - 0999 Goethe
 * DOING H - Gegenwart (ab 1945)
 Internationale Politik nach 1945
 
