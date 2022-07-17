@@ -13,3 +13,32 @@
 ,** 1251 - 1300 Titel Ebene 2
 
 #+END_SRC
+
+Zum Beispiel:
+
+#+BEGIN_SRC
+
+,** Ac - Historische Geographie
+,*** 0001 - 00700 Atlanten
+,**** 0001 - 0030 Allgemeine geographische Atlanten
+,**** 0031 - 0150 Allgemeine historische Atlanten
+,**** 0151 - 0250 Historische Atlanten, zeitlich begrenzt
+,**** 0251 - 0400 Historische Atlanten, räumlich begrenzt
+,**** 0401 - 0600 Historische Atlanten, Deutschland (gesamt und regional)
+,**** 0601 - 0700 Systematische Atlanten
+,*** 0701 - 0750 Einführungen, Allgemeines
+,*** 0751 - 0900 Allgemeine historische geographische Darstellungen
+,*** 0901 - 1050 Historische Landschaftskunde
+,*** 1051 - 1300 Systematische Siedlungskunde
+,**** 1051 - 1150 Anthropogeographie
+,**** 1151 - 1300 Historische Bevölkerungs- und Siedlungskunde
+,*** 1301 - 1600 Historisch politische Geographie
+,**** 1301 - 1400 Allgemeine systematische Darstellungen
+,**** 1401 - 1500 Größere Darstellungen und Werke
+,**** 1501 - 1600 Spezialdarstellungen
+,*** 1601 - 1800 Topographie
+,**** 1601 - 1700 Orts- und Landeskunde
+,**** 1701 - 1800 Namenkunde
+,*** 1801 - 1999 Kartographie
+
+#+END_SRC
