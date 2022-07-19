@@ -1,23 +1,23 @@
 #+TITLE: Systematik der geschichtswissenschaftlichen Bibliotheken
 
-
 * Formatierung
 
 #+BEGIN_SRC
-
-,* 0000 - 1234 Titel Ebene 1 
-,** 0000 - 0234 Titel Ebene 2
-,** 0235 - 1234 Titel Ebene 2
-,* 1235 - 1300 Titel Ebene 1
-,** 1235 - 1250 Titel Ebene 2
-,** 1251 - 1300 Titel Ebene 2
+,* A - Titel Ebene 1
+,** Ac - Titel Ebene 2
+,*** 0000 - 1234 Titel Ebene 3 
+,**** 0000 - 0234 Titel Ebene 4 
+,**** 0235 - 1234 Titel Ebene 4 
+,*** 1235 - 1300 Titel Ebene 3 
+,**** 1235 - 1250 Titel Ebene 4
+,**** 1251 - 1300 Titel Ebene 4 
 
 #+END_SRC
 
 Zum Beispiel:
 
 #+BEGIN_SRC
-
+,* A - Hilfsmittel und Hilfswissenschaften, EDV-Literatur, Neue Medien
 ,** Ac - Historische Geographie
 ,*** 0001 - 00700 Atlanten
 ,**** 0001 - 0030 Allgemeine geographische Atlanten
