@@ -42,3 +42,28 @@ Zum Beispiel:
 ,***** 1701 - 1800 Namenkunde
 ,**** 1801 - 1999 Kartographie
 #+END_SRC
+
+* Bearbeitungsstatus der einzelnen Signaturgruppen
+
+Die Systematiken der Bibliotheken bilden insgesamt knapp 10.000 Zeilen - eine erhebliche Menge. Um den Status der jeweiligen alphabetischen Signaturgruppen in Ordnung zu halten, bitte schreiben Sie (in großen Buchstaben) entweder ~TODO~ oder ~DONE~ wie unten dargestellt. Sind z.B. alle untergeordnete Signaturen einer Gruppe bearbeitet worden, dann sollte ein ~TODO~ zu einem ~DONE~ in dem sogenanntent parent heading. 
+
+Zum Beispiel: 
+
+#+BEGIN_SRC
+,* TODO Historisches Seminar
+,** TODO A - Hilfsmittel und Hilfswissenschaften, EDV-Literatur, Neue Medien
+,*** TODO Ac - Historische Geographie
+,** TODO B - Quellen zur Geschichte des Mittelalters
+,*** TODO Bf - Papsturkunden
+#+END_SRC
+
+vs. 
+
+#+BEGIN_SRC
+,* TODO Historisches Seminar
+,** DONE A - Hilfsmittel und Hilfswissenschaften, EDV-Literatur, Neue Medien
+,*** DONE Ac - Historische Geographie
+,** TODO B - Quellen zur Geschichte des Mittelalters
+,*** TODO Bf - Papsturkunden
+#+END_SRC
+
