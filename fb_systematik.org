@@ -1,4 +1,4 @@
-#+TITLE: Systematische Bibliotheksgliederung des Historischen Seminars
+#+TITLE: Systematiken der geschichtswissenschaftlichen Bibliotheken
 #+SUBTITLE: Ruprecht-Karls-Universität Heidelberg
 #+DATE: Last Updated: \today
 #+LATEX_HEADER: \usepackage[a4paper]{geometry}
@@ -14,7 +14,7 @@
 [[https://www.uni-heidelberg.de/md/zegk/histsem/seminar/systematik_schurman.pdf][Systematik der Schurman Bibliothek]]
 
 ---
-* Historisches Seminar
+* TODO Historisches Seminar
 ** DONE A - Hilfsmittel und Hilfswissenschaften, EDV-Literatur, Neue Medien
 CLOSED: [2022-07-15 Fri 21:53]
 *** Aa - Wörterbücher und philologische Hilfsmittel
@@ -1500,7 +1500,7 @@ CLOSED: [2022-07-20 Wed 12:01]
 ***** 0861 - 0900 Spätmittelalter
 ***** 0901 - 0950 Die Nordseeländer
 ***** 0951 - 0999 Die Mittelmeerländer
-** DOING F - 15. - 18. Jahrhundert
+** TODO F - 15. - 18. Jahrhundert
 *** DONE Fa - Renaissance und Humanismus in Italien
 CLOSED: [2022-07-15 Fri 19:41]
 **** 0001 - 0040 Allgemeine Darstellungen der Renaissance und des Humanismus in Europa.
@@ -1989,7 +1989,7 @@ Aussenpolitik
 
 Friedrich Wilhelm II. und seine Zeit
 
-** DOING G - Von der Französischen Revolution bis zum Ende des Zweiten Weltkriegs (1789 - 1945)
+** TODO G - Von der Französischen Revolution bis zum Ende des Zweiten Weltkriegs (1789 - 1945)
 *** Ga Französische Revolution 1789 bis 1799
 *** Gb Zeitalter Napoleons ( Europa ausser Österreich und Preussen )
 *** Ge Österreich und Preussen z.Zt. des Französischen Revolution und Napoleon
@@ -2030,7 +2030,7 @@ Friedrich Wilhelm II. und seine Zeit
 **** 0781 - 0800 frei
 **** 0801 - 0900 Carl August von Weimar und die Klassik
 **** 0900 - 0999 Goethe
-** DOING H - Gegenwart (ab 1945)
+** TODO H - Gegenwart (ab 1945)
 Internationale Politik nach 1945
 
 Europäische Staaten: Innenpolitik
@@ -2390,7 +2390,7 @@ Hi Deutsche Demokratische Republik (1-6500)
 6201-6499 Einzelbiographien und Memoiren
 6500-6700 Sammelbiographien
 
-** DOING J - Weltgeschichte, Post Colonial Studies
+** TODO J - Weltgeschichte, Post Colonial Studies
 *** Ja Vor- und Frühgeschichte
 
 *** Jb Alte Geschichte
@@ -2433,7 +2433,7 @@ i
 *** Ju Chile, Argentinssn, Uruguay, Paraguay
 *** Ju Brasilien
 *** Jx, Jy und Jz bleiben frei
-** DOING K - Geschichte Asiens, Australiens, Afrikas
+** TODO K - Geschichte Asiens, Australiens, Afrikas
 *** Ka Asien ( Gesamtdarstellungen )
 *** Kb Ostasien ( Gesamtdarstellungen )
 *** Kc China 
@@ -2599,7 +2599,7 @@ Ky Ostafrika
 
 XKz Südafrika
 
-** DOING L - Geschichte der europäischen Staaten
+** TODO L - Geschichte der europäischen Staaten
 La Europäische Geschichte
 
 Ib Skandinayische Länder ( einschliesslich Finnland
@@ -2966,7 +2966,7 @@ Stalin-Literatur und ProtskirLiteratur nach 1925).
 
 Die Sowjetunion seit Stalins Tod
 
-** DOING M - Deutsche Geschichte und Geschichte der deutschen Territorien
+** TODO M - Deutsche Geschichte und Geschichte der deutschen Territorien
 Deutsche Geschichte: Allgemeine Probleme
 
 Deutsche Geschichte: Gesamtdarstellungen
@@ -3121,7 +3121,7 @@ Wr -äüddeutschland
 801 = 900 Altbayern
 901 - 1000 Bayrisches Schwaben
 
-** DOING N - Anthropologie, Völkerkunde, Bevölkerungswissenschaft
+** TODO N - Anthropologie, Völkerkunde, Bevölkerungswissenschaft
 N___ Anthropologie, Völkerkunde, Bevölkerungswissenschaft
 
 W_s__ _ Anthropologie
@@ -3197,7 +3197,7 @@ E_9__.Sesundheits- und Ernährungswssen
 501 - 600 (bleibt frei)
 
 Seuchen und Seuchengeschichte
-** DOING O - Recht, Politik, Staat und Gesellschaft, Internationale Beziehungen
+** TODO O - Recht, Politik, Staat und Gesellschaft, Internationale Beziehungen
 0a Handbücher und Lexika
 
 O0e Rechtsphilosophie ; Römisches Recht ; Germanische Rechtsgeschichte
@@ -3506,7 +3506,7 @@ Ou Publizistik und Propaganda. Politische Ikonographie
 900 - 1000 Photographie und Film, Rundfunk
 1001 - 1200 Hoheitszeichen ; Staatssymbolik
 
-** DOING P - Wirtschafts- und Sozialgeschichte: Handbücher, Städtewesen, Biographien
+** TODO P - Wirtschafts- und Sozialgeschichte: Handbücher, Städtewesen, Biographien
 
 450 ——tiendwörterbicher-und-bexike
 
@@ -3678,7 +3678,7 @@ P m _ Wirtschaftsgeschichtliche Biographien (Neuzeit)
 501 - 1000 Wirtschaftsgeschichtliche Biographien
 ( in alphabetischer Reihenfolge)
 
-** DOING Q - Wirtschafts- und Sozialgeschichte: Mittelalter, Neuzeit
+** TODO Q - Wirtschafts- und Sozialgeschichte: Mittelalter, Neuzeit
 *** DONE Qc - Einführungen, Überblicke (Mittelalter)
 CLOSED: [2022-07-13 Wed 20:05]
 **** 0001 - 0100 Einführungen in die mittelalterliche Sozial- und Wirtschaftsgeschichte
@@ -3715,7 +3715,7 @@ CLOSED: [2022-07-13 Wed 20:05]
 *** TODO Qv - Wirtschaftspolitik
 *** TODO Qw - Sozialpolitik und soziale Frage
 *** TODO Qz - Wirtschatstheorie und Volkwirtschaftslehre
-** DOING R - Kulturgeschichte, Geschichte der Künste, Geschichte der Technik, Mediengeschichte, Umweltgeschichte
+** TODO R - Kulturgeschichte, Geschichte der Künste, Geschichte der Technik, Mediengeschichte, Umweltgeschichte
 R Kulturgeschichte, Geschichte der Künste, Geschichte
 
 der Technik
@@ -3894,7 +3894,7 @@ R_t___Gesehichte der Technik: Monographien
 
 Unwelt geäehiche
 
-** DOING S - Kriegs- und Militärgeschichte
+** TODO S - Kriegs- und Militärgeschichte
 
 a ei a . SEGEN:
 1 = 100 101 - 200 sb 201
@@ -3980,7 +3980,7 @@ ab 801 Übersee.
 Tendenz: mögliehkt unter Ländern einoränen!
 Innerhalb der Untergruppen ohronologisch!
 
-** DOING T - Religions- und Kirchengeschichte
+** TODO T - Religions- und Kirchengeschichte
 TE Religions- unä Kirchengeschichte
 
 Ta Religionsgeschichte, Weltreligionen
@@ -4160,7 +4160,7 @@ Kirchliche Stasts- und Rechtslehre,
 
 Konkordate,s
 
-** DOING U - Geistesgeschichte und Geschichte der Wissenschaften
+** TODO U - Geistesgeschichte und Geschichte der Wissenschaften
 Ua Bildung, Erziehung und Unterricht ( ausser Universitäten )
 Ub Geschichte der Iniversitäten, Akademien u. gelehrter Gesellschaften
 Ve Philosophie und Geschichte der Philosophie
@@ -4332,13 +4332,13 @@ Uo Organisation der Geschichtswissenschaft
 701 - 800 bleibt frei
 801 - 1000 Historische Zeitschriften
 
-** DOING V - Aufsatzsammlungen und sonstitge Sammelschriften einzelner Verfasser
+** TODO V - Aufsatzsammlungen und sonstitge Sammelschriften einzelner Verfasser
 
 (nigbahstiseh und nach Kleinbuchstaben einordnens
 
 5.B, Ranke = Vr).
 
-** DOING W - Fest- und Gedenkschriften
+** TODO W - Fest- und Gedenkschriften
 
 (algbnbesisch und nach Kleinbuchstaben einordnens
 ie Pestechrift für Gerhard Ritter = Wr).
