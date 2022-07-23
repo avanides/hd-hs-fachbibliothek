@@ -4355,6 +4355,7 @@ CLOSED: [2022-07-15 Fri 21:53]
 **** Zg - Systematische Zeitschriften
 **** Zl - Jahrbücher
 **** Zs - Dissertationen
+\pagebreak
 * TODO Institut für Fränkisch-Pfälzische Geschichte und Landeskunde
 ** I - Bibliographie und Hilfswissenschaften, zur landesgeschichtlichen Methode
 *** 01 ff - Bibliographie, allgemein
@@ -4362,6 +4363,17 @@ CLOSED: [2022-07-15 Fri 21:53]
 *** 40 ff - Bibliothekskunde, Regionalbibliographien
 ** II - Zeitschriften und Buchreihen
 ** III - Festschriften und Sammelbände
+*** III 0001 - 0014 Allgemeines
+*** III 0015 - 0049 Pfalz
+*** III 0050 - 0069 Baden
+*** III 0070 - 0129 Saar
+*** III 0130 - 0139 Elsaß
+*** III 0140 - 0148 Lothringen
+*** III 0149 - 0149 Luxemburg
+*** III 0150 - 0179 Hessen (Rheinland)
+*** III 0180 - 0209 Franken
+*** III 0210 - 0249 Württemberg
+*** III 0250 - xxxx weitere Gebiete
 ** IV - Biographische und statistische Nachschlagewerke
 ** V - Allgemeine Landesgeschichte
 ** VI - Geschichte einzelner Orte und Gebiete
@@ -7022,6 +7034,7 @@ Weitere Gebiete
 
 Orte (alphabetisch)
 
+\pagebreak
 * TODO Lateinische Philologie des Mittelalters und der Neuzeit
 ** A Texte
 *** I Sammlungen
@@ -7751,6 +7764,7 @@ Zehn Nummern pro Ort, weitere Bände mit fortlaufenden Indices) Bsp.
 Laufende Zeitschriften
 I abgeschlossene und nicht vollständig geführte Zeitschriften (geordnet nach Erscheinungsjahr des 1. Bandes, 1900 = J I 20)
 
+\pagebreak
 * TODO Schurman Bibliothek
 Alle Signaturen fangen mit ~Sch~
 ** I. Allgemeines

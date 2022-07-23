@@ -1,4 +1,11 @@
 #+TITLE: Systematik der geschichtswissenschaftlichen Bibliotheken
+* Maschinenschriftliche Vorlagen
+
+[[https://www.uni-heidelberg.de/md/zegk/histsem/seminar/systematik_hs.pdf][Maschinenschriftliche Systematik des Historischen Seminars]]
+
+[[https://www.uni-heidelberg.de/md/zegk/histsem/seminar/systematik_fpi.pdf][Maschinenschriftliche Systematik des Instituts für Fränkisch-Pfälzische Geschichte und Landeskunde]]
+
+[[https://www.uni-heidelberg.de/md/zegk/histsem/seminar/systematik_schurman.pdf][Systematik der Schurman Bibliothek]]
 
 * Formatierung
 
