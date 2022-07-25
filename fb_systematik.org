@@ -2197,9 +2197,9 @@ Tschechoslowakei
 osteuropäischen Staaten nach 1945
 
 
-Hd Quellen zur deutschen Geschichte seit 1945
-1- 500 Gesamtdarstellungen
-501-1000 Besatzungszeit in Deutschland 1945 - 1949
+*** Hd Quellen zur deutschen Geschichte seit 1945
+**** 0001 - 500 Gesamtdarstellungen
+**** 0501 - 1000 Besatzungszeit in Deutschland 1945 - 1949
 
 1001-2500 Bundesdesrepublik Deutschland
 1001-1500 Gesamtdarstellungen
