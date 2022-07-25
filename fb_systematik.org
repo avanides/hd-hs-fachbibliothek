@@ -2,6 +2,7 @@
 #+SUBTITLE: Ruprecht-Karls-Universität Heidelberg
 #+DATE: Last Updated: \today
 #+LATEX_HEADER: \usepackage[a4paper]{geometry}
+
 ---
 
 [[https://github.com/avanides/hd-hs-fachbibliothek][laufend aktualisiert auf GitHub]]
@@ -2405,9 +2406,9 @@ Hi Deutsche Demokratische Republik (1-6500)
 *** Jd Entdeckungs- und Kolonielgeschichte ; maritime Geschichte
 
 **** 0001 - 0350 Entdeckungs» und Kolonialgeschichte ( allgemein |
-ko1 - 500 deutsche Kolonialgeschichte
+0001 - 0500 deutsche Kolonialgeschichte
 
-501 - 900 maritime Geschichte
+0501 - 0900 maritime Geschichte
 
 901 - 1000 Entwicklungsländer (allgemein)
 
@@ -7070,12 +7071,12 @@ Orte (alphabetisch)
 ****** nodie
 ****** 440-449: allgemeine Offiziendichtung
 ****** 450-599: römische Hymnodie
-450-459: Anfänge bis VIII. Jhd.
-460-479: IX. Jhd.
-480-509. X. Jhd.
-510-539: XI. Jhd.
-540-569: XII. Jhd.
-570-599: XIII. – XV. Jhd.
+****** 450-459: Anfänge bis VIII. Jhd.
+****** 460-479: IX. Jhd.
+****** 480-509. X. Jhd.
+****** 510-539: XI. Jhd.
+****** 540-569: XII. Jhd.
+****** 570-599: XIII. – XV. Jhd.
 **** 0600- 799: Poetische Corpora
 ***** 600- 619: allgemeine Corpora
 ***** 620- 799: einzelne Zeiträume
@@ -7093,30 +7094,30 @@ Orte (alphabetisch)
 ***** 816-829: Averroes
 ***** 830- 849:
 ***** 850- 899: Regionale Corpora
-Italien
-Iberische Halbinsel
-Gallien
-Irland
-England
-Niederlande
-Deutschland
-Südosteuropa
-Böhmen
-Polen
-Skandinavien
+****** Italien
+****** Iberische Halbinsel
+****** Gallien
+****** Irland
+****** England
+****** Niederlande
+****** Deutschland
+****** Südosteuropa
+****** Böhmen
+****** Polen
+****** Skandinavien
 **** 0900- 999: Juristische Corpora
 ***** 900- 909: Allgemeine
 ***** 910- 939: Römisches Recht
 ***** 940- 969: Germanische Rechte
-Allgemeines
-Goten
-Franken
-Thüringer
-Alemannen
-Langobarden
-Angelsachsen
-Sachsen
-Sonstige
+****** Allgemeines
+****** Goten
+****** Franken
+****** Thüringer
+****** Alemannen
+****** Langobarden
+****** Angelsachsen
+****** Sachsen
+****** Sonstige
 **** 1000-1199: Artes liberales et illiberales
 ***** 1000-1005: Allgemeines (Mythographie u.ä.)
 ***** 1006-1059: Trivium
