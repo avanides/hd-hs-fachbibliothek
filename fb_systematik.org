@@ -2,7 +2,6 @@
 #+SUBTITLE: Ruprecht-Karls-Universität Heidelberg
 #+DATE: Last Updated: \today
 #+LATEX_HEADER: \usepackage[a4paper]{geometry}
-
 ---
 
 [[https://github.com/avanides/hd-hs-fachbibliothek][laufend aktualisiert auf GitHub]]
