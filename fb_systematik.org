@@ -1,6 +1,7 @@
 #+TITLE: Systematiken der geschichtswissenschaftlichen Bibliotheken
 #+SUBTITLE: Ruprecht-Karls-Universität Heidelberg
 #+DATE: Last Updated: \today
+#+AUTHOR:
 #+LATEX_HEADER: \usepackage[a4paper]{geometry}
 
 ---
