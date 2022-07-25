@@ -2200,19 +2200,16 @@ osteuropäischen Staaten nach 1945
 *** Hd Quellen zur deutschen Geschichte seit 1945
 **** 0001 - 500 Gesamtdarstellungen
 **** 0501 - 1000 Besatzungszeit in Deutschland 1945 - 1949
-
-1001-2500 Bundesdesrepublik Deutschland
-1001-1500 Gesamtdarstellungen
-1501-2000 Außenpolitik
-2001-2500 Innenpolitik
-
-2501-4000 Deutsche Demokratische Republik
-2501-3000 Gesamtdarstellungen
-3001-3500 Außenpolitik
-3501-4000 Innenpolitik
-
-4001-4500 Deutsche Wiedervereingung
-He Methodische Arbeiten und didaktisches Material zur Zeitgeschichte (1 - 200)
+**** 1001 - 2500 Bundesdesrepublik Deutschland
+**** 1001 - 1500 Gesamtdarstellungen
+**** 1501 - 2000 Außenpolitik
+**** 2001 - 2500 Innenpolitik
+**** 2501 - 4000 Deutsche Demokratische Republik
+**** 2501 - 3000 Gesamtdarstellungen
+**** 3001 - 3500 Außenpolitik
+**** 3501 - 4000 Innenpolitik
+**** 4001 - 4500 Deutsche Wiedervereingung
+*** He Methodische Arbeiten und didaktisches Material zur Zeitgeschichte (1 - 200)
 Hf Gesamtdarstellungen zur deutschen Geschichte seit 1945 (1 - 200)
 
 Hg Besatzungszeit in Deutschland 1945 - 1949 (1- 1400)
