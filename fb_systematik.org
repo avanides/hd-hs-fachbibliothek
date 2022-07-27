@@ -6463,7 +6463,6 @@ Kaiserslautern (Saarpfälzisches Institut)
 Schulen
 Badisches Bildungswesen, Allgemeines
 Einzelne badische Schulen
-xII
 
 xII
 XII
@@ -7802,7 +7801,7 @@ I abgeschlossene und nicht vollständig geführte Zeitschriften (geordnet nach E
 
 \pagebreak
 * Schurman
-Alle Signaturen fangen mit ~Sch~
+Alle Signaturen fangen mit ~Sch~ an.
 ** I. Allgemeines
   :PROPERTIES:
   :CUSTOM_ID: i.-allgemeines
