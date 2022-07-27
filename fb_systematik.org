@@ -1604,15 +1604,11 @@ CLOSED: [2022-07-15 Fri 19:53]
 **** 0900 - ffff Katholiken des Reformationszeitalters
 *** TODO Fg - Deutsche Geschichte im Reformationszeitalter bis 1555
 Kaiser und Reich, Bauernkrieg.
-
 (Gesamtdarstellungen s, Fe).
-
-1 - 50 Reichsreform, Verfassungsfragen, Schwäbischer Bund.
-51 -160 Kaiser und Habsburg (Maximilian I., Karl V.).
-
-161-200 (bleibt frei)
-
-201-260 Chromologische Darstellungen der Reformationszeit von
+**** 0001 - 0050 Reichsreform, Verfassungsfragen, Schwäbischer Bund.
+**** 0051 - 0160 Kaiser und Habsburg (Maximilian I., Karl V.).
+**** 0161 - 0200 (bleibt frei)
+**** 0201 - 0260 Chromologische Darstellungen der Reformationszeit von
 Maximilian I. bis zum Bauernkrieg.
 
 261-289 Ritterkrieg; Sicokingen,
@@ -7806,7 +7802,7 @@ I abgeschlossene und nicht vollständig geführte Zeitschriften (geordnet nach E
 
 \pagebreak
 * Schurman
-Alle Signaturen fangen mit ~Sch~ an.
+Alle Signaturen beginnen mit ~Sch~.
 ** I. Allgemeines
   :PROPERTIES:
   :CUSTOM_ID: i.-allgemeines
@@ -7814,28 +7810,28 @@ Alle Signaturen fangen mit ~Sch~ an.
 
 1. *Allgemeine Hilfsmittel*
 
-   1. Universalgeschichtliche Werke (Weltgeschichte)
+   1.0. Universalgeschichtliche Werke (Weltgeschichte)
 
-   2. Methoden und Theorien der Geschichtswissenschaft
+   1.1. Methoden und Theorien der Geschichtswissenschaft
 
-   3. Geschichte der Geschichtsschreibung, allg. Aufsatzsammlungen zum
+   1.2. Geschichte der Geschichtsschreibung, allg. Aufsatzsammlungen zum
       Forschungsstand
 ** II. Geschichte der USA
   :PROPERTIES:
   :CUSTOM_ID: ii.-geschichte-der-usa
   :END:
 
-4.  *Verzeichnisse von Archiv- und Quellenbeständen*
+  1.3.  *Verzeichnisse von Archiv- und Quellenbeständen*
 
-5.  *Bibliographien*
+  1.4.  *Bibliographien*
 
-    1. Allgemeine Bibliographien und Kataloge
+    1.4.1. Allgemeine Bibliographien und Kataloge
 
-    2. Hochschulschriften
+    1.4.2. Hochschulschriften
 
-    3. Allgemeine Bibliographien zur Geschichte der USA
+    1.4.3. Allgemeine Bibliographien zur Geschichte der USA
 
-    4. Bibliographien zur Geschichte der USA: Spezielle Sachgebiete und
+    1.4.4. Bibliographien zur Geschichte der USA: Spezielle Sachgebiete und
        Zeitabschnitte
 
        1. /Wirtschafts- und Sozialgeschichte/
