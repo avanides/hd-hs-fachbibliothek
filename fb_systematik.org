@@ -7837,15 +7837,12 @@ Alle Signaturen beginnen mit ~Sch~.
 **** 1.6.4. Wörterbücher
 **** 1.6.5. Studium, Ausbildung und Beruf in den USA und Kanada
 **** 1.6.6. Reiseführer und Bildbände
-**** 1.6.7. Einführung in das Geschichtsstudium, Propädeutik,
-       Schlüsselkompetenzen, Rhetorik
+**** 1.6.7. Einführung in das Geschichtsstudium, Propädeutik, Schlüsselkompetenzen, Rhetorik
 *** 1.7.  *(frei)*
 *** 1.8.  *Atlanten*
 *** 1.9.  *(frei)*
 *** 1.10. *(frei)*
-
-** 2. *Quellen und Darstellungen zur Geschichte der USA (chronologische
-   Gliederung, ohne Außenpolitik)*
+** 2. *Quellen und Darstellungen zur Geschichte der USA (chronologische Gliederung, ohne Außenpolitik)*
 *** 2.1.  *Quellen zur Gesamtgeschichte der USA*
 *** 2.2.  *Gesamtdarstellungen, Übergreifende Interpretationen, Handbücher, Serien, etc.*
 *** 2.3.  *Kolonialzeit bis 1763*
