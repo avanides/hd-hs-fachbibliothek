@@ -14,7 +14,7 @@
 [[https://github.com/avanides/hd-hs-fachbibliothek][laufend aktualisiert auf GitHub]]
 
 * Historisches Seminar
-** DONE A - Hilfsmittel und Hilfswissenschaften, EDV-Literatur, Neue Medien
+** DONE A - Hilfsmittel und Hilfswissenschaften
 CLOSED: [2022-07-27 Wed 11:19]
 *** Aa - Wörterbücher und philologische Hilfsmittel
 **** 0001 - 0020 mehrsprachige Wörterbücher
@@ -261,7 +261,7 @@ Gilbert Foliot, Letters and Charters (1139 - 1187), ed. Brooke = *Bd 1374*
 *** Bp - Inschriften; sonstige Quellengattungen
 *** Bx - Übungstexte und Quellenauswahlen
 *** Bz - Übersetzungen von im engeren Sinn historischen Quellen
-** DONE C - Hilfsmittel und Literatur zu den Quellen der Geschichte des Mittelalters
+** DONE C - Quellenkunde zum Mittelalter
 CLOSED: [2022-07-15 Fri 21:53]
 *** Ca - Einführung in Studium und Quellen des Mittelalters
 **** 0001 - 0100 frei
@@ -2019,7 +2019,7 @@ Aussenpolitik
 
 Friedrich Wilhelm II. und seine Zeit
 
-** TODO G - Von der Französischen Revolution bis zum Ende des Zweiten Weltkriegs (1789 - 1945)
+** TODO G - Von der Französischen Revolution bis 1949
 *** Ga Französische Revolution 1789 bis 1799
 *** Gb Zeitalter Napoleons ( Europa ausser Österreich und Preussen )
 *** Ge Österreich und Preussen z.Zt. des Französischen Revolution und Napoleon
