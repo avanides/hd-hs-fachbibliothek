@@ -7818,55 +7818,31 @@ Alle Signaturen beginnen mit ~Sch~.
   :END:
 *** 1.3.  *Verzeichnisse von Archiv- und Quellenbeständen*
 *** 1.4.  *Bibliographien*
-**** 1.4.1. Allgemeine Bibliographien und Kataloge
-
-    **** 1.4.2. Hochschulschriften
-
-    **** 1.4.3. Allgemeine Bibliographien zur Geschichte der USA
-
-    **** 1.4.4. Bibliographien zur Geschichte der USA: Spezielle Sachgebiete und
-       Zeitabschnitte
-
-      ***** 1.4.1. /Wirtschafts- und Sozialgeschichte/
-
-      ***** 1.4.2. /Rechts- und Verfassungsgeschichte/
-
-      ***** 1.4.3. /Religions-, Kultur- und Geistesgeschichte/
-
-      ***** 1.4.4. /Außenpolitik/
-
-       ***** 1.4.5. /Kolonialzeit und Amerikanische Revolution/
-
-       ***** 1.4.6. /19. Jahrhundert/
-
-       ***** 1.4.7. /20. Jahrhundert/
-
-       ***** 1.4.8. /Sonstiges/
-
-***1.6.  *Nachschlagewerke*
-
-    1. Enzyklopädien
-
-    2. Biographische Nachschlagewerke
-
-    3. Historische Nachschlagewerke
-
-    4. Wörterbücher
-
-    5. Studium, Ausbildung und Beruf in den USA und Kanada
-
-    6. Reiseführer und Bildbände
-
-    7. Einführung in das Geschichtsstudium, Propädeutik,
+  **** 1.4.1. Allgemeine Bibliographien und Kataloge
+  **** 1.4.2. Hochschulschriften
+  **** 1.4.3. Allgemeine Bibliographien zur Geschichte der USA
+  **** 1.4.4. Bibliographien zur Geschichte der USA: Spezielle Sachgebiete undZeitabschnitte
+    ***** 1.4.1. /Wirtschafts- und Sozialgeschichte/
+    ***** 1.4.2. /Rechts- und Verfassungsgeschichte/
+    ***** 1.4.3. /Religions-, Kultur- und Geistesgeschichte/
+    ***** 1.4.4. /Außenpolitik/
+    ***** 1.4.5. /Kolonialzeit und Amerikanische Revolution/
+    ***** 1.4.6. /19. Jahrhundert/
+    ***** 1.4.7. /20. Jahrhundert/
+    ***** 1.4.8. /Sonstiges/
+*** 1.6.  *Nachschlagewerke*
+  **** 1.6.1. Enzyklopädien
+  **** 1.6.2. Biographische Nachschlagewerke
+  **** 1.6.3. Historische Nachschlagewerke
+  **** 1.6.4. Wörterbücher
+  **** 1.6.5. Studium, Ausbildung und Beruf in den USA und Kanada
+  **** 1.6.6. Reiseführer und Bildbände
+  **** 1.6.7. Einführung in das Geschichtsstudium, Propädeutik,
        Schlüsselkompetenzen, Rhetorik
-
-7.  *(frei)*
-
-8.  *Atlanten*
-
-9.  *(frei)*
-
-10. *(frei)*
+** 1.7.  *(frei)*
+** 1.8.  *Atlanten*
+** 1.9.  *(frei)*
+** 1.10. *(frei)*
 
 1. *Quellen und Darstellungen zur Geschichte der USA (chronologische
    Gliederung, ohne Außenpolitik)*
