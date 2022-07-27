@@ -183,13 +183,13 @@ CLOSED: [2022-07-27 Wed 11:19]
 ***** 0106 - 0120 LL nat. Germ. (Leges nationum Germanicarum)
 ***** 0121 - 0122 LL Capit. (Capitularia regum Francorum)
 ***** 0121 - 0122 LL Capit. episc. (Capitula episcoporum)
-***** xxxx - xxxx LL Capit. N. S. (Capitularia regum Francorum, Nova series)
+# ***** xxxx - xxxx LL Capit. N. S. (Capitularia regum Francorum, Nova series)
 ***** 0126 - 0134 LL Conc. (Concilia)
 ***** 0135 - 0147 LL Const. (Constitutiones et acta publica imperatorum et regum)
 ***** 0148 - xxxx LL Formulae (Formulae Merowingici et Karolini aevi)
-***** xxxx - xxxx LL Ordines (Ordines de celebrando concilio)
-***** xxxx - xxxx LL Fontes iuris (Fonres iuris Germanici antiqui in usum scholarum separatim editi)
-***** xxxx - xxxx LL Fontes iuris N. S. (Fonres iuris Germanici antiqui, Nova series)
+# ***** xxxx - xxxx LL Ordines (Ordines de celebrando concilio)
+# ***** xxxx - xxxx LL Fontes iuris (Fonres iuris Germanici antiqui in usum scholarum separatim editi)
+# ***** xxxx - xxxx LL Fontes iuris N. S. (Fonres iuris Germanici antiqui, Nova series)
 **** 0151 - 0200 MGH DD
 ***** 0151 - xxxx DD. Mrov. (Folio)
 ***** 0152 - 0154 frei für DD Mer. in Quart
