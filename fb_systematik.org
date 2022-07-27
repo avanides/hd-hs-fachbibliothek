@@ -7809,23 +7809,16 @@ Alle Signaturen beginnen mit ~Sch~.
   :END:
 
 ** 1. *Allgemeine Hilfsmittel*
-
-   *** 1.0. Universalgeschichtliche Werke (Weltgeschichte)
-
-   *** 1.1. Methoden und Theorien der Geschichtswissenschaft
-
-   *** 1.2. Geschichte der Geschichtsschreibung, allg. Aufsatzsammlungen zum
-      Forschungsstand
+*** 1.0. Universalgeschichtliche Werke (Weltgeschichte)
+*** 1.1. Methoden und Theorien der Geschichtswissenschaft
+*** 1.2. Geschichte der Geschichtsschreibung, allg. Aufsatzsammlungen zum Forschungsstand
 ** II. Geschichte der USA
   :PROPERTIES:
   :CUSTOM_ID: ii.-geschichte-der-usa
   :END:
-
-  *** 1.3.  *Verzeichnisse von Archiv- und Quellenbeständen*
-
-  *** 1.4.  *Bibliographien*
-
-    **** 1.4.1. Allgemeine Bibliographien und Kataloge
+*** 1.3.  *Verzeichnisse von Archiv- und Quellenbeständen*
+*** 1.4.  *Bibliographien*
+**** 1.4.1. Allgemeine Bibliographien und Kataloge
 
     **** 1.4.2. Hochschulschriften
 
