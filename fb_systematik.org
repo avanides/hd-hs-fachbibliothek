@@ -1604,15 +1604,11 @@ CLOSED: [2022-07-15 Fri 19:53]
 **** 0900 - ffff Katholiken des Reformationszeitalters
 *** TODO Fg - Deutsche Geschichte im Reformationszeitalter bis 1555
 Kaiser und Reich, Bauernkrieg.
-
 (Gesamtdarstellungen s, Fe).
-
-1 - 50 Reichsreform, Verfassungsfragen, Schwäbischer Bund.
-51 -160 Kaiser und Habsburg (Maximilian I., Karl V.).
-
-161-200 (bleibt frei)
-
-201-260 Chromologische Darstellungen der Reformationszeit von
+**** 0001 - 0050 Reichsreform, Verfassungsfragen, Schwäbischer Bund.
+**** 0051 - 0160 Kaiser und Habsburg (Maximilian I., Karl V.).
+**** 0161 - 0200 (bleibt frei)
+**** 0201 - 0260 Chromologische Darstellungen der Reformationszeit von
 Maximilian I. bis zum Bauernkrieg.
 
 261-289 Ritterkrieg; Sicokingen,
