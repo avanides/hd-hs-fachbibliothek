@@ -7822,14 +7822,14 @@ Alle Signaturen beginnen mit ~Sch~.
   **** 1.4.2. Hochschulschriften
   **** 1.4.3. Allgemeine Bibliographien zur Geschichte der USA
   **** 1.4.4. Bibliographien zur Geschichte der USA: Spezielle Sachgebiete undZeitabschnitte
-    ***** 1.4.1. /Wirtschafts- und Sozialgeschichte/
-    ***** 1.4.2. /Rechts- und Verfassungsgeschichte/
-    ***** 1.4.3. /Religions-, Kultur- und Geistesgeschichte/
-    ***** 1.4.4. /Außenpolitik/
-    ***** 1.4.5. /Kolonialzeit und Amerikanische Revolution/
-    ***** 1.4.6. /19. Jahrhundert/
-    ***** 1.4.7. /20. Jahrhundert/
-    ***** 1.4.8. /Sonstiges/
+  ***** 1.4.1. /Wirtschafts- und Sozialgeschichte/
+  ***** 1.4.2. /Rechts- und Verfassungsgeschichte/
+  ***** 1.4.3. /Religions-, Kultur- und Geistesgeschichte/
+  ***** 1.4.4. /Außenpolitik/
+  ***** 1.4.5. /Kolonialzeit und Amerikanische Revolution/
+***** 1.4.6. /19. Jahrhundert/
+***** 1.4.7. /20. Jahrhundert/
+***** 1.4.8. /Sonstiges/
 *** 1.6.  *Nachschlagewerke*
   **** 1.6.1. Enzyklopädien
   **** 1.6.2. Biographische Nachschlagewerke
@@ -7839,44 +7839,28 @@ Alle Signaturen beginnen mit ~Sch~.
   **** 1.6.6. Reiseführer und Bildbände
   **** 1.6.7. Einführung in das Geschichtsstudium, Propädeutik,
        Schlüsselkompetenzen, Rhetorik
-** 1.7.  *(frei)*
-** 1.8.  *Atlanten*
-** 1.9.  *(frei)*
-** 1.10. *(frei)*
+*** 1.7.  *(frei)*
+*** 1.8.  *Atlanten*
+*** 1.9.  *(frei)*
+*** 1.10. *(frei)*
 
-1. *Quellen und Darstellungen zur Geschichte der USA (chronologische
+** 2. *Quellen und Darstellungen zur Geschichte der USA (chronologische
    Gliederung, ohne Außenpolitik)*
-
-   1.  *Quellen zur Gesamtgeschichte der USA*
-
-   2.  *Gesamtdarstellungen, Übergreifende Interpretationen, Handbücher,
-       Serien, etc.*
-
-   3.  *Kolonialzeit bis 1763*
-
-       1. Quellen
-
-       2. Gesamtdarstellungen
-
-       3. Personen
-
-       4. Besondere Themen
-
-          1. /Innenpolitik/
-
-          2. /Sozialgeschichte/
-
-          3. /Gender, Frauen- & Geschlechtergeschichte/
-
-          4. /Wirtschaftsgeschichte/
-
-          5. /Rechts- und Verfassungsgeschichte/
-
-          6. /Religions-, Geistes- und Kulturgeschichte/
-
-          7. /Militärgeschichte/
-
-          8. /Sonstiges/
+*** 2.1.  *Quellen zur Gesamtgeschichte der USA*
+*** 2.2.  *Gesamtdarstellungen, Übergreifende Interpretationen, Handbücher, Serien, etc.*
+*** 2.3.  *Kolonialzeit bis 1763*
+**** 2.3.1. Quellen
+**** 2.3.2. Gesamtdarstellungen
+**** 2.3.3. Personen
+**** 2.3.4. Besondere Themen
+***** 2.3.4.1. /Innenpolitik/
+***** 2.3.4.2. /Sozialgeschichte/
+***** 2.3.4.3. /Gender, Frauen- & Geschlechtergeschichte/
+***** 2.3.4.4. /Wirtschaftsgeschichte/
+***** 2.3.4.5. /Rechts- und Verfassungsgeschichte/
+***** 2.3.4.6. /Religions-, Geistes- und Kulturgeschichte/
+***** 2.3.4.7. /Militärgeschichte/
+***** 2.3.4.8. /Sonstiges/
 
    4.  *Die Amerikanische Revolution, 1763--1789*
 
