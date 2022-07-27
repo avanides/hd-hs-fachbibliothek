@@ -6,22 +6,13 @@
 #+LATEX_HEADER: \usepackage{fancyhdr}
 #+LATEX_HEADER: \pagestyle{fancy}
 
-/Und zugleich signierte ich die bis dahin mit nur den drei Buchstaben A, B, C gegliederte, deshalb völlig unbenutzbare, Seminarbibiothek aufs Neue mit 24 mal 24 Signaturen von Aa bis Zz - vielleicht die Leistung, die mich am längsten überdauern wird (Auch wenn wegen der Einspruchsgewalt der damaligen, unter sich uneinigen, Ordinarien manche bibliographische Inkonsequenz im Katalog verewigt werde musste)./ 
-
-Reinhart Koselleck[fn:1]
+/Und zugleich signierte ich die bis dahin mit nur den drei Buchstaben A, B, C gegliederte, deshalb völlig unbenutzbare, Seminarbibiothek aufs Neue mit 24 mal 24 Signaturen von Aa bis Zz - vielleicht die Leistung, die mich am längsten überdauern wird (Auch wenn wegen der Einspruchsgewalt der damaligen, unter sich uneinigen, Ordinarien manche bibliographische Inkonsequenz im Katalog verewigt werde musste)./[fn:1]
 
 
----
+\rightline{Reinhart Koselleck}
 
 [[https://github.com/avanides/hd-hs-fachbibliothek][laufend aktualisiert auf GitHub]]
 
-[[https://www.uni-heidelberg.de/md/zegk/histsem/seminar/systematik_hs.pdf][Maschinenschriftliche Systematik des Historischen Seminars]]
-
-[[https://www.uni-heidelberg.de/md/zegk/histsem/seminar/systematik_fpi.pdf][Maschinenschriftliche Systematik des Instituts für Fränkisch-Pfälzische Geschichte und Landeskunde]]
-
-[[https://www.uni-heidelberg.de/md/zegk/histsem/seminar/systematik_schurman.pdf][Systematik der Schurman Bibliothek]]
-
----
 * Historisches Seminar
 ** DONE A - Hilfsmittel und Hilfswissenschaften, EDV-Literatur, Neue Medien
 CLOSED: [2022-07-27 Wed 11:19]
@@ -419,7 +410,7 @@ CLOSED: [2022-07-15 Fri 21:53]
 ***** 0201 - 0300 Allgemeines
 ***** 0301 - 0500 deutsche Landschaften
 **** 0501 - 0999 Außerdeutsche Länder und Gebiete, Auswertung in geographischer Anordnung
-** DONE D - Darstellungen zur Geschichte des Mittelalters, chronologisch geordnet
+** DONE D - Mittelalterliche Geschichte (chronologisch)
 CLOSED: [2022-07-15 Fri 21:53]
 *** Da - Gesamtdarstellungen und Monographien zu gesamtmittelalterlichen Problemen
 **** 0001 - 0100 Das Mittelalter: Literatur zum Begriff, zur Periodisierung, zur Problematik, zum 'Erbe des Mittelalters', Einzelnes
@@ -813,7 +804,7 @@ Ordensgeschichts selbst siehe Ec
 ****** 0681 - 0750 außerdeutsche Staaten
 **** 0751 - 0800 der deutsche Humanismus
 **** 0801 - 0999 Deutschland vor der Reformation, Kulturgeschichte
-** DONE E - Darstellungen zur Geschichte des Mittelalters, sachlich geordnet
+** DONE E - Mittelalterliche Geschichte (sachlich)
 CLOSED: [2022-07-15 Fri 21:53]
 *** DONE Ea - Geschichte europäischer Länder und Landschaften I. Die Mittelmeerländer
 CLOSED: [2022-07-15 Fri 22:02]
@@ -4392,7 +4383,7 @@ CLOSED: [2022-07-15 Fri 21:53]
 **** Zl - Jahrbücher
 **** Zs - Dissertationen
 \pagebreak
-* FPI
+* Institut für Fränkisch-Pfälzsische Landesgeschichte
 ** I - Bibliographie und Hilfswissenschaften, zur landesgeschichtlichen Methode
 *** 01 ff - Bibliographie, allgemein
 *** 10 ff - Allgemeine Quellenkunde
@@ -7070,7 +7061,7 @@ Weitere Gebiete
 Orte (alphabetisch)
 
 \pagebreak
-* Mittellatein
+* Lateinische Philologie des Mittelalters und der Neuzeit
 ** A Texte
 *** I Sammlungen
 **** 0001-0599: Theologische Texte
@@ -7800,7 +7791,7 @@ Laufende Zeitschriften
 I abgeschlossene und nicht vollständig geführte Zeitschriften (geordnet nach Erscheinungsjahr des 1. Bandes, 1900 = J I 20)
 
 \pagebreak
-* Schurman
+* Schurman Bibliothek
 Alle Signaturen beginnen mit ~Sch~.
 ** I. Allgemeines
 ** 1. *Allgemeine Hilfsmittel*
