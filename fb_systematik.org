@@ -24,7 +24,7 @@ Reinhart Koselleck[fn:1]
 ---
 * Historisches Seminar
 ** DONE A - Hilfsmittel und Hilfswissenschaften, EDV-Literatur, Neue Medien
-CLOSED: [2022-07-15 Fri 21:53]
+CLOSED: [2022-07-27 Wed 11:19]
 *** Aa - Wörterbücher und philologische Hilfsmittel
 **** 0001 - 0020 mehrsprachige Wörterbücher
 **** 0021 - 0030 griechische
