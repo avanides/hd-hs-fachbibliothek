@@ -7801,7 +7801,7 @@ I abgeschlossene und nicht vollständig geführte Zeitschriften (geordnet nach E
 
 \pagebreak
 * Schurman
-Alle Signaturen fangen mit ~Sch~ an.
+Alle Signaturen beginnen mit ~Sch~.
 ** I. Allgemeines
   :PROPERTIES:
   :CUSTOM_ID: i.-allgemeines
@@ -7809,28 +7809,28 @@ Alle Signaturen fangen mit ~Sch~ an.
 
 1. *Allgemeine Hilfsmittel*
 
-   1. Universalgeschichtliche Werke (Weltgeschichte)
+   1.0. Universalgeschichtliche Werke (Weltgeschichte)
 
-   2. Methoden und Theorien der Geschichtswissenschaft
+   1.1. Methoden und Theorien der Geschichtswissenschaft
 
-   3. Geschichte der Geschichtsschreibung, allg. Aufsatzsammlungen zum
+   1.2. Geschichte der Geschichtsschreibung, allg. Aufsatzsammlungen zum
       Forschungsstand
 ** II. Geschichte der USA
   :PROPERTIES:
   :CUSTOM_ID: ii.-geschichte-der-usa
   :END:
 
-4.  *Verzeichnisse von Archiv- und Quellenbeständen*
+  1.3.  *Verzeichnisse von Archiv- und Quellenbeständen*
 
-5.  *Bibliographien*
+  1.4.  *Bibliographien*
 
-    1. Allgemeine Bibliographien und Kataloge
+    1.4.1. Allgemeine Bibliographien und Kataloge
 
-    2. Hochschulschriften
+    1.4.2. Hochschulschriften
 
-    3. Allgemeine Bibliographien zur Geschichte der USA
+    1.4.3. Allgemeine Bibliographien zur Geschichte der USA
 
-    4. Bibliographien zur Geschichte der USA: Spezielle Sachgebiete und
+    1.4.4. Bibliographien zur Geschichte der USA: Spezielle Sachgebiete und
        Zeitabschnitte
 
        1. /Wirtschafts- und Sozialgeschichte/
