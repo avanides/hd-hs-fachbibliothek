@@ -4392,7 +4392,7 @@ CLOSED: [2022-07-15 Fri 21:53]
 **** Zl - Jahrbücher
 **** Zs - Dissertationen
 \pagebreak
-* Institut für Fränkisch-Pfälzische Geschichte und Landeskunde
+* FPI
 ** I - Bibliographie und Hilfswissenschaften, zur landesgeschichtlichen Methode
 *** 01 ff - Bibliographie, allgemein
 *** 10 ff - Allgemeine Quellenkunde
@@ -7071,7 +7071,7 @@ Weitere Gebiete
 Orte (alphabetisch)
 
 \pagebreak
-* Lateinische Philologie des Mittelalters und der Neuzeit
+* Mittellatein
 ** A Texte
 *** I Sammlungen
 **** 0001-0599: Theologische Texte
@@ -7801,7 +7801,7 @@ Laufende Zeitschriften
 I abgeschlossene und nicht vollständig geführte Zeitschriften (geordnet nach Erscheinungsjahr des 1. Bandes, 1900 = J I 20)
 
 \pagebreak
-* Schurman Bibliothek
+* Schurman
 Alle Signaturen fangen mit ~Sch~
 ** I. Allgemeines
   :PROPERTIES:
