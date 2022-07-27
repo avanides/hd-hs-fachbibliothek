@@ -7821,7 +7821,7 @@ Alle Signaturen beginnen mit ~Sch~.
 **** 1.4.1. Allgemeine Bibliographien und Kataloge
 **** 1.4.2. Hochschulschriften
 **** 1.4.3. Allgemeine Bibliographien zur Geschichte der USA
-**** 1.4.4. Bibliographien zur Geschichte der USA: Spezielle Sachgebiete undZeitabschnitte
+**** 1.4.4. Bibliographien zur Geschichte der USA: Spezielle Sachgebiete und Zeitabschnitte
 ***** 1.4.1. /Wirtschafts- und Sozialgeschichte/
 ***** 1.4.2. /Rechts- und Verfassungsgeschichte/
 ***** 1.4.3. /Religions-, Kultur- und Geistesgeschichte/
@@ -7858,645 +7858,313 @@ Alle Signaturen beginnen mit ~Sch~.
 ***** 2.3.4.6. /Religions-, Geistes- und Kulturgeschichte/
 ***** 2.3.4.7. /Militärgeschichte/
 ***** 2.3.4.8. /Sonstiges/
-
-   4.  *Die Amerikanische Revolution, 1763--1789*
-
-       1. Quellen
-
-       2. Gesamtdarstellungen
-
-       3. Personen
-
-       4. Besondere Themen
-
-          1. /Innenpolitik/
-
-          2. /Sozialgeschichte/
-
-          3. /Gender, Frauen- & Geschlechtergeschichte/
-
-          4. /Wirtschaftsgeschichte/
-
-          5. /Rechts- und Verfassungsgeschichte/
-
-          6. /Religions-, Geistes- und Kulturgeschichte/
-
-          7. /Militärgeschichte/
-
-          8. /Sonstiges/
-
-       5. Vergleichende Revolutionsgeschichte, Revolutionstheorien
-
-   5.  *Von der Staatsgründung bis zum Vorabend des Bürgerkrieges,
-       1789--1860*
-
-       1. Quellen
-
-       2. Gesamtdarstellungen
-
-       3. Personen
-
-       4. Besondere Themen
-
-          1. /Innenpolitik/
-
-          2. /Sozialgeschichte/
-
-          3. /Gender, Frauen- & Geschlechtergeschichte/
-
-          4. /Wirtschaftsgeschichte/
-
-          5. /Rechts- und Verfassungsgeschichte/
-
-          6. /Religions-, Geistes- und Kulturgeschichte/
-
-          7. /Militärgeschichte/
-
-          8. /Sonstiges/
-
-   6.  *Bürgerkrieg, Rekonstruktion und Industrialisierung, 1860--1890*
-
-       1. Quellen
-
-       2. Gesamtdarstellungen
-
-       3. Personen
-
-       4. Besondere Themen
-
-          1. /Innenpolitik/
-
-          2. /Sozialgeschichte/
-
-          3. /Gender, Frauen- & Geschlechtergeschichte/
-
-          4. /Wirtschaftsgeschichte/
-
-          5. /Rechts- und Verfassungsgeschichte/
-
-          6. /Religions-, Geistes- und Kulturgeschichte/
-
-          7. /Militärgeschichte/
-
-          8. /Sonstiges/
-
-   7.  *Die USA im 20. Jahrhundert I, 1890--1929 (Imperialismus, 1.
-       Weltkrieg, 20er Jahre)*
-
-       1. Quellen
-
-       2. Gesamtdarstellungen
-
-       3. Personen
-
-       4. Besondere Themen
-
-          1. /Innenpolitik/
-
-          2. /Sozialgeschichte/
-
-          3. /Gender, Frauen- & Geschlechtergeschichte/
-
-          4. /Wirtschaftsgeschichte/
-
-          5. /Rechts- und Verfassungsgeschichte/
-
-          6. /Religions-, Geistes- und Kulturgeschichte/
-
-          7. /Militärgeschichte/
-
-          8. /Sonstiges/
-
-   8.  *Die USA im 20. Jahrhundert II, 1929--1945 (Weltwirtschaftskrise,
-       New Deal, 2. Weltkrieg)*
-
-       1. Quellen
-
-       2. Gesamtdarstellungen
-
-       3. Personen
-
-       4. Besondere Themen
-
-          1. /Innenpolitik/
-
-          2. /Sozialgeschichte/
-
-          3. /Gender, Frauen- & Geschlechtergeschichte/
-
-          4. /Wirtschaftsgeschichte/
-
-          5. /Rechts- und Verfassungsgeschichte/
-
-          6. /Religions-, Geistes- und Kulturgeschichte/
-
-          7. /Militärgeschichte/
-
-          8. /Sonstiges/
-
-   9.  *Die USA im 20. Jahrhundert III, 1945--1960 (Nachkriegsprobleme,
-       Kalter Krieg I)*
-
-       1. Quellen
-
-       2. Gesamtdarstellungen
-
-       3. Personen
-
-       4. Besondere Themen
-
-          1. /Innenpolitik/
-
-          2. /Sozialgeschichte/
-
-          3. /Gender, Frauen- & Geschlechtergeschichte/
-
-          4. /Wirtschaftsgeschichte/
-
-          5. /Rechts- und Verfassungsgeschichte/
-
-          6. /Religions-, Geistes- und Kulturgeschichte/
-
-          7. /Militärgeschichte/
-
-          8. /Sonstiges/
-
-   10. *Die USA im 20. Jahrhundert IV, 1961--1980 (Kalter Krieg II, von
-       Kennedy bis Carter)*
-
-       1. Quellen
-
-       2. Gesamtdarstellungen
-
-       3. Personen
-
-       4. Besondere Themen
-
-          1. /Innenpolitik/
-
-          2. /Sozialgeschichte/
-
-          3. /Gender, Frauen- & Geschlechtergeschichte/
-
-          4. /Wirtschaftsgeschichte/
-
-          5. /Rechts- und Verfassungsgeschichte/
-
-          6. /Religions-, Geistes- und Kulturgeschichte/
-
-          7. /Militärgeschichte/
-
-          8. /New Left/Protest movements/
-
-          9. /Sonstiges/
-
-   11. *Die USA im 20. Jahrhundert V, seit 1981 (Von Reagan bis
-       Clinton)*
-
-       1. Quellen
-
-       2. Gesamtdarstellungen
-
-       3. Personen
-
-       4. Besondere Themen
-
-          1. /Innenpolitik/
-
-          2. /Sozialgeschichte/
-
-          3. /Gender, Frauen- & Geschlechtergeschichte/
-
-          4. /Wirtschaftsgeschichte/
-
-          5. /Rechts- und Verfassungsgeschichte/
-
-          6. /Religions-, Geistes- und Kulturgeschichte/
-
-          7. /Militärgeschichte/
-
-          8. /New Left/Protest movements/
-
-          9. /Sonstiges/
-
-   12. *Die USA im 21. Jahrhundert, von George W. Bush bis zur
-       Gegenwart*
-
-       1. Quellen
-
-       2. Gesamtdarstellungen
-
-       3. Personen
-
-       4. Besondere Themen
-
-          1. /Innenpolitik/
-
-          2. /Sozialgeschichte/
-
-          3. /Gender, Frauen- & Geschlechtergeschichte/
-
-          4. /Wirtschaftsgeschichte/
-
-          5. /Rechts- und Verfassungsgeschichte/
-
-          6. /Religions-, Geistes- und Kulturgeschichte/
-
-          7. /Militärgeschichte/
-
-          8. /New Left/Protest movements/
-
-          9. /Sonstiges/
-
-2. *Übergreifende Quellen und Darstellungen zu einzelnen Sachbereichen
-   der Innenpolitik*
-
-   1. *Geographie und Umwelt*
-
-   2. *Historische Geographie*
-
-   3. *Expansion nach Westen und die Frontier*
-
-   4. *Die Geschichte einzelner Staaten und Regionen*
-
-      1. Regionen
-
-      2. Einzelne Staaten (alphabetische Reihenfolge)
-
-      3. Stadtgeschichte
-
-   5. *Immigration und Ethnizität, Race*
-
-      1. Quellen und Statistiken
-
-      2. Allgemeine Interpretationen, Gesamtdarstellungen, Handbücher
-         etc.
-
-      3. Lateinamerikaner und Frankokanadier
-
-      4. Europäer
-
-      5. Asiaten
-
-      6. Juden
-
-      7. Native Americans
-
-      8. Afroamerikaner
-
-      9. Whiteness/Sonstiges
-
-   6. *Wirtschafts- und Sozialgeschichte*
-
-      1.  Quellen und Statistiken
-
-      2.  Allgemeine Interpretationen, Gesamtdarstellungen, Handbücher
-          etc.
-
-      3.  Volksvermögen, Wachstum und Konjunkturverläufe
-
-      4.  Geschichte der Erfindungen und Technik, Industrielle
-          Entwicklung
-
-      5.  Geschäftswelt, Einzelne Bereiche der Wirtschaft,
-          Versicherungen
-
-      6.  Armut, Sozialpolitik, Öffentliche Wohlfahrt
-
-      7.  Arbeit, Arbeiter und Arbeiterbewegungen
-
-      8.  Einzelne Bereiche der Sozialgeschichte
-
-      9.  Gender, Frauen- und Geschlechtergeschichte, First Ladies
-
-      10. Sonstiges
-
-   7. *Rechts- und Verfassungsgeschichte, Politische Institutionen,
-      Parteien*
-
-      1. Quellen und Statistiken
-
-      2. Allgemeine Interpretationen, Gesamtdarstellungen, Handbücher
-         etc.
-
-      3. Verfassung, Regierung, Kongress, Supreme Court
-
-      4. Präsidentschaft
-
-      5. Parteien und Wahlen
-
-      6. Einzelstaaten und Regionen
-
-      7. Philosophie, Theorie und Methode des Rechts und der
-         Politik/Politisches Denken und Politische Ideengeschichte
-
-      8. Sonstiges
-
-   8. *Religions-, Kultur- und Geistesgeschichte*
-
-      1. Quellen und Statistiken
-
-      2. Allgemeine Interpretationen, Gesamtdarstellungen, Handbücher
-         etc.
-
-      3. Religionsgeschichte und Bildungsgeschichte
-
-      4. Geistesgeschichte/Intellectual History
-
-      5. Literatur
-
-      6. Die Künste
-
-      7. Kommunikationsmittel und Filmgeschichte
-
-      8. Reine und angewandte Wissenschaften
-
-      9. Sex, Drugs & Rock & Roll, Emotionen, Sonstiges
-
-   9. *Militärgeschichte*
-
-      1. Quellen und Statistiken
-
-      2. Personen
-
-      3. Allgemeine Interpretationen, Gesamtdarstellungen, Handbücher
-         etc.
-
-      4. Besondere Themen
-
-3. *Quellen und Darstellungen zur Außenpolitik und den internationalen
+*** 2.4.  *Die Amerikanische Revolution, 1763--1789*
+*** 2.4.1. Quellen
+*** 2.4.2. Gesamtdarstellungen
+*** 2.4.3. Personen
+*** 2.4.4. Besondere Themen
+**** 2.4.4.1. /Innenpolitik/
+**** 2.4.4.2. /Sozialgeschichte/
+**** 2.4.4.3. /Gender, Frauen- & Geschlechtergeschichte/
+**** 2.4.4.4. /Wirtschaftsgeschichte/
+**** 2.4.4.5. /Rechts- und Verfassungsgeschichte/
+**** 2.4.4.6. /Religions-, Geistes- und Kulturgeschichte/
+**** 2.4.4.7. /Militärgeschichte/
+**** 2.4.4.8. /Sonstiges/
+*** 2.4.5. Vergleichende Revolutionsgeschichte, Revolutionstheorien
+*** 2.5.  *Von der Staatsgründung bis zum Vorabend des Bürgerkrieges,1789--1860*
+**** 2.5.1. Quellen
+**** 2.5.2. Gesamtdarstellungen
+**** 2.5.3. Personen
+**** 2.5.4. Besondere Themen
+***** 2.5.4.1. /Innenpolitik/
+***** 2.5.4.2. /Sozialgeschichte/
+***** 2.5.4.3. /Gender, Frauen- & Geschlechtergeschichte/
+***** 2.5.4.4. /Wirtschaftsgeschichte/
+***** 2.5.4.5. /Rechts- und Verfassungsgeschichte/
+***** 2.5.4.6. /Religions-, Geistes- und Kulturgeschichte/
+***** 2.5.4.7. /Militärgeschichte/
+***** 2.5.4.8. /Sonstiges/
+*** 2.6.  *Bürgerkrieg, Rekonstruktion und Industrialisierung, 1860--1890*
+**** 2.6.1. Quellen
+**** 2.6.2. Gesamtdarstellungen
+**** 2.6.3. Personen
+**** 2.6.4. Besondere Themen
+***** 2.6.4.1. /Innenpolitik/
+***** 2.6.4.2. /Sozialgeschichte/
+***** 2.6.4.3. /Gender, Frauen- & Geschlechtergeschichte/
+***** 2.6.4.4. /Wirtschaftsgeschichte/
+***** 2.6.4.5. /Rechts- und Verfassungsgeschichte/
+***** 2.6.4.6. /Religions-, Geistes- und Kulturgeschichte/
+***** 2.6.4.7. /Militärgeschichte/
+***** 2.6.4.8. /Sonstiges/
+*** 2.7.  *Die USA im 20. Jahrhundert I, 1890--1929 (Imperialismus, 1. Weltkrieg, 20er Jahre)*
+**** 2.7.1. Quellen
+**** 2.7.2. Gesamtdarstellungen
+**** 2.7.3. Personen
+**** 2.7.4. Besondere Themen
+***** 2.7.4.1. /Innenpolitik/
+***** 2.7.4.2. /Sozialgeschichte/
+***** 2.7.4.3. /Gender, Frauen- & Geschlechtergeschichte/
+***** 2.7.4.4. /Wirtschaftsgeschichte/
+***** 2.7.4.5. /Rechts- und Verfassungsgeschichte/
+***** 2.7.4.6. /Religions-, Geistes- und Kulturgeschichte/
+***** 2.7.4.7. /Militärgeschichte/
+***** 2.7.4.8. /Sonstiges/
+*** 2.8.  *Die USA im 20. Jahrhundert II, 1929--1945 (Weltwirtschaftskrise, New Deal, 2. Weltkrieg)*
+**** 2.8.1. Quellen
+**** 2.8.2. Gesamtdarstellungen
+**** 2.8.3. Personen
+**** 2.8.4. Besondere Themen
+***** 2.8.4.1. /Innenpolitik/
+***** 2.8.4.2. /Sozialgeschichte/
+***** 2.8.4.3. /Gender, Frauen- & Geschlechtergeschichte/
+***** 2.8.4.4. /Wirtschaftsgeschichte/
+***** 2.8.4.5. /Rechts- und Verfassungsgeschichte/
+***** 2.8.4.6. /Religions-, Geistes- und Kulturgeschichte/
+***** 2.8.4.7. /Militärgeschichte/
+***** 2.8.4.8. /Sonstiges/
+*** 2.9.  *Die USA im 20. Jahrhundert III, 1945--1960 (Nachkriegsprobleme, Kalter Krieg I)*
+**** 2.9.1. Quellen
+**** 2.9.2. Gesamtdarstellungen
+**** 2.9.3. Personen
+**** 2.9.4. Besondere Themen
+***** 2.9.4.1. /Innenpolitik/
+***** 2.9.4.2. /Sozialgeschichte/
+***** 2.9.4.3. /Gender, Frauen- & Geschlechtergeschichte/
+***** 2.9.4.4. /Wirtschaftsgeschichte/
+***** 2.9.4.5. /Rechts- und Verfassungsgeschichte/
+***** 2.9.4.6. /Religions-, Geistes- und Kulturgeschichte/
+***** 2.9.4.7. /Militärgeschichte/
+***** 2.9.4.8. /Sonstiges/
+*** 2.10. *Die USA im 20. Jahrhundert IV, 1961--1980 (Kalter Krieg II, von Kennedy bis Carter)*
+**** 2.10.1. Quellen
+**** 2.10.2. Gesamtdarstellungen
+**** 2.10.3. Personen
+**** 2.10.4. Besondere Themen
+***** 2.10.4.1. /Innenpolitik/
+***** 2.10.4.2. /Sozialgeschichte/
+***** 2.10.4.3. /Gender, Frauen- & Geschlechtergeschichte/
+***** 2.10.4.4. /Wirtschaftsgeschichte/
+***** 2.10.4.5. /Rechts- und Verfassungsgeschichte/
+***** 2.10.4.6. /Religions-, Geistes- und Kulturgeschichte/
+***** 2.10.4.7. /Militärgeschichte/
+***** 2.10.4.8. /New Left/Protest movements/
+***** 2.10.4.9. /Sonstiges/
+*** 2.11. *Die USA im 20. Jahrhundert V, seit 1981 (Von Reagan bis Clinton)*
+**** 2.11.1. Quellen
+**** 2.11.2. Gesamtdarstellungen
+**** 2.11.3. Personen
+**** 2.11.4. Besondere Themen
+***** 2.11.4.1. /Innenpolitik/
+***** 2.11.4.2. /Sozialgeschichte/
+***** 2.11.4.3. /Gender, Frauen- & Geschlechtergeschichte/
+***** 2.11.4.4. /Wirtschaftsgeschichte/
+***** 2.11.4.5. /Rechts- und Verfassungsgeschichte/
+***** 2.11.4.6. /Religions-, Geistes- und Kulturgeschichte/
+***** 2.11.4.7. /Militärgeschichte/
+***** 2.11.4.8. /New Left/Protest movements/
+***** 2.11.4.9. /Sonstiges/
+*** 2.12. *Die USA im 21. Jahrhundert, von George W. Bush bis zur Gegenwart*
+**** 2.12.1. Quellen
+**** 2.12.2. Gesamtdarstellungen
+**** 2.12.3. Personen
+**** 2.12.4. Besondere Themen
+***** 2.12.4.1. /Innenpolitik/
+***** 2.12.4.2. /Sozialgeschichte/
+***** 2.12.4.3. /Gender, Frauen- & Geschlechtergeschichte/
+***** 2.12.4.4. /Wirtschaftsgeschichte/
+***** 2.12.4.5. /Rechts- und Verfassungsgeschichte/
+***** 2.12.4.6. /Religions-, Geistes- und Kulturgeschichte/
+***** 2.12.4.7. /Militärgeschichte/
+***** 2.12.4.8. /New Left/Protest movements/
+***** 2.12.4.9. /Sonstiges/
+** 3. *Übergreifende Quellen und Darstellungen zu einzelnen Sachbereichen der Innenpolitik*
+*** 3.1. *Geographie und Umwelt*
+*** 3.2. *Historische Geographie*
+*** 3.3. *Expansion nach Westen und die Frontier*
+*** 3.4. *Die Geschichte einzelner Staaten und Regionen*
+**** 3.4.1. Regionen
+**** 3.4.2. Einzelne Staaten (alphabetische Reihenfolge)
+**** 3.4.3. Stadtgeschichte
+*** 3.5. *Immigration und Ethnizität, Race*
+**** 3.5.1. Quellen und Statistiken
+**** 3.5.2. Allgemeine Interpretationen, Gesamtdarstellungen, Handbücher etc.
+**** 3.5.3. Lateinamerikaner und Frankokanadier
+**** 3.5.4. Europäer
+**** 3.5.5. Asiaten
+**** 3.5.6. Juden
+**** 3.5.7. Native Americans
+**** 3.5.8. Afroamerikaner
+**** 3.5.9. Whiteness/Sonstiges
+*** 3.6. *Wirtschafts- und Sozialgeschichte*
+**** 3.6.1.  Quellen und Statistiken
+**** 3.6.2.  Allgemeine Interpretationen, Gesamtdarstellungen, Handbücher etc.
+**** 3.6.3.  Volksvermögen, Wachstum und Konjunkturverläufe
+**** 3.6.4.  Geschichte der Erfindungen und Technik, Industrielle Entwicklung
+**** 3.6.5.  Geschäftswelt, Einzelne Bereiche der Wirtschaft, Versicherungen
+**** 3.6.6.  Armut, Sozialpolitik, Öffentliche Wohlfahrt
+**** 3.6.7.  Arbeit, Arbeiter und Arbeiterbewegungen
+**** 3.6.8.  Einzelne Bereiche der Sozialgeschichte
+**** 3.6.9.  Gender, Frauen- und Geschlechtergeschichte, First Ladies
+**** 3.6.10. Sonstiges
+*** 3.7. *Rechts- und Verfassungsgeschichte, Politische Institutionen, Parteien*
+**** 3.7.1. Quellen und Statistiken
+**** 3.7.2. Allgemeine Interpretationen, Gesamtdarstellungen, Handbücher etc.
+**** 3.7.3. Verfassung, Regierung, Kongress, Supreme Court
+**** 3.7.4. Präsidentschaft
+**** 3.7.5. Parteien und Wahlen
+**** 3.7.6. Einzelstaaten und Regionen
+**** 3.7.7. Philosophie, Theorie und Methode des Rechts und der Politik/Politisches Denken und Politische Ideengeschichte
+**** 3.7.8. Sonstiges
+*** 3.8. *Religions-, Kultur- und Geistesgeschichte*
+**** 3.8.1. Quellen und Statistiken
+**** 3.8.2. Allgemeine Interpretationen, Gesamtdarstellungen, Handbücher etc.
+**** 3.8.3. Religionsgeschichte und Bildungsgeschichte
+**** 3.8.4. Geistesgeschichte/Intellectual History
+**** 3.8.5. Literatur
+**** 3.8.6. Die Künste
+**** 3.8.7. Kommunikationsmittel und Filmgeschichte
+**** 3.8.8. Reine und angewandte Wissenschaften
+**** 3.8.9. Sex, Drugs & Rock & Roll, Emotionen, Sonstiges
+*** 3.9. *Militärgeschichte*
+**** 3.9.1. Quellen und Statistiken
+**** 3.9.2. Personen
+**** 3.9.3. Allgemeine Interpretationen, Gesamtdarstellungen, Handbücher etc.
+**** 3.9.4. Besondere Themen
+** 4. *Quellen und Darstellungen zur Außenpolitik und den internationalen
    Beziehungen der USA*
-
-   1. *Allgemeine Quellensammlungen*
-
-   2. *Gesamtdarstellungen, Allgemeine Interpretationen, Handbücher
-      etc.*
-
-      1. Theorie der Außenpolitik und der internationalen Beziehungen;
-         Theorie des außenpolitischen Entscheidungsprozesses
-
-      2. Gesamtdarstellungen, Allgemeine Interpretationen, Handbücher
-         etc.
-
-      3. Die USA und Europa
-
-      4. Die USA und der Pazifik
-
-      5. Die USA und Lateinamerika
-
-      6. Die USA und Afrika
-
-      7. Besondere Themen
-
-   3. *Koloniale und Imperiale Diplomatie bis 1774*
-
-      1. Quellen und Gesamtdarstellungen
-
-      2. Personen
-
-      3. Britische Kolonialpolitik bis 1763
-
-      4. Anglo-Amerikanische Konfrontation 1763--1774
-
-      5. Besondere Themen
-
-   4. *Die Amerikanische Revolution, die Französische Revolution und der
-      britisch-französische Weltkonflikt, 1775--1814*
-
-      1. Quellen und Gesamtdarstellungen
-
-      2. Personen
-
-      3. Europa und die Amerikanische Revolution, 1775--1783
-
-      4. US-Außenpolitik, 1783--1801
-
-      5. US-Außenpolitik, 1801--1815
-
-      6. Besondere Themen
-
-   5. *US-Außenpolitik, 1815--1865*
-
-      1. Quellen und Gesamtdarstellungen
-
-      2. Personen
-
-      3. Florida, Lateinamerika und die Monroedoktrin
-
-      4. Diplomatische und wirtschaftliche Beziehungen zu Europa,
-         1815--1865
-
-      5. Die USA und Mexiko, 1821--1865
-
-      6. Die Kanadisch-Amerikanische Grenze, 1763--1872
-
-      7. Die USA und Asien, 1783--1865
-
-      8. Diplomatie im Bürgerkrieg
-
-      9. Besondere Themen
-
-   6. *US-Außenpolitik, 1866--1919*
-
-      1. Quellen und Gesamtdarstellungen
-
-      2. Personen
-
-      3. Expansion und Expansionsversuche nach dem Bürgerkrieg
-
-      4. Der Spanisch-Amerikanische Krieg, 1898--1900
-
-      5. Die USA und Europa, 1866--1914
-
-      6. Die USA, Asien und der Pazifik, 1866--1919
-
-      7. Die USA und Lateinamerika, 1866--1919
-
-      8. Erster Weltkrieg und Friedensschluss, 1914--1919
-
-      9. Besondere Themen
-
-   7. *US-Außenpolitik, 1920--1945*
-
-      1. Quellen und Gesamtdarstellungen
-
-      2. Personen
-
-      3. Internationalismus, Isolationismus, Abrüstung und
-         Außenwirtschaftspolitik
-
-      4. US-Außenpolitik in der Zwischenkriegszeit, 1920--1936
-
-      5. Der Weg in den Zweiten Weltkrieg, 1937--1941
-
-      6. Die USA und der Zweite Weltkrieg
-
-      7. Alliierte Nachkriegsplanung, 1941--1945
-
-      8. Besondere Themen
-
-   8. *US-Außenpolitik, 1945--1990*
-
-      1.  Quellen
-
-      2.  Gesamtdarstellungen
-
-      3.  Personen
-
-      4.  Streitkräfte, Militärische Institutionen und Außenpolitik,
-          Strategien und Sicherheitsdebatte, Geheimdienste, NATO
-
-      5.  Außenpolitik und Wirtschaft
-
-      6.  Internationale Organisationen, Friedensbewegung, Abrüstung
-
-      7.  Die USA und der Kalte Krieg: Historiographie,
-          Gesamtdarstellungen usw.
-
-      8.  Die USA und die Sowjetunion, 1945--1963
-
-      9.  Die USA und die Sowjetunion, 1963--1991
-
-      10. Die USA und Europa, 1945--1955
-
-      11. Die USA und Europa, 1955--1989
-
-      12. Die USA und Ostasien, 1945--1990
-
-      13. Die USA, Südostasien und der Vietnam-Krieg, 1945--1975
-
-      14. Die USA, Australien, Neuseeland und der Pazifik, 1945--1990
-
-      15. Die USA und der Nahe und Mittlere Osten, 1945--1990
-
-      16. Die USA und die Westliche Hemisphäre, 1945--1990
-
-      17. Die USA und Afrika, 1945--1990
-
-   9. *US-Außenpolitik, 1990 bis zur Gegenwart*
-
-      1.  Quellen
-
-      2.  Gesamtdarstellungen
-
-      3.  Personen
-
-      4.  Streitkräfte, Militärische Institutionen und Außenpolitik,
-          Strategien und Sicherheitsdebatte, Geheimdienste, NATO
-
-      5.  Außenpolitik und Wirtschaft
-
-      6.  Internationale Organisationen, Friedensbewegung, Abrüstung
-
-      7.  (unklar)
-
-      8.  Die USA und Russland, seit 1991
-
-      9.  Die USA und Westeuropa, seit 1990
-
-      10. Die USA und Osteuropa, seit 1990
-
-      11. (frei)
-
-      12. Die USA und die Europäische Union
-
-      13. Die USA und Ostasien, seit 1990
-
-      14. Die USA, Australien, Neuseeland und der Pazifik, seit 1990
-
-      15. Die USA und der Nahe und Mittlere Osten, seit 1990
-
-      16. Die USA und die Westliche Hemisphäre, seit 1990
-
-      17. Die USA und Afrika, seit 1990
-
-      18. 11. September / War on Terror / Irakkrieg
-
-      19. Besondere Themen
-
-4. *Deutsch-Amerikanische Beziehungen*
-
-   1. *Quellen*
-
-   2. *Gesamtdarstellungen, Allgemeine Interpretationen, Handbücher*
-
-   3. *Deutsch-Amerikanische Beziehungen, 1776--1871*
-
-      1. Quellen
-
-      2. Gesamtdarstellungen
-
-      3. Besondere Themen
-
-      4. Personen
-
-      5. Immigration/Deutschamerikaner
-
-      6. Amerikabilder/Deutschlandbilder/Perzeption
-
-   4. *Deutsch-Amerikanische Beziehungen, 1871--1917*
-
-      1. Quellen
-
-      2. Gesamtdarstellungen
-
-      3. Besondere Themen
-
-      4. Personen
-
-      5. Immigration/Deutschamerikaner
-
-      6. Amerikabilder/Deutschlandbilder/Perzeption
-
-   5. *Deutsch-Amerikanische Beziehungen, 1917--1945*
-
-      1. Quellen
-
-      2. Gesamtdarstellungen
-
-      3. Besondere Themen
-
-      4. Personen
-
-      5. Immigration/Deutschamerikaner
-
-      6. Amerikabilder/Deutschlandbilder/Perzeption
-
-   6. *Deutsch-Amerikanische Beziehungen, 1945--1990*
-
-      1. Quellen
-
-      2. Gesamtdarstellungen
-
-      3. Besondere Themen
-
-      4. Personen
-
-      5. Immigration/Deutschamerikaner
-
-      6. Amerikabilder/Deutschlandbilder/Perzeption
-
-      7. Wirtschaftsbeziehungen
-
-      8. Die amerikanische Militärpräsenz in Deutschland
-
-   7. *Deutsch-Amerikanische Beziehungen, seit 1990*
-
-      1. Quellen
-
-      2. Gesamtdarstellungen
-
-      3. Besondere Themen
-
-      4. Personen
-
-      5. Immigration/Deutschamerikaner
-
-      6. Amerikabilder/Deutschlandbilder/Perzeption
-
-      7. Wirtschaftsbeziehungen
-
-      8. Die amerikanische Militärpräsenz in Deutschland
+*** 4.1. *Allgemeine Quellensammlungen*
+*** 4.2. *Gesamtdarstellungen, Allgemeine Interpretationen, Handbücher etc.*
+**** 4.2.1. Theorie der Außenpolitik und der internationalen Beziehungen; Theorie des außenpolitischen Entscheidungsprozesses
+**** 4.2.2. Gesamtdarstellungen, Allgemeine Interpretationen, Handbücher etc.
+**** 4.2.3. Die USA und Europa
+**** 4.2.4. Die USA und der Pazifik
+**** 4.2.5. Die USA und Lateinamerika
+**** 4.2.6. Die USA und Afrika
+**** 4.2.7. Besondere Themen
+*** 4.3. *Koloniale und Imperiale Diplomatie bis 1774*
+**** 4.3.1. Quellen und Gesamtdarstellungen
+**** 4.3.2. Personen
+**** 4.3.3. Britische Kolonialpolitik bis 1763
+**** 4.3.4. Anglo-Amerikanische Konfrontation 1763--1774
+**** 4.3.5. Besondere Themen
+*** 4.4. *Die Amerikanische Revolution, die Französische Revolution und der britisch-französische Weltkonflikt, 1775--1814*
+**** 4.4.1. Quellen und Gesamtdarstellungen
+**** 4.4.2. Personen
+**** 4.4.3. Europa und die Amerikanische Revolution, 1775--1783
+**** 4.4.4. US-Außenpolitik, 1783--1801
+**** 4.4.5. US-Außenpolitik, 1801--1815
+**** 4.4.6. Besondere Themen
+*** 4.5. *US-Außenpolitik, 1815--1865*
+**** 4.5.1. Quellen und Gesamtdarstellungen
+**** 4.5.2. Personen
+**** 4.5.3. Florida, Lateinamerika und die Monroedoktrin
+**** 4.5.4. Diplomatische und wirtschaftliche Beziehungen zu Europa, 1815--1865
+**** 4.5.5. Die USA und Mexiko, 1821--1865
+**** 4.5.6. Die Kanadisch-Amerikanische Grenze, 1763--1872
+**** 4.5.7. Die USA und Asien, 1783--1865
+**** 4.5.8. Diplomatie im Bürgerkrieg
+**** 4.5.9. Besondere Themen
+*** 4.6. *US-Außenpolitik, 1866--1919*
+**** 4.6.1. Quellen und Gesamtdarstellungen
+**** 4.6.2. Personen
+**** 4.6.3. Expansion und Expansionsversuche nach dem Bürgerkrieg
+**** 4.6.4. Der Spanisch-Amerikanische Krieg, 1898--1900
+**** 4.6.5. Die USA und Europa, 1866--1914
+**** 4.6.6. Die USA, Asien und der Pazifik, 1866--1919
+**** 4.6.7. Die USA und Lateinamerika, 1866--1919
+**** 4.6.8. Erster Weltkrieg und Friedensschluss, 1914--1919
+**** 4.6.9. Besondere Themen
+*** 4.7. *US-Außenpolitik, 1920--1945*
+**** 4.7.1. Quellen und Gesamtdarstellungen
+**** 4.7.2. Personen
+**** 4.7.3. Internationalismus, Isolationismus, Abrüstung und Außenwirtschaftspolitik
+**** 4.7.4. US-Außenpolitik in der Zwischenkriegszeit, 1920--1936
+**** 4.7.5. Der Weg in den Zweiten Weltkrieg, 1937--1941
+**** 4.7.6. Die USA und der Zweite Weltkrieg
+**** 4.7.7. Alliierte Nachkriegsplanung, 1941--1945
+**** 4.7.8. Besondere Themen
+*** 4.8. *US-Außenpolitik, 1945--1990*
+**** 4.8.1.  Quellen
+**** 4.8.2.  Gesamtdarstellungen
+**** 4.8.3.  Personen
+**** 4.8.4.  Streitkräfte, Militärische Institutionen und Außenpolitik, Strategien und Sicherheitsdebatte, Geheimdienste, NATO
+**** 4.8.5.  Außenpolitik und Wirtschaft
+**** 4.8.6.  Internationale Organisationen, Friedensbewegung, Abrüstung
+**** 4.8.7.  Die USA und der Kalte Krieg: Historiographie, Gesamtdarstellungen usw.
+**** 4.8.8.  Die USA und die Sowjetunion, 1945--1963
+**** 4.8.9.  Die USA und die Sowjetunion, 1963--1991
+**** 4.8.10. Die USA und Europa, 1945--1955
+**** 4.8.11. Die USA und Europa, 1955--1989
+**** 4.8.12. Die USA und Ostasien, 1945--1990
+**** 4.8.13. Die USA, Südostasien und der Vietnam-Krieg, 1945--1975
+**** 4.8.14. Die USA, Australien, Neuseeland und der Pazifik, 1945--1990
+**** 4.8.15. Die USA und der Nahe und Mittlere Osten, 1945--1990
+**** 4.8.16. Die USA und die Westliche Hemisphäre, 1945--1990
+**** 4.8.17. Die USA und Afrika, 1945--1990
+*** 4.9. *US-Außenpolitik, 1990 bis zur Gegenwart*
+**** 4.9.1.  Quellen
+**** 4.9.2.  Gesamtdarstellungen
+**** 4.9.3.  Personen
+**** 4.9.4.  Streitkräfte, Militärische Institutionen und Außenpolitik, Strategien und Sicherheitsdebatte, Geheimdienste, NATO
+**** 4.9.5.  Außenpolitik und Wirtschaft
+**** 4.9.6.  Internationale Organisationen, Friedensbewegung, Abrüstung
+**** 4.9.7.  (unklar)
+**** 4.9.8.  Die USA und Russland, seit 1991
+**** 4.9.9.  Die USA und Westeuropa, seit 1990
+**** 4.9.10. Die USA und Osteuropa, seit 1990
+**** 4.9.11. (frei)
+**** 4.9.12. Die USA und die Europäische Union
+**** 4.9.13. Die USA und Ostasien, seit 1990
+**** 4.9.14. Die USA, Australien, Neuseeland und der Pazifik, seit 1990
+**** 4.9.15. Die USA und der Nahe und Mittlere Osten, seit 1990
+**** 4.9.16. Die USA und die Westliche Hemisphäre, seit 1990
+**** 4.9.17. Die USA und Afrika, seit 1990
+**** 4.9.18. 11. September / War on Terror / Irakkrieg
+**** 4.9.19. Besondere Themen
+** 5. *Deutsch-Amerikanische Beziehungen*
+*** 5.1. *Quellen*
+*** 5.2. *Gesamtdarstellungen, Allgemeine Interpretationen, Handbücher*
+*** 5.3. *Deutsch-Amerikanische Beziehungen, 1776--1871*
+**** 5.3.1. Quellen
+**** 5.3.2. Gesamtdarstellungen
+**** 5.3.3. Besondere Themen
+**** 5.3.4. Personen
+**** 5.3.5. Immigration/Deutschamerikaner
+**** 5.3.6. Amerikabilder/Deutschlandbilder/Perzeption
+*** 5.4. *Deutsch-Amerikanische Beziehungen, 1871--1917*
+**** 5.4.1. Quellen
+**** 5.4.2. Gesamtdarstellungen
+**** 5.4.3. Besondere Themen
+**** 5.4.4. Personen
+**** 5.4.5. Immigration/Deutschamerikaner
+**** 5.4.6. Amerikabilder/Deutschlandbilder/Perzeption
+*** 5.5. *Deutsch-Amerikanische Beziehungen, 1917--1945*
+**** 5.5.1. Quellen
+**** 5.5.2. Gesamtdarstellungen
+**** 5.5.3. Besondere Themen
+**** 5.5.4. Personen
+**** 5.5.5. Immigration/Deutschamerikaner
+**** 5.5.6. Amerikabilder/Deutschlandbilder/Perzeption
+*** 5.6. *Deutsch-Amerikanische Beziehungen, 1945--1990*
+**** 5.6.1. Quellen
+**** 5.6.2. Gesamtdarstellungen
+**** 5.6.3. Besondere Themen
+**** 5.6.4. Personen
+**** 5.6.5. Immigration/Deutschamerikaner
+**** 5.6.6. Amerikabilder/Deutschlandbilder/Perzeption
+**** 5.6.7. Wirtschaftsbeziehungen
+**** 5.6.8. Die amerikanische Militärpräsenz in Deutschland
+*** 5.7. *Deutsch-Amerikanische Beziehungen, seit 1990*
+**** 5.7.1. Quellen
+**** 5.7.2. Gesamtdarstellungen
+**** 5.7.3. Besondere Themen
+**** 5.7.4. Personen
+**** 5.7.5. Immigration/Deutschamerikaner
+**** 5.7.6. Amerikabilder/Deutschlandbilder/Perzeption
+**** 5.7.7. Wirtschaftsbeziehungen
+**** 5.7.8. Die amerikanische Militärpräsenz in Deutschland
 ** III. Kanada
   :PROPERTIES:
   :CUSTOM_ID: iii.-kanada
