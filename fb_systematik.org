@@ -179,14 +179,14 @@ CLOSED: [2022-07-27 Wed 11:19]
 **** 0601 - 0900 EDV-Literatur
 ** TODO B - Quellen zur Geschichte des Mittelalters
 *** Ba - Allgemeine Quellensammlungen, Folio und Quart, innerhalb der MGH
-**** 0001 - 0100 MGH SS
-***** 0001 - 0035 SS., Folio Serie
-***** 0051 - 0065 Auct. Ant.
-***** 0071 - 0077 SS. rer. Merov.
-***** 0080 - xxxx SS. rer. Langob.
-***** 0082 - xxxx Gesta pont. Roman.
-***** 0084 - 0089 SS. qui vernacula lingua usi sunt
-***** 0093 - 0095 Libelli de lite
+**** DONE 0001 - 0100 MGH SS (Scriptores) [Geschichtsschreiber]
+***** 0001 - 0035 SS (Scriptores in Folio)
+***** 0051 - 0065 Auct. ant. (Auctores antiquissimi)
+***** 0071 - 0077 SS. rer. Merov. (Scriptores rerum Merovingicarum)
+***** 0080 - xxxx SS. rer. Langob. (Scriptores rerum Langobardicarum et Italicarum)
+***** 0082 - xxxx Gesta pont. Roman. (Gesta pontificum Romanorum)
+***** 0084 - 0089 Dt. Chron. (Scriptores qui vernacula lingua usi sunt) [Deutsche Chroniken und andere Geschichtsbücher des Mittelalters]
+***** 0093 - 0095 Ldl (Libelli de lite imperatorum et pontificum)
 **** 0101 - 0150 MGH LL., Folio-Serie
 ***** 0101 - 0105 LL, Folio
 ***** 0106 - 0120 LL., Sectio I, Volkerecht
