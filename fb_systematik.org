@@ -3,6 +3,8 @@
 #+DATE: Last Updated: \today
 #+AUTHOR:
 #+LATEX_HEADER: \usepackage[a4paper]{geometry}
+#+LATEX_HEADER: \usepackage{fancyhdr}
+#+LATEX_HEADER: \pagestyle{fancy}
 
 ---
 
@@ -15,7 +17,7 @@
 [[https://www.uni-heidelberg.de/md/zegk/histsem/seminar/systematik_schurman.pdf][Systematik der Schurman Bibliothek]]
 
 ---
-* TODO Historisches Seminar
+* Historisches Seminar
 ** DONE A - Hilfsmittel und Hilfswissenschaften, EDV-Literatur, Neue Medien
 CLOSED: [2022-07-15 Fri 21:53]
 *** Aa - Wörterbücher und philologische Hilfsmittel
@@ -219,8 +221,44 @@ CLOSED: [2022-07-15 Fri 21:53]
 *** Bb - Allgemeine Quellensammlungen, Folio und Quart, außerhalb der MGH
 *** Bc - Allgemeine Quellensammlungen, nicht Folio und Quart
 *** Bd - Einzelausgaben nicht urkundlicher Quellen
+
+_Hinweis!_
+Die Signaturen richten sich streng nach den Lebensdaten der Autoren bzw. den Entstehungsdaten der Werke - ab dem 11. Jahrhundert entfallen dabei jeweils 2 Signaturen auf ein Jahr: also ist jeweils die 2. bis 4. Stelle der Jahreszahl mit 2 zu duplizieren.
+
+/Beispiel/:
+
+Agathias, ed. Keydell: Ag. gest. 582 = *Bd 582*
+
+Gilbert Foliot, Letters and Charters (1139 - 1187), ed. Brooke = *Bd 1374*
+
+**** 0001 - 0050 bis Christi Geburt
+**** 0051 - 0125 1. Jh. n. Chr. 
+**** 0126 - 0200 2. Jh. 
+**** 0201 - 0300 3. Jh. 
+**** 0301 - 0400  
+**** 0401 - 0500
+**** 0501 - 0600
+**** 0601 - 0700
+**** 0701 - 0800
+**** 0801 - 0900
+**** 0901 - 1000 
+**** 1001 - 1200
+**** 1201 - 1400
+**** 1401 - 1600
+**** 1601 - 1800
+**** 1801 - 2000
+**** 2001 - 2200
+
+
 *** Be - Rechtsquellen, einschließlich urbarialer Aufzeichnungen
 *** Bf - Papsturkunden
+**** 0001 - 0020 Regestenwerke
+**** 0021 - 0060 Gesamtsammlungen unter geographischen und sachlichen Gesichtspunkten
+**** 0070 - xxxx Rep. Germ.
+**** 0100 - 0199 Früh- bis Spätmittelalter allgemein
+**** 0200 - 0299 Papstregister des 13. und 14. Jahrhunderts
+**** 0300 - 0349 Päpstliche Staats- und Finanzverwaltung im Spätmittelalter
+**** 0350 - 0500 Konzilsakten des 15. Jahrhunderts
 *** Bg - Urkunden deutscher Kaiser und Könige; Urkunden deutscher Territorien, Klöster, Stifte und Städte
 *** Bh - Urkunden außerdeutscher Herrscher, Territorien, Klöster, Stifte und Städte
 *** Bm - Quellen zur Geschichte der mittelalterlichen Orden
@@ -4354,7 +4392,7 @@ CLOSED: [2022-07-15 Fri 21:53]
 **** Zl - Jahrbücher
 **** Zs - Dissertationen
 \pagebreak
-* TODO Institut für Fränkisch-Pfälzische Geschichte und Landeskunde
+* Institut für Fränkisch-Pfälzische Geschichte und Landeskunde
 ** I - Bibliographie und Hilfswissenschaften, zur landesgeschichtlichen Methode
 *** 01 ff - Bibliographie, allgemein
 *** 10 ff - Allgemeine Quellenkunde
@@ -7033,7 +7071,7 @@ Weitere Gebiete
 Orte (alphabetisch)
 
 \pagebreak
-* TODO Lateinische Philologie des Mittelalters und der Neuzeit
+* Lateinische Philologie des Mittelalters und der Neuzeit
 ** A Texte
 *** I Sammlungen
 **** 0001-0599: Theologische Texte
@@ -7763,7 +7801,7 @@ Laufende Zeitschriften
 I abgeschlossene und nicht vollständig geführte Zeitschriften (geordnet nach Erscheinungsjahr des 1. Bandes, 1900 = J I 20)
 
 \pagebreak
-* TODO Schurman Bibliothek
+* Schurman Bibliothek
 Alle Signaturen fangen mit ~Sch~
 ** I. Allgemeines
   :PROPERTIES:
