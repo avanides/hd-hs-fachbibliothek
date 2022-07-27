@@ -181,27 +181,26 @@ CLOSED: [2022-07-27 Wed 11:19]
 **** DONE 0101 - 0150 MGH LL [Rechtstexte]
 ***** 0101 - 0105 LL (Leges in Folio)
 ***** 0106 - 0120 LL nat. Germ. (Leges nationum Germanicarum)
-***** 0121 - 0122 LL Capit. (Capitularia regum Francorum)
-***** 0121 - 0122 LL Capit. episc. (Capitula episcoporum)
-# ***** xxxx - xxxx LL Capit. N. S. (Capitularia regum Francorum, Nova series)
-***** 0126 - 0134 LL Conc. (Concilia)
-***** 0135 - 0147 LL Const. (Constitutiones et acta publica imperatorum et regum)
-***** 0148 - xxxx LL Formulae (Formulae Merowingici et Karolini aevi)
-# ***** xxxx - xxxx LL Ordines (Ordines de celebrando concilio)
-# ***** xxxx - xxxx LL Fontes iuris (Fonres iuris Germanici antiqui in usum scholarum separatim editi)
-# ***** xxxx - xxxx LL Fontes iuris N. S. (Fonres iuris Germanici antiqui, Nova series)
-**** 0151 - 0200 MGH DD
-***** 0151 - xxxx DD. Mrov. (Folio)
-***** 0152 - 0154 frei für DD Mer. in Quart
-***** 0155 - xxxx DD. Karol. Bd. 1
-***** 0157 - xxxx DD. Loth. I und II
-***** 0161 - 0164 DD. der dt. Karolinger
-***** 0166 - 0170 DD. Burgund u.a.
-****** 0168 - xxxx DD. Burgund I
-***** 0171 - 0180 DD. der dt. Könige und Kaiser
-***** 0181 - 0184 frei für wetere dt. DD.
-***** 0185 - 0200 frei für evt. (Privat-)urk.- Serien in Quart
-****** 0190 - xxxx DD. Heinrich der Löwe
+***** 0121 - 0122 Capit. (Capitularia regum Francorum)
+***** 0121 - 0122 Capit. episc. (Capitula episcoporum)
+# ***** xxxx - xxxx Capit. N. S. (Capitularia regum Francorum, Nova series)
+***** 0126 - 0134 Conc. (Concilia)
+# ****** 0133 - 0133 Ordines (Ordines de celebrando concilio)
+***** 0135 - 0147 Const. (Constitutiones et acta publica imperatorum et regum)
+***** 0148 - 0150 Formulae (Formulae Merowingici et Karolini aevi)
+# ***** xxxx - xxxx Fontes iuris (Fontes iuris Germanici antiqui in usum scholarum separatim editi)
+# ***** xxxx - xxxx Fontes iuris N. S. (Fontes iuris Germanici antiqui, Nova series)
+**** DONE 0151 - 0200 MGH DD Diplomata [Urkunden]
+***** 0151 - 0151 DD. Merov. (1872) (Diplomata in Folio)
+***** 0152 - 0152 DD Merov. Die Urkunden der Merowinger
+# ***** 0153 - 0153 DD Arnulf. Die Urkunden der Arnulfinger (fehlt: aktuell nur UB 2012 B 377; Regestenband: Bh 415)
+***** 0155 - 0158 Die Urkunden der Karolinger
+# ***** 0159 - 0159 DD Rudolf. Die Urkunden der burgundischen Rudolfinger
+***** 0161 - 0164 Die Urkunden der deutschen Karolinger
+# ***** 0165 - 0170 nicht vergeben (Angabe im Maschinenskript "168 Burgund I" = Ba 159)
+***** 0171 - 0189 Die Urkunden der deutschen Könige und Kaiser
+***** 0190 - xxxx Laienfürsten und Dynastenurkunden der Kaiserzeit (190 DD Hdl / 191 DD Math)
+# ***** xxxx - xxxx DD Jerus. Die Urkunden der Lateinischen Könige von Jerusalem
 **** 0201 - 0230 MGH Epp.
 ***** 0201 - 0208 Epp., Quartserie.
 ***** 0209 - 0220 frei
