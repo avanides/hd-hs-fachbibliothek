@@ -6,6 +6,11 @@
 #+LATEX_HEADER: \usepackage{fancyhdr}
 #+LATEX_HEADER: \pagestyle{fancy}
 
+/Und zugleich signierte ich die bis dahin mit nur den drei Buchstaben A, B, C gegliederte, deshalb völlig unbenutzbare, Seminarbibiothek aufs Neue mit 24 mal 24 Signaturen von Aa bis Zz - vielleicht die Leistung, die mich am längsten überdauern wird (Auch wenn wegen der Einspruchsgewalt der damaligen, unter sich uneinigen, Ordinarien manche bibliographische Inkonsequenz im Katalog verewigt werde musste)./ 
+
+Reinhart Koselleck[fn:1]
+
+
 ---
 
 [[https://github.com/avanides/hd-hs-fachbibliothek][laufend aktualisiert auf GitHub]]
@@ -8814,4 +8819,5 @@ Alle Signaturen fangen mit ~Sch~ an.
 *** Zeitschriften
 *** Working Papers
 
-    
+
+[fn:1] in Stefan Weinfurter (Hrsg.), /Reinhart Koselleck (1923-2006): Reden zum 50. Jahrestag seiner Promotion in Heidelberg/ (Heidelberg: Winter Verlag), 54
