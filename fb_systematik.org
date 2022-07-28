@@ -3988,24 +3988,7 @@ Kirchliche Stasts- und Rechtslehre,
 Konkordate,s
 
 ** TODO U - Geistesgeschichte und Geschichte der Wissenschaften
-Ua Bildung, Erziehung und Unterricht ( ausser Universitäten )
-Ub Geschichte der Iniversitäten, Akademien u. gelehrter Gesellschaften
-Ve Philosophie und Geschichte der Philosophie
-ur Geschichtsphilosophie
-Ug Geschichte der Wissenschaften ( allgemein E
-Wissenschaftspolitik, W 27... Asr
-Uk Geschichte der Naturwissenschaften
-u Geschichte der Geisteswissenschaften ;
-Geistesgeschichte
-Um Geschichte der Geschichtsschreibung und der
-
-Geschichtswissenschaft
-
-Uo Organisation der Geschichtswissenschaft
-
-1 Geistesgeschichte und Geschichte der Wissenschaften
-Va Bild Erzieh, und Unterricht ( ausser Universitäten
-
+*** Ua Bildung, Erziehung und Unterricht ( ausser Universitäten )
 ll - 50 Handblicher, Lexika
 
 51 - 100 Quellen zur Geschichte der Bildung und Erziehung
@@ -4022,6 +4005,11 @@ allgemeine Darstellungen
 Schulen
 
 851 »1000 Geschichte des Geschichtsunterrichts
+
+*** Ub Geschichte der Iniversitäten, Akademien u. gelehrter Gesellschaften
+
+1 Geistesgeschichte und Geschichte der Wissenschaften
+Va Bild Erzieh, und Unterricht ( ausser Universitäten
 
 Ub Geschichte der Universitäten, Akademien u. gelehrter Gesellschaften
 Pi - 200 Idee der Universität. Allgemeines
@@ -4050,7 +4038,7 @@ Pi - 200 Idee der Universität. Allgemeines
 n®:-w! Geschichte einzelner Universitäten, Akademien und gelehrter
 Gesellschaften ( alphabetische )
 
-Ve Philosophie und Geschichte der Philosophie
+*** Ue Philosophie und Geschichte der Philosophie
 
 1 -100 Handbücher, Handwörterbücher
 
@@ -4065,7 +4053,7 @@ Ve Philosophie und Geschichte der Philosophie
 800 =1100 Geschichte der Philosophie: einzelne Epochen
 950 ff, Biographien
 
-uf Geschichtsphilosophie
+*** Uf Geschichtsphilosophie
 1 - 50 Handbücher, Handwörterbücher
 
 51 - 100 Einführungen, Allgemeines
@@ -4079,16 +4067,10 @@ uf Geschichtsphilosophie
 1001-1300 Darstellungen einzelner Epochen, Monographien
 1301-1400 Sonderprobleme der Geschichtsphilosophie
 
-noch U
-
-e
-
-Geschichte der Wissenschaften ( allgemein ). Wissenschaftspolitik.?Umnint -
-
-sell fh
-
+*** Ug Geschichte der Wissenschaften ( allgemein) Wissenschaftspolitik, W 27... Asr
 200 ff. Wissenschaftstheorie und Methodologie ( allgemein ) un
-Uk Geschichte der Neturwissenschaften
+
+*** Uk Geschichte der Naturwissenschaften
 
 1. - 20 Handbücher, Lexika
 
@@ -4111,18 +4093,15 @@ Uk Geschichte der Neturwissenschaften
 651 - 700 bleibt frei
 
 701 - 800 Geschichte sonstiger Naturwissenschaften
-u Geschichte der Geisteswissenschaften; Geistesgeschichte
 
+*** Ul Geschichte der Geisteswissenschaften; Geistesgeschichte
 ll - 300 Allgemeine Probleme der Geschichte der Geisteswissenschaften
 
 301 - 500 Geschichte einzelner Disziplinen der Geisteswissenschaften
 501 - 60 bleibt frei
 601 -1000 Allgemeine Probleme der Geistesgeschichte
 
-noch U
-
-Um Geschichte der Geschichtsschreibung und der Geschichtswissenschaft
-
+*** Um Geschichte der Geschichtsschreibung und der Geschichtswissenschaft
 1 - 200 Theorie und Begriff der Geschichtsschreibung und der
 Geschichtswissenschaft (chronologisch nach Erscheinungs-
 jahr)
@@ -4149,7 +4128,8 @@ wissenschaft
 1101 - 1150 r % ” sonstige EXHLänder
 1151 - 1400 Spezialprobleme der Historiographie
 1401 ff. Geschichtsdidaktik an Schule/Hochschule
-Uo Organisation der Geschichtswissenschaft
+U
+*** Uo Organisation der Geschichtswissenschaft
 
 1 - 200 Historische Forschungsinstitute
 201 - 400 Historische Kommissionen
@@ -4159,18 +4139,12 @@ Uo Organisation der Geschichtswissenschaft
 701 - 800 bleibt frei
 801 - 1000 Historische Zeitschriften
 
-** TODO V - Aufsatzsammlungen und sonstitge Sammelschriften einzelner Verfasser
-
-(nigbahstiseh und nach Kleinbuchstaben einordnens
-
-5.B, Ranke = Vr).
-
-** TODO W - Fest- und Gedenkschriften
-
-(algbnbesisch und nach Kleinbuchstaben einordnens
-ie Pestechrift für Gerhard Ritter = Wr).
-
-W- lan Weir 
+** DONE V - Aufsatzsammlungen und sonstitge Sammelschriften einzelner Verfasser
+CLOSED: [2022-07-28 Thu 12:29]
+~(alphabetisch und nach Kleinbuchstaben einordnen: z.B. Ranke = Vr)~
+** DONE W - Fest- und Gedenkschriften
+CLOSED: [2022-07-28 Thu 12:29]
+~(alphabetisch und nach Kleinbuchstaben einordnen: z.B. Festechrift für Gerhard Ritter = Wr)~
 ** DONE Z - Zeitschriften, Jahrbücher, Dissertationen
 CLOSED: [2022-07-15 Fri 21:53]
 **** Za - Allgemeine Zeitschriften
