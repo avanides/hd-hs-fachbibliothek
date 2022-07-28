@@ -7812,6 +7812,7 @@ Alle Signaturen beginnen mit ~Sch~.
 *** 1.0. Universalgeschichtliche Werke (Weltgeschichte)
 *** 1.1. Methoden und Theorien der Geschichtswissenschaft
 *** 1.2. Geschichte der Geschichtsschreibung, allg. Aufsatzsammlungen zum Forschungsstand
+\pagebreak
 ** II. Geschichte der USA
   :PROPERTIES:
   :CUSTOM_ID: ii.-geschichte-der-usa
@@ -7842,6 +7843,7 @@ Alle Signaturen beginnen mit ~Sch~.
 *** 1.8.  *Atlanten*
 *** 1.9.  *(frei)*
 *** 1.10. *(frei)*
+\pagebreak
 ** 2. *Quellen und Darstellungen zur Geschichte der USA (chronologische Gliederung, ohne Außenpolitik)*
 *** 2.1.  *Quellen zur Gesamtgeschichte der USA*
 *** 2.2.  *Gesamtdarstellungen, Übergreifende Interpretationen, Handbücher, Serien, etc.*
@@ -7979,6 +7981,7 @@ Alle Signaturen beginnen mit ~Sch~.
 ***** 2.12.4.7. /Militärgeschichte/
 ***** 2.12.4.8. /New Left/Protest movements/
 ***** 2.12.4.9. /Sonstiges/
+\pagebreak
 ** 3. *Übergreifende Quellen und Darstellungen zu einzelnen Sachbereichen der Innenpolitik*
 *** 3.1. *Geographie und Umwelt*
 *** 3.2. *Historische Geographie*
@@ -8032,6 +8035,7 @@ Alle Signaturen beginnen mit ~Sch~.
 **** 3.9.2. Personen
 **** 3.9.3. Allgemeine Interpretationen, Gesamtdarstellungen, Handbücher etc.
 **** 3.9.4. Besondere Themen
+\pagebreak
 ** 4. *Quellen und Darstellungen zur Außenpolitik und den internationalen
    Beziehungen der USA*
 *** 4.1. *Allgemeine Quellensammlungen*
@@ -8123,6 +8127,7 @@ Alle Signaturen beginnen mit ~Sch~.
 **** 4.9.17. Die USA und Afrika, seit 1990
 **** 4.9.18. 11. September / War on Terror / Irakkrieg
 **** 4.9.19. Besondere Themen
+\pagebreak
 ** 5. *Deutsch-Amerikanische Beziehungen*
 *** 5.1. *Quellen*
 *** 5.2. *Gesamtdarstellungen, Allgemeine Interpretationen, Handbücher*
@@ -8165,273 +8170,149 @@ Alle Signaturen beginnen mit ~Sch~.
 **** 5.7.6. Amerikabilder/Deutschlandbilder/Perzeption
 **** 5.7.7. Wirtschaftsbeziehungen
 **** 5.7.8. Die amerikanische Militärpräsenz in Deutschland
+\pagebreak
 ** III. Kanada
   :PROPERTIES:
   :CUSTOM_ID: iii.-kanada
   :END:
-
-20. *Allgemeine Hilfsmittel*
-
-    1. *Geschichte der Geschichtsschreibung, allg. Aufsatzsammlungen zum
-       Forschungsstand*
-
-    2. *Verzeichnisse von Archiv- und Quellenbeständen*
-
-    3. *Bibliographien zur Geschichte Kanadas*
-
-    4. *Nachschlagewerke*
-
-       1. Enzyklopädien
-
-       2. Biographische Nachschlagewerke
-
-       3. Historische Nachschlagewerke
-
-       4. Reiseführer und Bildbände
-
-21. *Gesamtgeschichte Kanadas*
-
-    1. *Quellen zur Gesamtgeschichte Kanadas*
-
-    2. *Gesamtdarstellungen, Übergreifende Interpretationen, Handbücher
-       etc.*
-
-22. *Übergreifende Quellen und Darstellungen zu einzelnen Sachbereichen
-    der kanadischen Geschichte*
-
-    1. *Geographie, Historische Geographie und Umwelt*
-
-    2. *Expansion nach Westen*
-
-    3. *Geschichte einzelner Regionen, Staaten und Territorien*
-
-    4. *Immigration und Ethnizität*
-
-       1. Quellen und Statistiken
-
-       2. Gesamtdarstellungen, Handbücher
-
-       3. Frankokanadier
-
-       4. Anglokanadier
-
-       5. First Nations, Sonstige Gruppen
-
-    5. *Wirtschafts- und Sozialgeschichte*
-
-       1.  Quellen und Statistiken
-
-       2.  Gesamtdarstellungen zur Wirtschaftsgeschichte
-
-       3.  Volksvermögen, Wachstum, Konjunktur
-
-       4.  Geschäftswelt, Einzelne Sektoren der Wirtschaft
-
-       5.  Spezielle Probleme der Wirtschaftsgeschichte
-
-       6.  Gesamtdarstellungen zur Sozialgeschichte
-
-       7.  Armut, Arbeiter und Arbeiterbewegung
-
-       8.  Gender, Geschlechtergeschichte
-
-       9.  Einzelne Bereiche der Sozialgeschichte
-
-       10. Sonstiges
-
-    6. *Rechts- und Verfassungsgeschichte, Politische Institutionen und
-       Parteien*
-
-       1. Quellen und Statistiken
-
-       2. Gesamtdarstellungen, Handbücher
-
-       3. Verfassung, Regierung, Parlament, Bundesbehörden
-
-       4. Parteien und Wahlen
-
-       5. Einzelstaaten, Regionen, Territorien
-
-       6. Sonstiges
-
-    7. *Religions-, Kultur- und Geistesgeschichte*
-
-    8. *Militärgeschichte*
-
-23. *Außenpolitik*
-
-    1. *Allgemeine Quellensammlungen*
-
-    2. *Gesamtdarstellungen, Handbücher*
-
-    3. *Besondere Bereiche der Außenpolitik*
-
-       1. Kanada und die USA
-
-       2. Kanada und Großbritannien
-
-       3. Deutsch-Kanadische Beziehungen
-
-       4. Kanada und andere europäische Staaten
-
-       5. Kanada und die Dritte Welt
-
-       6. Kanada und die Internationalen Organisationen
-
-       7. Besondere Themen
-
-    4. *Einzelne Epochen der Außenpolitik*
-
-       1. Von den Anfängen bis zum Dominion, 1500--1867
-
-          1. /Quellen/
-
-          2. /Gesamtdarstellungen/
-
-          3. /Personen/
-
-          4. /Einzelne Bereiche/
-
-       2. Vom Dominion zur Nation, 1867--1931
-
-          1. /Quellen/
-
-          2. /Gesamtdarstellungen/
-
-          3. /Personen/
-
-          4. /Einzelne Bereiche/
-
-       3. Von der Unabhängigkeit bis zur Gegenwart
-
-          1. /Quellen/
-
-          2. /Gesamtdarstellungen/
-
-          3. /Personen/
-
-          4. /Einzelne Bereiche/
-
-24. *Quellen und Darstellungen zur kanadischen Geschichte
-    (chronologische Gliederung, ohne Außenpolitik)*
-
-    1. *Von den Anfängen bis zum Ende der Amerikanischen Revolution,
-       1500--1789*
-
-       1. Quellen
-
-       2. Gesamtdarstellungen
-
-       3. Personen
-
-       4. Besondere Themen
-
-          1. /Innenpolitik/
-
-          2. /Sozialgeschichte/
-
-          3. /Wirtschaftsgeschichte/
-
-          4. /Rechts- und Verfassungsgeschichte/
-
-          5. /Kultur- und Geistesgeschichte/
-
-          6. /Sonstiges/
-
-    2. *Britisch-Nordamerika, 1789--1867*
-
-       1. Quellen
-
-       2. Gesamtdarstellungen
-
-       3. Personen
-
-       4. Besondere Themen
-
-          1. /Innenpolitik/
-
-          2. /Sozialgeschichte/
-
-          3. /Wirtschaftsgeschichte/
-
-          4. /Rechts- und Verfassungsgeschichte/
-
-          5. /Kultur- und Geistesgeschichte/
-
-          6. /Sonstiges/
-
-    3. *Vom Dominion zur Nation, 1867--1931*
-
-       1. Quellen
-
-       2. Gesamtdarstellungen
-
-       3. Personen
-
-       4. Besondere Themen
-
-          1. /Innenpolitik/
-
-          2. /Sozialgeschichte/
-
-          3. /Wirtschaftsgeschichte/
-
-          4. /Rechts- und Verfassungsgeschichte/
-
-          5. /Kultur- und Geistesgeschichte/
-
-          6. /Sonstiges/
-
-    4. *Von der Unabhängigkeit bis zur Gegenwart, ab 1931*
-
-       1. Quellen
-
-       2. Gesamtdarstellungen
-
-       3. Personen
-
-       4. Besondere Themen
-
-          1. /Innenpolitik/
-
-          2. /Sozialgeschichte/
-
-          3. /Wirtschaftsgeschichte/
-
-          4. /Rechts- und Verfassungsgeschichte/
-
-          5. /Kultur- und Geistesgeschichte/
-
-          6. /Sonstiges/
+** 20. *Allgemeine Hilfsmittel*
+*** 20.1. *Geschichte der Geschichtsschreibung, allg. Aufsatzsammlungen zum Forschungsstand*
+*** 20.2. *Verzeichnisse von Archiv- und Quellenbeständen*
+*** 20.3. *Bibliographien zur Geschichte Kanadas*
+*** 20.4. *Nachschlagewerke*
+**** 20.4.1. Enzyklopädien
+**** 20.4.2. Biographische Nachschlagewerke
+**** 20.4.3. Historische Nachschlagewerke
+**** 20.4.4. Reiseführer und Bildbände
+\pagebreak
+** 21. *Gesamtgeschichte Kanadas*
+*** 21.1. *Quellen zur Gesamtgeschichte Kanadas*
+*** 21.2. *Gesamtdarstellungen, Übergreifende Interpretationen, Handbücher etc.*
+\pagebreak
+*** 22. *Übergreifende Quellen und Darstellungen zu einzelnen Sachbereichen der kanadischen Geschichte*
+*** 22.1. *Geographie, Historische Geographie und Umwelt*
+*** 22.2. *Expansion nach Westen*
+*** 22.3. *Geschichte einzelner Regionen, Staaten und Territorien*
+*** 22.4. *Immigration und Ethnizität*
+**** 22.4.1. Quellen und Statistiken
+**** 22.4.2. Gesamtdarstellungen, Handbücher
+**** 22.4.3. Frankokanadier
+**** 22.4.4. Anglokanadier
+**** 22.4.5. First Nations, Sonstige Gruppen
+*** 22.5. *Wirtschafts- und Sozialgeschichte*
+**** 22.5.1.  Quellen und Statistiken
+**** 22.5.2.  Gesamtdarstellungen zur Wirtschaftsgeschichte
+**** 22.5.3.  Volksvermögen, Wachstum, Konjunktur
+**** 22.5.4.  Geschäftswelt, Einzelne Sektoren der Wirtschaft
+**** 22.5.5.  Spezielle Probleme der Wirtschaftsgeschichte
+**** 22.5.6.  Gesamtdarstellungen zur Sozialgeschichte
+**** 22.5.7.  Armut, Arbeiter und Arbeiterbewegung
+**** 22.5.8.  Gender, Geschlechtergeschichte
+**** 22.5.9.  Einzelne Bereiche der Sozialgeschichte
+**** 22.5.10. Sonstiges
+*** 22.6. *Rechts- und Verfassungsgeschichte, Politische Institutionen und Parteien*
+**** 22.6.1. Quellen und Statistiken
+**** 22.6.2. Gesamtdarstellungen, Handbücher
+**** 22.6.3. Verfassung, Regierung, Parlament, Bundesbehörden
+**** 22.6.4. Parteien und Wahlen
+**** 22.6.5. Einzelstaaten, Regionen, Territorien
+**** 22.6.6. Sonstiges
+**** 22.6.7. *Religions-, Kultur- und Geistesgeschichte*
+**** 22.6.8. *Militärgeschichte*
+\pagebreak
+** 23. *Außenpolitik*
+*** 23.1. *Allgemeine Quellensammlungen*
+*** 23.2. *Gesamtdarstellungen, Handbücher*
+*** 23.3. *Besondere Bereiche der Außenpolitik*
+**** 23.3.1. Kanada und die USA
+**** 23.3.2. Kanada und Großbritannien
+**** 23.3.3. Deutsch-Kanadische Beziehungen
+**** 23.3.4. Kanada und andere europäische Staaten
+**** 23.3.5. Kanada und die Dritte Welt
+**** 23.3.6. Kanada und die Internationalen Organisationen
+**** 23.3.7. Besondere Themen
+*** 23.4. *Einzelne Epochen der Außenpolitik*
+**** 23.4.1. Von den Anfängen bis zum Dominion, 1500--1867
+***** 23.4.1.1. /Quellen/
+***** 23.4.1.2. /Gesamtdarstellungen/
+***** 23.4.1.3. /Personen/
+***** 23.4.1.4. /Einzelne Bereiche/
+**** 23.4.2. Vom Dominion zur Nation, 1867--1931
+***** 23.4.2.1. /Quellen/
+***** 23.4.2.2. /Gesamtdarstellungen/
+***** 23.4.2.3. /Personen/
+***** 23.4.2.4. /Einzelne Bereiche/
+**** 23.4.3. Von der Unabhängigkeit bis zur Gegenwart
+***** 23.4.3.1. /Quellen/
+***** 23.4.3.2. /Gesamtdarstellungen/
+***** 23.4.3.3. /Personen/
+***** 23.4.3.4. /Einzelne Bereiche/
+\pagebreak
+** 24. *Quellen und Darstellungen zur kanadischen Geschichte (chronologische Gliederung, ohne Außenpolitik)*
+*** 24.1. *Von den Anfängen bis zum Ende der Amerikanischen Revolution, 1500--1789*
+**** 24.1.1. Quellen
+**** 24.1.2. Gesamtdarstellungen
+**** 24.1.3. Personen
+**** 24.1.4. Besondere Themen
+***** 24.1.4.1. /Innenpolitik/
+***** 24.1.4.2. /Sozialgeschichte/
+***** 24.1.4.3. /Wirtschaftsgeschichte/
+***** 24.1.4.4. /Rechts- und Verfassungsgeschichte/
+***** 24.1.4.5. /Kultur- und Geistesgeschichte/
+***** 24.1.4.6. /Sonstiges/
+*** 24.2. *Britisch-Nordamerika, 1789--1867*
+**** 24.2.1. Quellen
+**** 24.2.2. Gesamtdarstellungen
+**** 24.2.3. Personen
+**** 24.2.4. Besondere Themen
+***** 24.2.4.1. /Innenpolitik/
+***** 24.2.4.2. /Sozialgeschichte/
+***** 24.2.4.3. /Wirtschaftsgeschichte/
+***** 24.2.4.4. /Rechts- und Verfassungsgeschichte/
+***** 24.2.4.5. /Kultur- und Geistesgeschichte/
+***** 24.2.4.6. /Sonstiges/
+*** 24.3. *Vom Dominion zur Nation, 1867--1931*
+**** 24.3.1. Quellen
+**** 24.3.2. Gesamtdarstellungen
+**** 24.3.3. Personen
+**** 24.3.4. Besondere Themen
+***** 24.3.4.1. /Innenpolitik/
+***** 24.3.4.2. /Sozialgeschichte/
+***** 24.3.4.3. /Wirtschaftsgeschichte/
+***** 24.3.4.4. /Rechts- und Verfassungsgeschichte/
+***** 24.3.4.5. /Kultur- und Geistesgeschichte/
+***** 24.3.4.6. /Sonstiges/
+*** 24.4. *Von der Unabhängigkeit bis zur Gegenwart, ab 1931*
+**** 24.4.1. Quellen
+**** 24.4.2. Gesamtdarstellungen
+**** 24.4.3. Personen
+**** 24.4.4. Besondere Themen
+***** 24.4.4.1. /Innenpolitik/
+***** 24.4.4.2. /Sozialgeschichte/
+***** 24.4.4.3. /Wirtschaftsgeschichte/
+***** 24.4.4.4. /Rechts- und Verfassungsgeschichte/
+***** 24.4.4.5. /Kultur- und Geistesgeschichte/
+***** 24.4.4.6. /Sonstiges/
+\pagebreak
 ** IV. Nicht-Nordamerikanische Geschichte
   :PROPERTIES:
   :CUSTOM_ID: iv.-nicht-nordamerikanische-geschichte
   :END:
-
-40. *Altamerika*
-
-    1. Gesamtdarstellungen
-
-    2. Besondere Themen
-
-41. *Südamerika*
-
-    1. Gesamtdarstellungen
-
-    2. Besondere Themen
-
-42. *Europa*
-
-    1. England
-
-    2. Gesamtdarstellungen/EU
-
-    3. Besondere Themen
-
+** 40. *Altamerika*
+*** 40.1. Gesamtdarstellungen
+*** 40.2. Besondere Themen
+** 41. *Südamerika*
+*** 41.1. Gesamtdarstellungen
+*** 41.2. Besondere Themen
+** 42. *Europa*
+*** 42.1. England
+*** 42.2. Gesamtdarstellungen/EU
+*** 42.3. Besondere Themen
+\pagebreak
 ** V. Periodika/Microformen
-*** Mikroformen
-*** Zeitschriften
-*** Working Papers
+** 70. Mikroformen
+** 80. Zeitschriften
+** 90. Working Papers
 
 
 [fn:1] in Stefan Weinfurter (Hrsg.), /Reinhart Koselleck (1923-2006): Reden zum 50. Jahrestag seiner Promotion in Heidelberg/ (Heidelberg: Winter Verlag), 54
