@@ -9,6 +9,8 @@
 
 * Formatierung
 
+Die Formatierung der Systematiken verwendet die vereinfachte Auszeichnungssprache, die [[https://orgmode.org/guide/Markup.html#Markup][Org-Mode]] für Emacs zugrunde liegt. 
+
 #+BEGIN_SRC
 ,* Bibliothek
 ,** A - Titel Ebene 1
