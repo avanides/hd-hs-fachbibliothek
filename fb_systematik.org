@@ -1823,8 +1823,9 @@ CLOSED: [2022-07-28 Thu 12:25]
 ***** 0876 - 0900 Aussenpolitik
 **** 0901 - 1000 Friedrich Wilhelm II. und seine Zeit
 \pagebreak
-** TODO G - Von der Französischen Revolution bis 1949
-*** DONE Ga Französische Revolution 1789 bis 1799
+** DONE G - Von der Französischen Revolution bis 1949
+CLOSED: [2022-07-28 Thu 21:52]
+*** DONE Ga - Französische Revolution 1789 bis 1799
 CLOSED: [2022-07-28 Thu 15:34]
 **** 0001 - 0099 Gesamtdarstellungen z.T. bis 1815 (chronologisch nach Erscheinungsdatum)
 **** 0100 - 0160 Quellen
@@ -1844,45 +1845,351 @@ CLOSED: [2022-07-28 Thu 15:34]
 **** 0851 - 0880 Sozialgeschichte
 **** 0881 - 0900 Historiographie
 **** 0901 - 1000 Europäische Länder bis 1801 (außer Preußen und Österreich)
-*** TODO Gb Zeitalter Napoleons ( Europa ausser Österreich und Preussen )
-*** TODO Gc Österreich und Preußen zur Zeit der französischen Revolution und Napoleon
-*** TODO Ge Österreich und Preussen z.Zt. des Französischen Revolution und Napoleon
-*** TODO Gd Deutschland im Vormärz
-*** TODO Ge 1815 - 1848: Internationale Geschichte. Europäische Länder( ausser Deutschland )
-*** TODO Gf [34 Die Revolution von 1848/49
-*** TODO Gg Europääsche Geschichte ünd Weltgeschichte, europäische und deutsche Länder in den Jahren 1849 bis 1871 ; Bismarckliteratur.
-*** TODO Gh Europäische Geschichte und Weltgeschichte 1871 bis 1890.Europäische Länder, deutsche Länder
-*** TODO Gi Europäische Geschichte und Weltgeschichte 1890 bis 191h. Europäische Länder ( ausser Deutschland - Gk )
-*** TODO Gk Deutsche Innenpolitik 1890 bis 1914
-*** TODO Gı Sozialistische Internationale. Deutsche Wirtschaftsgeschichte ( 1871 - 1915 )
-*** TODO Go Erster Weltkrieg : Vorgeschichte, Kriegsgeschichte ;deutsche Innenpolitkk.
-*** TODO Gp Erster Weltkrieg : nichtdeutsche Länder ; Diplomatiegeschichte
-*** TODO Ga Zwischenkriegszeit
-*** TODO Gr Weimarer Republik
-*** TODO Gs Nationalsozialismus
-*** TODO Gt Zweiter Weltkrieg : Diplomatie und Politik
-*** TODO Gu Zweiter Weltkrieg : Kriegsgeschichte
-***** 0001 - 0120 Österreich (zur Zeit Franz II.)
+*** DONE Gb - Zeitalter Napoleons ( Europa ausser Österreich und Preussen )
+CLOSED: [2022-07-28 Thu 19:18]
+***** 0001 - 0050 Bibliographie, Gesamtdarstellungen
+***** 0051 - 0090 Quellen
+***** 0091 - 0100 Jugend Napoleons und sein Aufstieg
+***** 0101 - 0170 Biographien und Napoleon-Legende
+***** 0171 - 0220 Napoleons Familie und Hof
+***** 0221 - 0260 Empire, Recht, Soziales, Kultur
+***** 0261 - 0300 Politiker zur Zeit Napoleons und ihre Memoiren
+***** 0301 - 0340 Militärs zur Zeit Napoleons und ihre Memoiren
+***** 0341 - 0440 bleibt frei für Kriegsgeschichte und Einzeldarstellungen, 1801-1815
+***** 0441 - 0500 Napoleon und England
+***** 0501 - 0550 Rheinland und Rheinbund, Ende des Reiches
+***** 0551 - 0560 Sachsen
+***** 0561 - 0580 Baden und Württemberg 
+***** 0581 - 0610 Bayern
+***** 0611 - 0630 bleibt frei
+***** 0631 - 0650 Dänemark, Skandinavien
+***** 0651 - 0670 Portugal und Spanien
+***** 0671 - 0690 Italien
+***** 0691 - 0740 Russland und Polen
+***** 0741 - 0780 Erhebung gegen Napoleon: Darstellung und Memoiren
+***** 0781 - 0870 Befreiungskriege
+***** 0871 - 0950 Diplomatiegeschichte 1801 - 1815
+***** 0951 - 1000 Wiener Kongress und Heilige Allianz
+*** DONE Gc - Österreich und Preußen zur Zeit der französischen Revolution und Napoleon
+CLOSED: [2022-07-28 Thu 19:26]
+~Deutscher Idealismus, Weimar und Klassik, Romantik~
+**** 0001 - 0120 Österreich (z.7t. Franz II.)
 ***** 0051 - 0090 Metternich und Gentz
-***** 0121 - 0150 Preußen, allgemein
-***** 0181 - 0200 Friedrich Wilehlm III. und der preußische Hof
-***** 0201 - 0290 Militäre und Heeresreform
-***** 0301 - 0350 Staats- und Gesellschaftsreform: allgemeine Darstellungen und einzelne Quellen
-***** 0351 - 0390 Stein
-***** 0391 - 0410 Hardenberg
-***** 0411 - 0430 Verfassungsfrage
-***** 0431 - 0470 Verwaltung und Beamte
-***** 0471 - 0500 Adel (Marwitz)
-***** 0501 - 0520 Bildungsreform
-***** 0521 - 0540 Humboldt
-***** 0541 - 0560 frei
-***** 0561 - 0570 Schleiermacher
-***** 0571 - 0620 Deutscher Idealismus
-***** 0621 - 0700 Deutsche Bewegung (Arndt, Görres)
-***** 0701 - 0780 Romantik und ihre Staatstheorie
-***** 0781 - 0800 frei
-***** 0801 - 0900 Carl August von Weimar und die Klassik
-***** 0900 - 0999 Goethe
+**** 0121 - 0150 Preußen, allgemein
+**** 0151 - 0180 Friedrich Wilhelm III. und der Preußische Hof
+**** 0181 - 0200 Quellensammlungen zur Reformzeit
+**** 0201 - 0290 Militärs und Heeresreform
+**** 0301 - 0350 Staats- und Gesellschaftsreform: allgemeine Darstellungen  und einzelne Quellen
+**** 0351 - 0390 Stein
+**** 0391 - 0410 Hardenberg
+**** 0411 - 0430 Verfassungsfrage
+**** 0431 - 0470 Verwaltung und Beamte
+**** 0471 - 0500 Adel (Marwitz)
+**** 0501 - 0520 Bildungsreform
+**** 0521 - 0540 Humboldt
+**** 0541 - 0560 bleibt frei
+**** 0561 - 0570 Schleiermacher
+**** 0571 - 0620 Deutscher Idealismus
+**** 0621 - 0700 Deutsche Bewegung (Arndt, Görres)
+**** 0701 - 0780 Romatik und ihre Staatstheorie
+**** 0781 - 0800 bleibt frei
+**** 0801 - 0900 Carl Auguat von Weimar und die Klassik
+**** 0901 - 1000 Goethe
+*** DONE Gd - Deutschland im Vormärz
+CLOSED: [2022-07-28 Thu 19:31]
+**** 0001 - 0050 Gesamtdarstellungen des 19. Jahrhunderts und des Vormärz
+**** 0051 - 0100 Deutscher Bund
+**** 0101 - 0150 Burschenschaft und " Reaktion " nach 1815
+**** 0151 - 0200 bleibt frei
+**** 0201 - 0250 Zollverein und Wirtschaftsgeschichte
+**** 0251 - 0280 List (und Eisenbahnen)
+**** 0281 - 0300 bleibt frei
+**** 0301 - 0400 Osterreich-Ungarn
+**** 0401 - 0650 Preussen
+***** 0401 - 0470 Innenpolitik, Verwaltung, Stände und Provinzen
+***** 0471 - 0560 Friedrich Wilhelm IV., Hof, Adel, Kirche, Konservativismus ( Stahl )
+***** 0561 - 0620 Links-Hegelianer, Lorenz v. Stein
+***** 0621 - 0650 Diskussion um Preussen
+**** 0651 - 0670 Radikalismıs und Frühsozialismus
+**** 0671 - 0750 Preussen und Rheinischer Liberalismus, Rheinland und Westfalen
+**** 0751 - 0810 Deutscher Liberalismus, allgemein
+**** 0811 - 0870 Südwestdeutscher Liberalismus
+**** 0871 - 0900 Katholizismus
+**** 0901 - 0950 Bayern, Württemberg, Baden
+**** 0951 - 0980 nitteldeutsche Staaten
+**** 0981 - 1000 norddeutsche Staaten
+**** 1001 - 1050 Schleswig-Holstein
+*** DONE Ge - 1815 - 1848: Internationale Geschichte. Europäische Länder( ausser Deutschland )
+CLOSED: [2022-07-28 Thu 19:35]
+**** 0001 - 0680 Gesamtdarstellungen des 19. Jahrhunderts
+**** 0081 - 0100 bleibt frei
+**** 0101 - 0220 Geschichte der Aussenpolitik und internationale Fragen
+**** 0221 - 0250 bleibt frei
+**** 0251 - 0350 Grossbritannien
+**** 0351 - 0360 Niederlande und Belgien
+**** 0381 - 0400 bleibt frei
+**** 0401 - 0600 Frankreich
+***** 0450 - 0599 politische Theorie
+**** 0601 - 0650 bleibt frei
+**** 0651 - 0690 Spanien, Portugel
+**** 0691 - 0770 Italien und Papsttum
+**** 0771 - 0780 Schweiz
+**** 0781 - 0800 bleibt frei
+**** 0800 - 0949 Südosteuropa
+**** 0950 - 1000 Nordeuropa
+*** DONE Gf - Die Revolution von 1848/49
+CLOSED: [2022-07-28 Thu 21:51]
+**** 0001 - 0100 Gesanmtdarstellungen
+**** 0101 - 0350 Frankreich
+**** 0351 - 0550 Vorgeschichte und deutsche Revolution (allgemein)
+**** 0551 - 0650 Revoh&tion in den Staaten des Deutschen Bundes außer Preußen und Österreich
+**** 0651 - 0750 Preußen
+**** 0751 - 0850 Österreich
+**** 0851 - 0900 Ungarn
+**** 1001 - xxxx übrige europäische Staaten
+
+*** DONE Gg - Europääsche Geschichte ünd Weltgeschichte, europäische und deutsche Länder in den Jahren 1849 bis 1871 ; Bismarckliteratur.
+CLOSED: [2022-07-28 Thu 19:46]
+**** 0001 - 0020 Gesautdarstellungen (einschliesslich Darstellungen zur deutschen Geschichte im 19, und 20. Jahrhundert)
+
+~Europäische Geschichte und Weltgeschichte (chronologisch) mit Einschluss der deutschen Politik~
+**** 0021 - 0040 Bis zum Krimkrieg
+**** 0041 - 0130 50ger Jahre
+**** 0131 - 0200 "Neue Ära" und Konflikt
+**** 0201 - 0290 60ger Jahre, Biographien
+**** 0291 - 0300 Polenkrise
+**** 0301 - 0380 Kriege 1864 und 1866
+**** 0381 - 0480 Krieg 1870/71 (mit Vorgeschichte) und Reichsgründung
+**** 0481 - 0500 Vatikanisches Konzil
+
+~Europäische Länder, Innenpolitik~
+**** 0501 - 0530 England
+**** 0531 - 0620 Frankreich
+**** 0621 - 0720 Italien
+**** 0721 - 0800 übrige Länder
+
+~Deutsche Länder und Bismarck~
+**** 0801 - 1150 Preussen (soweit nicht chronologisch einzuordnen)
+**** 1151 - 1750 Bismarck
+***** 1151 - 1220 Werke
+***** 1221 - 1300 Hilfsmittel
+***** 1301 - 1380 Biographien
+***** 1381 - 1430 persönliche Einzelfragen
+***** 1431 - 1500 über Bismarcks Stellungnahme zur Politik und zu Verfassungsfragen
+***** 1501 - 1520 über Bismarcks Stellungnahme zu Wirtschaftsfragen
+***** 1521 - 1580 Gesamtbeurteilungen von Bismarcks Aussenpolitik
+***** 1581 - 1630 Beurteilungen aussenpolitischer Einzelfragen
+***** 1631 - 1680 Gesamtbeurteilungen von Bismarcks Innenpolitik
+***** 1681 - 1750 sonstige Werke über Bismarck
+**** 1751 - 1800 Österreich-Ungarn
+**** 1801 - 1820 Bayern
+**** 1821 - 1830 Württemberg
+**** 1831 - 1850 Baden
+**** 1851 - 2000 übrige deutsche Staaten
+*** DONE Gh - Europäische Geschichte und Weltgeschichte 1871 bis 1890.Europäische Länder, deutsche Länder
+CLOSED: [2022-07-28 Thu 19:55]
+**** 0001 - 0030 Gesamtdarstellungen und allgemeine Literatur.
+
+~Europäische und Weltgeschichte (chronologisch) mit Einschluß der deutschen Politik~
+**** 0031 - 0050 Die Reichsbehörden (Bundesrat usw.)
+**** 0051 - 0080 Die Periode der Reichsgründung
+**** 0081 - 0250 Außenpolitik 1871-1890 (chronologisch)
+**** 0251 - 0650 Deutsche Innenpolitik (1871 bis 1890)
+***** 0251 - 0350 1871 bis 1879
+***** 0351 - 0450 1879-1888
+***** 0451 - 0650 1888-1890 und Biographien deutscher Politiker
+
+~Deutsche Länder~
+**** 0651 - 0690 Elsaß-Lothringen
+**** 0691 - 0710 Baden
+**** 0711 - 0725 Bayern
+**** 0726 - 0760 sonatige Bundesstaaten
+
+~Buropäische Länder. (Innenpolitik)~
+**** 0761 - 0840 England
+**** 0841 - 0865 Frankreich
+**** 0866 - 0880 Italien
+**** 0881 - 0900 Balkanländer
+**** 0901 - 0946 Österreich - Ungam
+**** 0941 - 1000 übrige Länder
+*** DONE Gi - Europäische Geschichte und Weltgeschichte 1890 bis 191h. Europäische Länder ( ausser Deutschland - Gk )
+CLOSED: [2022-07-28 Thu 19:59]
+**** 0001 - 0040 Gesamtdarstellungen zur internationalen Politik
+**** 0044 - 0360 Internationale Aussenpolitik (chronologisch)
+**** 0361 - 0400 Deutsche Aussenpolitik
+**** 0400 - 0460 Darstellungen zum Imperialismus
+
+~Europäische Länder, Innenpolitik~
+**** 0461 - 0550 England
+**** 0551 - 0640 Frankreich
+**** 0641 - 0680 Spanien und Portugal
+**** 0681 - 0730 Italien und Vatikan
+**** 0731 - 0800 Österreich-Ungarn
+**** 0801 - 0850 Balkanländer und Türkei
+**** 0851 - 0920 Russland
+**** 0921 - 0950 Skandinavien
+**** 0951 - 1000 sonstige Länder
+*** DONE Gk - Deutsche Innenpolitik 1890 bis 1914
+CLOSED: [2022-07-28 Thu 20:01]
+**** 0001 - 0030 Gesantdarstellungen
+**** 0031 - 0080 Neuer Kurs, Bismarcks Sturz
+**** 0081 - 0150 Caprivi und Hohenlohe
+**** 0151 - 0300 Zur Persönlichkeit und Politik Wilhelms II. (einschliesslich der Exilzeit XR 1918 - 41)
+**** 0301 - 0350 Floötenfrage
+**** 0351 - 0400 Kolonialpolitik. Östliche Siedlungspolitik
+**** 0401 - 0500 Parteien
+**** 0501 - 0700 Bülow und Bethmann-Hollweg
+**** 0701 - 0850 Militärische Fragen, Vorkriegszeit
+**** 0851 - 1000 Bundesstaaten
+**** 1001 - 1200 Sozial- und Wirtschaftsgeschichte
+**** 1201 - 1300 Jugendbewegung
+*** DONE Gı - Sozialistische Internationale. Deutsche Wirtschaftsgeschichte ( 1871 - 1915 )
+CLOSED: [2022-07-28 Thu 20:05]
+**** 0001 - 0150 Marx und Engels (Quellen und Darstellungen)
+**** 0151 - 0180 Lassalle (Quellen und Darstellungen)
+**** 0200 - 1000 Die sozialistische Bewegung 1863 — 1914
+***** 0200 - 0400 Quellen zur Theorie des Sozialismus und Biographien der Theoretiker
+***** 0401 - 0480 Abhandlungen zur Theorie
+***** 0481 - 0550 Allgemeine Darstellungen zur Geschichte der sozialistischen Bewegung
+***** 0551 - 0800 Quellen und Einzeldarstellungen zur Geschichte der sozialistischen Bewegung (chronologisch)
+*** DONE Go - Erster Weltkrieg: Vorgeschichte, Kriegsgeschichte; deutsche Innenpolitkk
+CLOSED: [2022-07-28 Thu 21:15]
+**** 0001 - 0070 Dokumente zur Vorgeschichte.
+**** 0071 - 0100 Vorgeschichte Gesamtäarstellungen.
+**** 0101 - 0130 Vorgeschichte Einzeldarstellungen, (Juli-Krise)
+**** 0131 - 0200 Kriegsschuld-Diskussion
+**** 0201 - 0240 Gesamtderstellungen des Krieges
+**** 0241 - 0290 Landkrieg
+**** 0291 - 0300 Divisionsgeschichte
+**** 0301 - 0215 Einzelne Kriegsschauplätze
+**** 0316 - 0350 Seekrieg, Blockade, Kolonien.
+**** 0351 - 0370 Luftkrieg
+**** 0371 - 0430 Führungsfragen, Nachrichten, Spionage
+**** 0431 - 0630 Memoiren und Darstellungen militärischer Führer aller
+**** 0631 - 0670 Kriegsbriefe und -erinnerungen
+**** 0701 - 1000 Deutsche Innenpolitik.
+***** 0701 - 0750 Kriegsschriften
+***** 0751 - 0790 Wirtschafts- und Sogialgeschichte
+***** 0791 - 0850 Innenpolitik und Parteien
+***** 0851 - 0900 Politiker und ihre Memoiren
+***** 0901 - 1000 Zusammenbruch
+*** DONE Gp - Erster Weltkrieg: nichtdeutsche Länder; Diplomatiegeschichte
+CLOSED: [2022-07-28 Thu 21:27]
+
+~Innenpolitik und diplomatische Memoiren~
+
+**** 0001 - 0020 Russland
+**** 0021 - 0040 Serbien, Balkan, Türkei
+**** 0044 - 0080 Österreich-Ungarn
+**** 0081 - 0100 Nachfolgestaaten
+**** 0101 - 0110 Polen
+**** 0111 - 0130 Italien
+**** 0131 - 0180 Frankreich
+**** 0181 - 0200 Belgien
+**** 0201 - 0270 Grossbritannien und Commonwealth
+**** 0271 - 0300 USA
+**** 0301 - 0310 Japan und Asien
+**** 0311 - 0320 Orient und Afrika
+**** 0350 - 0370 Memoiren deutscher Diplomaten
+**** 0371 - 0450 Diplomatiegeschichte des Krieges (Kriegszielfragen, Friedessversuch Brest-Litowsk)
+**** 0451 - 0470 Waffenstillstand
+**** 0471 - 0500 Versailler Friedensschluss
+**** 0501 - 0530 USA und Versailles
+**** 0531 - 0590 Grenzfragen 1918 - 1919
+**** 0591 - 0620 Einzelbestimmungen
+**** 0621 - 0645 St. Gervain
+**** 0646 - 0660 Trianon, Neuilly, Sövres
+**** 0701 - 0730 Die neue Ordnung in Europa und der Welt
+**** 0750 - 0829 Diskussion über Versailles etc,
+**** 0830 - 0900 Ostfragen nach dem Versailler Friedensschluss
+**** 0901 - 1000 Nationalitätenfragen in östlichen Mitteleuropa nach 1919
+*** DONE Gq - Zwischenkriegszeit
+CLOSED: [2022-07-28 Thu 21:32]
+~Internationale Politik. Europäische Länder ausser Deutschland~
+**** 0001 - 0050 Dokumente
+**** 0051 - 0100 allgemeine Darstellungen
+**** 0101 - 0130 Memoiren (Diplomaten)
+**** 0131 - 0160 Völkerbund
+**** 0161 - 0300 Chronologie 1919 - 1939
+**** 0301 - 0370 Grossbritannien
+**** 0371 - 0400 Belgien, Niederlande, Luxemburg
+**** 0401 - 0500 Frankreich
+**** 0501 - 0530 Spamidu und Portugal
+**** 0531 - 0600 Italien
+**** 0601 - 0610 Schweiz
+**** 0611 - 0640 Ost- und Südosteuropa
+**** 0641 - 0690 Österreich
+**** 0691 - 0740 Tschechoslowakei
+**** 0741 - 0800 Balkanländer, Ungarn
+**** 0801 - 0860 Polen
+**** 0861 - 0900 Skandinavien und Baltikum
+**** 0901 - 0950 Deutsch-Amerikanische Beziehungen
+**** 0951 - 1000 Deutsch-sowjetische Beziehungen
+**** 1001 - 1100 Deutsch-englische Beziehungen
+*** DONE Gr - Weimarer Republik
+CLOSED: [2022-07-28 Thu 21:36]
+**** 0001 - 0100 Gesamtdarstellungen
+**** 0101 - 0160 Anfänge bis zum Kapp-Putsch
+**** 0161 - 0210 Rheinland und französische Besatzung (einschliesslich Saargebiet)
+**** 0211 - 0310 Chronologie : 1920 bis 1925
+**** 0311 - 0410 Chronologie : 1925 - 1930
+**** 0411 - 0500 Demokratie- und Parlamentarismusdiskussion
+**** 0500 - 0600 Ende der Weimarer Republik
+**** 0601 - 0800 Parteien ( SPD, KPD, Zentrum, sonstige, NSDAP )
+**** 0900 - 1000 Memoiren und Biographien
+**** 1001 - 1100 Aussenpolitik
+**** 1100 - 1200 Einzelne deutsche Länder
+**** 1201 - xxxx Wirtschaftsgeschichte 1918 - 1933
+*** DONE Gs - Nationalsozialismus
+CLOSED: [2022-07-28 Thu 21:42]
+**** 0001 - 0060 Bibliographien, Gesamtdarstellungen, Dokumente
+**** 0061 - 0120 "Vorläufer"
+**** 0121 - 0250 Staatsdenken, Wissenschaft, Kunst
+**** 0251 - 0300 Volkstums- und Rassenfragen
+**** 0301 - 0400 "Führer"
+**** 0401 - 0440 "1933er"-Literatur
+**** 0441 - 0550 Aussenpolitik
+**** 0551 - 0649 Judenfrage, SA, SS, Gestapo, und Konzentrationslager
+***** 0642 - 0649 Berichte des SD / der Gestapo
+****** 0642 allgemein
+****** 0643 regional
+****** 0644 thematisch
+**** 0650 - 0750 Innenpolitik und Wirtschaft, Wehrmacht, Kirchen, Geheimdienste
+**** 0751 - 0830 Emigration
+**** 0831 - 0900 Widerstand und 20. Juli
+*** DONE Gt - Zweiter Weltkrieg: Diplomatie und Politik
+CLOSED: [2022-07-28 Thu 21:48]
+**** 0001 - 0050 Gesamtdarstellungen
+**** 0051 - 0150 Vorgeschichte
+**** 0151 - 0400 chronologische Geschichte
+**** 0401 - 0450 deutsche Memoiren von Diplomaten
+**** 0451 - 0530 England
+**** 0531 - 0600 USA
+**** 0601 - 0680 Frankreich, Belgien, Niederlande und Luxenburg
+**** 0681 - 0720 Italien
+**** 0721 - 0740 Polen, CSSR
+**** 0741 - 0760 Skandinavien
+**** 0761 - 0800 Süd-Osten
+**** 0801 - 0820 Sowietunion
+**** 0821 - 0850 Naher Osten
+**** 0851 - 0950 Ferner Osten
+**** 0951 - 1000 Neutrale Staaten
+*** DONE Gu - Zweiter Weltkrieg: Kriegsgeschichte
+CLOSED: [2022-07-28 Thu 21:51]
+**** 0001 - 0050 Gesamtdarstellungen
+**** 0051 - 0120 Polen, Finnland, Norwegen, Dänemark
+**** 0121 - 0200 Frankreich
+**** 0201 - 0300 Balken, Russland
+**** 0301 - 0400 Nordafrika, Italien, Invasion
+**** 0401 - 0500 Seekrieg
+**** 0501 - 0580 Luftkrieg
+**** 0581 - 0660 Wirtschaft und Inneres, Kriegsgefangene, Zwangsarbeiter, Umsiedlung
+**** 0661 - 0680 Spionage und Partisanen, Ätherkrieg
+**** 0681 - 0710 Ende des Krieges
+**** 0711 - 0800 Militärmemoiren aller Länder
+**** 0801 - 0850 Nürnberger Prozess
+**** 0851 - 0900 "1945er"-Literatur
+**** 0901 - 1000 deutsche Memoiren und Biographien
 \pagebreak
 ** TODO H - Gegenwart (ab 1945)
 *** Ha - Internationale Politik nach 1945
@@ -2188,13 +2495,11 @@ Hi Deutsche Demokratische Republik (1-6500)
 \pagebreak
 ** TODO J - Weltgeschichte, Post Colonial Studies
 *** Ja Vor- und Frühgeschichte
-
 *** Jb Alte Geschichte
 **** 0001 - 0200 Allgemeine Darstellungen
 **** 0201 - 0400 der Vordere Orient
 **** 0401 - 0700 Griechenland und Hellenismis
 **** 0701 - 1000 Römisches Reich
-
 *** Jc Weltgeschichte
 **** 0001 - 0010 Einleitung zur Weltgeschichte ( einschliesslich Chronologie der Weltgeschichte etc)
 **** 0101 - 0600 Gesamtdarstellungen
@@ -2203,7 +2508,6 @@ Hi Deutsche Demokratische Republik (1-6500)
 ( und von Teilgebieten })
 
 *** Jd Entdeckungs- und Kolonielgeschichte ; maritime Geschichte
-
 **** 0001 - 0350 Entdeckungs» und Kolonialgeschichte ( allgemein |
 0001 - 0500 deutsche Kolonialgeschichte
 
@@ -2243,21 +2547,21 @@ i
 **** 601-800 ts 9% Revolution (1912) bis zum Sieg der Kommunisten 1949).
 **** 801 ff. Neueste chinesische Geschichte.
 *** Ke Japan
-*** Kf Südostasien ( Gesamtdarstellungen )
+*** Kf Südostasien (Gesamtdarstellungen)
 *** Kg Hinterindien und Insulinde
 *** Kh Australien, Neuseeland und pazifische Ingelwelt
 *** Ki Verderindien, Afghanistan, Nepal und Bhutan
-*** Kk Indien ( Indische Union ) und Ceylon
+*** Kk Indien (Indische Union) und Ceylon
 *** Kl Pakistan
 *** Kn Naher und Mittlerer Osten. Islam
-*** Km Iran ( Persien )
-*** Ko Türkei ( Osmanisches Reich )
+*** Km Iran (Persien)
+*** Ko Türkei (Osmanisches Reich)
 *** Kp Syrien, Libanon, Irak, Jordanien, Saudi-Arabien, Jemen
 *** Kq Palästine, Israel
 *** Kr Agypten
 *** Ks Übriges Nordafrika
 *** Kt Äthiopien und Sudan
-*** Ku Afrika ( Gesamtdarstellungen )
+*** Ku Afrika (Gesamtdarstellungen)
 *** kw Westafrika
 *** Kx Zentralafrika
 *** Ky Ostafrika
@@ -3969,23 +4273,14 @@ Konkordate,s
 \pagebreak
 ** TODO U - Geistesgeschichte und Geschichte der Wissenschaften
 *** Ua Bildung, Erziehung und Unterricht ( ausser Universitäten )
-ll - 50 Handblicher, Lexika
-
-51 - 100 Quellen zur Geschichte der Bildung und Erziehung
-
-101 - 400 Darstellungen
-
-101 - 650 Didaktik des Geschichtsunterrichts
-5L0 ff. Currieulumforschung
-
-651 - 750 Geschichte der Erziehung und des Unterrichts:
-allgemeine Darstellungen
-
-751 - 850 Geschichte der Erziehung und des Unterrichts:
-Schulen
-
-851 »1000 Geschichte des Geschichtsunterrichts
-
+**** 0001 - 0050 Handblicher, Lexika
+**** 0051 - 0100 Quellen zur Geschichte der Bildung und Erziehung
+**** 0101 - 0400 Darstellungen
+**** 0101 - 0650 Didaktik des Geschichtsunterrichts
+**** 5L0 ff. Currieulumforschung
+**** 651 - 750 Geschichte der Erziehung und des Unterrichts: allgemeine Darstellungen
+**** 751 - 850 Geschichte der Erziehung und des Unterrichts: Schulen
+**** 851 »1000 Geschichte des Geschichtsunterrichts
 *** Ub Geschichte der Iniversitäten, Akademien u. gelehrter Gesellschaften
 
 1 Geistesgeschichte und Geschichte der Wissenschaften
@@ -4032,21 +4327,18 @@ Gesellschaften ( alphabetische )
 
 800 =1100 Geschichte der Philosophie: einzelne Epochen
 950 ff, Biographien
-
 *** Uf Geschichtsphilosophie
-1 - 50 Handbücher, Handwörterbücher
-
-51 - 100 Einführungen, Allgemeines
-101 - 850 Geschichtsphilosophie und Theorie der Geschichte
-101 - 250 Anfänge bis einschliesslich Aufklärung
-251 - 400° 19. Jahrhundert
-401 - 850 20. Jahrhundert
-851 -1300 Geschichte der Geschichtsphilosophie
-851 - 900 Quellensammlungen
-901 -100D Gesamtdarstellungen
-1001-1300 Darstellungen einzelner Epochen, Monographien
-1301-1400 Sonderprobleme der Geschichtsphilosophie
-
+**** 0001 - 0050 Handbücher, Handwörterbücher
+**** 0051 - 0100 Einführungen, Allgemeines
+**** 0101 - 0850 Geschichtsphilosophie und Theorie der Geschichte
+**** 0101 - 0250 Anfänge bis einschliesslich Aufklärung
+**** 0251 - 0400 19. Jahrhundert
+**** 0401 - 0850 20. Jahrhundert
+**** 0851 - 1300 Geschichte der Geschichtsphilosophie
+***** 0851 - 0900 Quellensammlungen
+***** 0901 - 1000 Gesamtdarstellungen
+***** 1001 - 1300 Darstellungen einzelner Epochen, Monographien
+**** 1301-1400 Sonderprobleme der Geschichtsphilosophie
 *** Ug Geschichte der Wissenschaften ( allgemein) Wissenschaftspolitik, W 27... Asr
 200 ff. Wissenschaftstheorie und Methodologie ( allgemein ) un
 
