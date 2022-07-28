@@ -222,14 +222,17 @@ CLOSED: [2022-07-27 Wed 11:19]
 *** Bc - Allgemeine Quellensammlungen, nicht Folio und Quart
 *** Bd - Einzelausgaben nicht urkundlicher Quellen
 
-_Hinweis!_
-Die Signaturen richten sich streng nach den Lebensdaten der Autoren bzw. den Entstehungsdaten der Werke - ab dem 11. Jahrhundert entfallen dabei jeweils 2 Signaturen auf ein Jahr: also ist jeweils die 2. bis 4. Stelle der Jahreszahl mit 2 zu duplizieren.
+_Hinweis_!
 
-/Beispiel/:
+/Die Signaturen richten sich streng nach den Lebensdaten der Autoren bzw. den Entstehungsdaten der Werke - ab dem 11. Jahrhundert entfallen dabei jeweils 2 Signaturen auf ein Jahr: also ist jeweils die 2. bis 4. Stelle der Jahreszahl mit 2 zu duplizieren. Zum Beispiel/:
 
-Agathias, ed. Keydell: Ag. gest. 582 = *Bd 582*
+~Agathias, ed. Keydell: Ag. gest. 582 = Bd 582~
 
-Gilbert Foliot, Letters and Charters (1139 - 1187), ed. Brooke = *Bd 1374*
+/oder/
+
+~Gilbert Foliot, Letters and Charters (1139 - 1187), ed. Brooke = Bd 1374~
+
+---
 
 **** 0001 - 0050 bis Christi Geburt
 **** 0051 - 0125 1. Jh. n. Chr. 
@@ -1503,7 +1506,8 @@ CLOSED: [2022-07-20 Wed 12:01]
 **** 0951 - 0999 Musikgeschichte des Mittelalters
 *** DONE Er - Kriegsgeschichte, Seefahrt
 CLOSED: [2022-07-20 Wed 12:01]
-(Befestigungskunst siehe Eq 751 ff.)
+~(Befestigungskunst siehe Eq 751 ff.)~
+
 **** 0001 - 0050 Gesamtdarstellungen der mittelalterlichen Kriegsgeschichte
 **** 0051 - 0100 Einzelstudien und Sammelwerke
 **** 0101 - 0150 Kriegsgeschichte des frühen Mittelalters
@@ -1596,154 +1600,72 @@ CLOSED: [2022-07-15 Fri 19:53]
 **** 0501 - 0580 Calvin (Quellen und Darstellungen)
 **** 0601 - 0800 weitere Reformatoren
 **** 0900 - ffff Katholiken des Reformationszeitalters
-*** TODO Fg - Deutsche Geschichte im Reformationszeitalter bis 1555
-Kaiser und Reich, Bauernkrieg.
-(Gesamtdarstellungen s, Fe).
+*** DONE Fg - Deutsche Geschichte im Reformationszeitalter bis 1555
+CLOSED: [2022-07-28 Thu 10:53]
+~Kaiser und Reich, Bauernkrieg.(Gesamtdarstellungen s, Fe).~
 **** 0001 - 0050 Reichsreform, Verfassungsfragen, Schwäbischer Bund.
 **** 0051 - 0160 Kaiser und Habsburg (Maximilian I., Karl V.).
 **** 0161 - 0200 (bleibt frei)
-**** 0201 - 0260 Chromologische Darstellungen der Reformationszeit von
-Maximilian I. bis zum Bauernkrieg.
-
-261-289 Ritterkrieg; Sicokingen,
-290-560 Bauernkrieg
-
-290-350 Quellen
-
-331-390 Gesamtdarstellungen
-381-400 Vorgeschichte
-
-411-490 regionale Darstellungen
-491-530 Thomas Minzer
-
-531-560 (bleibt frei).
-
-561 ff. Chronologische Darstellungen 1525 ff,
-680 ff. Wiedertäufer,
-
-750 ff. Schmalkaläischer Bund
-830 Sleidan
-
-900 ff, Augsburger Religionsfriede,
-
-*** TODO Fh - Reformation und Gegenreformation in den deutschen Ländern bis 1618
-150-250 Habsburgische Lande einschließlich Schlesien,
-251-300 Schweiz
-
-301-400 Süddeutschland
-
-401-500 Süäwestdeutschland
-
-501-600 Westdeutschland
-
-601-800 Mitteldeutschland (Sachsen, Hessen, Wittenberg)
-801-900 Norddeutschland
-
-901-1000 Ostdeutschlanä
-
-*** TODO Fi - Wirtschaftsgeschichte des Frühkapitalismus
-1 -100 Allgemeines
-
-101-200 Quellen
-
-201-249 (bleibt frei)
-
-250.400 deutsche Handelshäuser (Fugger, Welser usw.)
-
-50 -300
-400=650
-700-800
-
-801-900
-901-1000
-
-1 - 50
-51 -100
-101-250
-
-251-500
-501-600
-601-650
-651-750
-751-800
-801 ff.
-
-910 ff.
-
-Europäische länder im 16. Jahrhundert,
-(außer Italien =Fa + Pl, Spanien =F%, Deutschland =!e bis Fh)
-
-Frankreich bis 1610,
-England in der Tudorzeit (bis 1603).
-Niederlande (bis 1648).
-
-Nordeuropa
-Ost- und Südosteuropa
-
-*** TODO Fk - Europäische Länder im 16. Jahrhundert (außer Italien - Fa und Fl; Spanien - Fb; Deutschland - Fe bis Fh)
-Frankreich bis 1610,
-England in der Tudorzeit (bis 1603).
-Niederlande (bis 1648).
-
-Nordeuropa
-Ost- und Südosteuropa
-
-*** TODO Fl - Die Gegenreformation: Europäische Politik und Weltpolitik 1559 - 1618
-
-Italien, Papst und Kirche, Barock.
-
-Quellen
-Gesamtdarstellungen
-Einzeläarstellungen von 1559 bis 1618
-
-(bleibt frei)
-
-Papst, Italien und römische Kirche
-Tridentinun
-
-desuitenorden
-
-Gegenreformatoren
-
-Baroek
-
-Gampanella, Boccalini, Bellarmin
-
-*** TODO Fm - Deutsche Geschichte im Zeitalter der Gegenreformation bis 1618
-1 - 50
-51 -200
-
-201-350
-351-500
-501 fi.
-
-701 ff,
-
-1-5
-51 -150
-151-250
-
-251-330
-341-380
-
-381-430
-431-550
-
-600-700
-
-En Dreißigjähriger Krieg.
-
-Kaiser und Reich, (Deutsche Länder s, Fh.)
-
-Gesamtdarstellungen (auch bis 1648)
-Kalser und Reich
-
-Einzeldarstellungen, chronologisch (1555 bis 1618)
-(bleibt frei)
-Sozialgeschichte
-
-Geistesgeschichte
-
+**** 0201 - 0260 Chromologische Darstellungen der Reformationszeit von Maximilian I. bis zum Bauernkrieg.
+**** 0261 - 0289 Ritterkrieg; Sicokingen
+**** 0290 - 0560 Bauernkrieg
+***** 0290 - 0350 Quellen
+***** 0331 - 0390 Gesamtdarstellungen
+***** 0381 - 0400 Vorgeschichte
+***** 0411 - 0490 regionale Darstellungen
+***** 0491 - 0530 Thomas Minzer
+***** 0531 - 0560 (bleibt frei).
+**** 0561 - 0679 Chronologische Darstellungen 
+**** 0680 - 0749 Wiedertäufer,
+**** 0750 - 0899 Schmalkaläischer Bund
+***** 0830 - xxxx Sleidan
+**** 0900 - 1000 Augsburger Religionsfriede,
+*** DONE Fh - Reformation und Gegenreformation in den deutschen Ländern bis 1618
+CLOSED: [2022-07-28 Thu 10:54]
+**** 0150 - 0250 Habsburgische Lande einschließlich Schlesien,
+**** 0251 - 0300 Schweiz
+**** 0301 - 0400 Süddeutschland
+**** 0401 - 0500 Süäwestdeutschland
+**** 0501 - 0600 Westdeutschland
+**** 0601 - 0800 Mitteldeutschland (Sachsen, Hessen, Wittenberg)
+**** 0801 - 0900 Norddeutschland
+**** 0901 - 1000 Ostdeutschlanä
+*** DONE Fi - Wirtschaftsgeschichte des Frühkapitalismus
+CLOSED: [2022-07-28 Thu 10:57]
+**** 0001 - 0100 Allgemeines
+**** 0101 - 0200 Quellen
+**** 0201 - 0249 (bleibt frei)
+**** 0250 - 0400 deutsche Handelshäuser (Fugger, Welser usw.)
+*** DONE Fk - Europäische Länder im 16. Jahrhundert
+CLOSED: [2022-07-28 Thu 10:57]
+~(außer Italien - Fa und Fl; Spanien - Fb; Deutschland - Fe bis Fh)~
+**** 0050 - 0300 Frankreich bis 1610,
+**** 0400 - 0650 England in der Tudorzeit (bis 1603).
+**** 0700 - 0800 Niederlande (bis 1648).
+**** 0801 - 0900 Nordeuropa
+**** 0901 - 1000 Ost- und Südosteuropa
+*** DONE Fl - Die Gegenreformation: Europäische Politik und Weltpolitik 1559 - 1618
+CLOSED: [2022-07-28 Thu 11:00]
+~Italien, Papst und Kirche, Barock~
+**** 0001 - 0050 Quellen
+**** 0051 - 0100 Gesamtdarstellungen
+**** 0101 - 0250 Einzeläarstellungen von 1559 bis 1618
+**** 0251 - 0500 (bleibt frei)
+**** 0501 - 0600 Papst, Italien und römische Kirche
+**** 0601 - 0650 Tridentinun
+**** 0651 - 0750 Jesuitenorden
+**** 0751 - 0800 Gegenreformatoren
+**** 0801 - 0909 Baroek
+**** 0910 - 1000 Gampanella, Boccalini, Bellarmin
+*** DONE Fm - Deutsche Geschichte im Zeitalter der Gegenreformation bis 1618
+CLOSED: [2022-07-28 Thu 11:04]
+~Kaiser und Reich, (Deutsche Länder s, Fh.)~
+**** 0001 - 0050 Gesamtdarstellungen (auch bis 1648)
+**** 0051 - 0200 Kalser und Reich
+**** 0201 - 0350 Einzeldarstellungen, chronologisch (1555 bis 1618)
+**** 0351 - 0500 (bleibt frei)
+**** 0501 - 0700 Sozialgeschichte
+**** 0701 - 1000 Geistesgeschichte
 *** TODO Fn - Dreißigjähriger Krieg
 Kaiser und Reich, (Deutsche Länder s, Fh.)
 
