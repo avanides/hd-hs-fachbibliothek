@@ -1542,7 +1542,8 @@ CLOSED: [2022-07-20 Wed 12:01]
 ***** 0861 - 0900 Spätmittelalter
 ***** 0901 - 0950 Die Nordseeländer
 ***** 0951 - 0999 Die Mittelmeerländer
-** TODO F - 15. - 18. Jahrhundert
+** DONE F - 15. - 18. Jahrhundert
+CLOSED: [2022-07-28 Thu 12:25]
 *** DONE Fa - Renaissance und Humanismus in Italien
 CLOSED: [2022-07-15 Fri 19:41]
 **** 0001 - 0040 Allgemeine Darstellungen der Renaissance und des Humanismus in Europa.
@@ -1666,285 +1667,158 @@ CLOSED: [2022-07-28 Thu 11:04]
 **** 0351 - 0500 (bleibt frei)
 **** 0501 - 0700 Sozialgeschichte
 **** 0701 - 1000 Geistesgeschichte
-*** TODO Fn - Dreißigjähriger Krieg
-Kaiser und Reich, (Deutsche Länder s, Fh.)
-
-Gesamtdarstellungen (auch bis 1648)
-Kalser und Reich
-
-Einzeldarstellungen, chronologisch (1555 bis 1618)
-(bleibt frei)
-Sozialgeschichte
-
-Geistesgeschichte
-
-Kaiser, Reich und Länder,
-Quellen
-
-Gesamtdarstellungen
-Kaiser und Reich
-
-Chronologie bis zum Lübecker Frieden 1629.
-Gustav Adolf,
-
-Wallenstein,
-Chronologie bis zum Westfälischen Frieden 1648,
-
-Deutsche Länder.
-
-*** TODO Fo - Frankreich 1610 bis 1715
-Gesamtdarstellungen
-
-Sozial- und Wirtschaftsgeschichte
-
-Geistes- und Religionsgeschichte
-
-Richelieu und Iudwig XIII.
-
-(bleibt frei)
-
-Nazarin
-
-(bleibt frei)
-
-Ludwig XIV., Quellen und Gesamtdarstellungen
-
-systematische und chronolögische Einzeldarstellungen
-
-Männer unter Ludwig XIV.
-
-Opposition (Hugenotten; 1685 ff.)
-
-*** TODO Fp - Europäische Geschichte und Weltgeschichte 1648 bis 1715 (1721)
-Politik und Kriegsführung.
-
-Quellen
-Gesamntdarstellungen (z.T,. bis 1789)
-
-(bleibt frei für Rheinbund)
-
-1648 bis 1659 (Pyrenäenfrieden) und 1660 (Oliva)
-1659 bis 1679 (Nymweger Friede)
-
-(bleibt frei)
-
-der Pfälzische Krieg 1697 (Friede zu Ryswijk)
-(vleibt frei)
-
-die Türkenkriege bis 1699 (Friede zu Karlowitz)
-
-der Spanische Erbfolgekrieg
-
-der Nordische Krieg
-
-*** TODO Fr - Europäische Länder im 17. Jahrhundert (außer Frankreich - Fo und Deutschland)
-
-(sußer Frankreich = Fo und Deutschland)
-
-England und Schottland z.2+. der Stuarts (1603 bis 1688),
-
-31 - 99 Kirchen- und Verfassungsfragen
-100-370 die Revolution 1640 bis 1660
-250-500 Cromwell
-301-350 Hobbes,Harringto
-Milton usw.
-
-101-200 Ferdinand III, und Leopold I,
-
-1 -500
-1 - 20 Gesamtdarstellungen
-21 -— 30 Bacon
-400-450 Ende der Stuarts
-501-800 Niederlande (nach 1648), Nord- und Nordosteuropa
-801-850 Spanien (unter Philipp IV, bis Karl II.)
-901-950 Italien
-
-*** TODO Fs - Deutsche Geschichte 1648 bis 1740
-Kaiser und Reich,
-Sozial-, Wirtschafts, Verfassungs- und Geistesgeschichte.
-1 - 50 Gesamtdarstellungen (z.T. bis 1806)
-101 ££. Habsburg und Reich, chronologisch:
-(1705)
-210 ff. Prinz Eugen
-300 ff. Karl VI.
-500 ff, Sozial-, Wirtschafts- und Verfassungsgeschichte.
-700 ff. Geistesgeschichte
-
-750 ff. Abraham a Santa Clara
-750 ff. Leibniz, Pufendorf
-
-*** TODO Ft - Deutsche Länder 1648 bis 1740
-(außer Habeburg = Fsj Preußen nur bis 1713).
-1 -200 Preußen 1640 bis 1713
-250-300 Sachsen 2.2t, Augustsdes Starken
-350-400 Mitteldentschland und Hannover
-450-550 Westdeutschland
-
-600-700 Pfalz
-
-750 ff. Süddeutschland
-
-*** TODO Fu - Europäische Geschichte und Weltgeschichte 1715 bis 1789
-Politik und Kriegsführung,
-
-1 = 80 Quellen
-81 -150 Gesamtdarstellungen
-
-201-230 Türkenkrieg 1714 bis 1718
-251-270 Pragmatische Sanktion
-
-301-320 Polnischer Erbfolgekrieg
-341-360 Österreichischer Erbfolgekrieg
-
-401-510 Siebenjähriger Krieg
-
-401-470 Quellen und Gesamtäarstellungen
-471-510 Kriegsführung und Friedensschluß
-
-511-630 westliche Überseepolitik, erste polnische Teilung,
-Bayrischer Erbfolgekrieg
-
-651 ff. das Jahrzehnt vor der französischen Revolution, Fürstenbund
-
-*** TODO Fw - Europäische Länder im 18. Jahrhundert (außer Frankreich - Fx und Deutschland)
-(außer Frankreich = Fx und Deutschland).
-
-Großbritannien
-
-1 - 30 Gesamtdarstellungen.
-
-31 - 50 Geistesgeschichte, Englische Auf-
-Klärung.
-
-51 - 90 1688 und Locke,
-
-120 ff, Das aus Hannover bis zur franzö-
-sischen Revolution,
-
-320 ff. Burke
-Niederlande
-Dänemark und Skandinavien
-
-470 ff. Karl XII,
-Polen
-Türkei
-Italien
-Schweiz
-
-Spanien und Portugal
-
-*** TODO Fx - Frankreich 1715 bis 1789 und die Aufklärung
-Gesamtdarstellungen,
-
-Sozial-, Wirtschafts-, Kirchen- und Kulturgeschichte,
-
-Politische Geschichte, chronologisch.
-
-Die Aufklärung in Europa und Frankreich: Gesamtdarstellungen,
-
-Die französischen Aufklärer, chronologisch.
-
-*** TODO Fy - Deutsche Geschichte 1700 bis 1789
-
-Kaiser und Reich.Deutsche Länder (außer Preußen 3 Fz).
-Sozial-, Wirtschafts-, Verfassungsgeschichte,
-Aufklärung ın Deutschland.
-
-I-30
-50 -100
-
-101-200
-201-350
-
-400-750
-
-800-900
-901-920
-920 ff.
-
-Gesamtdarstellungen des 18. Jahrhunderts (2.7. bis 1806).
-
-Habsburg
-Habsburg
-Habsburg
-
-Deutsche
-
-Sozial-,
-Deutsche
-Deutsche
-
-1740 ff, Quellen,
-1740 ff. Darstellungen: Maria Theresia,
-
-1740 ff.: Joseph II., Leopold II. und
-
-Länder:
-
-420
-480
-520
-570
-650
-71o
-
-Josephinismus.
-
-ff. Sachsen und Mitteldeutschland
-ff, Norddeutschland
-
-ff. Westdeutschland
-
-ff. Südwestdeutschland
-
-If. Württemberg
-
-ff. Bayern
-
-Wirtschafts- und Verfassungsgeschichte,
-Aufklärung, Gesamtdarstellungen.
-Aufklärung, chronologisch.
-
-*** TODO Fz - Preußen 1713 bis 1796
-
-Quellen
-Friedrich Wilhelm I.
-
-Friedrich der Grosse. Bibliographie und Ikonographie
-
-Werke
-
-Gesamtdarstellungen
-Einzeldarstellungen, chronologisch
-Verwandte und Freunde
-
-Sachgebiete
-401 - 420
-421 - 480
-501 550
-551 650
-651 - 700
-701 750
-751 800
-801 850
-851 875
-876 - 900
-
-allgemeines
-Friedrich als Philosoph
-
-Religion und Kirche
-Staat
-
-Militär
-Sozialgeschichte
-Wirtschaft
-Provinzen
-Justizwesen
-Aussenpolitik
-
-Friedrich Wilhelm II. und seine Zeit
-
+*** DONE Fn - Dreißigjähriger Krieg
+CLOSED: [2022-07-28 Thu 11:51]
+~Kaiser, Reich und Länder~
+**** 0001 - 0050 Quellen
+**** 0051 - 0150 Gesamtdarstellungen
+**** 0151 - 0250 Kaiser und Reich
+**** 0251 - 0330 Chronologie bis zum Lübecker Frieden 1629.
+**** 0341 - 0380 Gustav Adolf
+**** 0381 - 0430 Wallenstein,
+**** 0431 - 0500 Chronologie bis zum Westfälischen Frieden 1648,
+**** 0600 - 0700 Deutsche Länder
+*** DONE Fo - Frankreich 1610 bis 1715
+CLOSED: [2022-07-28 Thu 11:53]
+**** 0001 - 0050 Gesamtdarstellungen
+**** 0051 - 0100 Sozial- und Wirtschaftsgeschichte
+**** 0101 - 0150 Geistes- und Religionsgeschichte
+**** 0151 - 0300 Richelieu und Iudwig XIII.
+**** 0301 - 0350 (bleibt frei)
+**** 0351 - 0450 Mazarin
+**** 0451 - 0500 (bleibt frei)
+**** 0501 - 0580 Ludwig XIV., Quellen und Gesamtdarstellungen
+**** 0601 - 0800 Systematische und chronolögische Einzeldarstellungen
+**** 0801 - 0900 Männer unter Ludwig XIV.
+**** 0901 - 1000 Opposition (Hugenotten; 1685 ff.)
+*** DONE Fp - Europäische Geschichte und Weltgeschichte 1648 bis 1715 (1721)
+CLOSED: [2022-07-28 Thu 11:58]
+~Politik und Kriegsführung~
+**** 0001 - 0080 Quellen
+**** 0081 - 0150 Gesamntdarstellungen (z.T,. bis 1789)
+**** 0151 - 0200 (bleibt frei für Rheinbund)
+**** 0201 - 0350 1648 bis 1659 (Pyrenäenfrieden) und 1660 (Oliva)
+**** 0351 - 0420 1659 bis 1679 (Nymweger Friede)
+**** 0421 - 0400 (bleibt frei)
+**** 0441 - 0500 der Pfälzische Krieg 1697 (Friede zu Ryswijk)
+**** 0501 - 0550 (bleibt frei)
+**** 0551 - 0650 die Türkenkriege bis 1699 (Friede zu Karlowitz)
+**** 0701 - 0800 der Spanische Erbfolgekrieg
+**** 0901 - 1000 der Nordische Krieg
+*** DONE Fr - Europäische Länder im 17. Jahrhundert (außer Frankreich - Fo und Deutschland)
+CLOSED: [2022-07-28 Thu 12:03]
+~(außer Frankreich = Fo und Deutschland)~
+**** 0001 - 0500 England und Schottland z.2+. der Stuarts (1603 bis 1688),
+***** 0001 - 0020 Gesamtdarstellungen
+***** 0021 - 0030 Bacon
+***** 0031 - 0099 Kirchen- und Verfassungsfragen
+***** 0100 - 0370 die Revolution 1640 bis 1660
+****** 0250 - 0300 Cromwell
+****** 0301 - 0350 Hobbes,Harrington, Milton usw.
+***** 0400 - 0450 Ende der Stuarts
+**** 0501 - 0800 Niederlande (nach 1648), Nord- und Nordosteuropa
+**** 0801 - 0850 Spanien (unter Philipp IV, bis Karl II.)
+**** 0901 - 0950 Italien
+*** DONE Fs - Deutsche Geschichte 1648 bis 1740
+CLOSED: [2022-07-28 Thu 12:06]
+~Kaiser und Reich~
+~Sozial-, Wirtschafts, Verfassungs- und Geistesgeschichte~
+**** 0001 - 0050 Gesamtdarstellungen (z.T. bis 1806)
+**** 0101 - 0500 Habsburg und Reich, chronologisch:
+***** 0101 - 0200 Ferinand III. und Leopold I. (1705)
+***** 0210 - 0299 Prinz Eugen
+***** 0300 - 0499 Karl VI.
+**** 0500 - 0699 Sozial-, Wirtschafts- und Verfassungsgeschichte.
+**** 0700 - 1000 Geistesgeschichte
+***** 0730 - 0749 Abraham a Santa Clara
+***** 0750 - 1000 Leibniz, Pufendorf
+*** DONE Ft - Deutsche Länder 1648 bis 1740
+CLOSED: [2022-07-28 Thu 12:07]
+~(außer Habeburg = Fsj Preußen nur bis 1713)~
+**** 0001 - 0200 Preußen 1640 bis 1713
+**** 0250 - 0300 Sachsen 2.2t, Augustsdes Starken
+**** 0350 - 0400 Mitteldentschland und Hannover
+**** 0450 - 0550 Westdeutschland
+**** 0600 - 0700 Pfalz
+**** 0750 - 0900 Süddeutschland
+*** DONE Fu - Europäische Geschichte und Weltgeschichte 1715 bis 1789
+CLOSED: [2022-07-28 Thu 12:10]
+~Politik und Kriegsführung~
+**** 0001 - 0080 Quellen
+**** 0081 - 0150 Gesamtdarstellungen
+**** 0201 - 0230 Türkenkrieg 1714 bis 1718
+**** 0251 - 0270 Pragmatische Sanktion
+**** 0301 - 0320 Polnischer Erbfolgekrieg
+**** 0341 - 0360 Österreichischer Erbfolgekrieg
+**** 0401 - 0510 Siebenjähriger Krieg
+***** 0401 - 0470 Quellen und Gesamtäarstellungen
+***** 0471 - 0510 Kriegsführung und Friedensschluß
+**** 0511 - 0630 westliche Überseepolitik, erste polnische Teilung, Bayrischer Erbfolgekrieg
+**** 0651 - 1000 das Jahrzehnt vor der französischen Revolution, Fürstenbund
+*** DONE Fw - Europäische Länder im 18. Jahrhundert (außer Frankreich - Fx und Deutschland)
+CLOSED: [2022-07-28 Thu 12:13]
+~(außer Frankreich = Fx und Deutschland)~
+**** 0001 - 0400 Großbritannien
+***** 0001 - 0030 Gesamtdarstellungen.
+***** 0031 - 0050 Geistesgeschichte, Englische Aufklärung.
+***** 0051 - 0090 1688 und Locke,
+***** 0120 - 0319 Das aus Hannover bis zur französischen Revolution
+***** 0320 - 0400 Burke
+**** 0401 - 0450 Niederlande
+**** 0451 - 0600 Dänemark und Skandinavien
+***** 0470 - xxxx Karl XII
+**** 0601 - 0650 Polen
+**** 0651 - 0700 Türkei
+**** 0701 - 0800 Italien
+**** 0801 - 0850 Schweiz
+**** 0900 - 1000 Spanien und Portugal
+*** DONE Fx - Frankreich 1715 bis 1789 und die Aufklärung
+CLOSED: [2022-07-28 Thu 12:14]
+**** 0001 - 0060 Gesamtdarstellungen,
+**** 0100 - 0250 Sozial-, Wirtschafts-, Kirchen- und Kulturgeschichte,
+**** 0300 - 0500 Politische Geschichte, chronologisch.
+**** 0600 - 0650 Die Aufklärung in Europa und Frankreich: Gesamtdarstellungen,
+**** 0700 - 1000 Die französischen Aufklärer, chronologisch.
+*** DONE Fy - Deutsche Geschichte 1700 bis 1789
+CLOSED: [2022-07-28 Thu 12:20]
+~Kaiser und Reich.Deutsche Länder (außer Preußen 3 Fz)~
+~Sozial-, Wirtschafts-, Verfassungsgeschichte~
+~Aufklärung ın Deutschland~
+**** 0001 - 0030 Gesamtdarstellungen des 18. Jahrhunderts (2.7. bis 1806)
+**** 0050 - 0100 Habsburg 1740 ff. Quellen
+**** 0101 - 0200 Habsburg 1740 ff. Darstellungen: Maria Theresa
+**** 0201 - 0350 Habsburg 1740 ff.: Joseph II., Leopold II., und Josephinismus
+**** 0400 -0750 Deutsche Länder
+***** 0420 - 0479 Sachsen und Mitteldeutschland
+***** 0480 - 0519 Norddeutschland
+***** 0520 - 0569 Westdeutschland
+***** 0570 - 0649 Südwestdeutschland
+***** 0650 - 0709 Württemberg
+***** 0710 - 0799 Bayern
+**** 0800 - 0900 Wirtschafts- und Verfassungsgeschichte
+**** 0901 - 0920 Aufklärung, Gesamtdarstellungen
+**** 0920 - 1000 Aufklärung, chronologisch
+*** DONE Fz - Preußen 1713 bis 1796
+CLOSED: [2022-07-28 Thu 12:25]
+**** 0001 - 0050 Quellen
+**** 0051 - 0140 Friedrich Wilhelm I.
+**** 0141 - 0150 Friedrich der Grosse. Bibliographie und Ikonographie
+**** 0151 - 0240 Werke
+**** 0241 - 0300 Gesamtdarstellungen
+**** 0301 - 0370 Einzeldarstellungen, chronologisch
+**** 0371 - 0400 Verwandte und Freunde
+**** Sachgebiete
+***** 0401 - 0420 allgemeines
+***** 0421 - 0480 Friedrich als Philosoph
+***** 0501 - 0550 Religion und Kirche
+***** 0551 - 0650 Staat
+***** 0651 - 0700 Militär
+***** 0701 - 0750 Sozialgeschichte
+***** 0751 - 0800 Wirtschaft
+***** 0801 - 0850 Provinzen
+***** 0851 - 0875 Justizwesen
+***** 0876 - 0900 Aussenpolitik
+**** 0901 - 1000 Friedrich Wilhelm II. und seine Zeit
 ** TODO G - Von der Französischen Revolution bis 1949
 *** Ga Französische Revolution 1789 bis 1799
 *** Gb Zeitalter Napoleons ( Europa ausser Österreich und Preussen )
