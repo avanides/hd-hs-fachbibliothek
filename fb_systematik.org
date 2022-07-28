@@ -6,24 +6,15 @@
 #+LATEX_HEADER: \usepackage{fancyhdr}
 #+LATEX_HEADER: \pagestyle{fancy}
 
-/Und zugleich signierte ich die bis dahin mit nur den drei Buchstaben A, B, C gegliederte, deshalb völlig unbenutzbare, Seminarbibiothek aufs Neue mit 24 mal 24 Signaturen von Aa bis Zz - vielleicht die Leistung, die mich am längsten überdauern wird (Auch wenn wegen der Einspruchsgewalt der damaligen, unter sich uneinigen, Ordinarien manche bibliographische Inkonsequenz im Katalog verewigt werde musste)./ 
-
-Reinhart Koselleck[fn:1]
+/Und zugleich signierte ich die bis dahin mit nur den drei Buchstaben A, B, C gegliederte, deshalb völlig unbenutzbare, Seminarbibiothek aufs Neue mit 24 mal 24 Signaturen von Aa bis Zz - vielleicht die Leistung, die mich am längsten überdauern wird (Auch wenn wegen der Einspruchsgewalt der damaligen, unter sich uneinigen, Ordinarien manche bibliographische Inkonsequenz im Katalog verewigt werde musste)./[fn:1]
 
 
----
+\rightline{Reinhart Koselleck}
 
 [[https://github.com/avanides/hd-hs-fachbibliothek][laufend aktualisiert auf GitHub]]
 
-[[https://www.uni-heidelberg.de/md/zegk/histsem/seminar/systematik_hs.pdf][Maschinenschriftliche Systematik des Historischen Seminars]]
-
-[[https://www.uni-heidelberg.de/md/zegk/histsem/seminar/systematik_fpi.pdf][Maschinenschriftliche Systematik des Instituts für Fränkisch-Pfälzische Geschichte und Landeskunde]]
-
-[[https://www.uni-heidelberg.de/md/zegk/histsem/seminar/systematik_schurman.pdf][Systematik der Schurman Bibliothek]]
-
----
 * Historisches Seminar
-** DONE A - Hilfsmittel und Hilfswissenschaften, EDV-Literatur, Neue Medien
+** DONE A - Hilfsmittel und Hilfswissenschaften
 CLOSED: [2022-07-27 Wed 11:19]
 *** Aa - Wörterbücher und philologische Hilfsmittel
 **** 0001 - 0020 mehrsprachige Wörterbücher
@@ -185,27 +176,31 @@ CLOSED: [2022-07-27 Wed 11:19]
 ***** 0071 - 0077 SS. rer. Merov. (Scriptores rerum Merovingicarum)
 ***** 0080 - xxxx SS. rer. Langob. (Scriptores rerum Langobardicarum et Italicarum)
 ***** 0082 - xxxx Gesta pont. Roman. (Gesta pontificum Romanorum)
-***** 0084 - 0089 Dt. Chron. (Scriptores qui vernacula lingua usi sunt) [Deutsche Chroniken und andere Geschichtsbücher des Mittelalters]
+***** 0084 - 0089 Dt. Chron. (Scriptores qui vernacula lingua usi sunt) Deutsche Chroniken und andere Geschichtsbücher des Mittelalters
 ***** 0093 - 0095 Ldl (Libelli de lite imperatorum et pontificum)
-**** 0101 - 0150 MGH LL., Folio-Serie
-***** 0101 - 0105 LL, Folio
-***** 0106 - 0120 LL., Sectio I, Volkerecht
-***** 0121 - 0122 LL., Sectio II, Capitularia
-***** 0126 - 0134 LL., Sectio III, Concilia
-***** 0135 - 0147 LL., Sectio IV, Constitutiones
-***** 0148 - xxxx LL., Sectio V, Formulae
-**** 0151 - 0200 MGH DD
-***** 0151 - xxxx DD. Mrov. (Folio)
-***** 0152 - 0154 frei für DD Mer. in Quart
-***** 0155 - xxxx DD. Karol. Bd. 1
-***** 0157 - xxxx DD. Loth. I und II
-***** 0161 - 0164 DD. der dt. Karolinger
-***** 0166 - 0170 DD. Burgund u.a.
-****** 0168 - xxxx DD. Burgund I
-***** 0171 - 0180 DD. der dt. Könige und Kaiser
-***** 0181 - 0184 frei für wetere dt. DD.
-***** 0185 - 0200 frei für evt. (Privat-)urk.- Serien in Quart
-****** 0190 - xxxx DD. Heinrich der Löwe
+**** DONE 0101 - 0150 MGH LL [Rechtstexte]
+***** 0101 - 0105 LL (Leges in Folio)
+***** 0106 - 0120 LL nat. Germ. (Leges nationum Germanicarum)
+***** 0121 - 0122 Capit. (Capitularia regum Francorum)
+***** 0121 - 0122 Capit. episc. (Capitula episcoporum)
+# ***** xxxx - xxxx Capit. N. S. (Capitularia regum Francorum, Nova series)
+***** 0126 - 0134 Conc. (Concilia)
+# ****** 0133 - 0133 Ordines (Ordines de celebrando concilio)
+***** 0135 - 0147 Const. (Constitutiones et acta publica imperatorum et regum)
+***** 0148 - 0150 Formulae (Formulae Merowingici et Karolini aevi)
+# ***** xxxx - xxxx Fontes iuris (Fontes iuris Germanici antiqui in usum scholarum separatim editi)
+# ***** xxxx - xxxx Fontes iuris N. S. (Fontes iuris Germanici antiqui, Nova series)
+**** DONE 0151 - 0200 MGH DD Diplomata [Urkunden]
+***** 0151 - 0151 DD. Merov. (1872) (Diplomata in Folio)
+***** 0152 - 0152 DD Merov. Die Urkunden der Merowinger
+# ***** 0153 - 0153 DD Arnulf. Die Urkunden der Arnulfinger (fehlt: aktuell nur UB 2012 B 377; Regestenband: Bh 415)
+***** 0155 - 0158 Die Urkunden der Karolinger
+# ***** 0159 - 0159 DD Rudolf. Die Urkunden der burgundischen Rudolfinger
+***** 0161 - 0164 Die Urkunden der deutschen Karolinger
+# ***** 0165 - 0170 nicht vergeben (Angabe im Maschinenskript "168 Burgund I" = Ba 159)
+***** 0171 - 0189 Die Urkunden der deutschen Könige und Kaiser
+***** 0190 - xxxx Laienfürsten und Dynastenurkunden der Kaiserzeit (190 DD Hdl / 191 DD Math)
+# ***** xxxx - xxxx DD Jerus. Die Urkunden der Lateinischen Könige von Jerusalem
 **** 0201 - 0230 MGH Epp.
 ***** 0201 - 0208 Epp., Quartserie.
 ***** 0209 - 0220 frei
@@ -254,7 +249,6 @@ Gilbert Foliot, Letters and Charters (1139 - 1187), ed. Brooke = *Bd 1374*
 **** 1801 - 2000
 **** 2001 - 2200
 
-
 *** Be - Rechtsquellen, einschließlich urbarialer Aufzeichnungen
 *** Bf - Papsturkunden
 **** 0001 - 0020 Regestenwerke
@@ -271,7 +265,7 @@ Gilbert Foliot, Letters and Charters (1139 - 1187), ed. Brooke = *Bd 1374*
 *** Bp - Inschriften; sonstige Quellengattungen
 *** Bx - Übungstexte und Quellenauswahlen
 *** Bz - Übersetzungen von im engeren Sinn historischen Quellen
-** DONE C - Hilfsmittel und Literatur zu den Quellen der Geschichte des Mittelalters
+** DONE C - Quellenkunde zum Mittelalter
 CLOSED: [2022-07-15 Fri 21:53]
 *** Ca - Einführung in Studium und Quellen des Mittelalters
 **** 0001 - 0100 frei
@@ -420,7 +414,7 @@ CLOSED: [2022-07-15 Fri 21:53]
 ***** 0201 - 0300 Allgemeines
 ***** 0301 - 0500 deutsche Landschaften
 **** 0501 - 0999 Außerdeutsche Länder und Gebiete, Auswertung in geographischer Anordnung
-** DONE D - Darstellungen zur Geschichte des Mittelalters, chronologisch geordnet
+** DONE D - Mittelalterliche Geschichte (chronologisch)
 CLOSED: [2022-07-15 Fri 21:53]
 *** Da - Gesamtdarstellungen und Monographien zu gesamtmittelalterlichen Problemen
 **** 0001 - 0100 Das Mittelalter: Literatur zum Begriff, zur Periodisierung, zur Problematik, zum 'Erbe des Mittelalters', Einzelnes
@@ -814,7 +808,7 @@ Ordensgeschichts selbst siehe Ec
 ****** 0681 - 0750 außerdeutsche Staaten
 **** 0751 - 0800 der deutsche Humanismus
 **** 0801 - 0999 Deutschland vor der Reformation, Kulturgeschichte
-** DONE E - Darstellungen zur Geschichte des Mittelalters, sachlich geordnet
+** DONE E - Mittelalterliche Geschichte (sachlich)
 CLOSED: [2022-07-15 Fri 21:53]
 *** DONE Ea - Geschichte europäischer Länder und Landschaften I. Die Mittelmeerländer
 CLOSED: [2022-07-15 Fri 22:02]
@@ -2029,7 +2023,7 @@ Aussenpolitik
 
 Friedrich Wilhelm II. und seine Zeit
 
-** TODO G - Von der Französischen Revolution bis zum Ende des Zweiten Weltkriegs (1789 - 1945)
+** TODO G - Von der Französischen Revolution bis 1949
 *** Ga Französische Revolution 1789 bis 1799
 *** Gb Zeitalter Napoleons ( Europa ausser Österreich und Preussen )
 *** Ge Österreich und Preussen z.Zt. des Französischen Revolution und Napoleon
@@ -4393,7 +4387,7 @@ CLOSED: [2022-07-15 Fri 21:53]
 **** Zl - Jahrbücher
 **** Zs - Dissertationen
 \pagebreak
-* FPI
+* Institut für Fränkisch-Pfälzsische Landesgeschichte
 ** I - Bibliographie und Hilfswissenschaften, zur landesgeschichtlichen Methode
 *** 01 ff - Bibliographie, allgemein
 *** 10 ff - Allgemeine Quellenkunde
@@ -7071,7 +7065,7 @@ Weitere Gebiete
 Orte (alphabetisch)
 
 \pagebreak
-* Mittellatein
+* Lateinische Philologie des Mittelalters und der Neuzeit
 ** A Texte
 *** I Sammlungen
 **** 0001-0599: Theologische Texte
@@ -7564,7 +7558,7 @@ Nummern pro Buchstabe)
 **** 1120-1199: Recht
 **** 1200-1259: Urkunden und Kapitularien
 **** 1260-1269: Fürstenspiegel
-**** 1270-1379:
+**** 1270-1379: blank
 **** 1380-1429: Ars praedicandi und Predigt
 **** 1430-1449: Quaestiones und Quodlibets
 **** 1450-1459: Kasuistik
@@ -7801,22 +7795,15 @@ Laufende Zeitschriften
 I abgeschlossene und nicht vollständig geführte Zeitschriften (geordnet nach Erscheinungsjahr des 1. Bandes, 1900 = J I 20)
 
 \pagebreak
-* Schurman
+* Schurman Bibliothek
 Alle Signaturen beginnen mit ~Sch~.
 ** I. Allgemeines
-  :PROPERTIES:
-  :CUSTOM_ID: i.-allgemeines
-  :END:
-
 ** 1. *Allgemeine Hilfsmittel*
 *** 1.0. Universalgeschichtliche Werke (Weltgeschichte)
 *** 1.1. Methoden und Theorien der Geschichtswissenschaft
 *** 1.2. Geschichte der Geschichtsschreibung, allg. Aufsatzsammlungen zum Forschungsstand
 \pagebreak
 ** II. Geschichte der USA
-  :PROPERTIES:
-  :CUSTOM_ID: ii.-geschichte-der-usa
-  :END:
 *** 1.3.  *Verzeichnisse von Archiv- und Quellenbeständen*
 *** 1.4.  *Bibliographien*
 **** 1.4.1. Allgemeine Bibliographien und Kataloge
@@ -8309,10 +8296,913 @@ Alle Signaturen beginnen mit ~Sch~.
 *** 42.2. Gesamtdarstellungen/EU
 *** 42.3. Besondere Themen
 \pagebreak
+
+4.  *Die Amerikanische Revolution, 1763--1789*
+
+1. Quellen
+
+2. Gesamtdarstellungen
+
+3. Personen
+
+4. Besondere Themen
+
+1. /Innenpolitik/
+
+2. /Sozialgeschichte/
+
+3. /Gender, Frauen- & Geschlechtergeschichte/
+
+4. /Wirtschaftsgeschichte/
+
+5. /Rechts- und Verfassungsgeschichte/
+
+6. /Religions-, Geistes- und Kulturgeschichte/
+
+7. /Militärgeschichte/
+
+8. /Sonstiges/
+
+5. Vergleichende Revolutionsgeschichte, Revolutionstheorien
+
+5.  *Von der Staatsgründung bis zum Vorabend des Bürgerkrieges,
+1789--1860*
+
+1. Quellen
+
+2. Gesamtdarstellungen
+
+3. Personen
+
+4. Besondere Themen
+
+1. /Innenpolitik/
+
+2. /Sozialgeschichte/
+
+3. /Gender, Frauen- & Geschlechtergeschichte/
+
+4. /Wirtschaftsgeschichte/
+
+5. /Rechts- und Verfassungsgeschichte/
+
+6. /Religions-, Geistes- und Kulturgeschichte/
+
+7. /Militärgeschichte/
+
+8. /Sonstiges/
+
+6.  *Bürgerkrieg, Rekonstruktion und Industrialisierung, 1860--1890*
+
+1. Quellen
+
+2. Gesamtdarstellungen
+
+3. Personen
+
+4. Besondere Themen
+
+1. /Innenpolitik/
+
+2. /Sozialgeschichte/
+
+3. /Gender, Frauen- & Geschlechtergeschichte/
+
+4. /Wirtschaftsgeschichte/
+
+5. /Rechts- und Verfassungsgeschichte/
+
+6. /Religions-, Geistes- und Kulturgeschichte/
+
+7. /Militärgeschichte/
+
+8. /Sonstiges/
+
+7.  *Die USA im 20. Jahrhundert I, 1890--1929 (Imperialismus, 1.
+Weltkrieg, 20er Jahre)*
+
+1. Quellen
+
+2. Gesamtdarstellungen
+
+3. Personen
+
+4. Besondere Themen
+
+1. /Innenpolitik/
+
+2. /Sozialgeschichte/
+
+3. /Gender, Frauen- & Geschlechtergeschichte/
+
+4. /Wirtschaftsgeschichte/
+
+5. /Rechts- und Verfassungsgeschichte/
+
+6. /Religions-, Geistes- und Kulturgeschichte/
+
+7. /Militärgeschichte/
+
+8. /Sonstiges/
+
+8.  *Die USA im 20. Jahrhundert II, 1929--1945 (Weltwirtschaftskrise,
+New Deal, 2. Weltkrieg)*
+
+1. Quellen
+
+2. Gesamtdarstellungen
+
+3. Personen
+
+4. Besondere Themen
+
+1. /Innenpolitik/
+
+2. /Sozialgeschichte/
+
+3. /Gender, Frauen- & Geschlechtergeschichte/
+
+4. /Wirtschaftsgeschichte/
+
+5. /Rechts- und Verfassungsgeschichte/
+
+6. /Religions-, Geistes- und Kulturgeschichte/
+
+7. /Militärgeschichte/
+
+8. /Sonstiges/
+
+9.  *Die USA im 20. Jahrhundert III, 1945--1960 (Nachkriegsprobleme,
+Kalter Krieg I)*
+
+1. Quellen
+
+2. Gesamtdarstellungen
+
+3. Personen
+
+4. Besondere Themen
+
+1. /Innenpolitik/
+
+2. /Sozialgeschichte/
+
+3. /Gender, Frauen- & Geschlechtergeschichte/
+
+4. /Wirtschaftsgeschichte/
+
+5. /Rechts- und Verfassungsgeschichte/
+
+6. /Religions-, Geistes- und Kulturgeschichte/
+
+7. /Militärgeschichte/
+
+8. /Sonstiges/
+
+10. *Die USA im 20. Jahrhundert IV, 1961--1980 (Kalter Krieg II, von
+Kennedy bis Carter)*
+
+1. Quellen
+
+2. Gesamtdarstellungen
+
+3. Personen
+
+4. Besondere Themen
+
+1. /Innenpolitik/
+
+2. /Sozialgeschichte/
+
+3. /Gender, Frauen- & Geschlechtergeschichte/
+
+4. /Wirtschaftsgeschichte/
+
+5. /Rechts- und Verfassungsgeschichte/
+
+6. /Religions-, Geistes- und Kulturgeschichte/
+
+7. /Militärgeschichte/
+
+8. /New Left/Protest movements/
+
+9. /Sonstiges/
+
+11. *Die USA im 20. Jahrhundert V, seit 1981 (Von Reagan bis
+Clinton)*
+
+1. Quellen
+
+2. Gesamtdarstellungen
+
+3. Personen
+
+4. Besondere Themen
+
+1. /Innenpolitik/
+
+2. /Sozialgeschichte/
+
+3. /Gender, Frauen- & Geschlechtergeschichte/
+
+4. /Wirtschaftsgeschichte/
+
+5. /Rechts- und Verfassungsgeschichte/
+
+6. /Religions-, Geistes- und Kulturgeschichte/
+
+7. /Militärgeschichte/
+
+8. /New Left/Protest movements/
+
+9. /Sonstiges/
+
+12. *Die USA im 21. Jahrhundert, von George W. Bush bis zur
+Gegenwart*
+
+1. Quellen
+
+2. Gesamtdarstellungen
+
+3. Personen
+
+4. Besondere Themen
+
+1. /Innenpolitik/
+
+2. /Sozialgeschichte/
+
+3. /Gender, Frauen- & Geschlechtergeschichte/
+
+4. /Wirtschaftsgeschichte/
+
+5. /Rechts- und Verfassungsgeschichte/
+
+6. /Religions-, Geistes- und Kulturgeschichte/
+
+7. /Militärgeschichte/
+
+8. /New Left/Protest movements/
+
+9. /Sonstiges/
+
+2. *Übergreifende Quellen und Darstellungen zu einzelnen Sachbereichen
+der Innenpolitik*
+
+1. *Geographie und Umwelt*
+
+2. *Historische Geographie*
+
+3. *Expansion nach Westen und die Frontier*
+
+4. *Die Geschichte einzelner Staaten und Regionen*
+
+1. Regionen
+
+2. Einzelne Staaten (alphabetische Reihenfolge)
+
+3. Stadtgeschichte
+
+5. *Immigration und Ethnizität, Race*
+
+1. Quellen und Statistiken
+
+2. Allgemeine Interpretationen, Gesamtdarstellungen, Handbücher
+etc.
+
+3. Lateinamerikaner und Frankokanadier
+
+4. Europäer
+
+5. Asiaten
+
+6. Juden
+
+7. Native Americans
+
+8. Afroamerikaner
+
+9. Whiteness/Sonstiges
+
+6. *Wirtschafts- und Sozialgeschichte*
+
+1.  Quellen und Statistiken
+
+2.  Allgemeine Interpretationen, Gesamtdarstellungen, Handbücher
+etc.
+
+3.  Volksvermögen, Wachstum und Konjunkturverläufe
+
+4.  Geschichte der Erfindungen und Technik, Industrielle
+Entwicklung
+
+5.  Geschäftswelt, Einzelne Bereiche der Wirtschaft,
+Versicherungen
+
+6.  Armut, Sozialpolitik, Öffentliche Wohlfahrt
+
+7.  Arbeit, Arbeiter und Arbeiterbewegungen
+
+8.  Einzelne Bereiche der Sozialgeschichte
+
+9.  Gender, Frauen- und Geschlechtergeschichte, First Ladies
+
+10. Sonstiges
+
+7. *Rechts- und Verfassungsgeschichte, Politische Institutionen,
+Parteien*
+
+1. Quellen und Statistiken
+
+2. Allgemeine Interpretationen, Gesamtdarstellungen, Handbücher
+etc.
+
+3. Verfassung, Regierung, Kongress, Supreme Court
+
+4. Präsidentschaft
+
+5. Parteien und Wahlen
+
+6. Einzelstaaten und Regionen
+
+7. Philosophie, Theorie und Methode des Rechts und der
+Politik/Politisches Denken und Politische Ideengeschichte
+
+8. Sonstiges
+
+8. *Religions-, Kultur- und Geistesgeschichte*
+
+1. Quellen und Statistiken
+
+2. Allgemeine Interpretationen, Gesamtdarstellungen, Handbücher
+etc.
+
+3. Religionsgeschichte und Bildungsgeschichte
+
+4. Geistesgeschichte/Intellectual History
+
+5. Literatur
+
+6. Die Künste
+
+7. Kommunikationsmittel und Filmgeschichte
+
+8. Reine und angewandte Wissenschaften
+
+9. Sex, Drugs & Rock & Roll, Emotionen, Sonstiges
+
+9. *Militärgeschichte*
+
+1. Quellen und Statistiken
+
+2. Personen
+
+3. Allgemeine Interpretationen, Gesamtdarstellungen, Handbücher
+etc.
+
+4. Besondere Themen
+
+3. *Quellen und Darstellungen zur Außenpolitik und den internationalen
+Beziehungen der USA*
+
+1. *Allgemeine Quellensammlungen*
+
+2. *Gesamtdarstellungen, Allgemeine Interpretationen, Handbücher
+etc.*
+
+1. Theorie der Außenpolitik und der internationalen Beziehungen;
+Theorie des außenpolitischen Entscheidungsprozesses
+
+2. Gesamtdarstellungen, Allgemeine Interpretationen, Handbücher
+etc.
+
+3. Die USA und Europa
+
+4. Die USA und der Pazifik
+
+5. Die USA und Lateinamerika
+
+6. Die USA und Afrika
+
+7. Besondere Themen
+
+3. *Koloniale und Imperiale Diplomatie bis 1774*
+
+1. Quellen und Gesamtdarstellungen
+
+2. Personen
+
+3. Britische Kolonialpolitik bis 1763
+
+4. Anglo-Amerikanische Konfrontation 1763--1774
+
+5. Besondere Themen
+
+4. *Die Amerikanische Revolution, die Französische Revolution und der
+britisch-französische Weltkonflikt, 1775--1814*
+
+1. Quellen und Gesamtdarstellungen
+
+2. Personen
+
+3. Europa und die Amerikanische Revolution, 1775--1783
+
+4. US-Außenpolitik, 1783--1801
+
+5. US-Außenpolitik, 1801--1815
+
+6. Besondere Themen
+
+5. *US-Außenpolitik, 1815--1865*
+
+1. Quellen und Gesamtdarstellungen
+
+2. Personen
+
+3. Florida, Lateinamerika und die Monroedoktrin
+
+4. Diplomatische und wirtschaftliche Beziehungen zu Europa,
+1815--1865
+
+5. Die USA und Mexiko, 1821--1865
+
+6. Die Kanadisch-Amerikanische Grenze, 1763--1872
+
+7. Die USA und Asien, 1783--1865
+
+8. Diplomatie im Bürgerkrieg
+
+9. Besondere Themen
+
+6. *US-Außenpolitik, 1866--1919*
+
+1. Quellen und Gesamtdarstellungen
+
+2. Personen
+
+3. Expansion und Expansionsversuche nach dem Bürgerkrieg
+
+4. Der Spanisch-Amerikanische Krieg, 1898--1900
+
+5. Die USA und Europa, 1866--1914
+
+6. Die USA, Asien und der Pazifik, 1866--1919
+
+7. Die USA und Lateinamerika, 1866--1919
+
+8. Erster Weltkrieg und Friedensschluss, 1914--1919
+
+9. Besondere Themen
+
+7. *US-Außenpolitik, 1920--1945*
+
+1. Quellen und Gesamtdarstellungen
+
+2. Personen
+
+3. Internationalismus, Isolationismus, Abrüstung und
+Außenwirtschaftspolitik
+
+4. US-Außenpolitik in der Zwischenkriegszeit, 1920--1936
+
+5. Der Weg in den Zweiten Weltkrieg, 1937--1941
+
+6. Die USA und der Zweite Weltkrieg
+
+7. Alliierte Nachkriegsplanung, 1941--1945
+
+8. Besondere Themen
+
+8. *US-Außenpolitik, 1945--1990*
+
+1.  Quellen
+
+2.  Gesamtdarstellungen
+
+3.  Personen
+
+4.  Streitkräfte, Militärische Institutionen und Außenpolitik,
+Strategien und Sicherheitsdebatte, Geheimdienste, NATO
+
+5.  Außenpolitik und Wirtschaft
+
+6.  Internationale Organisationen, Friedensbewegung, Abrüstung
+
+7.  Die USA und der Kalte Krieg: Historiographie,
+Gesamtdarstellungen usw.
+
+8.  Die USA und die Sowjetunion, 1945--1963
+
+9.  Die USA und die Sowjetunion, 1963--1991
+
+10. Die USA und Europa, 1945--1955
+
+11. Die USA und Europa, 1955--1989
+
+12. Die USA und Ostasien, 1945--1990
+
+13. Die USA, Südostasien und der Vietnam-Krieg, 1945--1975
+
+14. Die USA, Australien, Neuseeland und der Pazifik, 1945--1990
+
+15. Die USA und der Nahe und Mittlere Osten, 1945--1990
+
+16. Die USA und die Westliche Hemisphäre, 1945--1990
+
+17. Die USA und Afrika, 1945--1990
+
+9. *US-Außenpolitik, 1990 bis zur Gegenwart*
+
+1.  Quellen
+
+2.  Gesamtdarstellungen
+
+3.  Personen
+
+4.  Streitkräfte, Militärische Institutionen und Außenpolitik,
+Strategien und Sicherheitsdebatte, Geheimdienste, NATO
+
+5.  Außenpolitik und Wirtschaft
+
+6.  Internationale Organisationen, Friedensbewegung, Abrüstung
+
+7.  (unklar)
+
+8.  Die USA und Russland, seit 1991
+
+9.  Die USA und Westeuropa, seit 1990
+
+10. Die USA und Osteuropa, seit 1990
+
+11. (frei)
+
+12. Die USA und die Europäische Union
+
+13. Die USA und Ostasien, seit 1990
+
+14. Die USA, Australien, Neuseeland und der Pazifik, seit 1990
+
+15. Die USA und der Nahe und Mittlere Osten, seit 1990
+
+16. Die USA und die Westliche Hemisphäre, seit 1990
+
+17. Die USA und Afrika, seit 1990
+
+18. 11. September / War on Terror / Irakkrieg
+
+19. Besondere Themen
+
+4. *Deutsch-Amerikanische Beziehungen*
+
+1. *Quellen*
+
+2. *Gesamtdarstellungen, Allgemeine Interpretationen, Handbücher*
+
+3. *Deutsch-Amerikanische Beziehungen, 1776--1871*
+
+1. Quellen
+
+2. Gesamtdarstellungen
+
+3. Besondere Themen
+
+4. Personen
+
+5. Immigration/Deutschamerikaner
+
+6. Amerikabilder/Deutschlandbilder/Perzeption
+
+4. *Deutsch-Amerikanische Beziehungen, 1871--1917*
+
+1. Quellen
+
+2. Gesamtdarstellungen
+
+3. Besondere Themen
+
+4. Personen
+
+5. Immigration/Deutschamerikaner
+
+6. Amerikabilder/Deutschlandbilder/Perzeption
+
+5. *Deutsch-Amerikanische Beziehungen, 1917--1945*
+
+1. Quellen
+
+2. Gesamtdarstellungen
+
+3. Besondere Themen
+
+4. Personen
+
+5. Immigration/Deutschamerikaner
+
+6. Amerikabilder/Deutschlandbilder/Perzeption
+
+6. *Deutsch-Amerikanische Beziehungen, 1945--1990*
+
+1. Quellen
+
+2. Gesamtdarstellungen
+
+3. Besondere Themen
+
+4. Personen
+
+5. Immigration/Deutschamerikaner
+
+6. Amerikabilder/Deutschlandbilder/Perzeption
+
+7. Wirtschaftsbeziehungen
+
+8. Die amerikanische Militärpräsenz in Deutschland
+
+7. *Deutsch-Amerikanische Beziehungen, seit 1990*
+
+1. Quellen
+
+2. Gesamtdarstellungen
+
+3. Besondere Themen
+
+4. Personen
+
+5. Immigration/Deutschamerikaner
+
+6. Amerikabilder/Deutschlandbilder/Perzeption
+
+7. Wirtschaftsbeziehungen
+
+8. Die amerikanische Militärpräsenz in Deutschland
+** III. Kanada
+:PROPERTIES:
+:CUSTOM_ID: iii.-kanada
+:END:
+
+20. *Allgemeine Hilfsmittel*
+
+1. *Geschichte der Geschichtsschreibung, allg. Aufsatzsammlungen zum
+Forschungsstand*
+
+2. *Verzeichnisse von Archiv- und Quellenbeständen*
+
+3. *Bibliographien zur Geschichte Kanadas*
+
+4. *Nachschlagewerke*
+
+1. Enzyklopädien
+
+2. Biographische Nachschlagewerke
+
+3. Historische Nachschlagewerke
+
+4. Reiseführer und Bildbände
+
+21. *Gesamtgeschichte Kanadas*
+
+1. *Quellen zur Gesamtgeschichte Kanadas*
+
+2. *Gesamtdarstellungen, Übergreifende Interpretationen, Handbücher
+etc.*
+
+22. *Übergreifende Quellen und Darstellungen zu einzelnen Sachbereichen
+der kanadischen Geschichte*
+
+1. *Geographie, Historische Geographie und Umwelt*
+
+2. *Expansion nach Westen*
+
+3. *Geschichte einzelner Regionen, Staaten und Territorien*
+
+4. *Immigration und Ethnizität*
+
+1. Quellen und Statistiken
+
+2. Gesamtdarstellungen, Handbücher
+
+3. Frankokanadier
+
+4. Anglokanadier
+
+5. First Nations, Sonstige Gruppen
+
+5. *Wirtschafts- und Sozialgeschichte*
+
+1.  Quellen und Statistiken
+
+2.  Gesamtdarstellungen zur Wirtschaftsgeschichte
+
+3.  Volksvermögen, Wachstum, Konjunktur
+
+4.  Geschäftswelt, Einzelne Sektoren der Wirtschaft
+
+5.  Spezielle Probleme der Wirtschaftsgeschichte
+
+6.  Gesamtdarstellungen zur Sozialgeschichte
+
+7.  Armut, Arbeiter und Arbeiterbewegung
+
+8.  Gender, Geschlechtergeschichte
+
+9.  Einzelne Bereiche der Sozialgeschichte
+
+10. Sonstiges
+
+6. *Rechts- und Verfassungsgeschichte, Politische Institutionen und
+Parteien*
+
+1. Quellen und Statistiken
+
+2. Gesamtdarstellungen, Handbücher
+
+3. Verfassung, Regierung, Parlament, Bundesbehörden
+
+4. Parteien und Wahlen
+
+5. Einzelstaaten, Regionen, Territorien
+
+6. Sonstiges
+
+7. *Religions-, Kultur- und Geistesgeschichte*
+
+8. *Militärgeschichte*
+
+23. *Außenpolitik*
+
+1. *Allgemeine Quellensammlungen*
+
+2. *Gesamtdarstellungen, Handbücher*
+
+3. *Besondere Bereiche der Außenpolitik*
+
+1. Kanada und die USA
+
+2. Kanada und Großbritannien
+
+3. Deutsch-Kanadische Beziehungen
+
+4. Kanada und andere europäische Staaten
+
+5. Kanada und die Dritte Welt
+
+6. Kanada und die Internationalen Organisationen
+
+7. Besondere Themen
+
+4. *Einzelne Epochen der Außenpolitik*
+
+1. Von den Anfängen bis zum Dominion, 1500--1867
+
+1. /Quellen/
+
+2. /Gesamtdarstellungen/
+
+3. /Personen/
+
+4. /Einzelne Bereiche/
+
+2. Vom Dominion zur Nation, 1867--1931
+
+1. /Quellen/
+
+2. /Gesamtdarstellungen/
+
+3. /Personen/
+
+4. /Einzelne Bereiche/
+
+3. Von der Unabhängigkeit bis zur Gegenwart
+
+1. /Quellen/
+
+2. /Gesamtdarstellungen/
+
+3. /Personen/
+
+4. /Einzelne Bereiche/
+
+24. *Quellen und Darstellungen zur kanadischen Geschichte
+(chronologische Gliederung, ohne Außenpolitik)*
+
+1. *Von den Anfängen bis zum Ende der Amerikanischen Revolution,
+1500--1789*
+
+1. Quellen
+
+2. Gesamtdarstellungen
+
+3. Personen
+
+4. Besondere Themen
+
+1. /Innenpolitik/
+
+2. /Sozialgeschichte/
+
+3. /Wirtschaftsgeschichte/
+
+4. /Rechts- und Verfassungsgeschichte/
+
+5. /Kultur- und Geistesgeschichte/
+
+6. /Sonstiges/
+
+2. *Britisch-Nordamerika, 1789--1867*
+
+1. Quellen
+
+2. Gesamtdarstellungen
+
+3. Personen
+
+4. Besondere Themen
+
+1. /Innenpolitik/
+
+2. /Sozialgeschichte/
+
+3. /Wirtschaftsgeschichte/
+
+4. /Rechts- und Verfassungsgeschichte/
+
+5. /Kultur- und Geistesgeschichte/
+
+6. /Sonstiges/
+
+3. *Vom Dominion zur Nation, 1867--1931*
+
+1. Quellen
+
+2. Gesamtdarstellungen
+
+3. Personen
+
+4. Besondere Themen
+
+1. /Innenpolitik/
+
+2. /Sozialgeschichte/
+
+3. /Wirtschaftsgeschichte/
+
+4. /Rechts- und Verfassungsgeschichte/
+
+5. /Kultur- und Geistesgeschichte/
+
+6. /Sonstiges/
+
+4. *Von der Unabhängigkeit bis zur Gegenwart, ab 1931*
+
+1. Quellen
+
+2. Gesamtdarstellungen
+
+3. Personen
+
+4. Besondere Themen
+
+1. /Innenpolitik/
+
+2. /Sozialgeschichte/
+
+3. /Wirtschaftsgeschichte/
+
+4. /Rechts- und Verfassungsgeschichte/
+
+5. /Kultur- und Geistesgeschichte/
+
+6. /Sonstiges/
+** IV. Nicht-Nordamerikanische Geschichte
+:PROPERTIES:
+:CUSTOM_ID: iv.-nicht-nordamerikanische-geschichte
+:END:
+
+40. *Altamerika*
+
+1. Gesamtdarstellungen
+
+2. Besondere Themen
+
+41. *Südamerika*
+
+1. Gesamtdarstellungen
+
+2. Besondere Themen
+
+42. *Europa*
+
+1. England
+
+2. Gesamtdarstellungen/EU
+
+3. Besondere Themen
+
+
 ** V. Periodika/Microformen
 ** 70. Mikroformen
 ** 80. Zeitschriften
 ** 90. Working Papers
 
 
-[fn:1] in Stefan Weinfurter (Hrsg.), /Reinhart Koselleck (1923-2006): Reden zum 50. Jahrestag seiner Promotion in Heidelberg/ (Heidelberg: Winter Verlag), 54
+[fn:1] in Stefan Weinfurter (Hrsg.), /Reinhart Koselleck (1923-2006): Reden zum 50. Jahrestag seiner Promotion in Heidelberg/ (Heidelberg: Winter Verlag), 54.
