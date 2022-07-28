@@ -1,10 +1,11 @@
 #+TITLE: Systematiken der geschichtswissenschaftlichen Bibliotheken
 #+SUBTITLE: Ruprecht-Karls-Universität Heidelberg
-#+DATE: Last Updated: \today
+#+DATE: Stand: \today
 #+AUTHOR:
 #+LATEX_HEADER: \usepackage[a4paper]{geometry}
 #+LATEX_HEADER: \usepackage{fancyhdr}
 #+LATEX_HEADER: \pagestyle{fancy}
+#+LATEX_HEADER: \usepackage[ddmmyyyy]{datetime}
 
 /Und zugleich signierte ich die bis dahin mit nur den drei Buchstaben A, B, C gegliederte, deshalb völlig unbenutzbare, Seminarbibiothek aufs Neue mit 24 mal 24 Signaturen von Aa bis Zz - vielleicht die Leistung, die mich am längsten überdauern wird (Auch wenn wegen der Einspruchsgewalt der damaligen, unter sich uneinigen, Ordinarien manche bibliographische Inkonsequenz im Katalog verewigt werde musste)./[fn:1]
 
@@ -168,6 +169,7 @@ CLOSED: [2022-07-27 Wed 11:19]
 **** 0201 - 0400 DVDs
 **** 0401 - 0600 Neue Medien und Geschichtswissenschaft
 **** 0601 - 0900 EDV-Literatur
+\pagebreak
 ** TODO B - Quellen zur Geschichte des Mittelalters
 *** Ba - Allgemeine Quellensammlungen, Folio und Quart, innerhalb der MGH
 **** DONE 0001 - 0100 MGH SS (Scriptores) [Geschichtsschreiber]
@@ -221,18 +223,15 @@ CLOSED: [2022-07-27 Wed 11:19]
 *** Bb - Allgemeine Quellensammlungen, Folio und Quart, außerhalb der MGH
 *** Bc - Allgemeine Quellensammlungen, nicht Folio und Quart
 *** Bd - Einzelausgaben nicht urkundlicher Quellen
+~Hinweis!~
 
-_Hinweis_!
-
-/Die Signaturen richten sich streng nach den Lebensdaten der Autoren bzw. den Entstehungsdaten der Werke - ab dem 11. Jahrhundert entfallen dabei jeweils 2 Signaturen auf ein Jahr: also ist jeweils die 2. bis 4. Stelle der Jahreszahl mit 2 zu duplizieren. Zum Beispiel/:
+~Die Signaturen richten sich streng nach den Lebensdaten der Autoren bzw. den Entstehungsdaten der Werke - ab dem 11. Jahrhundert entfallen dabei jeweils 2 Signaturen auf ein Jahr: also ist jeweils die 2. bis 4. Stelle der Jahreszahl mit 2 zu duplizieren. Zum Beispiel:~
 
 ~Agathias, ed. Keydell: Ag. gest. 582 = Bd 582~
 
-/oder/
+~oder~
 
 ~Gilbert Foliot, Letters and Charters (1139 - 1187), ed. Brooke = Bd 1374~
-
----
 
 **** 0001 - 0050 bis Christi Geburt
 **** 0051 - 0125 1. Jh. n. Chr. 
@@ -268,6 +267,7 @@ _Hinweis_!
 *** Bp - Inschriften; sonstige Quellengattungen
 *** Bx - Übungstexte und Quellenauswahlen
 *** Bz - Übersetzungen von im engeren Sinn historischen Quellen
+\pagebreak
 ** DONE C - Quellenkunde zum Mittelalter
 CLOSED: [2022-07-15 Fri 21:53]
 *** Ca - Einführung in Studium und Quellen des Mittelalters
@@ -417,6 +417,7 @@ CLOSED: [2022-07-15 Fri 21:53]
 ***** 0201 - 0300 Allgemeines
 ***** 0301 - 0500 deutsche Landschaften
 **** 0501 - 0999 Außerdeutsche Länder und Gebiete, Auswertung in geographischer Anordnung
+\pagebreak
 ** DONE D - Mittelalterliche Geschichte (chronologisch)
 CLOSED: [2022-07-15 Fri 21:53]
 *** Da - Gesamtdarstellungen und Monographien zu gesamtmittelalterlichen Problemen
@@ -811,6 +812,7 @@ Ordensgeschichts selbst siehe Ec
 ****** 0681 - 0750 außerdeutsche Staaten
 **** 0751 - 0800 der deutsche Humanismus
 **** 0801 - 0999 Deutschland vor der Reformation, Kulturgeschichte
+\pagebreak
 ** DONE E - Mittelalterliche Geschichte (sachlich)
 CLOSED: [2022-07-15 Fri 21:53]
 *** DONE Ea - Geschichte europäischer Länder und Landschaften I. Die Mittelmeerländer
@@ -1542,6 +1544,7 @@ CLOSED: [2022-07-20 Wed 12:01]
 ***** 0861 - 0900 Spätmittelalter
 ***** 0901 - 0950 Die Nordseeländer
 ***** 0951 - 0999 Die Mittelmeerländer
+\pagebreak
 ** DONE F - 15. - 18. Jahrhundert
 CLOSED: [2022-07-28 Thu 12:25]
 *** DONE Fa - Renaissance und Humanismus in Italien
@@ -1819,48 +1822,119 @@ CLOSED: [2022-07-28 Thu 12:25]
 ***** 0851 - 0875 Justizwesen
 ***** 0876 - 0900 Aussenpolitik
 **** 0901 - 1000 Friedrich Wilhelm II. und seine Zeit
+\pagebreak
 ** TODO G - Von der Französischen Revolution bis 1949
-*** Ga Französische Revolution 1789 bis 1799
-*** Gb Zeitalter Napoleons ( Europa ausser Österreich und Preussen )
-*** Ge Österreich und Preussen z.Zt. des Französischen Revolution und Napoleon
-*** Gd Deutschland im Vormärz
-*** Ge 1815 - 1848: Internationale Geschichte. Europäische Länder( ausser Deutschland )
-*** Gf [34 Die Revolution von 1848/49
-*** Gg Europääsche Geschichte ünd Weltgeschichte, europäische und deutsche Länder in den Jahren 1849 bis 1871 ; Bismarckliteratur.
-*** Gh Europäische Geschichte und Weltgeschichte 1871 bis 1890.Europäische Länder, deutsche Länder
-*** Gi Europäische Geschichte und Weltgeschichte 1890 bis 191h. Europäische Länder ( ausser Deutschland - Gk )
-*** Gk Deutsche Innenpolitik 1890 bis 1914
-*** Gı Sozialistische Internationale. Deutsche Wirtschaftsgeschichte ( 1871 - 1915 )
-*** Go Erster Weltkrieg : Vorgeschichte, Kriegsgeschichte ;deutsche Innenpolitkk.
-*** Gp Erster Weltkrieg : nichtdeutsche Länder ; Diplomatiegeschichte
-*** Ga Zwischenkriegszeit
-*** Gr Weimarer Republik
-*** Gs Nationalsozialismus
-*** Gt Zweiter Weltkrieg : Diplomatie und Politik
-*** Gu Zweiter Weltkrieg : Kriegsgeschichte
+*** DONE Ga Französische Revolution 1789 bis 1799
+CLOSED: [2022-07-28 Thu 15:34]
+**** 0001 - 0099 Gesamtdarstellungen z.T. bis 1815 (chronologisch nach Erscheinungsdatum)
+**** 0100 - 0160 Quellen
+**** 0161 - 0220 Vorgeschichte und Ursachen
+**** 0221 - 0270 Königtum, Hof, Adel
+**** 0271 - 0300 Revolution und Kirche
+***** 0295 - 0300 Justiz
+**** 0301 - 0350 Revolution und Wirtschaft, Agrarfrage
+**** 0351 - 0440 Konstitutionelle Phase (bis 10. August 1792)
+**** 0441 - 0460 Gironde
+**** 0461 - 0530 Jakobiner
+**** 0531 - 0560 Direktorium
+**** 0601 - 0630 Französische Revolution, Europa und die Welt
+**** 0631 - 0700 Französische Revolution, Deutschland und Rheinbund
+**** 0701 - 0800 Diplomatiegeschichte bis 1801 (Amiens)
+**** 0801 - 0850 Kriegsgeschichte bis 1801
+**** 0851 - 0880 Sozialgeschichte
+**** 0881 - 0900 Historiographie
+**** 0901 - 1000 Europäische Länder bis 1801 (außer Preußen und Österreich)
+*** TODO Gb Zeitalter Napoleons ( Europa ausser Österreich und Preussen )
 *** TODO Gc Österreich und Preußen zur Zeit der französischen Revolution und Napoleon
-**** 0001 - 0120 Österreich (zur Zeit Franz II.)
-**** 0051 - 0090 Metternich und Gentz
-**** 0121 - 0150 Preußen, allgemein
-**** 0181 - 0200 Friedrich Wilehlm III. und der preußische Hof
-**** 0201 - 0290 Militäre und Heeresreform
-**** 0301 - 0350 Staats- und Gesellschaftsreform: allgemeine Darstellungen und einzelne Quellen
-**** 0351 - 0390 Stein
-**** 0391 - 0410 Hardenberg
-**** 0411 - 0430 Verfassungsfrage
-**** 0431 - 0470 Verwaltung und Beamte
-**** 0471 - 0500 Adel (Marwitz)
-**** 0501 - 0520 Bildungsreform
-**** 0521 - 0540 Humboldt
-**** 0541 - 0560 frei
-**** 0561 - 0570 Schleiermacher
-**** 0571 - 0620 Deutscher Idealismus
-**** 0621 - 0700 Deutsche Bewegung (Arndt, Görres)
-**** 0701 - 0780 Romantik und ihre Staatstheorie
-**** 0781 - 0800 frei
-**** 0801 - 0900 Carl August von Weimar und die Klassik
-**** 0900 - 0999 Goethe
+*** TODO Ge Österreich und Preussen z.Zt. des Französischen Revolution und Napoleon
+*** TODO Gd Deutschland im Vormärz
+*** TODO Ge 1815 - 1848: Internationale Geschichte. Europäische Länder( ausser Deutschland )
+*** TODO Gf [34 Die Revolution von 1848/49
+*** TODO Gg Europääsche Geschichte ünd Weltgeschichte, europäische und deutsche Länder in den Jahren 1849 bis 1871 ; Bismarckliteratur.
+*** TODO Gh Europäische Geschichte und Weltgeschichte 1871 bis 1890.Europäische Länder, deutsche Länder
+*** TODO Gi Europäische Geschichte und Weltgeschichte 1890 bis 191h. Europäische Länder ( ausser Deutschland - Gk )
+*** TODO Gk Deutsche Innenpolitik 1890 bis 1914
+*** TODO Gı Sozialistische Internationale. Deutsche Wirtschaftsgeschichte ( 1871 - 1915 )
+*** TODO Go Erster Weltkrieg : Vorgeschichte, Kriegsgeschichte ;deutsche Innenpolitkk.
+*** TODO Gp Erster Weltkrieg : nichtdeutsche Länder ; Diplomatiegeschichte
+*** TODO Ga Zwischenkriegszeit
+*** TODO Gr Weimarer Republik
+*** TODO Gs Nationalsozialismus
+*** TODO Gt Zweiter Weltkrieg : Diplomatie und Politik
+*** TODO Gu Zweiter Weltkrieg : Kriegsgeschichte
+***** 0001 - 0120 Österreich (zur Zeit Franz II.)
+***** 0051 - 0090 Metternich und Gentz
+***** 0121 - 0150 Preußen, allgemein
+***** 0181 - 0200 Friedrich Wilehlm III. und der preußische Hof
+***** 0201 - 0290 Militäre und Heeresreform
+***** 0301 - 0350 Staats- und Gesellschaftsreform: allgemeine Darstellungen und einzelne Quellen
+***** 0351 - 0390 Stein
+***** 0391 - 0410 Hardenberg
+***** 0411 - 0430 Verfassungsfrage
+***** 0431 - 0470 Verwaltung und Beamte
+***** 0471 - 0500 Adel (Marwitz)
+***** 0501 - 0520 Bildungsreform
+***** 0521 - 0540 Humboldt
+***** 0541 - 0560 frei
+***** 0561 - 0570 Schleiermacher
+***** 0571 - 0620 Deutscher Idealismus
+***** 0621 - 0700 Deutsche Bewegung (Arndt, Görres)
+***** 0701 - 0780 Romantik und ihre Staatstheorie
+***** 0781 - 0800 frei
+***** 0801 - 0900 Carl August von Weimar und die Klassik
+***** 0900 - 0999 Goethe
+\pagebreak
 ** TODO H - Gegenwart (ab 1945)
+*** Ha - Internationale Politik nach 1945
+**** 0001 - 0100 Quellen (Sammelwerke)
+**** 0101 - 0300 Gesamtdarstellungen zur Weltpolitik
+**** 0301 - 0800 UNO und andere Weltorganisationen
+**** 0801 - 1300 Friedensverträge und Literatur bis zum Kalten Krieg
+**** 1301 - 3600 Weltpolitik ab 1947
+***** 1301 - 2000 Kalter Krieg
+****** 1301 - 1500 Ursachen
+****** 1501 - 1700 Koreakrieg
+****** 1701 - 1800 Deutschland
+****** 1801 - 2000 Verlauf
+***** 2001 - 3100 Enstpannung
+****** 2001 - 2300 Entspannungspolitik
+****** 2301 - 2900 cherheitspolitik
+****** 2901 - 3100 Abrüstungspolitik
+***** 3101 - 3600 Regionale Konflikte und Dritte Welt
+****** 3101 - 3300 Naher Osten
+****** 3301 - 3100 Suez-Krise
+****** 3101 - 3600 Entkolonialisierung
+**** 3601 - 4000 frei
+**** 4001 - 5500 Europäische Integration
+***** 4001 - 4100 Bibliographien
+***** 4101 - 4300 Quellen
+***** 4301 - 4600 Europa-Idee
+***** 4601 - 4700 Europarat
+***** 4701 - 4900 Gesamteuropa
+***** 4901 - 5500 Europäische Gemeinshhaften (EG)
+**** 5501 - 5900 Militärische Bündnisse
+***** 5501 - 5600 Quellen
+***** 5601 - 5700 EVG /WEU
+***** 5701 - 5800 NATO
+***** 5801 - 5900 Warschauer Pakt
+***** 5901 - 6000 frei
+**** 6001 - 6300 USA und Europa
+**** 6301 - 6600 UdSSR und Europa
+**** 6601 - 7000 frei
+**** 7001 - 8000 Allgemeine Betrachtungen zur Gegenwart (chronologische Ordnung)
+***** 7600 - 8000 Terrorismus und "Kampf gegen den Terrorismus"
+
+6301 -
+
+6601 - 7000
+
+7001 -
+
+Allgemeine Betrachtungen zur Gegenwart (chronologise
+
+e Ordnung)
+
+
 Internationale Politik nach 1945
 
 Europäische Staaten: Innenpolitik
@@ -1888,111 +1962,6 @@ I- ı00
 4001 - 5500
 
 5501 - 5900
-
-Quellen (Sammelwerke)
-
-Gesamtdarstellungen zur Weltpolitik
-
-UNO und andere Weltorganisationen
-
-Friedensverträge und Literatur bis zum Kalten Krieg
-
-Weltpolitik ab 1947
-
-1301 - 2000
-
-2001 - 3100
-
-3101 - 3600
-
-frei
-
-Europäische
-
-4001
-Kıol
-4301
-4601
-4701
-
-14901
-
-1100
-4300
-4600
-4700
-4900
-
-5500
-
-Kalter Krieg
-
-1301 - 1500 Ursachen
-1501 - 1700 Koreakrieg
-1701 - 1800 Deutschland
-1801 - 2000 Verlauf
-
-Entspannung
-
-2001 - 2300 Entspannungspolitik
-2301 - 2900 cherheitspolitik
-2901 - 3100 Abrüstungspolitik
-Regionale Konflikte und Dritte Welt
-3101 - 3300 Naher Osten
-
-3301 - 3100 Suez-Krise
-3101 - 3600 Entkolonialisierung
-
-Integration
-Bibliographien
-Quellen
-Europa-Idee
-Europarat
-Gesamteuropa
-
-Europäische Gemeinshhaften (EG)
-
-Militärische Bündnisse
-
-5501
-
-5601
-
-57oi
-
-5801
-
-5901
-
-5600
-
-5800
-3900
-
-6000
-
-Quellen
-
-EVG /WEU
-
-NATO
-Warschauer Pakt
-
-frei
-
-
-USA und Europa
-
-6301 -
-
-6601 - 7000
-
-7001 -
-
-Allgemeine Betrachtungen zur Gegenwart (chronologise
-
-e Ordnung)
-
 
 50 Skandinavien
 
@@ -2025,7 +1994,6 @@ Tschechoslowakei
 
 1001 ££, Allgemeine Darstellungen zur Geschichte der
 osteuropäischen Staaten nach 1945
-
 
 *** Hd Quellen zur deutschen Geschichte seit 1945
 **** 0001 - 500 Gesamtdarstellungen
@@ -2217,6 +2185,7 @@ Hi Deutsche Demokratische Republik (1-6500)
 6201-6499 Einzelbiographien und Memoiren
 6500-6700 Sammelbiographien
 
+\pagebreak
 ** TODO J - Weltgeschichte, Post Colonial Studies
 *** Ja Vor- und Frühgeschichte
 
@@ -2260,6 +2229,7 @@ i
 *** Ju Chile, Argentinssn, Uruguay, Paraguay
 *** Ju Brasilien
 *** Jx, Jy und Jz bleiben frei
+\pagebreak
 ** TODO K - Geschichte Asiens, Australiens, Afrikas
 *** Ka Asien ( Gesamtdarstellungen )
 *** Kb Ostasien ( Gesamtdarstellungen )
@@ -2426,6 +2396,7 @@ Ky Ostafrika
 
 XKz Südafrika
 
+\pagebreak
 ** TODO L - Geschichte der europäischen Staaten
 La Europäische Geschichte
 
@@ -2793,6 +2764,7 @@ Stalin-Literatur und ProtskirLiteratur nach 1925).
 
 Die Sowjetunion seit Stalins Tod
 
+\pagebreak
 ** TODO M - Deutsche Geschichte und Geschichte der deutschen Territorien
 Deutsche Geschichte: Allgemeine Probleme
 
@@ -2948,6 +2920,7 @@ Wr -äüddeutschland
 801 = 900 Altbayern
 901 - 1000 Bayrisches Schwaben
 
+\pagebreak
 ** TODO N - Anthropologie, Völkerkunde, Bevölkerungswissenschaft
 N___ Anthropologie, Völkerkunde, Bevölkerungswissenschaft
 
@@ -3024,6 +2997,7 @@ E_9__.Sesundheits- und Ernährungswssen
 501 - 600 (bleibt frei)
 
 Seuchen und Seuchengeschichte
+\pagebreak
 ** TODO O - Recht, Politik, Staat und Gesellschaft, Internationale Beziehungen
 0a Handbücher und Lexika
 
@@ -3333,6 +3307,7 @@ Ou Publizistik und Propaganda. Politische Ikonographie
 900 - 1000 Photographie und Film, Rundfunk
 1001 - 1200 Hoheitszeichen ; Staatssymbolik
 
+\pagebreak
 ** TODO P - Wirtschafts- und Sozialgeschichte: Handbücher, Städtewesen, Biographien
 
 450 ——tiendwörterbicher-und-bexike
@@ -3505,6 +3480,7 @@ P m _ Wirtschaftsgeschichtliche Biographien (Neuzeit)
 501 - 1000 Wirtschaftsgeschichtliche Biographien
 ( in alphabetischer Reihenfolge)
 
+\pagebreak
 ** TODO Q - Wirtschafts- und Sozialgeschichte: Mittelalter, Neuzeit
 *** DONE Qc - Einführungen, Überblicke (Mittelalter)
 CLOSED: [2022-07-13 Wed 20:05]
@@ -3542,6 +3518,7 @@ CLOSED: [2022-07-13 Wed 20:05]
 *** TODO Qv - Wirtschaftspolitik
 *** TODO Qw - Sozialpolitik und soziale Frage
 *** TODO Qz - Wirtschatstheorie und Volkwirtschaftslehre
+\pagebreak
 ** TODO R - Kulturgeschichte, Geschichte der Künste, Geschichte der Technik, Mediengeschichte, Umweltgeschichte
 R Kulturgeschichte, Geschichte der Künste, Geschichte
 
@@ -3721,6 +3698,7 @@ R_t___Gesehichte der Technik: Monographien
 
 Unwelt geäehiche
 
+\pagebreak
 ** TODO S - Kriegs- und Militärgeschichte
 
 a ei a . SEGEN:
@@ -3807,6 +3785,7 @@ ab 801 Übersee.
 Tendenz: mögliehkt unter Ländern einoränen!
 Innerhalb der Untergruppen ohronologisch!
 
+\pagebreak
 ** TODO T - Religions- und Kirchengeschichte
 TE Religions- unä Kirchengeschichte
 
@@ -3987,6 +3966,7 @@ Kirchliche Stasts- und Rechtslehre,
 
 Konkordate,s
 
+\pagebreak
 ** TODO U - Geistesgeschichte und Geschichte der Wissenschaften
 *** Ua Bildung, Erziehung und Unterricht ( ausser Universitäten )
 ll - 50 Handblicher, Lexika
@@ -4139,12 +4119,15 @@ U
 701 - 800 bleibt frei
 801 - 1000 Historische Zeitschriften
 
+\pagebreak
 ** DONE V - Aufsatzsammlungen und sonstitge Sammelschriften einzelner Verfasser
 CLOSED: [2022-07-28 Thu 12:29]
 ~(alphabetisch und nach Kleinbuchstaben einordnen: z.B. Ranke = Vr)~
+\pagebreak
 ** DONE W - Fest- und Gedenkschriften
 CLOSED: [2022-07-28 Thu 12:29]
 ~(alphabetisch und nach Kleinbuchstaben einordnen: z.B. Festechrift für Gerhard Ritter = Wr)~
+\pagebreak
 ** DONE Z - Zeitschriften, Jahrbücher, Dissertationen
 CLOSED: [2022-07-15 Fri 21:53]
 **** Za - Allgemeine Zeitschriften
