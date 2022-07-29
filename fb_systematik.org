@@ -2901,36 +2901,24 @@ Wr -äüddeutschland
 
 \pagebreak
 ** TODO N - Anthropologie, Völkerkunde, Bevölkerungswissenschaft
-N___ Anthropologie, Völkerkunde, Bevölkerungswissenschaft
-
-W_s__ _ Anthropologie
-
-1- 400 Allgemeine Anthropologie (chron. georänet)
+*** Na - Anthropologie
+**** 0001 - 0400 Allgemeine Anthropologie (chron. georänet)
 401 - 500 (bleidt frei)
 501 - 700 Spezialprobleme der Anthropologie
-
-H_e___Psychologie und Charskterkunde
-
+*** Nc - Psychologie und Charskterkunde
 1 - 100 Allgemeine Psychologie. Einführungen
-
 101 - 250 Geschichte der Psychologie
 251 - 300 (bleibt frei)
 301 - 600 Spezialprobleme der Psychologie und Charakterkunde
-
-N_e___Rassenkunde (Ideologie der "Rasse" vgl. unter Ge!)
-
+*** Ne - Rassenkunde (Ideologie der "Rasse" vgl. unter Ge!)
 1 - 300 Theorie, Allgemeines
 301 - 400 Handbtlicher, größere Darstellungen
 401 - 500 (bleibt frei)
 501 — 700 Einzeldarstellungen
-
-N.i__.Bevölkerungswissenschaft und Beyölkerungsgeschichte
-
+*** Ni - Bevölkerungswissenschaft und Beyölkerungsgeschichte
 Einführungen, Methodik
-
 Handblicher, 'Gesamtdarstellungen der Bevölkerungs-
 wissenschaft
-
 200
 300
 301 - 500 Einzelprobleme der Bevölkerungswissensohaft
@@ -2938,18 +2926,14 @@ wissenschaft
 800 Quellen zur Bevölkerungsgeschichte
 880 Darstellungen zur Bevölkerungsgeschichte
 881 - 1000 Einzelprobleme der Jewölkerungsgeschichte
-
-W_j._ Statistik
-
+*** Nj - Statistik
 1- 200 Theprie, Methodik
 201 - 300 Quellen und Quellensammlungen
 301 =. 400 Handbücher, Gesamtdarstellungen
 401 — 600 Eingelprobleme
 601 - 700 (vleibt frei)
 701 - 1000 Geschichte der Statistik
-
-3_k___ Ethnologie und Völkerkunde
-
+*** Nk - Ethnologie und Völkerkunde
 1 =. 100 Einführungen, Allgemeines
 101 = 200 (bleibt frei)
 201 = 300 Handbücher, größere Darstellungen
@@ -2957,8 +2941,7 @@ W_j._ Statistik
 401 - 600 Spezialuntersuchungen
 601 - 700 (bleibt frei)
 701 - 1000 Gesshichte der Ethnologie
-
-N_u___Olckultisms, Astrologie, Kosmologie
+*** Nm - Olckultisms, Astrologie, Kosmologie
 1- 100 Allgemeines
 101 - 200 (bleibt frei)
 201 = 300 Quellen und Dars tellungen zur Geschichte des
@@ -2966,10 +2949,8 @@ Okkultisms
 301 = 400 (bleibt frei)
 401 - 500 Astrologie
 501 - 600 (bleibt frei)
-
 601 - 700 Kosmologie
-
-E_9__.Sesundheits- und Ernährungswssen
+*** Nq - Gesundheits- und Ernährungswssen
 1 = 200 Nahrungswesen, Geschichte der Ernährung
 201 - 300 (pleibt frei)
 301 - 500 Gesundheitswesen, Hygiene
@@ -2978,35 +2959,20 @@ E_9__.Sesundheits- und Ernährungswssen
 Seuchen und Seuchengeschichte
 \pagebreak
 ** TODO O - Recht, Politik, Staat und Gesellschaft, Internationale Beziehungen
-0a Handbücher und Lexika
-
-O0e Rechtsphilosophie ; Römisches Recht ; Germanische Rechtsgeschichte
-
-Oe Staatsrecht und Verwaltungsrecht. Allgemeine und deutsche
-Verfassungsgeschichte
-
-08 Allgemeine Staats- und Verfassungälehre. Politik.
-
-Oh Spezielle Staats- und Verfassungslehre,
-Spezialprobleme der Folitischen Wissenschaft,
-
-Ok Volk, Nation, Nationalitäten und Minderheiten
-
-o1 Jüdische Geschichte
-
-Om Völkerrecht
-
-On Internationale Beziehungen. Geschichte der Diplomatie, Trunıch arp-
-
-Op Politische und soziale Theorien
-
-Or Allgemeine Gesellschaftslehre und Soziologie
-
-ot Spezialprobleme der Soziologie
-
-or Parteien und Verbände, Parteigeschichte, Wahlsoziologie.
-
-Ow Publizistik und Propagenda. Politische Ikonographie,
+*** Oa - Handbücher und Lexika
+*** Oc - Rechtsphilosophie ; Römisches Recht ; Germanische Rechtsgeschichte
+*** Oe - Staatsrecht und Verwaltungsrecht. Allgemeine und deutsche Verfassungsgeschichte
+*** Og - Allgemeine Staats- und Verfassungälehre. Politik.
+*** Oh - Spezielle Staats- und Verfassungslehre, Spezialprobleme der Folitischen Wissenschaft,
+*** Ok - Volk, Nation, Nationalitäten und Minderheiten
+*** Ol - Jüdische Geschichte
+*** Om - Völkerrecht
+*** On - Internationale Beziehungen. Geschichte der Diplomatie, Trunıch arp-
+*** Op - Politische und soziale Theorien
+*** Or - Allgemeine Gesellschaftslehre und Soziologie
+*** Ot - Spezialprobleme der Soziologie
+*** Ov - Parteien und Verbände, Parteigeschichte, Wahlsoziologie.
+*** Ow - Publizistik und Propagenda. Politische Ikonographie,
 
 O___RBecht; Politik; Staat und Gesellschaft
 
@@ -3287,8 +3253,6 @@ Ou Publizistik und Propaganda. Politische Ikonographie
 1001 - 1200 Hoheitszeichen ; Staatssymbolik
 
 \pagebreak
-** TODO P - Wirtschafts- und Sozialgeschichte: Handbücher, Städtewesen, Biographien
-
 450 ——tiendwörterbicher-und-bexike
 
 51 - 250 Begriff und Theorie der Soziolägie.
@@ -3365,11 +3329,8 @@ Ou Publizistik und Propaganda. Politische Ikonographie
 900 - 1000 Photographie und Film, Rundfunk
 1001 - 1200 Hoheitszeichen ; Staatssymbolik
 
-B__ Wirtschafts - und Sozialgeschichter
-Handbücher; Städtewesen; Biographien,
-
-P_a___Hanfbücher, Einführungen und Sannelwerke_ (allgemein usNeuzeit)
-
+** TODO P - Wirtschafts- und Sozialgeschichte: Handbücher, Städtewesen, Biographien
+*** Pa - Handbücher, Einführungen und Sannelwerke (allgemein usNeuzeit)
 1- 50 Handbücher, Handwörterbücher
 51 - 100 (bleibt frei)
 101 = 400 Begriff der Wirtschafts - und Sozialgeschichte;
@@ -3379,7 +3340,7 @@ allgemeine methodische Probleme
 500 ff, Speziell Sozialgeschichte
 551 - 700 Aufsatzsamnlungen
 701 = 800 Sammelwerke
-Pb ellensammlı n und Gesantdarstellungen (allgemein u.Neuzeit
+*** Pb - Qellensammlı n und Gesantdarstellungen (allgemein u.Neuzeit
 1- 200 Quellen und Quellensammlungen
 201 - 300 Gesantdarstellungen
 301 - 500 Gesamtdarstellungen der Wirtschaftsgeschichte
@@ -3390,7 +3351,7 @@ einzelner Länder (außer Deutschland
 801 - 900 Wirtschaftsgeschichte der Neuzeit: 16. - 18. Jhdt.
 901 - 1000 Wirtschaftsgeschichte der Neuzeit: 19. - 20. Jhät,
 (jeweils für alle Länder)
-Po Stäädtewesens Äußere cheinungsformen
+*** Pc - Stäädtewesens Äußere cheinungsformen
 1 = 100 Quellen (ohne Urkundenbticher)
 101 = 200 Die mittelalterliche Erscheinungsforn der Stadt:
 Allgemeines
@@ -3402,52 +3363,33 @@ Deutschland
 501 - 6500 Stadt und flaches Land
 601 — 700 Der städtische Standı Bürgertum -— Allgemeines
 701 - 800 Der städtische Stand: Bürgertun, Bevölkerungsstatistik
-
 801 - 900
-
 und Soziologie
 Das Patriziat
-
-P_d__ Stäätewesen: Verwaltungs - und Rechtsfragen
-
+*** Pd - Stäätewesen: Verwaltungs - und Rechtsfragen
 1- 100 Organisationsfornen des Handwerksı Zünfte -
-
 Allgemeines (s.2.98 201-250)
-
 101 - 200 Organisationsformen des Handwerkss Zünfte -
 Einzelnes
-
 201 - 300 Gewerberecht
-
 301 — 400 Stadtverfassung und Bürgerrecht
-
 401 - 500 Eigentunsverhältnisse
-
 501 - 600 Wirtschafts - und Wohlfahrtspolitik der Städte
-
 (ohne Finanz - und Steuerwesen, siehe hierzus
 Geld - und Bankwesen Qk)
-
 601 - 700 Gerichtswesen der Städte
 701 - 800 Wehrverfassung der Städte
-
-PB e__ Monographien zur inneren Geschichte der StädtesDeutschland
-
+*** Pe - Monographien zur inneren Geschichte der StädtesDeutschland
 1- 300 Norddeutsche Städte
 301 - 600 Mitteldeutsche Städte
 601 - 900 Süddeutsche Städte (einschl. Schweiz u. Österreich)
-
-B_f___Monographien zur inneren Geschichte der Stäätes
-außerädsutsche Städte
-
+*** Pf - Monographien zur inneren Geschichte der Stäätes außerädsutsche Städte
 1- 100 Skandinavische Städte
 101 - 200 VWesteuropäische Städte
 201 - 300 Südeuropäische Städte
 301 - 400 Osteuropäische Städte
 401 - 600 Außereuropäische Städte
-
-P m _ Wirtschaftsgeschichtliche Biographien (Neuzeit)
-
+*** Pm - Wirtschaftsgeschichtliche Biographien (Neuzeit)
 1- 50 Allgemeine biographische Probleme
 51- 150 Biographische Sammelwerke
 150 - 200 Geschichte des Kaufmanns
@@ -3455,10 +3397,7 @@ P m _ Wirtschaftsgeschichtliche Biographien (Neuzeit)
 251 - 500 Geschichte des Bankiers
 301 - 400 Geschichte des Unternehmers
 401 - 500 (bleibt frei)
-
-501 - 1000 Wirtschaftsgeschichtliche Biographien
-( in alphabetischer Reihenfolge)
-
+501 - 1000 Wirtschaftsgeschichtliche Biographien ( in alphabetischer Reihenfolge)
 \pagebreak
 ** TODO Q - Wirtschafts- und Sozialgeschichte: Mittelalter, Neuzeit
 *** DONE Qc - Einführungen, Überblicke (Mittelalter)
@@ -3499,41 +3438,19 @@ CLOSED: [2022-07-13 Wed 20:05]
 *** TODO Qz - Wirtschatstheorie und Volkwirtschaftslehre
 \pagebreak
 ** TODO R - Kulturgeschichte, Geschichte der Künste, Geschichte der Technik, Mediengeschichte, Umweltgeschichte
-R Kulturgeschichte, Geschichte der Künste, Geschichte
-
-der Technik
-
-Ra Lexika, allgemeine Atlanten und Biläwerke zur
-Kulturgeschichte
-
-Rb Allgemeine Darstellungen und Handblicher zur Kulturgeschichte
-
-Re Archäologie und Kunstgeschichte: Hilfsmittel und
-Gesamtdarstellungen
-
-R£ Archäologie und Kunstgeschichte: Monographien und systematische
-Darstellungen
-
-Rg Musikgeschichte
-
-Rh Sprachgeschichte
-
-Ri Literaturgeschichte
-
-Rk Geschichte des Buch- und Verlagswesens
-
-Rn Sittengeschichte
-
-Ro Volkskunde
-
-Rs Geschichte der R Technik: Problem und allgemeine Darstellungen, Halo. grlitk
-
-Rt Geschichte der Technik: Monographien
-
-Bu Umwaltaaschich ke
-
-R__Kulturgssohiohte, Geschiehte der Künste, Geschichte der
-Technik.
+*** Ra - Lexika, allgemeine Atlanten und Biläwerke zur Kulturgeschichte
+*** Rb - Allgemeine Darstellungen und Handblicher zur Kulturgeschichte
+*** Re - Archäologie und Kunstgeschichte: Hilfsmittel und Gesamtdarstellungen
+*** Rf - Archäologie und Kunstgeschichte: Monographien und systematische Darstellungen
+*** Rg - Musikgeschichte
+*** Rh - Sprachgeschichte
+*** Ri - Literaturgeschichte
+*** Rk - Geschichte des Buch- und Verlagswesens
+*** Rn - Sittengeschichte
+*** Ro - Volkskunde
+*** Rs - Geschichte der R Technik: Problem und allgemeine Darstellungen, Halo. grlitk
+*** Rt - Geschichte der Technik: Monographien
+*** Ru - Umwaltaaschich ke
 
 Ze _leziks, Allgemeine Atlanten und Biläwerke_zur Kulturgeschichte
 
@@ -3766,30 +3683,16 @@ Innerhalb der Untergruppen ohronologisch!
 
 \pagebreak
 ** TODO T - Religions- und Kirchengeschichte
-TE Religions- unä Kirchengeschichte
-
-Ta Religionsgeschichte, Weltreligionen
-
-Tb Christentum: Grundlagen, Hilfsmittel und Lexika,
-Nachschlagewerke.
-
-ga Das Christemtum und seine Umwelt
-
-Tt Darstellungen der allgemeinen Kirchengeschichte
-
-Te Ergänzende Disziplinen: Papsttum, Patriarchate
-
-Th Ergänzende Disziplinen: Konzilien und Klerus
-
-TJ Orden
-
-m. Ergänzende Disziplinen
-
-Tan Ergänzende Disziplinen: Symbolik ( Konfessionskunde )
-
-To Kirchliche Rechtsgeschichte
-
-T - Religions- und Kirchengeschichte
+*** Ta - Religionsgeschichte, Weltreligionen
+*** Tb - Christentum: Grundlagen, Hilfsmittel und Lexika, Nachschlagewerke.
+*** Td - Das Christemtum und seine Umwelt
+*** Tf - Darstellungen der allgemeinen Kirchengeschichte
+*** Tg - Ergänzende Disziplinen: Papsttum, Patriarchate
+*** Th - Ergänzende Disziplinen: Konzilien und Klerus
+*** Tj - Orden
+*** Tl -  Ergänzende Disziplinen
+*** Tn - Ergänzende Disziplinen: Symbolik ( Konfessionskunde )
+*** To - Kirchliche Rechtsgeschichte
 
 Ta Religionsgeschichte, Weltreligionen
 1 - 50 Religionswissenschaft, Phänomenologie der Religion,
@@ -4109,9 +4012,37 @@ CLOSED: [2022-07-15 Fri 21:53]
 \pagebreak
 * Institut für Fränkisch-Pfälzsische Landesgeschichte
 ** I - Bibliographie und Hilfswissenschaften, zur landesgeschichtlichen Methode
-*** 01 ff - Bibliographie, allgemein
-*** 10 ff - Allgemeine Quellenkunde
-*** 40 ff - Bibliothekskunde, Regionalbibliographien
+*** 001 - xxx Bibliographie, allgemein
+*** 010 - xxx Allgemeine Quellenkunde
+*** 040 - xxx Bibliothekskunde, Regionalbibliographien
+**** 040 - xxx Baden
+**** 047 - 049 Baden-Württemberg
+**** 050 - xxx Pfalz
+**** 060 - xxx Saar
+**** 069/1 - xxx Elsaß
+**** 069/20 - xxx Lothringen
+**** 069/40 - xxx Luxemburg
+**** 069/60 - xxx Hessen (Rheinland)
+**** 069/80 - xxx Franken
+**** 069/100 - xxx Württemberg
+**** 069/120 - xxx Weitere Gebiete
+*** Archivkunde
+**** Baden
+**** Pfalz
+**** Saar
+**** Elsaß
+**** Lothringen
+**** Luxemburg
+**** Hessen (Rheinland)
+**** Franken
+**** Württemberg
+**** Weitere Gebiete
+*** Museumskunde
+*** Historische Hilfswissenschaften (Heraldik)
+*** Siegel- und Wappenkunde
+*** Münzkunde
+*** Archäologie (Burgenkunde etc) /Ur-u.Frühgeschichte
+*** Chronologie
 ** II - Zeitschriften und Buchreihen
 ** III - Festschriften und Sammelbände
 *** III 0001 - 0014 Allgemeines
@@ -4138,52 +4069,6 @@ CLOSED: [2022-07-15 Fri 21:53]
 ** XX - Karten
 ** XXI - Wandkarten
 ** XXII - Reisebücher
-
-Bibliographie, allgemein
-Allgemeine Quellenkunde
-
-Bibliothekskunde ,Regionalbibliographien
-Baden
-
-Baden-Württemberg
-Pfalz
-
-Saar
-
-Elsaß
-
-Lothringen
-Luxemburg
-
-Hessen (Rheinland)
-Franken
-Württemberg
-Weitere Gebiete
-
-Archivkunde
-Baden
-
-Pfalz
-
-Saar
-
-Elsaß
-Lothringen
-Luxemburg
-Hessen (Rheinland)
-Franken
-Württemberg
-Weitere Gebiete
-
-Museumskunde
-
-Historische Hilfswissenschaften (Heraldik)
-Siegel- und Wappenkunde
-
-Münzkunde
-
-Archäologie (Burgenkunde etc) /Ur-u.Frühgeschichte
-Chronologie
 
 II
 
