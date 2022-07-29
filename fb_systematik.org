@@ -7,14 +7,18 @@
 #+LATEX_HEADER: \pagestyle{fancy}
 #+LATEX_HEADER: \usepackage[ddmmyyyy]{datetime}
 #+LATEX_HEADER: \usepackage{titlesec}
+#+LATEX_HEADER: \setcounter{tocdepth}{2}
 
 /Und zugleich signierte ich die bis dahin mit nur den drei Buchstaben A, B, C gegliederte, deshalb völlig unbenutzbare, Seminarbibiothek aufs Neue mit 24 mal 24 Signaturen von Aa bis Zz - vielleicht die Leistung, die mich am längsten überdauern wird (Auch wenn wegen der Einspruchsgewalt der damaligen, unter sich uneinigen, Ordinarien manche bibliographische Inkonsequenz im Katalog verewigt werde musste)./[fn:1]
 
 
 \rightline{Reinhart Koselleck}
 
+\tableofcontents
+
 [[https://github.com/avanides/hd-hs-fachbibliothek][laufend aktualisiert auf GitHub]]
 
+\pagebreak
 * Historisches Seminar
 ** DONE A - Hilfsmittel und Hilfswissenschaften
 CLOSED: [2022-07-27 Wed 11:19]
@@ -7171,7 +7175,7 @@ I abgeschlossene und nicht vollständig geführte Zeitschriften (geordnet nach E
 * Schurman Bibliothek
 Alle Signaturen beginnen mit ~Sch~.
 ** I. Allgemeines
-** 1. *Allgemeine Hilfsmittel*
+** 1. Allgemeine Hilfsmittel
 *** 1.0. Universalgeschichtliche Werke (Weltgeschichte)
 *** 1.1. Methoden und Theorien der Geschichtswissenschaft
 *** 1.2. Geschichte der Geschichtsschreibung, allg. Aufsatzsammlungen zum Forschungsstand
@@ -7204,7 +7208,7 @@ Alle Signaturen beginnen mit ~Sch~.
 *** 1.9.  *(frei)*
 *** 1.10. *(frei)*
 \pagebreak
-** 2. *Quellen und Darstellungen zur Geschichte der USA (chronologische Gliederung, ohne Außenpolitik)*
+** 2. Quellen und Darstellungen zur Geschichte der USA (chronologische Gliederung, ohne Außenpolitik)
 *** 2.1.  *Quellen zur Gesamtgeschichte der USA*
 *** 2.2.  *Gesamtdarstellungen, Übergreifende Interpretationen, Handbücher, Serien, etc.*
 *** 2.3.  *Kolonialzeit bis 1763*
@@ -7342,7 +7346,7 @@ Alle Signaturen beginnen mit ~Sch~.
 ***** 2.12.4.8. /New Left/Protest movements/
 ***** 2.12.4.9. /Sonstiges/
 \pagebreak
-** 3. *Übergreifende Quellen und Darstellungen zu einzelnen Sachbereichen der Innenpolitik*
+** 3. Übergreifende Quellen und Darstellungen zu einzelnen Sachbereichen der Innenpolitik
 *** 3.1. *Geographie und Umwelt*
 *** 3.2. *Historische Geographie*
 *** 3.3. *Expansion nach Westen und die Frontier*
@@ -7396,7 +7400,7 @@ Alle Signaturen beginnen mit ~Sch~.
 **** 3.9.3. Allgemeine Interpretationen, Gesamtdarstellungen, Handbücher etc.
 **** 3.9.4. Besondere Themen
 \pagebreak
-** 4. *Quellen und Darstellungen zur Außenpolitik und den internationalen
+** 4. Quellen und Darstellungen zur Außenpolitik und den internationalen
    Beziehungen der USA*
 *** 4.1. *Allgemeine Quellensammlungen*
 *** 4.2. *Gesamtdarstellungen, Allgemeine Interpretationen, Handbücher etc.*
@@ -7488,7 +7492,7 @@ Alle Signaturen beginnen mit ~Sch~.
 **** 4.9.18. 11. September / War on Terror / Irakkrieg
 **** 4.9.19. Besondere Themen
 \pagebreak
-** 5. *Deutsch-Amerikanische Beziehungen*
+** 5. Deutsch-Amerikanische Beziehungen
 *** 5.1. *Quellen*
 *** 5.2. *Gesamtdarstellungen, Allgemeine Interpretationen, Handbücher*
 *** 5.3. *Deutsch-Amerikanische Beziehungen, 1776--1871*
@@ -7535,7 +7539,7 @@ Alle Signaturen beginnen mit ~Sch~.
   :PROPERTIES:
   :CUSTOM_ID: iii.-kanada
   :END:
-** 20. *Allgemeine Hilfsmittel*
+** 20. Allgemeine Hilfsmittel
 *** 20.1. *Geschichte der Geschichtsschreibung, allg. Aufsatzsammlungen zum Forschungsstand*
 *** 20.2. *Verzeichnisse von Archiv- und Quellenbeständen*
 *** 20.3. *Bibliographien zur Geschichte Kanadas*
@@ -7545,7 +7549,7 @@ Alle Signaturen beginnen mit ~Sch~.
 **** 20.4.3. Historische Nachschlagewerke
 **** 20.4.4. Reiseführer und Bildbände
 \pagebreak
-** 21. *Gesamtgeschichte Kanadas*
+** 21. Gesamtgeschichte Kanadas
 *** 21.1. *Quellen zur Gesamtgeschichte Kanadas*
 *** 21.2. *Gesamtdarstellungen, Übergreifende Interpretationen, Handbücher etc.*
 \pagebreak
@@ -7580,7 +7584,7 @@ Alle Signaturen beginnen mit ~Sch~.
 **** 22.6.7. *Religions-, Kultur- und Geistesgeschichte*
 **** 22.6.8. *Militärgeschichte*
 \pagebreak
-** 23. *Außenpolitik*
+** 23. Außenpolitik
 *** 23.1. *Allgemeine Quellensammlungen*
 *** 23.2. *Gesamtdarstellungen, Handbücher*
 *** 23.3. *Besondere Bereiche der Außenpolitik*
@@ -7608,7 +7612,7 @@ Alle Signaturen beginnen mit ~Sch~.
 ***** 23.4.3.3. /Personen/
 ***** 23.4.3.4. /Einzelne Bereiche/
 \pagebreak
-** 24. *Quellen und Darstellungen zur kanadischen Geschichte (chronologische Gliederung, ohne Außenpolitik)*
+** 24. Quellen und Darstellungen zur kanadischen Geschichte (chronologische Gliederung, ohne Außenpolitik)
 *** 24.1. *Von den Anfängen bis zum Ende der Amerikanischen Revolution, 1500--1789*
 **** 24.1.1. Quellen
 **** 24.1.2. Gesamtdarstellungen
@@ -7658,13 +7662,13 @@ Alle Signaturen beginnen mit ~Sch~.
   :PROPERTIES:
   :CUSTOM_ID: iv.-nicht-nordamerikanische-geschichte
   :END:
-** 40. *Altamerika*
+** 40. Altamerika
 *** 40.1. Gesamtdarstellungen
 *** 40.2. Besondere Themen
-** 41. *Südamerika*
+** 41. Südamerika
 *** 41.1. Gesamtdarstellungen
 *** 41.2. Besondere Themen
-** 42. *Europa*
+** 42. Europa
 *** 42.1. England
 *** 42.2. Gesamtdarstellungen/EU
 *** 42.3. Besondere Themen
@@ -8570,7 +8574,6 @@ Parteien*
 2. Gesamtdarstellungen/EU
 
 3. Besondere Themen
-
 
 ** V. Periodika/Microformen
 ** 70. Mikroformen
