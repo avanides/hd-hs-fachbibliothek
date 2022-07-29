@@ -6,6 +6,7 @@
 #+LATEX_HEADER: \usepackage{fancyhdr}
 #+LATEX_HEADER: \pagestyle{fancy}
 #+LATEX_HEADER: \usepackage[ddmmyyyy]{datetime}
+#+LATEX_HEADER: \usepackage{titlesec}
 
 /Und zugleich signierte ich die bis dahin mit nur den drei Buchstaben A, B, C gegliederte, deshalb völlig unbenutzbare, Seminarbibiothek aufs Neue mit 24 mal 24 Signaturen von Aa bis Zz - vielleicht die Leistung, die mich am längsten überdauern wird (Auch wenn wegen der Einspruchsgewalt der damaligen, unter sich uneinigen, Ordinarien manche bibliographische Inkonsequenz im Katalog verewigt werde musste)./[fn:1]
 
@@ -2900,435 +2901,203 @@ Wr -äüddeutschland
 901 - 1000 Bayrisches Schwaben
 
 \pagebreak
-** TODO N - Anthropologie, Völkerkunde, Bevölkerungswissenschaft
+** DONE N - Anthropologie, Völkerkunde, Bevölkerungswissenschaft
+CLOSED: [2022-07-29 Fri 19:20]
 *** Na - Anthropologie
 **** 0001 - 0400 Allgemeine Anthropologie (chron. georänet)
-401 - 500 (bleidt frei)
-501 - 700 Spezialprobleme der Anthropologie
+**** 0401 - 0500 (bleibt frei)
+**** 0501 - 0700 Spezialprobleme der Anthropologie
 *** Nc - Psychologie und Charskterkunde
-1 - 100 Allgemeine Psychologie. Einführungen
-101 - 250 Geschichte der Psychologie
-251 - 300 (bleibt frei)
-301 - 600 Spezialprobleme der Psychologie und Charakterkunde
+**** 0001 - 0100 Allgemeine Psychologie. Einführungen
+**** 0101 - 0250 Geschichte der Psychologie
+**** 0251 - 0300 (bleibt frei)
+**** 0301 - 0600 Spezialprobleme der Psychologie und Charakterkunde
 *** Ne - Rassenkunde (Ideologie der "Rasse" vgl. unter Ge!)
-1 - 300 Theorie, Allgemeines
-301 - 400 Handbtlicher, größere Darstellungen
-401 - 500 (bleibt frei)
-501 — 700 Einzeldarstellungen
+**** 0001 - 0300 Theorie, Allgemeines
+**** 0301 - 0400 Handbtlicher, größere Darstellungen
+**** 0401 - 0500 (bleibt frei)
+**** 0501 — 0700 Einzeldarstellungen
 *** Ni - Bevölkerungswissenschaft und Beyölkerungsgeschichte
-Einführungen, Methodik
-Handblicher, 'Gesamtdarstellungen der Bevölkerungs-
-wissenschaft
-200
-300
-301 - 500 Einzelprobleme der Bevölkerungswissensohaft
-00 Geschichte der Bevölkerungswissenschaft
-800 Quellen zur Bevölkerungsgeschichte
-880 Darstellungen zur Bevölkerungsgeschichte
-881 - 1000 Einzelprobleme der Jewölkerungsgeschichte
+**** 0001 - 0200 Einführungen, Methodik
+**** 0201 - 0300 Handblicher, 'Gesamtdarstellungen der Bevölkerungswissenschaft
+**** 0301 - 0500 Einzelprobleme der Bevölkerungswissensohaft
+**** 0501 - 0600 Geschichte der Bevölkerungswissenschaft
+**** 0601 - 0800 Quellen zur Bevölkerungsgeschichte
+**** 0801 - 0880 Darstellungen zur Bevölkerungsgeschichte
+**** 0881 - 1000 Einzelprobleme der Jewölkerungsgeschichte
 *** Nj - Statistik
-1- 200 Theprie, Methodik
-201 - 300 Quellen und Quellensammlungen
-301 =. 400 Handbücher, Gesamtdarstellungen
-401 — 600 Eingelprobleme
-601 - 700 (vleibt frei)
-701 - 1000 Geschichte der Statistik
+**** 0001 - 0200 Theorie, Methodik
+**** 0201 - 0300 Quellen und Quellensammlungen
+**** 0301 - 0400 Handbücher, Gesamtdarstellungen
+**** 0401 — 0600 Eingelprobleme
+**** 0601 - 0700 (bleibt frei)
+**** 0701 - 1000 Geschichte der Statistik
 *** Nk - Ethnologie und Völkerkunde
-1 =. 100 Einführungen, Allgemeines
-101 = 200 (bleibt frei)
-201 = 300 Handbücher, größere Darstellungen
-301 - 400 (bleibt frei)
-401 - 600 Spezialuntersuchungen
-601 - 700 (bleibt frei)
-701 - 1000 Gesshichte der Ethnologie
+**** 0001 - 0100 Einführungen, Allgemeines
+**** 0101 - 0200 (bleibt frei)
+**** 0201 - 0300 Handbücher, größere Darstellungen
+**** 0301 - 0400 (bleibt frei)
+**** 0401 - 0600 Spezialuntersuchungen
+**** 0601 - 0700 (bleibt frei)
+**** 0701 - 1000 Gesshichte der Ethnologie
 *** Nm - Olckultisms, Astrologie, Kosmologie
-1- 100 Allgemeines
-101 - 200 (bleibt frei)
-201 = 300 Quellen und Dars tellungen zur Geschichte des
-Okkultisms
-301 = 400 (bleibt frei)
-401 - 500 Astrologie
-501 - 600 (bleibt frei)
-601 - 700 Kosmologie
+**** 0001 - 0100 Allgemeines
+**** 0101 - 0200 (bleibt frei)
+**** 0201 - 0300 Quellen und Dars tellungen zur Geschichte des Okkultisms
+**** 0301 - 0400 (bleibt frei)
+**** 0401 - 0500 Astrologie
+**** 0501 - 0600 (bleibt frei)
+**** 0601 - 0700 Kosmologie
 *** Nq - Gesundheits- und Ernährungswssen
-1 = 200 Nahrungswesen, Geschichte der Ernährung
-201 - 300 (pleibt frei)
-301 - 500 Gesundheitswesen, Hygiene
-501 - 600 (bleibt frei)
-
-Seuchen und Seuchengeschichte
+**** 0001 - 0200 Nahrungswesen, Geschichte der Ernährung
+**** 0201 - 0300 (pleibt frei)
+**** 0301 - 0500 Gesundheitswesen, Hygiene
+**** 0501 - 0600 (bleibt frei)
+**** 0601 - 0800 Seuchen und Seuchengeschichte
 \pagebreak
-** TODO O - Recht, Politik, Staat und Gesellschaft, Internationale Beziehungen
+** DONE O - Recht, Politik, Staat und Gesellschaft, Internationale Beziehungen
+CLOSED: [2022-07-29 Fri 19:57]
 *** Oa - Handbücher und Lexika
 *** Oc - Rechtsphilosophie ; Römisches Recht ; Germanische Rechtsgeschichte
+**** 0001 - 0100 Rechtsphilosophie. Allgemeine Probleme des Rechts und der Rechtewissenschaft
+**** 0101 - 0190 Rönisches Recht; Geschichte des Römischen Rechts
+**** 0191 - 0600 Germanische Rechtsgeschichte
+***** 0191 - 0300 Handbücher und allgemeine Einführungen
+***** 0301 - 0379 Quellen und Quellensammlungen
+***** 0371 - 0500 Allgemeine Darstellungen
+***** 0501 - 0550 Darstellungen einzelner Epochen; Monographien
+***** 0551 - 0600 Darstellungen spezieller Probleme; Monographien
+**** 0601 - 0800 (bleibt frei)
+**** 0801 - 0900 Straf- und Privatrecht. Geschichte des Strafrechts und des Privatrechts
 *** Oe - Staatsrecht und Verwaltungsrecht. Allgemeine und deutsche Verfassungsgeschichte
+**** 0001 - 0150 Staats- und Verwaltungsrecht
+**** 0151 - 1000 Verfassungsgeschichte (allgemein und Deutschland)
+***** 0151 - 0200 Allgemeine Problematik
+***** 0201 - 0400 Quellen und Queklensamnlungen
+***** 0401 - 0500 Gesamtdarstellungen
+***** 0501 - 0600 Darstellungen einzelner Epochen
+***** 0601 - 0800 Spezialprobleme der Verfassungsgeschich
+***** 0801 - 0900 Verwaltungsgeschichte
+***** 0901 - 1000 Vergleichende Verfassungsgeschichte. Verfasseungstypologie
 *** Og - Allgemeine Staats- und Verfassungälehre. Politik.
-*** Oh - Spezielle Staats- und Verfassungslehre, Spezialprobleme der Folitischen Wissenschaft,
-*** Ok - Volk, Nation, Nationalitäten und Minderheiten
-*** Ol - Jüdische Geschichte
-*** Om - Völkerrecht
-*** On - Internationale Beziehungen. Geschichte der Diplomatie, Trunıch arp-
-*** Op - Politische und soziale Theorien
-*** Or - Allgemeine Gesellschaftslehre und Soziologie
-*** Ot - Spezialprobleme der Soziologie
-*** Ov - Parteien und Verbände, Parteigeschichte, Wahlsoziologie.
-*** Ow - Publizistik und Propagenda. Politische Ikonographie,
-
-O___RBecht; Politik; Staat und Gesellschaft
-
-0_a___ Handbücher und Lexika
-
-0_0__ Bechtsphilosophie; Römisches Recht; Germanisches
-
-Rechtsgeschichte
-1 - 100 Rechtsphilosophie. Allgemeine Probleme des Rechts
-und der Rechtewissenschaft
-101 - 190 Rönisches Recht; Geschichte des Römischen Rechts
-191 - 600 Germanische Rechtsgeschichte
-191 - 300 Handbücher und allgemeine Einführungen
-301 - 379 Quellen und Quellensammlungen
-371 - 500 Allgemeine Darstellungen
-501 = 550 Darstellungen einzelner Epochen;
-Monographien
-551 - 600 Darstellungen spezieller Probleme;
-Monographien
-601 - 800 (bleibt frei)
-801 - 900 Straf- und Privatrecht. Geschichte des Strafrechts
-
-und des Privatrechts
-
-Verfassungsgsschichte. (außerdeutsche Verfassungsgeschichte
-siehe bei den einzelnen Ländern)
-
-1:= 150 Staats- und Verwaltungsrecht
-
-151 - 1000 Tas ESUgagr Gen ent she (allgemein und Deutschland)
-151 — 20 Allgemeine Problematik
-
-201 - 400 Quellen und Queklensamnlungen
-
-401 - 500 Gesamtdarstellungen
-
-501 -.. 600 Darstellungen einzelner Epochen
-
-601 - 800 Spezialprobleme der Verfassungsgeschich
-
-801 - 900 Verwaltungsgeschichte
-
-901 - 1980 Vergleichende Verfassungsgeschichte.
-Verfasseungstypologie
-
-9_&__Allgemeine Stasts-_und Verfassungslehre. Politik.
-
-1- 30 Lexika; Handbücher
-
-31 - 300 Politische Wissenschaft. Begriff der allgemeinen
-Staatslehre
-
-301 - 400 (bleibt frei)
-
-401 = 800 Allgemeine Staate- und Verfassungslehre. Lehre von
-der Politik (chronologissh georänet)
-
-801 - 900 (bleibt frei)
-
-901 - 1000 Geschichte der Allgemeinen Staatslehre und der
+**** 0001 - 0030 Lexika; Handbücher
+**** 0031 - 0300 Politische Wissenschaft. Begriff der allgemeinen Staatslehre
+**** 0301 - 0400 (bleibt frei)
+**** 0401 - 0800 Allgemeine Staate- und Verfassungslehre. Lehre von der Politik (chronologissh georänet)
+**** 0801 - 0900 (bleibt frei)
+**** 0901 - 1000 Geschichte der Allgemeinen Staatslehre und der
 Politik
-
-w
-
-17-100 Monarchie
-101 - 150 Aristokratie und Adel
-151 = 220 Republik
-
-221 - 500 Demokratie, Repräsentation, Konstitutionalismus,
-Parlanentarismus
-
-501 - 600 Diktatur und Totslitarismus
-
-601 - 700 Menschenrechte, Naturrecht und Widerstandsrecht
-701 = 850 Staat und Revolution
-
-851 - 950 Legalität und Legitimität
-
-951 - 1050 Föderalismus
-
-1051 - 1200 Unitarismus
-1201 = 1400 Stastsverfassung und Heeresverfassung
-
-1- 250 Nation und Nationalstaat
-251 - 400 Nationalismus
-401 - .500 Volk und Nation
-501 - 600 (bleibt frei)
-
-601 - 900 Übernationaler Staat und Nationalitätenproblenz
-Minderheitenfragen
-
-901 - 1000 (Bleibt frei)
-
-a OR dische Geschichte _____ (soweit nicht chronologisch 2.B«
-bei @1 oder I eingeoränet)
-
-1- 100 Allgemeine Probleme
-Hilfsmittel, Bibliographien
-Lexika; Enzyklopädien
-
-201 - 320 Gesamtdarstellungen und Darstellungen der Geschichte
-des Judentums in einzelnen Ländern
-
-Regionale Darötellungen
-
-451 - 8600 Jüdische Geistes- und Kulturgeschichte
-601 - 700 Wirtschaftsgeschichte
-
-701 - 800 Rachtegeschichte
-
-801 - 900 Religionsgeschichte
-
-907 - 1100 Ziopismus
-
-Antisemitismus
-
-u
-no
-EA
-vı.
-nn -
-ou
-[>>]
-
-a
-n
-=,
-'
-ES
-un
-o
-
-1101 —- 1200
-
-Om Völkerrecht
-
-1 - 30 Handbücher und Lexika
-31 - 400 Geschichte des Völkerrechts
-31 - 80 Quellensammlungen zur Gesamtgeschichte des
-Völkerrechts
-
-81 - 140 Quellen zum Völkerrecht bis 1789
-
-141 - 200 Quellen zum Völkerrecht im 19. und 20.
-Jahrhundert
-
-201 - 300 Gesamtdarstellungen
-
-& 301 - 400 Monographien
-
-401 - 550 Theorie des Völkerrechts, Lehrbücher
-
-551 1000 Eiuzelprobleme des Völkerrechts
-
-55l - 600 Souveränität, Nichteinmischung,
-Schiedsgerichtsbarkeit
-
-601 - 650 Staatenverbindungfßen, Bündnisproblem,
-Internationale Organisationen
-
-651 - 720 Frieden und Friedenssicherung
-
-721 - 800 Kriegsrecht
-
-801 - 1000 Sonstige Probleme
-
-On Internationale Beziehungen. Geschichte der Diplomatie
-
-1 -100 Theorie und Begriff der Diplomatie und der Aussenpolitik
-101 - 200 Handwörterbücher und Nachschlagewerke
-
-201 - 700 Geschichte der Diplomatie
-201 - 450 Gesamtdarstellungen
-451 - 700 Geschichte einzielner Epochen
-
-701 - 800 bieibs-ärei Tirtiersellilfh und Tmsuahen runs
-801 - 900 Spezialprobleme der Diplomatiegeschichte ;
-Monographien
-
-901 - 1100 Imperialismus
-1101 ££. Multinationale Konzerne
-
-Op Politische und soziale Theorien
-1 - 200 Politische Theorie
-
-201 - 400 Allgemeine Darstellungen
-
-401 - 1400 Monögisphien
-401 - 450 Machtstaat und Staatsräson
-451 - 500 Utopien
-501 - 550 Friedensidee und Friedensbewegung
-551 - 600 Krieg und Kriegsbegriff
-601 - 650 Kaiseridee ; Monarchie
-651 - 720 Konservativismus
-721 - 800 Politishher Katholizismus
-801 - 950 Liberalismus und Demokratie
-951 - 1000 Anarchie und Autorität
-1001 - 1300 Sozialismus und Kommunismus
-
-1401 HuX ff. Faschismus
-
-Or Allgemeine Gesellschaftslehre und Soziologie
-
-450 ——tiendwörterbicher-und-bexike
-
-51 - 250 Begriff und Theorie der Soziolägie.
-Einführung in die Soziologie
-
-251 - 600 Begriff und Theorie der Gesellschaft ("bürgerliche Gesell-
-schaft", "Staat und Gesellschaft", Gesellschaft und Gemeinschaft")
-
-601 - 700 Enpiri, Soziologie
-
-701 - 800 Historische und politische Soziologie
-
-801 - 1000 Geschichte der Soziologie
-
-Ot Spezialprobleme der Soziologie
-ı - 100 Soziologie der Familie
-
-101 - 150 bleibt frei
-
-151 - 200 Mann, Frau, Kind
-
-201 - 300 Soziologie der Berufe
-
-301 - 600 Soziologie der Stände und der Klassen
-
-601 - 700 Massenaktionen, Soziologie der Revolution (Bürgerrechts-
-bewegungen, gewaltfreier Aufstand)
-
-701 - 900 Masse und Elite ; Führertum und Führungsauslese
-
-901 - 1000 Stadt und Land
-
-1001 ££. Subkulturen, Deviantenforschung
-
-ov Parteien und Verbäldei Farteigeschichte, Wahlsoziologie
-
-(allgemein und Deutschland) aussrrdeutsche Parteigeschichte
-siehe bei den einzelnen Ländern
-
-Y. [ =ı38 Begriff und Theorie der Partei
-
-151 - 300 Soziologie des Parteiwesens ; Parteienrecht
-
-301 - 500 Allgemeine Parteigeschichte, Vergleichende Geschichte
-der Parteien
-
-501 - 600 Deutsche Parteigeschichte: Einführungen
-601 - 750 Deutsche Parteigeschichte: Quellen und Quellensammlungen
-751 - 850 Deutsche Parteigeschichte: Gesamtdarstellungen
-
-851 - 1000 Deutsche Parteigeschichte: Geschichte einzelner Parteien
-1007- - 1100 Wahlrecht und Wahlsoziologie
-
-1101 - 1200 Geheimorganisationen. Geheimbünde
-
-1201 — 1400 Verbände und Geschichte der Verbände
-
-Ou Publizistik und Propaganda. Politische Ikonographie
-
-50 Öffentliche Meinung/Öffentlichkeit
-
-5l -150 Zeitungswissenschaft, Journalistik
-151 - 500 Zeitungsgeschichte
-501 - 1000 Politische Propaganda
-
-501 - 550 Allgemeines
-
-551 - 650 Flugblatt und Flugschrift
-
-651 - 750 Politische Dichtung
-
-751 - 900 Karikatur und Witz
-
-900 - 1000 Photographie und Film, Rundfunk
-1001 - 1200 Hoheitszeichen ; Staatssymbolik
-
+*** Oh - Spezielle Staats- und Verfassungslehre, Spezialprobleme der Folitischen Wissenschaft,
+**** 0001 - 0100 Monarchie
+**** 0101 - 0150 Aristokratie und Adel
+**** 0151 - 0220 Republik
+**** 0221 - 0500 Demokratie, Repräsentation, Konstitutionalismus, Parlanentarismus
+**** 0501 - 0600 Diktatur und Totslitarismus
+**** 0601 - 0700 Menschenrechte, Naturrecht und Widerstandsrecht
+**** 0701 - 0850 Staat und Revolution
+**** 0851 - 0950 Legalität und Legitimität
+**** 0951 - 1050 Föderalismus
+**** 1051 - 1200 Unitarismus
+**** 1201 - 1400 Stastsverfassung und Heeresverfassung
+*** Ok - Volk, Nation, Nationalitäten und Minderheiten
+**** 0001 - 0250 Nation und Nationalstaat
+**** 0251 - 0400 Nationalismus
+**** 0401 - 0500 Volk und Nation
+**** 0501 - 0600 (bleibt frei)
+**** 0601 - 0900 Übernationaler Staat und Nationalitätenproblenz Minderheitenfragen
+**** 0901 - 1000 (Bleibt frei)
+*** Ol - Jüdische Geschichte
+**** 0001 - 0100 Allgemeine Probleme
+**** 0101 - 0150 Hilfsmittel, Bibliographien
+**** 0151 - 0200 Lexika; Enzyklopädien
+**** 0201 - 0320 Gesamtdarstellungen und Darstellungen der Geschichte des Judentums in einzelnen Ländern
+**** 0321 - 0450 Regionale Darötellungen
+**** 0451 - 0600 Jüdische Geistes- und Kulturgeschichte
+**** 0601 - 0700 Wirtschaftsgeschichte
+**** 0701 - 0800 Rachtegeschichte
+**** 0801 - 0900 Religionsgeschichte
+**** 0907 - 1100 Ziopismus
+**** 1101 - 1200 Antisemitismus
+*** Om - Völkerrecht
+**** 0001 - 0030 Handbücher und Lexika
+**** 0031 - 0400 Geschichte des Völkerrechts
+***** 0031 - 0080 Quellensammlungen zur Gesamtgeschichte des Völkerrechts
+***** 0081 - 0140 Quellen zum Völkerrecht bis 1789
+***** 0141 - 0200 Quellen zum Völkerrecht im 19. und 20. Jahrhundert
+***** 0201 - 0300 Gesamtdarstellungen
+***** 0301 - 0400 Monographien
+**** 0401 - 0550 Theorie des Völkerrechts, Lehrbücher
+**** 0551 - 1000 Eiuzelprobleme des Völkerrechts
+***** 0551 - 0600 Souveränität, Nichteinmischung, Schiedsgerichtsbarkeit
+***** 0601 - 0650 Staatenverbindungfßen, Bündnisproblem, Internationale Organisationen
+***** 0651 - 0720 Frieden und Friedenssicherung
+***** 0721 - 0800 Kriegsrecht
+***** 0801 - 1000 Sonstige Probleme
+*** On - Internationale Beziehungen. Geschichte der Diplomatie, Trunıch arp-
+**** 0001 - 0100 Theorie und Begriff der Diplomatie und der Aussenpolitik
+**** 0101 - 0200 Handwörterbücher und Nachschlagewerke
+**** 0201 - 0700 Geschichte der Diplomatie
+***** 0201 - 0450 Gesamtdarstellungen
+***** 0451 - 0700 Geschichte einzielner Epochen
+**** 0701 - 0800 Zivilgesellschaft und Transnationalismus
+**** 0801 - 0900 Spezialprobleme der Diplomatiegeschichte ; Monographien
+**** 0901 - 1100 Imperialismus
+**** 1101 - xxxx Multinationale Konzerne
+*** Op - Politische und soziale Theorien
+**** 0001 - 0200 Politische Theorie
+**** 0201 - 0400 Allgemeine Darstellungen
+**** 0401 - 1400 Monögisphien
+***** 0401 - 0450 Machtstaat und Staatsräson
+***** 0451 - 0500 Utopien
+***** 0501 - 0550 Friedensidee und Friedensbewegung
+***** 0551 - 0600 Krieg und Kriegsbegriff
+***** 0601 - 0650 Kaiseridee ; Monarchie
+***** 0651 - 0720 Konservativismus
+***** 0721 - 0800 Politishher Katholizismus
+***** 0801 - 0950 Liberalismus und Demokratie
+***** 0951 - 1000 Anarchie und Autorität
+***** 1001 - 1300 Sozialismus und Kommunismus
+***** 1401 - xxxx Faschismus
+*** Or - Allgemeine Gesellschaftslehre und Soziologie
+**** 0051 - 0250 Begriff und Theorie der Soziolägie. Einführung in die Soziologie
+**** 0251 - 0600 Begriff und Theorie der Gesellschaft ("bürgerliche Gesell- schaft", "Staat und Gesellschaft", Gesellschaft und Gemeinschaft")
+**** 0601 - 0700 Enpiri, Soziologie
+**** 0701 - 0800 Historische und politische Soziologie
+**** 0801 - 1000 Geschichte der Soziologie
+*** Ot - Spezialprobleme der Soziologie
+**** 0001 - 0100 Soziologie der Familie
+**** 0101 - 0150 bleibt frei
+**** 0151 - 0200 Mann, Frau, Kind
+**** 0201 - 0300 Soziologie der Berufe
+**** 0301 - 0600 Soziologie der Stände und der Klassen
+**** 0601 - 0700 Massenaktionen, Soziologie der Revolution (Bürgerrechts- bewegungen, gewaltfreier Aufstand)
+**** 0701 - 0900 Masse und Elite ; Führertum und Führungsauslese
+**** 0901 - 1000 Stadt und Land
+**** 1001 - xxxx Subkulturen, Deviantenforschung
+*** Ov - Parteien und Verbände, Parteigeschichte, Wahlsoziologie.
+~(allgemein und Deutschland) aussrrdeutsche Parteigeschichte siehe bei den einzelnen Ländern~
+**** 0001 - 0150 Begriff und Theorie der Partei
+**** 0151 - 0300 Soziologie des Parteiwesens ; Parteienrecht
+**** 0301 - 0500 Allgemeine Parteigeschichte, Vergleichende Geschichte der Parteien
+**** 0501 - 0600 Deutsche Parteigeschichte: Einführungen
+**** 0601 - 0750 Deutsche Parteigeschichte: Quellen und Quellensammlungen
+**** 0751 - 0850 Deutsche Parteigeschichte: Gesamtdarstellungen
+**** 0851 - 1000 Deutsche Parteigeschichte: Geschichte einzelner Parteien
+**** 1007 - 1100 Wahlrecht und Wahlsoziologie
+**** 1101 - 1200 Geheimorganisationen. Geheimbünde
+**** 1201 — 1400 Verbände und Geschichte der Verbände
+*** Ow - Publizistik und Propagenda. Politische Ikonographie,
+**** 0001 - 0050 Öffentliche Meinung/Öffentlichkeit
+**** 0051 - 0150 Zeitungswissenschaft, Journalistik
+**** 0151 - 0500 Zeitungsgeschichte
+**** 0501 - 1000 Politische Propaganda
+***** 0501 - 0550 Allgemeines
+***** 0551 - 0650 Flugblatt und Flugschrift
+***** 0651 - 0750 Politische Dichtung
+***** 0751 - 0900 Karikatur und Witz
+***** 0900 - 1000 Photographie und Film, Rundfunk
+**** 1001 - 1200 Hoheitszeichen ; Staatssymbolik
 \pagebreak
-450 ——tiendwörterbicher-und-bexike
-
-51 - 250 Begriff und Theorie der Soziolägie.
-Einführung in die Soziologie
-
-251 - 600 Begriff und Theorie der Gesellschaft ("bürgerliche Gesell-
-schaft", "Staat und Gesellschaft", Gesellschaft und Gemeinschaft")
-
-601 - 700 Enpiri, Soziologie
-
-701 - 800 Historische und politische Soziologie
-
-801 - 1000 Geschichte der Soziologie
-
-Ot Spezialprobleme der Soziologie
-ı - 100 Soziologie der Familie
-
-101 - 150 bleibt frei
-
-151 - 200 Mann, Frau, Kind
-
-201 - 300 Soziologie der Berufe
-
-301 - 600 Soziologie der Stände und der Klassen
-
-601 - 700 Massenaktionen, Soziologie der Revolution (Bürgerrechts-
-bewegungen, gewaltfreier Aufstand)
-
-701 - 900 Masse und Elite ; Führertum und Führungsauslese
-
-901 - 1000 Stadt und Land
-
-1001 ££. Subkulturen, Deviantenforschung
-
-ov Parteien und Verbäldei Farteigeschichte, Wahlsoziologie
-
-(allgemein und Deutschland) aussrrdeutsche Parteigeschichte
-siehe bei den einzelnen Ländern
-
-Y. [ =ı38 Begriff und Theorie der Partei
-
-151 - 300 Soziologie des Parteiwesens ; Parteienrecht
-
-301 - 500 Allgemeine Parteigeschichte, Vergleichende Geschichte
-der Parteien
-
-501 - 600 Deutsche Parteigeschichte: Einführungen
-601 - 750 Deutsche Parteigeschichte: Quellen und Quellensammlungen
-751 - 850 Deutsche Parteigeschichte: Gesamtdarstellungen
-
-851 - 1000 Deutsche Parteigeschichte: Geschichte einzelner Parteien
-1007- - 1100 Wahlrecht und Wahlsoziologie
-
-1101 - 1200 Geheimorganisationen. Geheimbünde
-
-1201 — 1400 Verbände und Geschichte der Verbände
-
-Ou Publizistik und Propaganda. Politische Ikonographie
-
-50 Öffentliche Meinung/Öffentlichkeit
-
-5l -150 Zeitungswissenschaft, Journalistik
-151 - 500 Zeitungsgeschichte
-501 - 1000 Politische Propaganda
-
-501 - 550 Allgemeines
-
-551 - 650 Flugblatt und Flugschrift
-
-651 - 750 Politische Dichtung
-
-751 - 900 Karikatur und Witz
-
-900 - 1000 Photographie und Film, Rundfunk
-1001 - 1200 Hoheitszeichen ; Staatssymbolik
-
 ** TODO P - Wirtschafts- und Sozialgeschichte: Handbücher, Städtewesen, Biographien
 *** Pa - Handbücher, Einführungen und Sannelwerke (allgemein usNeuzeit)
 1- 50 Handbücher, Handwörterbücher
