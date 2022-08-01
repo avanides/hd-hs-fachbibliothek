@@ -7580,8 +7580,8 @@ Alle Signaturen beginnen mit ~Sch~.
 **** 22.6.4. Parteien und Wahlen
 **** 22.6.5. Einzelstaaten, Regionen, Territorien
 **** 22.6.6. Sonstiges
-**** 22.6.7. *Religions-, Kultur- und Geistesgeschichte*
-**** 22.6.8. *Militärgeschichte*
+**** 22.6.7. Religions-, Kultur- und Geistesgeschichte
+**** 22.6.8. Militärgeschichte
 \pagebreak
 ** 23. Außenpolitik
 *** 23.1. *Allgemeine Quellensammlungen*
