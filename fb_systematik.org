@@ -20,8 +20,7 @@
 
 \pagebreak
 * Historisches Seminar
-** DONE A - Hilfsmittel und Hilfswissenschaften
-CLOSED: [2022-07-27 Wed 11:19]
+** A - Hilfsmittel und Hilfswissenschaften
 *** Aa - Wörterbücher und philologische Hilfsmittel
 **** 0001 - 0020 mehrsprachige Wörterbücher
 **** 0021 - 0030 griechische
@@ -40,7 +39,6 @@ CLOSED: [2022-07-27 Wed 11:19]
 ***** 0721 - 0740 französisch
 ***** 0741 - 0780 spanisch
 ***** 0781 - 0820 englisch
-***** 0821 - 0900 sonstige
 ***** 0901 - 0999 deutsch
 *** Ab - offen
 *** Ac - Historische Geographie
@@ -273,8 +271,7 @@ CLOSED: [2022-07-27 Wed 11:19]
 *** Bx - Übungstexte und Quellenauswahlen
 *** Bz - Übersetzungen von im engeren Sinn historischen Quellen
 \pagebreak
-** DONE C - Quellenkunde zum Mittelalter
-CLOSED: [2022-07-15 Fri 21:53]
+** C - Quellenkunde zum Mittelalter
 *** Ca - Einführung in Studium und Quellen des Mittelalters
 **** 0001 - 0100 frei
 **** 0101 - 0200 deutsche Einführungen in Studium und Methode (Mittelalter)
@@ -423,8 +420,7 @@ CLOSED: [2022-07-15 Fri 21:53]
 ***** 0301 - 0500 deutsche Landschaften
 **** 0501 - 0999 Außerdeutsche Länder und Gebiete, Auswertung in geographischer Anordnung
 \pagebreak
-** DONE D - Mittelalterliche Geschichte (chronologisch)
-CLOSED: [2022-07-15 Fri 21:53]
+** D - Mittelalterliche Geschichte (chronologisch)
 *** Da - Gesamtdarstellungen und Monographien zu gesamtmittelalterlichen Problemen
 **** 0001 - 0100 Das Mittelalter: Literatur zum Begriff, zur Periodisierung, zur Problematik, zum 'Erbe des Mittelalters', Einzelnes
 ***** 0062 - 0070 Biographische Sammelwerke zur ganzen mittelalterlichen Geschichte
@@ -818,8 +814,7 @@ Ordensgeschichts selbst siehe Ec
 **** 0751 - 0800 der deutsche Humanismus
 **** 0801 - 0999 Deutschland vor der Reformation, Kulturgeschichte
 \pagebreak
-** DONE E - Mittelalterliche Geschichte (sachlich)
-CLOSED: [2022-07-15 Fri 21:53]
+** E - Mittelalterliche Geschichte (sachlich)
 *** DONE Ea - Geschichte europäischer Länder und Landschaften I. Die Mittelmeerländer
 CLOSED: [2022-07-15 Fri 22:02]
 **** 0001 - 0050 Gesamtdarstellungen und Monographien zum Mittelmeerraum im Mittelalter
@@ -1550,8 +1545,7 @@ CLOSED: [2022-07-20 Wed 12:01]
 ***** 0901 - 0950 Die Nordseeländer
 ***** 0951 - 0999 Die Mittelmeerländer
 \pagebreak
-** DONE F - 15. - 18. Jahrhundert
-CLOSED: [2022-07-28 Thu 12:25]
+** F - 15. - 18. Jahrhundert
 *** DONE Fa - Renaissance und Humanismus in Italien
 CLOSED: [2022-07-15 Fri 19:41]
 **** 0001 - 0040 Allgemeine Darstellungen der Renaissance und des Humanismus in Europa.
@@ -1828,8 +1822,7 @@ CLOSED: [2022-07-28 Thu 12:25]
 ***** 0876 - 0900 Aussenpolitik
 **** 0901 - 1000 Friedrich Wilhelm II. und seine Zeit
 \pagebreak
-** DONE G - Von der Französischen Revolution bis 1949
-CLOSED: [2022-07-28 Thu 21:52]
+** G - Von der Französischen Revolution bis 1949
 *** DONE Ga - Französische Revolution 1789 bis 1799
 CLOSED: [2022-07-28 Thu 15:34]
 **** 0001 - 0099 Gesamtdarstellungen z.T. bis 1815 (chronologisch nach Erscheinungsdatum)
@@ -2332,41 +2325,33 @@ Hg Besatzungszeit in Deutschland 1945 - 1949 (1- 1400)
 
 1201-1400 Französische Zone
 
-Hi Bundesrepublik Deutschland
-
-1- 3000 Gesamtdarstellungen
-1 -1000 übergreifend
-1001-2000 1949 - 1969
-2001-2499 1970 - 1990
-2500-3000 1990 -
-
-3001-11000 Außenpolitik
-3001-3750 Gesamtdarstellungen
-3751-4500 Zwischenstaatliche Außenpolitik
-
-3751-4000 Gesamtdarstellungen
-4001-4250 1949 — 1969
-4251-4349 1970 - 1990
-4350-4500 1990 -
-4501-5250 Internationale Organisationen (UNO, KSZE, etc.)
-4501-4750 Gesamtdarstellungen
-
-4751-5000 1949 — 1969
-5001-5149 1970 - 1990
-
-5150-5250 1990 -
-5251-8000 Militärpolitik (NATO etc.)
-5251-5500 Gesamtdarstellungen
-
-5501-5750 1949 - 1969
-5751-5849 1970 - 1990
-5850-6000 1990 -
-
-9001-11000 Europa-Politik
-9001-10000 Gesamtdarstellungen
-
-10001-10500 Äußeres
-10501-11000 Inneres
+*** Hi Bundesrepublik Deutschland
+**** 1- 3000 Gesamtdarstellungen
+***** 1 -1000 übergreifend
+***** 1001-2000 1949 - 1969
+***** 2001-2499 1970 - 1990
+***** 2500-3000 1990 -
+**** 3001-11000 Außenpolitik
+***** 3001-3750 Gesamtdarstellungen
+***** 3751-4500 Zwischenstaatliche Außenpolitik
+****** 3751-4000 Gesamtdarstellungen
+****** 4001-4250 1949 — 1969
+****** 4251-4349 1970 - 1990
+****** 4350-4500 1990 -
+***** 4501-5250 Internationale Organisationen (UNO, KSZE, etc.)
+****** 4501-4750 Gesamtdarstellungen
+****** 4751-5000 1949 — 1969
+****** 5001-5149 1970 - 1990
+****** 5150-5250 1990 -
+***** 5251-8000 Militärpolitik (NATO etc.)
+****** 5251-5500 Gesamtdarstellungen
+****** 5501-5750 1949 - 1969
+****** 5751-5849 1970 - 1990
+****** 5850-6000 1990 -
+***** 9001-11000 Europa-Politik
+****** 9001-10000 Gesamtdarstellungen
+****** 10001-10500 Äußeres
+****** 10501-11000 Inneres
 11001-12000 Deutsche Frage, Berlin und deutsch-deutsche Politik 1949 — 1990
 12001-16000 Innenpolitik
 12001--12800 Gesamtdarstellungen
@@ -2498,8 +2483,7 @@ Hi Deutsche Demokratische Republik (1-6500)
 6500-6700 Sammelbiographien
 
 \pagebreak
-** DONE J - Weltgeschichte, Post Colonial Studies
-CLOSED: [2022-07-28 Thu 21:59]
+** J - Weltgeschichte, Post Colonial Studies
 *** Ja - Vor- und Frühgeschichte
 *** Jb - Alte Geschichte
 **** 0001 - 0200 Allgemeine Darstellungen
@@ -2528,8 +2512,7 @@ CLOSED: [2022-07-28 Thu 21:59]
 *** Ju - Brasilien
 ~Jx, Jy und Jz bleiben frei~
 \pagebreak
-** DONE K - Geschichte Asiens, Australiens, Afrikas
-CLOSED: [2022-07-28 Thu 22:22]
+** K - Geschichte Asiens, Australiens, Afrikas
 *** Ka - Asien (Gesamtdarstellungen)
 *** Kb - Ostasien (Gesamtdarstellungen)
 *** Kc - China 
@@ -2609,8 +2592,7 @@ CLOSED: [2022-07-28 Thu 22:22]
 *** Ky - Ostafrika
 *** Kz - Südafrika
 \pagebreak
-** DONE L - Geschichte der europäischen Staaten
-CLOSED: [2022-07-29 Fri 11:47]
+** L - Geschichte der europäischen Staaten
 *** La - Europäische Geschichte
 **** 0001 - 0400 Gesamtdarstellungen
 **** 0401 - 0700 systematische Sondergebiete zur eurpäischen Geschichte (Staatsesysteme, Wechselbeziehungen, europäische Geistesgeschichte)
@@ -2905,8 +2887,7 @@ Wr -äüddeutschland
 901 - 1000 Bayrisches Schwaben
 
 \pagebreak
-** DONE N - Anthropologie, Völkerkunde, Bevölkerungswissenschaft
-CLOSED: [2022-07-29 Fri 19:20]
+** N - Anthropologie, Völkerkunde, Bevölkerungswissenschaft
 *** Na - Anthropologie
 **** 0001 - 0400 Allgemeine Anthropologie (chron. georänet)
 **** 0401 - 0500 (bleibt frei)
@@ -2959,8 +2940,7 @@ CLOSED: [2022-07-29 Fri 19:20]
 **** 0501 - 0600 (bleibt frei)
 **** 0601 - 0800 Seuchen und Seuchengeschichte
 \pagebreak
-** DONE O - Recht, Politik, Staat und Gesellschaft, Internationale Beziehungen
-CLOSED: [2022-07-29 Fri 19:57]
+** O - Recht, Politik, Staat und Gesellschaft, Internationale Beziehungen
 *** Oa - Handbücher und Lexika
 *** Oc - Rechtsphilosophie ; Römisches Recht ; Germanische Rechtsgeschichte
 **** 0001 - 0100 Rechtsphilosophie. Allgemeine Probleme des Rechts und der Rechtewissenschaft
@@ -3104,7 +3084,7 @@ Politik
 \pagebreak
 ** TODO P - Wirtschafts- und Sozialgeschichte: Handbücher, Städtewesen, Biographien
 *** Pa - Handbücher, Einführungen und Sannelwerke (allgemein usNeuzeit)
-1- 50 Handbücher, Handwörterbücher
+**** 0001 - 50 Handbücher, Handwörterbücher
 51 - 100 (bleibt frei)
 101 = 400 Begriff der Wirtschafts - und Sozialgeschichte;
 allgemeine methodische Probleme
@@ -3763,16 +3743,13 @@ U
 801 - 1000 Historische Zeitschriften
 
 \pagebreak
-** DONE V - Aufsatzsammlungen und sonstitge Sammelschriften einzelner Verfasser
-CLOSED: [2022-07-28 Thu 12:29]
+** V - Aufsatzsammlungen und sonstitge Sammelschriften einzelner Verfasser
 ~(alphabetisch und nach Kleinbuchstaben einordnen: z.B. Ranke = Vr)~
 \pagebreak
-** DONE W - Fest- und Gedenkschriften
-CLOSED: [2022-07-28 Thu 12:29]
+** W - Fest- und Gedenkschriften
 ~(alphabetisch und nach Kleinbuchstaben einordnen: z.B. Festechrift für Gerhard Ritter = Wr)~
 \pagebreak
-** DONE Z - Zeitschriften, Jahrbücher, Dissertationen
-CLOSED: [2022-07-15 Fri 21:53]
+** Z - Zeitschriften, Jahrbücher, Dissertationen
 **** Za - Allgemeine Zeitschriften
 **** Zb - Allgemeine historische Zeitschriften
 **** Zc - Mittelalter und Hilfswissenschaften
@@ -3784,7 +3761,7 @@ CLOSED: [2022-07-15 Fri 21:53]
 **** Zs - Dissertationen
 \pagebreak
 * Institut für Fränkisch-Pfälzsische Landesgeschichte
-** I - Bibliographie und Hilfswissenschaften, zur landesgeschichtlichen Methode
+** TODO I - Bibliographie und Hilfswissenschaften, zur landesgeschichtlichen Methode
 *** 001 - xxx Bibliographie, allgemein
 *** 010 - xxx Allgemeine Quellenkunde
 *** 040 - xxx Bibliothekskunde, Regionalbibliographien
@@ -3816,8 +3793,8 @@ CLOSED: [2022-07-15 Fri 21:53]
 *** Münzkunde
 *** Archäologie (Burgenkunde etc) /Ur-u.Frühgeschichte
 *** Chronologie
-** II - Zeitschriften und Buchreihen
-** III - Festschriften und Sammelbände
+** TODO II - Zeitschriften und Buchreihen
+** TODO III - Festschriften und Sammelbände
 *** III 0001 - 0014 Allgemeines
 *** III 0015 - 0049 Pfalz
 *** III 0050 - 0069 Baden
@@ -3829,19 +3806,19 @@ CLOSED: [2022-07-15 Fri 21:53]
 *** III 0180 - 0209 Franken
 *** III 0210 - 0249 Württemberg
 *** III 0250 - xxxx weitere Gebiete
-** IV - Biographische und statistische Nachschlagewerke
-** V - Allgemeine Landesgeschichte
-** VI - Geschichte einzelner Orte und Gebiete
-** VII - Landes- und Siedlungskunde
-** VIII - Sprache, Volkskunde und Bevölkerungsgeschichte
-** IX - Wirtschaft und soziale Zustände
-** X - Verfassung und Recht
-** XI - Kirchengeschichte
-** XII - Kultur- und Bildungsgeschichte
-** XIII - Literaturdenkmäler (Texte)
-** XX - Karten
-** XXI - Wandkarten
-** XXII - Reisebücher
+** TODO IV - Biographische und statistische Nachschlagewerke
+** TODO V - Allgemeine Landesgeschichte
+** TODO VI - Geschichte einzelner Orte und Gebiete
+** TODO VII - Landes- und Siedlungskunde
+** TODO VIII - Sprache, Volkskunde und Bevölkerungsgeschichte
+** TODO IX - Wirtschaft und soziale Zustände
+** TODO X - Verfassung und Recht
+** TODO XI - Kirchengeschichte
+** TODO XII - Kultur- und Bildungsgeschichte
+** TODO XIII - Literaturdenkmäler (Texte)
+** TODO XX - Karten
+** TODO XXI - Wandkarten
+** TODO XXII - Reisebücher
 
 II
 
@@ -6444,50 +6421,48 @@ Orte (alphabetisch)
 
 \pagebreak
 * Lateinische Philologie des Mittelalters und der Neuzeit
-** A Texte
+** TODO A - Texte
 *** I Sammlungen
 **** 0001-0599: Theologische Texte
-***** 1-0 19: biblisch Bücher
-***** 0 20-0 99: Apokryphen und apostolische Väter
-***** 20-29: Alttestamentarische Apokryphen
-***** 30-49: Evangelien
-***** 50-69: Actus Apostolorum
-***** 70-79: Briefe
-***** 80-89: Acta, Didascaliae
-***** 90-99: Apokalypsen
-***** 100- 149: Patristische Corpora
-***** 150- 299: Spezielle Textsammlungen
-****** 0150 - 0179: Acta Conciliorum
-****** 0180 - 0189: kommentare biblischer bücher
-****** 190-219: hagiographie
-****** 220-289: liturgische texte
-****** 220-225: allgemeine texte
-****** 226-232: ordines
-****** 233-246: missalien
-****** 247-258: sakramentare
-****** 259-269: ritualien
-****** 270-280: breviere
-****** 281-289: preces
-****** 290-299: Consuetudines
-***** 300- 599: Hymnologie
-****** 300-309: griechische Hymnologie
-****** 310-329: allgemeine Corpora
-****** 330-599: spezielle Corpora
-****** 330-359: älteste Hymnodie
-****** 360-379: ambrosianische Hymnodie
-****** 380-399: hispanische und mozarabi-
-****** sche Hymnodie
-****** 400-419: gallikanische Hymnodie
-****** 420-439: irische und englische Hym-
-****** nodie
-****** 440-449: allgemeine Offiziendichtung
-****** 450-599: römische Hymnodie
-****** 450-459: Anfänge bis VIII. Jhd.
-****** 460-479: IX. Jhd.
-****** 480-509. X. Jhd.
-****** 510-539: XI. Jhd.
-****** 540-569: XII. Jhd.
-****** 570-599: XIII. – XV. Jhd.
+***** 0001 - 0019 biblisch Bücher
+***** 0020 - 0099 Apokryphen und apostolische Väter
+***** 0020 - 0029 Alttestamentarische Apokryphen
+***** 0030 - 0049 Evangelien
+***** 0050 - 0069 Actus Apostolorum
+***** 0070 - 0079 Briefe
+***** 0080 - 0089 Acta, Didascaliae
+***** 0090 - 0099 Apokalypsen
+***** 0100 - 0149 Patristische Corpora
+***** 0150 - 0299 Spezielle Textsammlungen
+****** 0150 - 0179 Acta Conciliorum
+****** 0180 - 0189 kommentare biblischer bücher
+****** 0190 - 0219 hagiographie
+****** 0220 - 0289 liturgische texte
+******* 0220 - 0225 allgemeine texte
+******* 0226 - 0232 Ordines
+******* 0233 - 0246 Missalien
+******* 0247 - 0258 Sakramentare
+******* 0259 - 0269 Ritualien
+******* 0270 - 0280 Breviere
+******* 0281 - 0289 Preces
+****** 0290 - 0299 Consuetudines
+***** 0300 - 0599 Hymnologie
+****** 0300 - 0309 griechische Hymnologie
+****** 0310 - 0329 allgemeine Corpora
+****** 0330 - 0599 spezielle Corpora
+****** 0330 - 0359 älteste Hymnodie
+****** 0360 - 0379 ambrosianische Hymnodie
+****** 0380 - 0399 hispanische und mozarabische Hymnodie
+****** 0400 - 0419 gallikanische Hymnodie
+****** 0420 - 0439 irische und englische Hymnodie
+****** 0440 - 0449 allgemeine Offiziendichtung
+****** 0450 - 0599 römische Hymnodie
+****** 0450 - 0459 Anfänge bis VIII. Jhd.
+****** 0460 - 0479 IX. Jhd.
+****** 0480 - 0509 X. Jhd.
+****** 0510 - 0539 XI. Jhd.
+****** 0540 - 0569 XII. Jhd.
+****** 0570 - 0599 XIII. – XV. Jhd.
 **** 0600- 799: Poetische Corpora
 ***** 600- 619: allgemeine Corpora
 ***** 620- 799: einzelne Zeiträume
@@ -6637,8 +6612,10 @@ Orte (alphabetisch)
 3800-3829: Briefwechsel
 3830-3999: Romane
 4000-4099: Legenden (alphabetisch: 4 pro Buchstabe) 4100-4199: Visionen
-*** II Schriften einzelner Autoren und einzelne Werke (Ordnung nach Sterbedaten: Das Todesjahr des Verfassers er-
-gibt die Dekade der Signatur. Signaturen mit 0 oder 1 in der Einer- stelle bedeuten im allgemeinen, dass das Todesjahr nicht exakt be- kannt ist.)
+*** II Schriften einzelner Autoren und einzelne Werke 
+
+~Ordnung nach Sterbedaten: Das Todesjahr des Verfassers ergibt die Dekade der Signatur. Signaturen mit 0 oder 1 in der Einer- stelle bedeuten im allgemeinen, dass das Todesjahr nicht exakt be- kannt ist.~
+
 1-1000: Zeitraum bis 100 n.Chr.
 1 - 9: Todesjahr vor 100 v.Chr.
 10: 100 v.Chr.
@@ -6669,11 +6646,10 @@ gibt die Dekade der Signatur. Signaturen mit 0 oder 1 in der Einer- stelle bedeu
 910:  90 n.Chr.
 1000: 100 n.Chr.
 1010-20XXX: Zeitraum ab 101
-n.Chr. (Signatur ergibt sich
+n.Chr. 
 
-aus dem Todesjahr)
-Bsp. Beda Venerabilis   (†  735) –> A II  735X
-Francesco Petrarca († 1374) -> A II 1374X
+(Signatur ergibt sich aus dem Todesjahr) Bsp. Beda Venerabilis   (†  735) –> A II  735X Francesco Petrarca († 1374) -> A II 1374X
+
 **** 30000-3250: Übersetzungen ins Lateinische
 **** 30000:  500 v.Chr.
 **** 30010:  400 v.Chr.
@@ -6704,14 +6680,14 @@ Francesco Petrarca († 1374) -> A II 1374X
 *** III Analekten und Anthologien
 **** 1-499: Analekten (geordnet nach Erscheinungsjahr 1900 = 100, ab 1900 zwei Nummern pro Jahr)
 **** 500-999: Anthologien (geordnet wie Analekten, 1900 = 600)
-
-** B Lexikographie und Sprachwissenschaft
+** B - Lexikographie und Sprachwissenschaft
 *** I Wörterbücher
-**** 1- 49: Allgemeine (TLL B I 2)
-**** 50- 69: Regional begrenzte Wörterbücher (B I 58* = Spa-
-**** nien, allen Regionen/Reiche/Zeiten)
-**** 70- 99: Wörterbücher über besondere Gebiete (geordnet nach Fakultäten)
-**** 100-   : Nichtlateinische Wörterbücher
+**** 0001 - 0049 Allgemeine (TLL B I 2)
+**** 0050 - 0069 Regional begrenzte Wörterbücher 
+~B I 58* = Spanien, allen Regionen/Reiche/Zeiten~
+**** 0070 - 0099 Wörterbücher über besondere Gebiete 
+~geordnet nach Fakultäten~
+**** 0100 - xxxx Nichtlateinische Wörterbücher
 ***** Italien
 ***** Iberische Halbinsel
 ***** Gallien
@@ -6724,54 +6700,60 @@ Francesco Petrarca († 1374) -> A II 1374X
 ***** Polen
 ***** Skandinavien
 *** II Indices, Konkordanzen und Spezialwörterbücher
-**** 1- 49: Autoren der vorchristlichen Jahrhunderte
-**** 50-1999: Autoren der nachchristlichen Jahrhunderte
-**** 50-  99: I.     Jhd.
-**** 100- 199: II.    Jhd.
-**** 200- 299: III.   Jhd.
-**** 300- 399: IV.    Jhd.
-**** 400- 499: V.     Jhd.
-**** 500- 599: VI.    Jhd.
-**** 600- 699: VII.   Jhd.
-**** 700- 799: VIII.  Jhd.
-**** 800- 899: IX.    Jhd.
-**** 900- 999: X.     Jhd.
-**** 1000-1099: XI.    Jhd.
-**** 1100-1199: XII.   Jhd.
-**** 1200-1299: XIII.  Jhd.
-**** 1300-1399: XIV.   Jhd.
-**** 1400-1499: XV.    Jhd.
-**** 1500-1599: XVI.   Jhd.
-**** 1600-1699: XVII.  Jhd.
-**** 1700-1799: XVIII. Jhd.
-**** 1800-1899: XIX.   Jhd.
-**** 1900-1999: XX.    Jhd.
-*** III Lexikologie und Glossgraphie 1- 19: Allgemeines
-**** 20- 399: Editionen (chronologisch)
-**** 400- 499: Differentiae verborum
-401- 409: Allgemeines
-*** IV Grammatik und Sprachgeschichte 1- 999: Grammatik
-33
-**** 1-  99: Gesamtdarstellungen
-**** 100- 199: Laut und Formenlehre
-**** 100-119: Gesamtdarstellungen
-**** 120-129: Lautlehre
-**** 130-199: Formenlehre
-**** 200- 299: Syntax
-**** 300- 399: Wortbildungslehre
-**** 400- 899:
-**** 900- 999: nichtlateinische Grammatiken
-**** 1000-2999: Sprachgeschichte
-**** 1000-1099: Gesamtzeitraum
-**** 1100-1199: Klassische Zeit (bis 200 n.Chr.) 1200-1299: Spätlateinische Zeit (III.- V. Jhd.) 1300-1399: Vulgärlatein / VI.- VIII. Jhd. 1400-1499: Mittellatein
-**** 1500-1599: Neulatein
-**** 3000-4499: Semasiologie und Onomasiologie
-**** 3000-3099: Allgemeines
-**** 3100-4399: Wortmonographien (50 Nummern pro Buch-
-**** stabe, d.h. 3100-3149 für A, usw.) 4400-4499: Logik und Semantik
-*** V Sprache einzelner Autoren (Signaturen wie in A II)
+**** 0001 - 0049 Autoren der vorchristlichen Jahrhunderte
+**** 0050 - 1999 Autoren der nachchristlichen Jahrhunderte
+***** 0050 - 0099 I. Jhd.
+***** 0100 - 0199 II. Jhd.
+**** 0200 - 0299 III. Jhd.
+***** 0300 - 0399 IV. Jhd.
+***** 0400 - 0499 V. Jhd.
+***** 0500 - 0599 VI. Jhd.
+***** 0600 - 0699 VII. Jhd.
+***** 0700 - 0799 VIII. Jhd.
+***** 0800 - 0899 IX. Jhd.
+***** 0900 - 0999 X. Jhd.
+***** 1000 - 1099 XI. Jhd.
+***** 1100 - 1199 XII Jhd.
+***** 1200 - 1299 XIII. Jhd.
+***** 1300 - 1399 XIV. Jhd.
+***** 1400 - 1499 XV. Jhd.
+***** 1500 - 1599 XVI. Jhd.
+***** 1600 - 1699 XVII. Jhd.
+***** 1700 - 1799 XVIII. Jhd.
+***** 1800 - 1899 XIX. Jhd.
+***** 1900 - 1999 XX. Jhd.
+*** III Lexikologie und Glossgraphie 
+**** 0001 - 0019 Allgemeines
+**** 0020 - 0399 Editionen (chronologisch)
+**** 0400 - 0499 Differentiae verborum
+***** 0401 - 0409 Allgemeines
+*** IV Grammatik und Sprachgeschichte
+**** 0001 - 0999 Grammatik
+***** 0001 - 0099 Gesamtdarstellungen
+****** 0100 - 0199 Laut und Formenlehre
+****** 0100 - 0119 Gesamtdarstellungen
+****** 0120 - 0129 Lautlehre
+****** 0130 - 0199 Formenlehre
+****** 0200 - 0299 Syntax
+****** 0300 - 0399 Wortbildungslehre
+****** 0400 - 0899
+****** 0900 - 0999 nichtlateinische Grammatiken
+**** 1000 - 2999 Sprachgeschichte
+***** 1000 - 1099 Gesamtzeitraum
+***** 1100 - 1199 Klassische Zeit (bis 200 n.Chr.)  
+***** 1200 -1299 Spätlateinische Zeit (III.- V. Jhd.) 
+***** 1300 -1399 Vulgärlatein / VI.- VIII. Jhd.
+***** 1400 -1499 Mittellatein
+***** 1500 -1599 Neulatein
+**** 3000 - 4499 Semasiologie und Onomasiologie
+***** 3000 - 3099 Allgemeines
+***** 3100 - 4399 Wortmonographien 
+~50 Nummern pro Buchstabe, d.h. 3100-3149 für A, usw.~
+***** 4400 - 4499 Logik und Semantik
+*** V Sprache einzelner Autoren
+~Signaturen wie in A II~
 
-** C Paläographie und Handschriftenkunde
+** TODO C - Paläographie und Handschriftenkunde
 *** I Allgemeine Paläographie
 **** 1- 50: Schrift (allgemein)
 **** 51-  62: griechische Paläographie
@@ -6820,7 +6802,7 @@ Francesco Petrarca († 1374) -> A II 1374X
 Nummern pro Buchstabe)
 *** VII Reproduktionen autornaher Überlieferung (Signaturen wie in A II)
 
-** D Historia Litterarum
+** TODO D - Historia Litterarum
 *** I Literaturgeschichte allgemein
 **** 1- 149: allgemeine Darstellungen
 **** 150- 299: Einzelprobleme der Literaturgeschichte
@@ -6983,7 +6965,7 @@ Böhmen
 Polen
 Skandinavien
 
-** E Kirchen-, Philosophie- und Wissenschaftsgeschichte
+** TODO E - Kirchen-, Philosophie- und Wissenschaftsgeschichte
 *** I Kirchengeschichte und Geschichte der Theologie 1- 99: Allgemeine Kirchengeschichte
 **** 100- 199: Regionale Kirchengeschichte (alphabetisch geordnet nach Bistümern, Abteien, Herrschaften etc.)
 **** 200- 399: Hagiographie
@@ -7112,7 +7094,7 @@ Skandinavien
 420- 439: Sachsen
 440- 499: Sonstige
 
-** F Geschichte
+** TODO F - Geschichte
 *** I Politische Geschichte
 **** 1- 99: Allgemeines und Atlanten (Atlanten: 20-29)
 **** 100- 199: Gesamtdarstellungen
@@ -7151,25 +7133,27 @@ Skandinavien
 **** 0200 - 0299 Heraldik
 **** 0300 - 0399 Numismatik
 
-** G Einführungen, Bibliographien und Kataloge
-*** I Einführungen und Methodenlehre
-(geordnet nach Erscheinungsjahr, 1950 = G I 20)
-*** II Bibliographien
-1- 99: Allgemeine Bibliographie (geordnet nach Erschei-
-nungsjahr)
-100- 359: Personalbibliographie und Gelehrtenbiographie (alphabetisch geordnet, 10 Nummern pro Buchstabe)
-*** III Ausstellungskataloge
-(alphabetisch geordnet nach Ausstellungsort, 100 Nummern pro Buchstabe,
-Zehn Nummern pro Ort, weitere Bände mit fortlaufenden Indices) Bsp.
-** H Sammelwerke
-*** I Enzyklopädische Schriften (aufsteigende Nummerierung)
+** G - Einführungen, Bibliographien und Kataloge 
+*** I Einführungen und Methodenlehre  
+~geordnet nach Erscheinungsjahr, 1950 = G I 20~
+*** II Bibliographien  
+**** 1- 99: Allgemeine Bibliographie  
+~geordnet nach Erscheinungsjahr~
+**** 100- 359: Personalbibliographie und Gelehrtenbiographie 
+~alphabetisch geordnet, 10 Nummern pro Buchstabe~
+*** III Ausstellungskataloge 
+~alphabetisch geordnet nach Ausstellungsort, 100 Nummern pro Buchstabe, Zehn Nummern pro Ort, weitere Bände mit fortlaufenden Indices~
+** H - Sammelwerke
+*** I Enzyklopädische Schriften
+~aufsteigende Nummerierung~
 *** II Gesammelte Schriften
-(alphabetisch geordnet, 10 Nummern pro Buchstabe)
+~alphabetisch geordnet, 10 Nummern pro Buchstabe~
 *** III Festschriften
-(alphabetisch geordnet, 10 Nummern pro Buchstabe)
-** J Zeitschriften
-Laufende Zeitschriften
-I abgeschlossene und nicht vollständig geführte Zeitschriften (geordnet nach Erscheinungsjahr des 1. Bandes, 1900 = J I 20)
+~alphabetisch geordnet, 10 Nummern pro Buchstabe~
+** J - Zeitschriften
+*** Laufende Zeitschriften
+*** I abgeschlossene und nicht vollständig geführte Zeitschriften 
+~geordnet nach Erscheinungsjahr des 1. Bandes, 1900 = J I 20~
 
 \pagebreak
 * Schurman Bibliothek
@@ -8582,3 +8566,4 @@ Parteien*
 
 
 [fn:1] in Stefan Weinfurter (Hrsg.), /Reinhart Koselleck (1923-2006): Reden zum 50. Jahrestag seiner Promotion in Heidelberg/ (Heidelberg: Winter Verlag), 54.
+* Osteuropäische Geschichte
