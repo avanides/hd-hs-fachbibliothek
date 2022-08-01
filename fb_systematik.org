@@ -7400,8 +7400,7 @@ Alle Signaturen beginnen mit ~Sch~.
 **** 3.9.3. Allgemeine Interpretationen, Gesamtdarstellungen, Handbücher etc.
 **** 3.9.4. Besondere Themen
 \pagebreak
-** 4. Quellen und Darstellungen zur Außenpolitik und den internationalen
-   Beziehungen der USA*
+** 4. Quellen und Darstellungen zur Außenpolitik und den internationalen Beziehungen der USA*
 *** 4.1. *Allgemeine Quellensammlungen*
 *** 4.2. *Gesamtdarstellungen, Allgemeine Interpretationen, Handbücher etc.*
 **** 4.2.1. Theorie der Außenpolitik und der internationalen Beziehungen; Theorie des außenpolitischen Entscheidungsprozesses
@@ -7478,7 +7477,7 @@ Alle Signaturen beginnen mit ~Sch~.
 **** 4.9.4.  Streitkräfte, Militärische Institutionen und Außenpolitik, Strategien und Sicherheitsdebatte, Geheimdienste, NATO
 **** 4.9.5.  Außenpolitik und Wirtschaft
 **** 4.9.6.  Internationale Organisationen, Friedensbewegung, Abrüstung
-**** 4.9.7.  (unklar)
+**** 4.9.7.  Das Ende des Kalten Kriegs
 **** 4.9.8.  Die USA und Russland, seit 1991
 **** 4.9.9.  Die USA und Westeuropa, seit 1990
 **** 4.9.10. Die USA und Osteuropa, seit 1990
