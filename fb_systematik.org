@@ -5678,7 +5678,7 @@ Alle Signaturen beginnen mit ~Sch~.
 ***** 2.4.4.7. /Militärgeschichte/
 ***** 2.4.4.8. /Sonstiges/
 **** 2.4.5. Vergleichende Revolutionsgeschichte, Revolutionstheorien
-*** 2.5.  *Von der Staatsgründung bis zum Vorabend des Bürgerkrieges,1789--1860*
+*** 2.5.  *Von der Staatsgründung bis zum Vorabend des Bürgerkrieges, 1789--1860*
 **** 2.5.1. Quellen
 **** 2.5.2. Gesamtdarstellungen
 **** 2.5.3. Personen
@@ -5840,7 +5840,7 @@ Alle Signaturen beginnen mit ~Sch~.
 **** 3.9.3. Allgemeine Interpretationen, Gesamtdarstellungen, Handbücher etc.
 **** 3.9.4. Besondere Themen
 \pagebreak
-** 4. Quellen und Darstellungen zur Außenpolitik und den internationalen Beziehungen der USA*
+** 4. Quellen und Darstellungen zur Außenpolitik und den internationalen Beziehungen der USA
 *** 4.1. *Allgemeine Quellensammlungen*
 *** 4.2. *Gesamtdarstellungen, Allgemeine Interpretationen, Handbücher etc.*
 **** 4.2.1. Theorie der Außenpolitik und der internationalen Beziehungen; Theorie des außenpolitischen Entscheidungsprozesses
@@ -5992,7 +5992,7 @@ Alle Signaturen beginnen mit ~Sch~.
 *** 21.1. *Quellen zur Gesamtgeschichte Kanadas*
 *** 21.2. *Gesamtdarstellungen, Übergreifende Interpretationen, Handbücher etc.*
 \pagebreak
-*** 22. *Übergreifende Quellen und Darstellungen zu einzelnen Sachbereichen der kanadischen Geschichte*
+** 22. *Übergreifende Quellen und Darstellungen zu einzelnen Sachbereichen der kanadischen Geschichte*
 *** 22.1. *Geographie, Historische Geographie und Umwelt*
 *** 22.2. *Expansion nach Westen*
 *** 22.3. *Geschichte einzelner Regionen, Staaten und Territorien*
@@ -6116,7 +6116,7 @@ Alle Signaturen beginnen mit ~Sch~.
 ** 70. Mikroformen
 ** 80. Zeitschriften
 ** 90. Working Papers
-
+\pagebreak
 
 [fn:1] in Stefan Weinfurter (Hrsg.), /Reinhart Koselleck (1923-2006): Reden zum 50. Jahrestag seiner Promotion in Heidelberg/ (Heidelberg: Winter Verlag), 54.
 * Osteuropäische Geschichte
