@@ -3083,79 +3083,66 @@ Politik
 ***** 0900 - 1000 Photographie und Film, Rundfunk
 **** 1001 - 1200 Hoheitszeichen ; Staatssymbolik
 \pagebreak
-** TODO P - Wirtschafts- und Sozialgeschichte: Handbücher, Städtewesen, Biographien
-*** Pa - Handbücher, Einführungen und Sannelwerke (allgemein usNeuzeit)
-**** 0001 - 50 Handbücher, Handwörterbücher
-51 - 100 (bleibt frei)
-101 = 400 Begriff der Wirtschafts - und Sozialgeschichte;
-allgemeine methodische Probleme
-300 ff, Speziell Sozialgeschichte
-401 - 550 Einführungen in die Wirtschafts - und Sozialgeschichte;
-500 ff, Speziell Sozialgeschichte
-551 - 700 Aufsatzsamnlungen
-701 = 800 Sammelwerke
+** P - Wirtschafts- und Sozialgeschichte: Handbücher, Städtewesen, Biographien
+*** Pa - Handbücher, Einführungen und Sammelwerke (allgemein usNeuzeit)
+**** 0001 - 0050 Handbücher, Handwörterbücher
+**** 0051 - 0100 (bleibt frei)
+**** 0101 - 0400 Begriff der Wirtschafts - und Sozialgeschichte; allgemeine methodische Probleme
+***** 0300 - 0400 Speziell Sozialgeschichte
+**** 0401 - 0550 Einführungen in die Wirtschafts - und Sozialgeschichte;
+***** 0500 - 0550 Speziell Sozialgeschichte
+**** 0551 - 0700 Aufsatzsamnlungen
+**** 0701 - 0800 Sammelwerke
 *** Pb - Qellensammlı n und Gesantdarstellungen (allgemein u.Neuzeit
-1- 200 Quellen und Quellensammlungen
-201 - 300 Gesantdarstellungen
-301 - 500 Gesamtdarstellungen der Wirtschaftsgeschichte
-einzelner Länder (außer Deutschland
-501 - 550 Gesamtdarst ellungen (Deutschland)
-551 - 700 Gesantdarstellungen (deutsche Territorien)
-701 - 800 Wirtschaftsgeschichte der Neuzeits Gesamtdarstellungen
-801 - 900 Wirtschaftsgeschichte der Neuzeit: 16. - 18. Jhdt.
-901 - 1000 Wirtschaftsgeschichte der Neuzeit: 19. - 20. Jhät,
-(jeweils für alle Länder)
+**** 0001 - 0200 Quellen und Quellensammlungen
+**** 0201 - 0300 Gesamtdarstellungen
+**** 0301 - 0500 Gesamtdarstellungen der Wirtschaftsgeschichte einzelner Länder (außer Deutschland)
+**** 0501 - 0550 Gesamtdarst ellungen (Deutschland)
+**** 0551 - 0700 Gesamtdarstellungen (deutsche Territorien)
+**** 0701 - 0800 Wirtschaftsgeschichte der Neuzeits Gesamtdarstellungen
+**** 0801 - 0900 Wirtschaftsgeschichte der Neuzeit: 16. - 18. Jhdt.
+**** 0901 - 1000 Wirtschaftsgeschichte der Neuzeit: 19. - 20. Jhdt. (jeweils für alle Länder)
 *** Pc - Stäädtewesens Äußere cheinungsformen
-1 = 100 Quellen (ohne Urkundenbticher)
-101 = 200 Die mittelalterliche Erscheinungsforn der Stadt:
-Allgemeines
-201 - 300 Die m&ttelalterliche Erscheimungsforn der Stadt:
-Europa regional
-301 - 400 Die mittelalterliche Erscheinungsform der Stadt:
-Deutschland
-401 - 500 Stadttypen und Stadtrechte
-501 - 6500 Stadt und flaches Land
-601 — 700 Der städtische Standı Bürgertum -— Allgemeines
-701 - 800 Der städtische Stand: Bürgertun, Bevölkerungsstatistik
-801 - 900
-und Soziologie
-Das Patriziat
-*** Pd - Stäätewesen: Verwaltungs - und Rechtsfragen
-1- 100 Organisationsfornen des Handwerksı Zünfte -
-Allgemeines (s.2.98 201-250)
-101 - 200 Organisationsformen des Handwerkss Zünfte -
-Einzelnes
-201 - 300 Gewerberecht
-301 — 400 Stadtverfassung und Bürgerrecht
-401 - 500 Eigentunsverhältnisse
-501 - 600 Wirtschafts - und Wohlfahrtspolitik der Städte
-(ohne Finanz - und Steuerwesen, siehe hierzus
-Geld - und Bankwesen Qk)
-601 - 700 Gerichtswesen der Städte
-701 - 800 Wehrverfassung der Städte
+**** 0001 - 0100 Quellen (ohne Urkundenbticher)
+**** 0101 - 0200 Die mittelalterliche Erscheinungsforn der Stadt: Allgemeines
+**** 0201 - 0300 Die m&ttelalterliche Erscheimungsforn der Stadt: Europa regional
+**** 0301 - 0400 Die mittelalterliche Erscheinungsform der Stadt: Deutschland
+**** 0401 - 0500 Stadttypen und Stadtrechte
+**** 0501 - 0600 Stadt und flaches Land
+**** 0601 — 0700 Der städtische Standı Bürgertum -— Allgemeines
+**** 0701 - 0800 Der städtische Stand: Bürgertun, Bevölkerungsstatistik
+**** 0801 - 0900 und Soziologie Das Patriziat
+*** Pd - Städtewesen: Verwaltungs - und Rechtsfragen
+**** 0001 - 0100 Organisationsfornen des Handwerksı Zünfte - Allgemeines (s.2.98 201-250)
+**** 0101 - 0200 Organisationsformen des Handwerkss Zünfte - Einzelnes
+**** 0201 - 0300 Gewerberecht
+**** 0301 — 0400 Stadtverfassung und Bürgerrecht
+**** 0401 - 0500 Eigentumsverhältnisse
+**** 0501 - 0600 Wirtschafts - und Wohlfahrtspolitik der Städte (ohne Finanz - und Steuerwesen, siehe hierzu Geld - und Bankwesen Qk)
+**** 0601 - 0700 Gerichtswesen der Städte
+**** 0701 - 0800 Wehrverfassung der Städte
 *** Pe - Monographien zur inneren Geschichte der StädtesDeutschland
-1- 300 Norddeutsche Städte
-301 - 600 Mitteldeutsche Städte
-601 - 900 Süddeutsche Städte (einschl. Schweiz u. Österreich)
+**** 0001 - 0300 Norddeutsche Städte
+**** 0301 - 0600 Mitteldeutsche Städte
+**** 0601 - 0900 Süddeutsche Städte (einschl. Schweiz u. Österreich)
 *** Pf - Monographien zur inneren Geschichte der Stäätes außerädsutsche Städte
-1- 100 Skandinavische Städte
-101 - 200 VWesteuropäische Städte
-201 - 300 Südeuropäische Städte
-301 - 400 Osteuropäische Städte
-401 - 600 Außereuropäische Städte
+**** 0001 - 0100 Skandinavische Städte
+**** 0101 - 0200 Westeuropäische Städte
+**** 0201 - 0300 Südeuropäische Städte
+**** 0301 - 0400 Osteuropäische Städte
+**** 0401 - 0600 Außereuropäische Städte
 *** Pm - Wirtschaftsgeschichtliche Biographien (Neuzeit)
-1- 50 Allgemeine biographische Probleme
-51- 150 Biographische Sammelwerke
-150 - 200 Geschichte des Kaufmanns
-201 - 250 Geschichte der Bourgeoisie
-251 - 500 Geschichte des Bankiers
-301 - 400 Geschichte des Unternehmers
-401 - 500 (bleibt frei)
-501 - 1000 Wirtschaftsgeschichtliche Biographien ( in alphabetischer Reihenfolge)
+**** 0001 - 0050 Allgemeine biographische Probleme
+**** 0051 - 0150 Biographische Sammelwerke
+**** 0150 - 0200 Geschichte des Kaufmanns
+**** 0201 - 0250 Geschichte der Bourgeoisie
+**** 0251 - 0500 Geschichte des Bankiers
+**** 0301 - 0400 Geschichte des Unternehmers
+**** 0401 - 0500 (bleibt frei)
+**** 0501 - 1000 Wirtschaftsgeschichtliche Biographien (in alphabetischer Reihenfolge)
 \pagebreak
 ** TODO Q - Wirtschafts- und Sozialgeschichte: Mittelalter, Neuzeit
-*** DONE Qc - Einführungen, Überblicke (Mittelalter)
-CLOSED: [2022-07-13 Wed 20:05]
+*** Qc - Einführungen, Überblicke (Mittelalter)
 **** 0001 - 0100 Einführungen in die mittelalterliche Sozial- und Wirtschaftsgeschichte
 **** 0101 - 0200 Aufsatzsammlungen und Sammelwerke zur mittelalterlichen Sozial- und Wirtschaftsgeschichte
 **** 0201 - 0300 Gesamtdarstellungen
@@ -3165,8 +3152,7 @@ CLOSED: [2022-07-13 Wed 20:05]
 **** 0601 - 0700 Hochmittelalter (alle Länder)
 **** 0701 - 0800 Spätmittelalter (alle Länder)
 **** 0801 - 0900 Allgemeine Quellensammlungen zur mittelalterlichen Sozial- und Wirtschaftsgeschichte
-*** DONE Qd - Stände (ohne Bürgertum, Mittelalter)
-CLOSED: [2022-07-13 Wed 20:05]
+*** Qd - Stände (ohne Bürgertum, Mittelalter)
 **** 0101 - 0150 Gesamtdarstellungen und grundsätzliche Untersuchungen
 **** 0151 - 0250 Gesamtdarstellungen: Europa regional
 **** 0251 - 0300 Unfreiheit (s. auch Bauern)
