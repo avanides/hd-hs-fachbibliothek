@@ -6087,3 +6087,30 @@ Alle Signaturen beginnen mit ~Sch~.
 
 [fn:1] in Stefan Weinfurter (Hrsg.), /Reinhart Koselleck (1923-2006): Reden zum 50. Jahrestag seiner Promotion in Heidelberg/ (Heidelberg: Winter Verlag), 54.
 * Osteuropäische Geschichte
+** Ya Atlanten/Karten
+** Yb Bibliographien
+** Yc Lexika/Enzyklopädien
+** Yd Wörterbücher
+** Ye Diversa (Studienführer, Vorlesungsverzeichnisse u.ä.)
+** Yf Europa (Ohne Osteuropa)
+** Yg Weltgeschichte/Geschichtstheorie
+** Yh Hilfswissenschaften
+** Yi Ideologie
+** Yk Philosophie
+** Yl Judaica
+** Ym Byzanz
+** Yn Slaven
+** Yo Osteuropa
+** Yp Polen
+** Yq Deutsche in Osteuropa
+** Yr Rußland bis 1917/ab 1992
+** Ys Sowjetunion
+** Yt Weißrußland
+** Yu Ukraine
+** Yv Baltikum
+** Yw Nordische Länder
+** (Yx Tschechien, Tschechoslowakei?)
+** Yy Jugoslawien, Ungarn, Rumänien
+** Yz Zeitschriften
+** (Ohne Nummer?) Mikroformen
+
