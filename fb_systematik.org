@@ -3424,17 +3424,6 @@ Innerhalb der Untergruppen ohronologisch!
 \pagebreak
 ** TODO T - Religions- und Kirchengeschichte
 *** Ta - Religionsgeschichte, Weltreligionen
-*** Tb - Christentum: Grundlagen, Hilfsmittel und Lexika, Nachschlagewerke.
-*** Td - Das Christemtum und seine Umwelt
-*** Tf - Darstellungen der allgemeinen Kirchengeschichte
-*** Tg - Ergänzende Disziplinen: Papsttum, Patriarchate
-*** Th - Ergänzende Disziplinen: Konzilien und Klerus
-*** Tj - Orden
-*** Tl -  Ergänzende Disziplinen
-*** Tn - Ergänzende Disziplinen: Symbolik ( Konfessionskunde )
-*** To - Kirchliche Rechtsgeschichte
-
-Ta Religionsgeschichte, Weltreligionen
 1 - 50 Religionswissenschaft, Phänomenologie der Religion,
 
 Religionssoziologie, allgemeine Darstellungen,
@@ -3451,7 +3440,7 @@ Einführungen in die Religionsgeschichte
 901 -930 Heilige Schriften! Allgemeine Erörterung
 931 - 970 Heilige Schriften: Texte
 
-Tb Christentum: Grundlagen, Hilfsmittel, Lexika, Nachschlagewerke
+*** Tb - Christentum: Grundlagen, Hilfsmittel und Lexika, Nachschlagewerke.
 1 - 50 Die Heilige Schrift
 101 - 200 Die Heilige Schrift: Einzeluntersuchungen, Überlieferung,
 
@@ -3462,8 +3451,7 @@ Kanon usw,
 Theologie und Kirche betreffend
 55l - 600 Atlanten
 
-Td Das Christentum und seine Umwelt
-
+*** Td - Das Christemtum und seine Umwelt
 1 - 50 Mission
 5] - 150 Christentum und Kirche in ihrem Verhältnis zu Geschichte
 und Gegenwart
@@ -3474,7 +3462,7 @@ und Gegenwart
 %i - 1000 Tagebücher, Biographien katholischer und protestantischer
 Theologen, Monographien zum geistlichen Stand
 
-T£ Darstellungen der allgemeinen Kirchengeschichte
+*** Tf - Darstellungen der allgemeinen Kirchengeschichte
 1 - 50 Allgemeine Einführungen ins Studium der Kirchengeschichte,
 
 Kirchengeschichtsschreibung (auch einzelner Perioden)
@@ -3488,8 +3476,7 @@ längere Perioden, Sammelwerke, Aufsatzsammlungen
 
 noch ?
 
-IE Ergänzende Disziplinens Papsttum, Patriarchate
-
+*** Tg - Ergänzende Disziplinen: Papsttum, Patriarchate
 1-50 Quellen zur Geschichte des Papsttums;
 101-200 Allgemeine Oharakteristiken und kürzere Darstellungen;
 251-300 ee der Papetgeschichte MA und NZ umfas-
@@ -3501,8 +3488,7 @@ send;
 701-850 Einzeluntersuchungen;
 901-950 Patriarchate.
 
-2 E ende Disziplinen; Konsilien und Klerus
-
+*** Th - Ergänzende Disziplinen: Konzilien und Klerus
 101-200 Allgemeine Konziliengeschichte (auch längere Perioden);
 
 501-500 Konsziliengeschichte einzelner Länder, Territorien usw.
@@ -3518,7 +3504,7 @@ Vatikanische Konzilienz
 se Klerus (allgemein, längere Perioden);
 
 01 Klerus bestimnter Diözesen (längere Perioden).
-
+*** Tj - Orden
 1-30 Quellen;
 
 31-100 Allgemeine Geschichte der Orden und des Mönchtums;
@@ -3541,14 +3527,12 @@ Einzelproblemen (Oblateninstitut usw.);
 901-950 Sonstige.
 
 2 Er, ende zi e
-
+*** Tl -  Ergänzende Disziplinen
 1-150 Geschichte der Frömmigkeitz
 251-400 Dogmengeschichte;
 501-600 Iiturgie - Praktische Theologie;
 701-800 Matrikel,
-
-In Er} ende Diszipline; Symbolik (Konfessionskunde
-
+*** Tn - Ergänzende Disziplinen: Symbolik ( Konfessionskunde )
 1-100 Bekenntnisschriften (symbolische Bücher);
 151-250 Vergleichende Konfessionskunde;
 301-350 Katholäzispuss Deutschland;
@@ -3559,11 +3543,7 @@ In Er} ende Diszipline; Symbolik (Konfessionskunde
 751-800 Fragen der Oekumene;
 851-900 Christen und Juden;
 901-950 Sekten.
-
-noch T
-
-Kirchliche Rechtsgeschichte
-
+*** To - Kirchliche Rechtsgeschichte
 1-100
 101-200
 
