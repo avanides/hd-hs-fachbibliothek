@@ -9,6 +9,14 @@
 #+LATEX_HEADER: \usepackage{titlesec}
 #+LATEX_HEADER: \setcounter{tocdepth}{2}
 #+LATEX_HEADER: \usepackage{etoc}
+#+LATEX_HEADER: \usepackage{enumitem}
+#+LATEX_HEADER: \setlist[enumerate,1]{label={}}
+#+LATEX_HEADER: \setlist[enumerate,2]{label={}}
+#+LATEX_HEADER: \setlist[enumerate,3]{label={}}
+#+LATEX_HEADER: \setlist[enumerate,3]{label={}}
+#+LATEX_HEADER: \setlist[enumerate,4]{label={}}
+#+LATEX_HEADER: \setlist[enumerate,5]{label={}}
+#+LATEX_HEADER: \setlist[enumerate,6]{label={}}
 
 # /Und zugleich signierte ich die bis dahin mit nur den drei Buchstaben A, B, C gegliederte, deshalb völlig unbenutzbare, Seminarbibiothek aufs Neue mit 24 mal 24 Signaturen von Aa bis Zz - vielleicht die Leistung, die mich am längsten überdauern wird (Auch wenn wegen der Einspruchsgewalt der damaligen, unter sich uneinigen, Ordinarien manche bibliographische Inkonsequenz im Katalog verewigt werde musste)./[fn:1]
 
@@ -3760,7 +3768,22 @@ U
 *** Münzkunde
 *** Archäologie (Burgenkunde etc) /Ur-u.Frühgeschichte
 *** Chronologie
-** TODO II - Zeitschriften und Buchreihen
+** II - Zeitschriften und Buchreihen
+*** II 0001 - 0009 Allgemein Rheinisches und Südwestdeutsches
+*** II 0010 - 0079 Baden
+**** II 0030 - 0079  Badische Heimatzeitschriften für einzelne Gegenden und Orte
+*** II 0080 - 0149 Pfalz
+**** II 0100 - 0139 Pfälzische Heimatzeitschriften für einzelne Gegenden und Orte
+**** II 0140 - 0149 Zeitungen
+*** II 0150 - 0179 Saar
+*** II 0180 - 0184 Elsaß
+*** II 0185 - 0194 Lothringen
+*** II 0195 - 0199 Luxemburg
+*** II 0200 - 0219 Hessen (Rheinland)
+*** II 0220 - 0239 Franken
+*** II 0240 - 0299 Württemberg
+*** II 0300 - 0399 Weitere Gebiete
+*** II 0400 - xxxx Zeitschriften allgemeinen, besonders methodischen Inhalts
 ** TODO III - Festschriften und Sammelbände
 *** III 0001 - 0014 Allgemeines
 *** III 0015 - 0049 Pfalz
@@ -3786,38 +3809,6 @@ U
 ** TODO XX - Karten
 ** TODO XXI - Wandkarten
 ** TODO XXII - Reisebücher
-
-Zeitschriften und Buchreihen
-
-Allgemein Rheinisches und Südwestdeutsches
-
-Baden
-
-Badische Heimatzeitschriften für
-einzelne Gegenden und Orte
-
-Pfalz
-
-Pfälzische Heimatzeitschriften für
-einzelne Gegenden und Orte
-
-Zeitungen
-Saar
-Elsaß
-
-Lothringen
-
-Luxemburg
-
-Hessen (Rheinland)
-Franken
-
-Württemberg
-
-Weitere Gebiete
-
-Zeitschriften allgemeinen, besonders
-methodischen Inhalts
 
 
 Festschriften und Sammelbände
