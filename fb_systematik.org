@@ -22,9 +22,10 @@
 
 
 # \rightline{Reinhart Koselleck}
+\pagebreak
 
 \tableofcontents
-
+  
 [[https://github.com/avanides/hd-hs-fachbibliothek][laufend aktualisiert auf GitHub]]
 
 \pagebreak
@@ -2198,7 +2199,7 @@ CLOSED: [2022-07-28 Thu 21:51]
 **** 0851 - 0900 "1945er"-Literatur
 **** 0901 - 1000 deutsche Memoiren und Biographien
 \pagebreak
-** TODO H - Gegenwart (ab 1945)
+** H - Gegenwart (ab 1945)
 *** Ha - Internationale Politik nach 1945
 **** 0001 - 0100 Quellen (Sammelwerke)
 **** 0101 - 0300 Gesamtdarstellungen zur Weltpolitik
@@ -2237,110 +2238,51 @@ CLOSED: [2022-07-28 Thu 21:51]
 **** 6601 - 7000 frei
 **** 7001 - 8000 Allgemeine Betrachtungen zur Gegenwart (chronologische Ordnung)
 ***** 7600 - 8000 Terrorismus und "Kampf gegen den Terrorismus"
-
-6301 -
-
-6601 - 7000
-
-7001 -
-
-Allgemeine Betrachtungen zur Gegenwart (chronologise
-
-e Ordnung)
-
-
-Internationale Politik nach 1945
-
-Europäische Staaten: Innenpolitik
-
-Quellen zur deutschen Geschichte seit 1945
-
-Methodische Arbeiten zur Zeitgeschichte (1 - 200)
-Gesamtdarstellungen zur deutschen Geschichte seit 1945 (1 - 200)
-Besatzungszeit in Deutschland 1945 — 1949 (1 — 1400)
-Bundesrepublik Deutschland (1 — 18300)
-
-Deutsche Demokratische Republik (1-6500)
-
-Internationale Politik nach 1945
-
-I- ı00
-101 - 300
-301 - 800
-801 - 1300
-
-1301 - 3600
-
-3601 - 4000
-
-4001 - 5500
-
-5501 - 5900
-
-50 Skandinavien
-
-200 Grossbritannien und Irland
-
-270 Belgien, Niederlande und Luxemburg
-400 Frankreich
-
-470 Spanien und Portugal
-
-550 Italien
-
-600 Schweiz und Österreich
-
-Jugoslawien und Albanien
-
-A- AO Türkei
-Griechenland u F N
-
-Zypem
-
-BZ Bulgarien
-
-Rumänien
-
-Ungarn
-
-Tschechoslowakei
-- 1000 Polen
-
-1001 ££, Allgemeine Darstellungen zur Geschichte der
-osteuropäischen Staaten nach 1945
-
+*** Hc Europäische Staaten: Innenpolitik
+**** 0001 - 0050 Skandinavien
+**** 0051 - 0200 Grossbritannien und Irland
+**** 0201 - 0270 Belgien, Niederlande und Luxemburg
+**** 0271 - 0400 Frankreich
+**** 0401 - 0470 Spanien und Portugal
+**** 0471 - 0550 Italien
+**** 0551 - 0600 Schweiz und Österreich
+**** 0601 - 0680 Jugoslawien und Albanien
+**** 0681 - 0710 Türkei
+**** 0710 - 0730 Griechenland 
+**** 0731 - 0750 Zypern
+**** 0751 - 0780 Bulgarien
+**** 0781 - 0810 Rumänien
+**** 0811 - 0860 Ungarn
+**** 0861 - 0910 Tschechoslowakei
+**** 0911 - 1000 Polen
+**** 1001 - xxxx Allgemeine Darstellungen zur Geschichte der osteuropäischen Staaten nach 1945
 *** Hd Quellen zur deutschen Geschichte seit 1945
 **** 0001 - 500 Gesamtdarstellungen
 **** 0501 - 1000 Besatzungszeit in Deutschland 1945 - 1949
 **** 1001 - 2500 Bundesdesrepublik Deutschland
-**** 1001 - 1500 Gesamtdarstellungen
-**** 1501 - 2000 Außenpolitik
-**** 2001 - 2500 Innenpolitik
+***** 1001 - 1500 Gesamtdarstellungen
+***** 1501 - 2000 Außenpolitik
+***** 2001 - 2500 Innenpolitik
 **** 2501 - 4000 Deutsche Demokratische Republik
-**** 2501 - 3000 Gesamtdarstellungen
-**** 3001 - 3500 Außenpolitik
-**** 3501 - 4000 Innenpolitik
+***** 2501 - 3000 Gesamtdarstellungen
+***** 3001 - 3500 Außenpolitik
+***** 3501 - 4000 Innenpolitik
 **** 4001 - 4500 Deutsche Wiedervereingung
 *** He Methodische Arbeiten und didaktisches Material zur Zeitgeschichte (1 - 200)
-Hf Gesamtdarstellungen zur deutschen Geschichte seit 1945 (1 - 200)
-
-Hg Besatzungszeit in Deutschland 1945 - 1949 (1- 1400)
-1-300 Gesamtdarstellungen und Zonen übergreifende Werke
-301 - 600 Amerikanische Zone
-
-601-900 Sowjetische Zone
-
-1001-1200 Britische Zone
-
-1201-1400 Französische Zone
-
+*** Hf Gesamtdarstellungen zur deutschen Geschichte seit 1945 (1 - 200)
+*** Hg Besatzungszeit in Deutschland 1945 - 1949 (1- 1400)
+**** 0001 - 0300 Gesamtdarstellungen und Zonen übergreifende Werke
+**** 0301 - 0600 Amerikanische Zone
+**** 0601 - 0900 Sowjetische Zone
+**** 1001 - 1200 Britische Zone
+**** 1201 - 1400 Französische Zone
 *** Hi Bundesrepublik Deutschland
-**** 1- 3000 Gesamtdarstellungen
+**** 00001 - 03000 Gesamtdarstellungen
 ***** 1 -1000 übergreifend
 ***** 1001-2000 1949 - 1969
 ***** 2001-2499 1970 - 1990
 ***** 2500-3000 1990 -
-**** 3001-11000 Außenpolitik
+**** 03001 - 11000 Außenpolitik
 ***** 3001-3750 Gesamtdarstellungen
 ***** 3751-4500 Zwischenstaatliche Außenpolitik
 ****** 3751-4000 Gesamtdarstellungen
@@ -2361,136 +2303,129 @@ Hg Besatzungszeit in Deutschland 1945 - 1949 (1- 1400)
 ****** 9001-10000 Gesamtdarstellungen
 ****** 10001-10500 Äußeres
 ****** 10501-11000 Inneres
-11001-12000 Deutsche Frage, Berlin und deutsch-deutsche Politik 1949 — 1990
-12001-16000 Innenpolitik
-12001--12800 Gesamtdarstellungen
-12801-13500 Sozialstruktur und Sozialpolitik
-12801-13100 Gesamtdarstellungen
-13101-13300 1949 - 1969
-13301-13399 1970 - 1990
-13400-13500 1990 -
-13501-14300 Parteien, Verbände, Gewerkschaften, Kirchen
-13501-13800 Gesamtdarstellungen
-13801-140560 1949 - 1969
-13801-13850 CDU/CSU
-13851-13900 SPD
-13901-13930 FDP
-13931-13950 andere Parteien
-13951-14050 Verbände, Gewerkschaften, Kirchen
-14051-14300 1970 -
-14051-14090 CDU/CSU
-14091-14130 SPD
-14131-14170 FDP
-14171-14210 Bündnis 90/Die Grünen
-14211-14250 andere Parteien
-14251-14300 Verbände, Gewerkschaften, Kirchen
-14301-15100 Regierungssystem, Institutionen, Innere Sicherheit
-14301-14700 Gesamtdarstellungen
-14301-14433 Innere Sicherheit
-14434-14566 Regierungssystem
-14567-14700 Institutionen
-14701-14900 1949-1969
-14701-147668 Innere Sicherheit
-14767-14833  Regierungssystem
-14834 -14900 Institutionen
-14901-15100 1970 -
-14901-149668 Innere Sicherheit
-14967-15033 Regierungssystem
-15034-15100 Institutionen
-15101-15300 Wirtschafts- und Finanzpolitik
-15101-15200 Gesamtdarstellungen
-15201-15250 1949 — 1969
-15251-185300 1970 -
-15301-15500 Vergangenheitsbewältigung, Mentalitäten, Erinnerungskultur
-15301-15400 Gesamtdarstellungen
-15401-15450 1949 — 1969
-15451-158500 1970 -
-15501-15700 Kultur, Wissenschaft, Hochschulpolitik
-15501-15600 Gesamtdarstellungen
-15601-156500 1949 - 1969
-15651-15700 1970 -
-15701-16000 Länder und Kommunen
-15701-15750 Gesamtdarstellungen
-15751-15874 1949 — 1990
-15875-16000 1990 —
-
-17501-18300 Memoiren und Biographien
-17501-18099 Einzelbiographien und Memoiren
-18100-18300 Sammelbiographien
-
-Hi Deutsche Demokratische Republik (1-6500)
-
-1-2000 Gesamtdarstellungen
-1 -1000 übergreifen
-1001-1500 1949-1961
-1501-2000 1961-1990
-
-2001-4000 Außenpolitik
-2001-2500 Gesamtdarstellungen
-2501-3000 Zwischenstaatliche Außenpolitik
-
-2501-2600 Gesamtdarstellungen
-2601-2800 1949-1961
-2801-3000 1961-1990
-3001-3500 Internationale Organisationen (Uno/KSZE, etc.)
-3001-3100 Gesamtdarstellungen
-3101-3300 1949-1961
-3301-3500 1961-1990
-3501-4000 Militärpolitik (Nato etc.)
-3501-3600 Gesamtdarstellungen
-3601-3800 1949-1951
-3801-4000 1961-1990
-
-4001-6200 Innenpolitik
-4001-4300 Gesamtdarstellungen
-4301-4600 Sozialstruktur und Sozialpolitik
-4301-4400 Gesamtdarstellungen
-4401-4500 1949-1961
-4501-4600 1961-1990
-4601-4900 Parteien, Verbände, Gewerkschaften, Kirchen
-4601-4700 Gesamtdarstellungen
-4701-4800 1949-1961
-4701-4750 SED
-4751-4770 andere Parteien
-4771-4800 Gewerkschaften, Verbände, Kirchen
-4801-4900 1961-1990
-4801-4850 SED
-4851-4870 andere Parteien
-4871-4900 Gewerkschaften, Verbände, Kirchen
-4901-5200 Regierungssystem, Institutionen, Innere Sicherheit
-4901-5000 Gesamtdarstellungen
-4901-4933 Innere Sicherheit
-4934-4966 Regierungssystem
-4967-5000 Institutionen
-5001-5100 1949-1961
-5001-5033 Innere Sicherheit
-5034-5066 Regierungssystem
-5067-5100 Institutionen
-5101-5200 1961-1990
-5101-5133 Innere Sicherheit
-
-5167-5200 Institutionen
-5201-5500 Wirtschafts- und Finanzpolitik
-5201-5300 Gesamtdarstellungen
-5301-5400 1949-1961
-5401-5500 1961-1990
-5501-5800 Vergangenheitsbewältigung, Mentalitäten, Erinnerungskultur
-5501-5600 Gesamtdarstellungen
-5601-5700 1949-1961
-5701-5800 1961-1990
-5801-6000 Kultur, Wissenschaft, Hochschulpolitik
-5801-5880 Gesamtdarstellungen
-5881-5940 1949-1961
-5941-8000 1961-1990
-6001-6200 Länder und Kommunen
-6001-6080 Gesamtdarstellungen
-6081-6140 1949-1961
-6141-6200 1961-1990
-
-6201-6700 Memoiren und Biographien
-6201-6499 Einzelbiographien und Memoiren
-6500-6700 Sammelbiographien
-
+**** 11001 - 12000 Deutsche Frage, Berlin und deutsch-deutsche Politik 1949 — 1990
+**** 12001 - 16000 Innenpolitik
+***** 12001-12800 Gesamtdarstellungen
+***** 12801-13500 Sozialstruktur und Sozialpolitik
+****** 12801-13100 Gesamtdarstellungen
+****** 13101-13300 1949 - 1969
+****** 13301-13399 1970 - 1990
+****** 13400-13500 1990 -
+***** 13501-14300 Parteien, Verbände, Gewerkschaften, Kirchen
+****** 13501 - 13800 Gesamtdarstellungen
+****** 13801 - 14050 1949 - 1969
+******* 13801 - 13850 CDU/CSU
+******* 13851 - 13900 SPD
+******* 13901 - 13930 FDP
+******* 13931 - 13950 andere Parteien
+******* 13951 - 14050 Verbände, Gewerkschaften, Kirchen
+****** 14051 - 14300 1970 -
+******* 14051 - 14090 CDU/CSU
+******* 14091 - 14130 SPD
+******* 14131 - 14170 FDP
+******* 14171 - 14210 Bündnis 90/Die Grünen
+******* 14211 - 14250 andere Parteien
+******* 14251 - 14300 Verbände, Gewerkschaften, Kirchen
+***** 14301-15100 Regierungssystem, Institutionen, Innere Sicherheit
+****** 14301 - 14700 Gesamtdarstellungen
+******* 14301 - 14433 Innere Sicherheit
+******* 14434 - 14566 Regierungssystem
+******* 14567 - 14700 Institutionen
+****** 14701 - 14900 1949-1969
+******* 14701 - 14766 Innere Sicherheit
+******* 14767 - 14833 Regierungssystem
+******* 14834 - 14900 Institutionen
+****** 14901-15100 1970 -
+******* 14901 - 14966 Innere Sicherheit
+******* 14967 - 15033 Regierungssystem
+******* 15034 - 15100 Institutionen
+***** 15101 - 15300 Wirtschafts- und Finanzpolitik
+****** 15101 - 15200 Gesamtdarstellungen
+****** 15201 - 15250 1949 — 1969
+****** 15251 - 185300 1970 -
+***** 15301 - 15500 Vergangenheitsbewältigung, Mentalitäten, Erinnerungskultur
+****** 15301 - 15400 Gesamtdarstellungen
+****** 15401 - 15450 1949 — 1969
+****** 15451 - 158500 1970 -
+***** 15501 - 15700 Kultur, Wissenschaft, Hochschulpolitik
+****** 15501 - 15600 Gesamtdarstellungen
+****** 15601 - 156500 1949 - 1969
+****** 15651 - 15700 1970 -
+***** 15701 - 16000 Länder und Kommunen
+****** 15701 - 15750 Gesamtdarstellungen
+****** 15751 - 15874 1949 — 1990
+****** 15875 - 16000 1990 —
+**** 16001 - 17500 Wiedervereinigung 1989/1990 (Äußeres/Inneres) 
+**** 17501 - 18300 Memoiren und Biographien
+***** 17501 - 18099 Einzelbiographien und Memoiren
+***** 18100 - 18300 Sammelbiographien
+*** Hi Deutsche Demokratische Republik (1-6500)
+**** 1-2000 Gesamtdarstellungen
+***** 0001 - 1000 übergreifen
+***** 1001 - 1500 1949-1961
+***** 1501 - 2000 1961-1990
+**** 2001 - 4000 Außenpolitik
+***** 2001 - 2500 Gesamtdarstellungen
+***** 2501 - 3000 Zwischenstaatliche Außenpolitik
+****** 2501-2600 Gesamtdarstellungen
+****** 2601-2800 1949-1961
+****** 2801-3000 1961-1990
+***** 3001-3500 Internationale Organisationen (Uno/KSZE, etc.)
+****** 3001-3100 Gesamtdarstellungen
+****** 3101-3300 1949-1961
+****** 3301-3500 1961-1990
+***** 3501-4000 Militärpolitik (Nato etc.)
+****** 3501-3600 Gesamtdarstellungen
+****** 3601-3800 1949-1951
+****** 3801-4000 1961-1990
+**** 4001-6200 Innenpolitik
+***** 4001-4300 Gesamtdarstellungen
+***** 4301-4600 Sozialstruktur und Sozialpolitik
+****** 4301-4400 Gesamtdarstellungen
+****** 4401-4500 1949-1961
+****** 4501-4600 1961-1990
+***** 4601-4900 Parteien, Verbände, Gewerkschaften, Kirchen
+****** 4601-4700 Gesamtdarstellungen
+****** 4701-4800 1949-1961
+******* 4701-4750 SED
+******* 4751-4770 andere Parteien
+******* 4771-4800 Gewerkschaften, Verbände, Kirchen
+****** 4801-4900 1961-1990
+******* 4801-4850 SED
+******* 4851-4870 andere Parteien
+******* 4871-4900 Gewerkschaften, Verbände, Kirchen
+***** 4901-5200 Regierungssystem, Institutionen, Innere Sicherheit
+****** 4901-5000 Gesamtdarstellungen
+******* 4901-4933 Innere Sicherheit
+******* 4934-4966 Regierungssystem
+******* 4967-5000 Institutionen
+****** 5001-5100 1949-1961
+******* 5001-5033 Innere Sicherheit
+******* 5034-5066 Regierungssystem
+******* 5067-5100 Institutionen
+****** 5101-5200 1961-1990
+******* 5101-5133 Innere Sicherheit
+******* 5134-5166 Regierungssystem
+******* 5167-5200 Institutionen
+***** 5201-5500 Wirtschafts- und Finanzpolitik
+******* 5201-5300 Gesamtdarstellungen
+******* 5301-5400 1949-1961
+******* 5401-5500 1961-1990
+***** 5501-5800 Vergangenheitsbewältigung, Mentalitäten, Erinnerungskultur
+******* 5501-5600 Gesamtdarstellungen
+******* 5601-5700 1949-1961
+******* 5701-5800 1961-1990
+***** 5801-6000 Kultur, Wissenschaft, Hochschulpolitik
+******* 5801-5880 Gesamtdarstellungen
+******* 5881-5940 1949-1961
+******* 5941-8000 1961-1990
+***** 6001-6200 Länder und Kommunen
+******* 6001-6080 Gesamtdarstellungen
+******* 6081-6140 1949-1961
+******* 6141-6200 1961-1990
+**** 6201-6700 Memoiren und Biographien
+***** 6201-6499 Einzelbiographien und Memoiren
+***** 6500-6700 Sammelbiographien
 \pagebreak
 ** J - Weltgeschichte, Post Colonial Studies
 *** Ja - Vor- und Frühgeschichte
@@ -2740,161 +2675,86 @@ Revolution 1917
 **** 0401 - 0600 Die Periode des Stalinismus (1925-19525 einschließl. Stalin-Literatur und ProtskirLiteratur nach 1925).
 **** 0600 - 1000 Die Sowjetunion seit Stalins Tod
 \pagebreak
-** TODO M - Deutsche Geschichte und Geschichte der deutschen Territorien
-Deutsche Geschichte: Allgemeine Probleme
-
-Deutsche Geschichte: Gesamtdarstellungen
-Grenzprobleme und Beziehungen zu den Nachbarländern
-Auslandsdeutschtum
-
-Preussischer Gesamtstaat
-
-Ostdeutschland ( Gebiete östlich der Oder und Neisse )
-Norddeutschland
-
-Mitteldeutschland
-
-Westdeutschland
-
-Gebiet der Westgrenzen
-
-Büdwestdeutschland
-
-Süddeutschland
-
-Österreichischer Gesantstaat
-Österreichische Länder
-
-1- 500 Problem der deutschen Geschichte; Nation und
-Nationalisms
-501 - 600 (bleibt frei)
-601 - 800 Territorial- und Landesgeschichtes Allgemeines
-
-M_b___Deutsche Geschichtes Gesamtdarstellungen
-
-1= 500 Gesautdarstellungen (ohron. nach Erscheinungsjahr)
-501 - 700 Quellen und Quellensammlungen
-701 - 1000 Darstellungen einzelner Epochen (chron. nach Ep.)
-
-1- 200 Beziehungen zu den Nachbarländern allgemein
-201 - 350 Grenzprobleme allgemein
-351 - 450 Schleswig
-451 - 700 Ostgrenzen
-701 - 800 Südtirol -— Italien
-801 - 1000 Westgrenzen
-
-M e___Auslanäsdeutschtum
-
-1- 200 Allgemeines
-201 -— 300 Nordanerika
-301 - 400 Südamerika
-401 - 5 00 Afrika
-501 - 700 Balkan
-701 - 800 Polen und Rußland (ohne Baltendeutsähe)
-801 - 900 Baltikun
-1000 Sonstige Länder
-
-ne)
-©
--
-L
-
-M_g___Freußischer Gesantstast
-
-1- 100 Quellen
-101 = 200 Gesantdarstellungen
-201 — 1000 Spezialuntersuchungen
-
-551 -
-
-751 -
-
-201 = 400 Allgemeine Probleme
-
-401 - 500 Ideen- und Geistesgeschichte
-
-501 - 700 Verwaltung, Finanzen, Recht u. Verfassung
-701 = 900 Außenpolitik
-
-900 ff, Polenfrage
-
-8 Gebiete Östlich der Oder Neiße
-
-Allgemeines (Problem der Oder-Weiße-Linie)
-Ost- und Westpreußen
-
-Posen und Warthegau
-
-Pommern
-
-Schlesien
-
-Allgemein
-
-Schleswig - Holstein
-Mecklenburg
-
-Hannover (Niedersachsen)
-Oldenburg
-
-Ostfriesland
-
-eld chl
-
-Allgemein
-
-Brandenburg
-
-Provinz Sachsen
-
-Königreich Sachsen
-
-sonstige sächsische und thürinzische Staaten
-
-Hu__Vontdeutschland
-
-100
-250
-350
-600
-
-Allgemein
-Westfalen, Lippe
-Rheinland allgemein
-
-Niederrhein (Jülich, Kleve) und Rhein - Rhur (Mark,
-Berg und Ravensberg)
-
-Mittelrhein (Erzbistum Köln)
-Moselgebiet (Erzbistum Trier)
-
-Hessische Staaten
-
-H_o__ Gebiet der Westgrenzen
-
-1 - 100 Allgemein
-101 - 250 Saarland
-251 - 300 Rheinpfalz
-301 - 500 Lothringen (Gesamt- und Niederlothringen)
-501 - 700 Elsaß (Oberlothringen)
-701 - 900 Rebhsland Elsa8 — Lothringen
-
-u Si stdeutschl.
-
-1=- 200 Allgemein
-201 - 500 Baden (Pfalz)
-501 - 800 Württenberg (Schwaben)
-801 —- 1000 Hohenzollern und sonstige kleinere Territorien
-
-Wr -äüddeutschland
-
-1- 200 Allgemein
-201 = 600 Bayern insgesamt
-601 - 700 Oberpfalz
-701 - 800 Pranken
-801 = 900 Altbayern
-901 - 1000 Bayrisches Schwaben
-
+** M - Deutsche Geschichte und Geschichte der deutschen Territorien
+*** Ma - Deutsche Geschichte: Allgemeine Probleme
+**** 0001 - 0500 Problem der deutschen Geschichte; Nation und Nationalisms
+**** 0501 - 0600 (bleibt frei)
+**** 0601 - 0800 Territorial- und Landesgeschichtes Allgemeines
+*** Mb - Deutsche Geschichte: Gesamtdarstellungen
+**** 0001 - 0500 Gesautdarstellungen (ohron. nach Erscheinungsjahr)
+**** 0501 - 0700 Quellen und Quellensammlungen
+**** 0701 - 1000 Darstellungen einzelner Epochen (chron. nach Ep.)
+*** Md - Grenzprobleme und Beziehungen zu den Nachbarländern
+**** 0001 - 0200 Beziehungen zu den Nachbarländern allgemein
+**** 0201 - 0350 Grenzprobleme allgemein
+**** 0351 - 0450 Schleswig
+**** 0451 - 0700 Ostgrenzen
+**** 0701 - 0800 Südtirol -— Italien
+**** 0801 - 1000 Westgrenzen
+*** Me - Auslandsdeutschtum
+**** 0001 - 0200 Allgemeines
+**** 0201 - 0300 Nordanerika
+**** 0301 - 0400 Südamerika
+**** 0401 - 0500 Afrika
+**** 0501 - 0700 Balkan
+**** 0701 - 0800 Polen und Rußland (ohne Baltendeutsähe)
+**** 0801 - 0900 Baltikun
+**** 0901 - 1000 Sonstige Länder
+*** Mg - Preussischer Gesamtstaat
+**** 0001 - 0100 Quellen
+**** 0101 - 0200 Gesantdarstellungen
+**** 0201 - 1000 Spezialuntersuchungen
+***** 0201 - 0400 Allgemeine Probleme
+***** 0401 - 0500 Ideen- und Geistesgeschichte
+***** 0501 - 0700 Verwaltung, Finanzen, Recht u. Verfassung
+***** 0701 - 0900 Außenpolitik
+***** 0900 - xxxx Polenfrage
+*** Mh - Ostdeutschland ( Gebiete östlich der Oder und Neisse )
+**** 0001 - 0350 Allgemeines (Problem der Oder-Weiße-Linie)
+**** 0351 - 0550 Ost- und Westpreußen
+**** 0551 - 0650 Posen und Warthegau
+**** 0651 - 0750 Pommern
+**** 0751 - 0850 Schlesien
+*** Mk - Norddeutschland
+**** 0001 - 0200 Allgemein
+**** 0201 - 0400 Schleswig - Holstein
+**** 0401 - 0550 Mecklenburg
+**** 0551 - 0800 Hannover (Niedersachsen)
+**** 0801 - 0900 Oldenburg
+**** 0901 - 1000 Ostfriesland
+*** Ml - Mitteldeutschland
+**** 0001 - 0300 Allgemein
+**** 0301 - 0500 Brandenburg
+**** 0501 - 0550 Provinz Sachsen
+**** 0551 - 0800 Königreich Sachsen
+**** 0801 - xxxx sonstige sächsische und thürinzische Staaten
+*** Mn - Westdeutschland
+**** 0001 - 0100 Allgemein
+**** 0101 - 0250 Westfalen, Lippe
+**** 0251 - 0350 Rheinland allgemein
+**** 0351 - 0600 Niederrhein (Jülich, Kleve) und Rhein - Rhur (Mark, Berg und Ravensberg)
+**** 0601 - 0700 Mittelrhein (Erzbistum Köln)
+**** 0701 - 0800 Moselgebiet (Erzbistum Trier)
+**** 0801 - 1000 Hessische Staaten
+*** Mo - Gebiet der Westgrenzen
+**** 0001 - 0100 Allgemein
+**** 0101 - 0250 Saarland
+**** 0251 - 0300 Rheinpfalz
+**** 0301 - 0500 Lothringen (Gesamt- und Niederlothringen)
+**** 0501 - 0700 Elsaß (Oberlothringen)
+**** 0701 - 0900 Reichsland Elsaß — Lothringen
+*** Mp - Südwestdeutschland
+**** 0001 - 0200 Allgemein
+**** 0201 - 0500 Baden (Pfalz)
+**** 0501 - 0800 Württenberg (Schwaben)
+**** 0801 - 1000 Hohenzollern und sonstige kleinere Territorien
+*** Mr - Süddeutschland
+**** 0001 - 0200 Allgemein
+**** 0201 - 0600 Bayern insgesamt
+**** 0601 - 0700 Oberpfalz
+**** 0701 - 0800 Pranken
+**** 0801 - 0900 Altbayern
+**** 0901 - 1000 Bayrisches Schwaben
 \pagebreak
 ** N - Anthropologie, Völkerkunde, Bevölkerungswissenschaft
 *** Na - Anthropologie
@@ -3185,454 +3045,279 @@ Politik
 *** TODO Qw - Sozialpolitik und soziale Frage
 *** TODO Qz - Wirtschatstheorie und Volkwirtschaftslehre
 \pagebreak
-** TODO R - Kulturgeschichte, Geschichte der Künste, Geschichte der Technik, Mediengeschichte, Umweltgeschichte
+** R - Kulturgeschichte, Geschichte der Künste, Geschichte der Technik, Mediengeschichte, Umweltgeschichte
 *** Ra - Lexika, allgemeine Atlanten und Biläwerke zur Kulturgeschichte
+**** 0001 - 0150 Lexika
+**** 0150 - 0200 (bleibt frei)
+**** 0201 - 0450 Atlanten
+**** 0450 - 0600 (bleibt frei)
+**** 0601 - 0900  Bildwerke
+**** 0900 - 1000 Sonstiges
 *** Rb - Allgemeine Darstellungen und Handblicher zur Kulturgeschichte
+**** 0001 - 0200 Problem der "Kulturgeschichte"
+**** 0201 - 0300 Systematische Handblioher
+**** 0301 - 0400 (bleibt frei)
+**** 0401 - 0600 Gesantdarstellungen
+**** 0601 - 0650 Kulturgeschichte der antiken Welt
+**** 0651 - 0750 Kulturgeschichte des Mittelalters
+**** 0751 - 0900 Kulturgeschichte der Neugeit
+**** 0901 - 1000 Kulturgeschichtliche Einzelfragen
+***** 0995 - 1000 Erinnerung, Memoria, etc.
 *** Re - Archäologie und Kunstgeschichte: Hilfsmittel und Gesamtdarstellungen
+**** 0001 - 0100 Theorie der Kunst
+**** 0101 - 0150 (bleibt frei)
+**** 0151 - 0350 Hilfsmittel und Handwörterbücher
+**** 0351 - 0400 (bleibt frei)
+**** 0401 - 0600 Gesantdarstellungen
+**** 0601 - 800 Darstellungen einzelner Epochen der Kunstgeschichte
+**** 0801 - 1000 Kunstführer
 *** Rf - Archäologie und Kunstgeschichte: Monographien und systematische Darstellungen
+**** 0001 - 0300 Architektur und Städtebau
+**** 0301 - 0600 Plastik
+**** 0601 - 0900 Malerei
+**** 0900 - xxxx Sonstiges
 *** Rg - Musikgeschichte
+**** 0001 - 0100 Allgemeines zur Theorie und Geschichte der Musik
+**** 0101 - 0200 Quellen
+**** 0201 - 0350 Lexika und sonstige Hilfsmittel
+**** 0351 - 0400 (bleibt frei)
+**** 0401 - 0500 Gesantdarsteklungen der Musikgeschichte
+**** 0501 - 0650 Darstellungen einzelner Epochen der Musikgeschichte
+**** 0651 - 0800 Monographien
+**** 0801 - 1000 Musikerbiographien
 *** Rh - Sprachgeschichte
+**** 0001 - 0200 Einführungen und Hilfsmittel
+**** 0201 - 0300 Quellen
+**** 0301 - 0500 Theorie der Sprache
+**** 0501 - 0600 Geschichte der Sprachen: Gesamtdarstellungen
+**** 0601 - 0800 Geschichte der Sprachen: Binzeldarstellungen
+**** 0801 - 1000 Geschichte der Sprachwissenschaft
 *** Ri - Literaturgeschichte
+**** 0001 - 0050 Lexika, Handbücher, Anthologien
+**** 0051 - 0100 Einführungen
+**** 0101 - 0200 Quellen
+**** 0201 - 0350 Geschichte der deutschen Literaturs Gesantdarstellungen
+**** 0351 - 0450 Geschichte außerdeutscher Literaturen
+**** 0451 - 0600 Gesöhichte einzelner Epochen der deutschen Literatur; Biographien
+**** 0601 - 0700 (bleibt frei)
+**** 0701 - 1000 Spezialuntersuchungen, systematische Darstellungen
 *** Rk - Geschichte des Buch- und Verlagswesens
+**** 0001 - 0100 Buchwesen: Allgemeine Literatur
+**** 0201 - 0400 Geschichte des Buchs und des Buchdrucks
+**** 0401 - 0600 Geschichte des Buchhandels
+**** 0601 - 0800 Bibliotheksgeschichte
+**** 0801 - 1000 Verlagsgeschichte
 *** Rn - Sittengeschichte
+**** 0001 - 0100 Allgemeines
+**** 0101 - 0400 Gesamtdarstellungen
+**** 0401 - 0500 (bleibt frei)
+**** 0501 - 1000 Spezialuntersuchungen und Monographien
+***** 0501 - 0650 Wohnung und Haus
+***** 0651 - 0800 Kleidung, Mode, Trachten
+***** 0801 - 1000 Sonstiges
 *** Ro - Volkskunde
-*** Rs - Geschichte der R Technik: Problem und allgemeine Darstellungen, Halo. grlitk
+**** 0001 - 0200 Methodik, Einführungen
+**** 0201 - 0300 Lexika und sonstige Hilfsmittel
+**** 0301 - 0350 (bleibt frei)
+**** 0350 - 0500 Größere Darstellungen und Handblicher
+**** 0501 - 0800 Spezialuntersuchungen
+**** 0801 - 1000 Quellen
+*** Rs - Geschichte der  Technik: Problem und allgemeine Darstellungen
+**** 0001 - 0200 Problem der Technik
+**** 0201 - 0300 Lexika, Handwörterbticher, Hilfsmittel
+**** 0301 - 0400 (bleibt frei)
+**** 0401 - 0600 Geschichte der Technik: Allgemeine Darstellungen
+**** 0601 - 0799 Geschichte der Techniks Einzelne Epochen
+**** 0800 - 1000 Mediengeschichte
 *** Rt - Geschichte der Technik: Monographien
-*** Ru - Umwaltaaschich ke
+**** 0001 - 0400 Monographien
+**** 0401 - 0500 (bleibt frei)
+**** 0501 - 0800 Biographien von Erfindern und Technikern
+**** 0801 - 1000 Sonstiges
+*** Ru - Umweltgeschichte
+**** 0001 - 0100 Einführungen
+**** 0101 - 0300 Darstellungen
+\pagebreak
+** S - Kriegs- und Militärgeschichte
+*** Sa - Hilfsmittel
+**** 0001 - 0100 Spezialbibliographien
+**** 0101 - 0200 Quellenkunde
+**** 0201 - xxxx Nachschlagewerke
+*** Sb - Gesamtdarstellungen der Kriegsgeschichte.
+**** 0001 - 0200 allgemeines
+**** 0201 - 0400 Deutschland
+**** 0401 - 0600 West- und Südeuropa
+**** 0601 - 0800 Ost- und Nordeuropa
+**** 0801 - 0999 Übersee
+*** Sc - Monographien und Spezialdarstellungen zur Kriegsgeschichte (chronologisch)
+**** 0001 - 0200 allgemein
+**** 0201 - 0400 Deutschland
+**** 0401 - 0600 West- und Südeuropa
+**** 0601 - 0800 Ost- und Nordeuropa
+**** 0801 - xxxx Übersee
+*** Se - Armesgeschichte, Geschichte einzelner Heere und Einheiten.
+**** 0001 - 0050 allgemein
+**** 0051 - 0100 Antike
+**** 0101 - 0400 Deutschland
+**** 0401 - 0650 West- und Südeuropa
+**** 0651 - 0800 Ost- und Nordeuropa
+**** 0801 - xxxx Übersee
+*** Sg - Seekriegsgeschichte
+**** 0001 - 0200 allgemein
+**** 0201 - 0400 Deutschland
+**** 0401 - 0600 West- und Südeuropa
+**** 0601 - 0800 Ost- und Nordeuropa
+**** 0801 - xxxx Übersee
+*** Sh - Luftkriegsgeschichte
+*** Si - Politik und Kriegführung (Stellung des Militärs im Staate) soziologische, wirtschaftliche und Rechtsfragen
+**** 0001 - 0300 allgemein
+**** 0301 - 0500 Deutschland
+**** 0501 - 0700 West- und Südeuropa
+**** 0701 - 0850 Nord- und Osteuropa
+**** 0851 - 0999 Übersee
+*** Sk - Partisanenkrieg
+*** Sl - Kriegslehre, Strategie, Taktik.
+**** 0001 - 0400 allgemein und Geschichte der Kriegslehre
+**** 0401 - 0600 Deutschland
+**** 0601 - 0750 West- und Südeuropa
+**** 0751 - 0850 Ost- und Nordeuropa
+**** 0851 - xxxx Übersee
+*** Sn - General- und Admiralstäbe, Führung
+**** 0001 - 0200 allgemein
+**** 0201 - 0400 Deutsshland
+**** 0401 - 0600 West- und Südeuropa
+**** 0601 - 0800 Ost- und Nordeuropa
+**** 0801 - xxxx Übersee
+*** So - Waffen und Waffentechnik, Befestigungskunst
+**** 0001 - 0200 allgemein
+**** 0201 - 0400 Deutschland
+**** 0401 - 0600 West- und Südeuropa
+**** 0601 - 0800 Ost- und Nordeuropa
+**** 0801 - xxxx Übersee
 
-Ze _leziks, Allgemeine Atlanten und Biläwerke_zur Kulturgeschichte
-
-1- 150 Lexika
-150 - 200 (bleibt frei)
-201 = 450 Atlanten
-450. = 600 (bleibt frei)
-601 - 900  Bildwerke
-900 - 1000 Sonstiges
-
-tell n Handbüoche; E]
-
-1- 200 Problem der "Kulturgeschichte"
-
-201 - 300 Systematische Handblioher
-
-301 - 400 (bleibt frei)
-
-401 = 600 Gesantdarstellungen
-
-co - 650 Kulturgeschichte der antiken Welt
-
-65; - 750 Kulturgeschichte des Mittelalters
-
-751 - 900 Kulturgeschichte der Neugeit
-
-901 - 1000 Kulturgeschichtliche Einzelfragen
-all Ferner Ye
-
-1- 100 Theorie der Kunst
-101 - +50 (bleibt frei)
-350 Hilfsmittel und Handwörterbücher
-400 (bleibt frei)
-401 - 600 Gesantdarstellungen
-800
-
-Darstellungen einzelner Epochen der Kunstgeschichte
-
-1 - 300 Architektur und Städtebau
-301 - 600 Plastik
-601 = 900 Malerei
-900 ff. Sonstiges
-B_g__ Musikgeschichte
-
-1- 100
-101 = 200
-201 - 350
-351 - 400
-401 - 500
-501 - 650
-651 - 800
-801 - 1000
-
-Allgemeines zur Theorie und Geschichte der Musik
-Quellen
-
-Lexika und sonstige Hilfsmittel
-
-(bleint frei)
-
-Gesantdarsteklungen der Musikgeschichte
-Derstellungen einzelner Epochen der Musikgeschichte
-Monographien
-
-Musikerbiographien
-
-R_b___Sprachgsschichte
-
-Einführungen und Hilfsmittel
-
-Quellen
-
-Theorie der Sprache
-
-Geschichte der Sprachen: Gesamtdarstellungen
-Geschichte der Sprachen: Binzeldarstellungen
-Geschichte der Sprachwissenschaft
-
-Ri Iiteraturgeschichte
-
-701 - 1000
-
-Lexika, Handbücher, Anthologien
-
-Einführungen
-
-Quellen
-
-Geschichte der deutschen Literaturs Gesantdarstellungen
-Geschichte außerdeutscher Literaturen
-
-Gesöhichte einzelner Epochen der deutschen Literatur;
-Biographien
-
-(bleibt frei)
-Spezialuntersuchungen, syatenatische Darstellungen
-
-R_k_ _ Geschichte des Buch-_ und Verlagswesens
-
-Buochwesen: Allgemeine Literatur
-Geschichte des Buchs und des Buchdrucks
-Geschichte des Buchhandels
-Bibliotheksgeschichte
-Verlagsgeschichte
-
-R_n__Sittengeschischte
-
-1- 100 Allgemeines
-101 - 400 Gesamtdarstellungen
-401. - 500 (bleibt frei)
-
-501 - 1000 Spezialuntersuchungen und Monographien
-501 = 650 Wohnung und Haus
-651 - 8300 Kleidung, Mode, Trachten
-801 - 1000 Sonstiges
-
-1- 200 Methodik, Einführungen
-201 - 300 Lexäka und sonstige Hilfsmittel
-301 - 350 (bleibt frei)
-350 - 500 Größere Darstellungen und Handblicher
-501 - 800 Spezialuntersuchungen
-801 - 1000 Quellen
-
-R_s__ Geschichte der Technik: Problem und allgem, Darstellungen
-
-1=- 200 Problem der Technik
-201 - 300 Lexika, Handwörterbticher, Hilfsmittel
-301 - 400 (bleibt frei)
-401 = 600 Geschichte der Technik: Allgemeine Darstellungen
-601 - 4988 Geschichte der Techniks Einzelne Epochen
-
-LO — Fakes Alk
-7
-
-R_t___Gesehichte der Technik: Monographien
-
-11-400 Monographien
-401 - 500 (bleibt frei)
-501 - 800 Biographien von Erfindern und Technikern
-801 - 1000 Sonstiges
-
-Unwelt geäehiche
+~Tendenz: mögliehkt unter Ländern einoränen! Innerhalb der Untergruppen ohronologisch!~
 
 \pagebreak
-** TODO S - Kriegs- und Militärgeschichte
-
-a ei a . SEGEN:
-1 = 100 101 - 200 sb 201
-
-Gesamtdarstellungen der Kriegsgeschichte.
-1-200 allgemeines
-
-201-400 utschland
-
-401-600 West- und Südeuropa
-
-601-800 Ost- und Nordeuropa
-
-801-999 Übersee,
-
-Monographien und Spezialdarstellungen zur Kriegsgeschichte
-(ehronologisch),
-
-1-200 allgemein
-
-201-400 Deutschland
-401-600 West- und Südeuropa
-601-800 Ost- und Nordeuropa
-ab 801 Übersee.
-
-Armesgeschichte, Geschichte einzelner Heere und Einheiten.
-
-1-50 allgemein
-
-51-100 Antike
-ı 00 Deutschland
-401-650 West- und Südeuropa
-651-800 Ost- und Nordeuropa
-ab 801 Übersee.
-
-Seekriegsgeschichte
-
-1-200 allgemein
-201-400 Deutschland
-401-650 West- und Südeuropa
-651-800 Ost- und Nordeuropa
-ab 801 Übersee.
-
-Iuftkriegsgeschichte
-
-Politik und Kriegführung (Stellung des Militärs im Staate)
-soziologische, wirtschaftliche und Rechtsfragen. N
-
-1-300 allgemkin
-301-500 Deutschland
-501-700 West- und Südeuropa
-701-850 Nord- und Osteuropa
-851-999 Übersee.
-
-Partisanenkrieg
-
-noch 8
-
-81 Kriegslehre, Strategie, Taktik.
-
-1-400 allgemein und @eschichte der Kriegslehre
-401-600 Deutschland
-601-750 West- und Südeuropa
-751-850 Ost- und Nordeuropa
-ab 851 Übersee,
-
-Sn General=- und Admiralstäbe, Führung.
-
-1-200 allgemein
-201-400 Deutsshland
-401-600 West- und Südeuropa
-601-800 Ost- und Nordeuropa
-ab 801 Übersee.
-
-80 Waffen und Waffentechnik, Befestigungskunst.
-
-1-200 allgemein
-201-400 Deutschland
-401-600 West- und Südeuropa
-601-800 Ost- und Nordeuropa
-ab 801 Übersee.
-
-Tendenz: mögliehkt unter Ländern einoränen!
-Innerhalb der Untergruppen ohronologisch!
-
-\pagebreak
-** TODO T - Religions- und Kirchengeschichte
+** T - Religions- und Kirchengeschichte
 *** Ta - Religionsgeschichte, Weltreligionen
-1 - 50 Religionswissenschaft, Phänomenologie der Religion,
-
-Religionssoziologie, allgemeine Darstellungen,
-grosse Reihen
-101 - 200 Allgemeine Religionsgeschichte, Lehrbücher, Kompendien,
-Einführungen in die Religionsgeschichte
-301 - 700 Ausserchristliche Weltreligionen
-301 - 350 Buddhismus
-351 - 400 Hinduismus
-401 - 450 Juden (vgl. Tn 851 £f. )
-451 - 500 Islam
-501 - 700 Sonstige (auch Germanen)
-751 - 800 Das Christentum und die Weltreligionen
-901 -930 Heilige Schriften! Allgemeine Erörterung
-931 - 970 Heilige Schriften: Texte
-
+**** 0001 - 0050 Religionswissenschaft, Phänomenologie der Religion, Religionssoziologie, allgemeine Darstellungen, grosse Reihen
+**** 0101 - 0200 Allgemeine Religionsgeschichte, Lehrbücher, Kompendien, Einführungen in die Religionsgeschichte
+**** 0301 - 0700 Ausserchristliche Weltreligionen
+***** 0301 - 0350 Buddhismus
+***** 0351 - 0400 Hinduismus
+***** 0401 - 0450 Juden (vgl. Tn 851 ff. )
+***** 0451 - 0500 Islam
+***** 0501 - 0700 Sonstige (auch Germanen)
+**** 0751 - 0800 Das Christentum und die Weltreligionen
+**** 0901 - 0930 Heilige Schriften! Allgemeine Erörterung
+**** 0931 - 0970 Heilige Schriften: Texte
 *** Tb - Christentum: Grundlagen, Hilfsmittel und Lexika, Nachschlagewerke.
-1 - 50 Die Heilige Schrift
-101 - 200 Die Heilige Schrift: Einzeluntersuchungen, Überlieferung,
-
-Kanon usw,
-251 - 300 Jesus
-301 - 400 Altchristliche Literaturgeschichte (Patristik)
-451- 550 Nachschlagewerke, Lexika usw., die christliche Religsion,
-Theologie und Kirche betreffend
-55l - 600 Atlanten
-
+**** 0001 - 0050 Die Heilige Schrift
+**** 0101 - 0200 Die Heilige Schrift: Einzeluntersuchungen, Überlieferung, Kanon usw.
+**** 0251 - 0300 Jesus
+**** 0301 - 0400 Altchristliche Literaturgeschichte (Patristik)
+**** 0451- 0550 Nachschlagewerke, Lexika usw., die christliche Religsion, Theologie und Kirche betreffend
+**** 055l - 0600 Atlanten
 *** Td - Das Christemtum und seine Umwelt
-1 - 50 Mission
-5] - 150 Christentum und Kirche in ihrem Verhältnis zu Geschichte
-und Gegenwart
-201 - 300. Christentum und Staat (s. hierzu auch Kirchenrecht)
-35] - 500 Christliche Soziallehren, Kirche und soziale Einrichtungen
-55l - 650 Spezielle Arbeiten zum übergeordneten Thema: Katholizismus
-701 - 800 I = ” 3 " +; Protestantismus
-%i - 1000 Tagebücher, Biographien katholischer und protestantischer
-Theologen, Monographien zum geistlichen Stand
-
+**** 0001 - 0050 Mission
+**** 0051 - 0150 Christentum und Kirche in ihrem Verhältnis zu Geschichte und Gegenwart
+**** 0201 - 0300 Christentum und Staat (s. hierzu auch Kirchenrecht)
+**** 0350 - 0500 Christliche Soziallehren, Kirche und soziale Einrichtungen
+**** 0551 - 0650 Spezielle Arbeiten zum übergeordneten Thema: Katholizismus
+**** 0701 - 0800 Spezielle Arbeiten zum übergeordneten Thema: Protestantismus
+**** 0901 - 1000 Tagebücher, Biographien katholischer und protestantischer Theologen, Monographien zum geistlichen Stand
 *** Tf - Darstellungen der allgemeinen Kirchengeschichte
-1 - 50 Allgemeine Einführungen ins Studium der Kirchengeschichte,
-
-Kirchengeschichtsschreibung (auch einzelner Perioden)
-und ihre Probleme
-101 - 200 Kürzere allgemeine Gesamtdarstellungen der Kirchengeschichte,
-Kompendien,
-251 - 350 Grössere Gesamtdarstellungen zur allgemeinen Kirchengeschichte,
-längere Perioden, Sammelwerke, Aufsatzsammlungen
-401 - 500 Die frühe Zeit der Kirchengeschichte (Entstehung der Kirche)
-501 - 950  Kirchengeschichte einzelner Länder, Territorien und Städte
-
-noch ?
-
+**** 0001 - 0050 Allgemeine Einführungen ins Studium der Kirchengeschichte, Kirchengeschichtsschreibung (auch einzelner Perioden) und ihre Probleme
+**** 0101 - 0200 Kürzere allgemeine Gesamtdarstellungen der Kirchengeschichte, Kompendien,
+**** 0251 - 0350 Grössere Gesamtdarstellungen zur allgemeinen Kirchengeschichte, längere Perioden, Sammelwerke, Aufsatzsammlungen
+**** 0401 - 0500 Die frühe Zeit der Kirchengeschichte (Entstehung der Kirche)
+**** 0501 - 0950  Kirchengeschichte einzelner Länder, Territorien und Städte
 *** Tg - Ergänzende Disziplinen: Papsttum, Patriarchate
-1-50 Quellen zur Geschichte des Papsttums;
-101-200 Allgemeine Oharakteristiken und kürzere Darstellungen;
-251-300 ee der Papetgeschichte MA und NZ umfas-
-
-send;
-
-351-450 Gesamtdarstellungen der Papstgeschichte das MA umfassend;
-501-600 Gesamtäarstellungen der Papstgeschichte die NZ umfassend;
-701-850 Einzeluntersuchungen;
-901-950 Patriarchate.
-
+**** 0001 - 0050 Quellen zur Geschichte des Papsttums;
+**** 0101 - 0200 Allgemeine Charakteristiken und kürzere Darstellungen
+**** 0251 - 0300 Gesamtdarstellungen der Papetgeschichte MA und NZ umfassend
+**** 0351 - 0450 Gesamtdarstellungen der Papstgeschichte das MA umfassend
+**** 0501 - 0600 Gesamtäarstellungen der Papstgeschichte die NZ umfassend
+**** 0701 - 0850 Einzeluntersuchungen
+**** 0901 - 0950 Patriarchate
 *** Th - Ergänzende Disziplinen: Konzilien und Klerus
-101-200 Allgemeine Konziliengeschichte (auch längere Perioden);
-
-501-500 Konsziliengeschichte einzelner Länder, Territorien usw.
-auch längere Perioden);
-
-551-650 Einzelprobleme und Untersuchungen zur Konziliengeschichte,
-Vatikanische Konzilienz
-
-651-700 iskopalosmus;
-
-701-750 stümer, Bischofslisten (längere Perioden);
-
-se Klerus (allgemein, längere Perioden);
-
-01 Klerus bestimnter Diözesen (längere Perioden).
+**** 101-200 Allgemeine Konziliengeschichte (auch längere Perioden);
+**** 501-500 Konsziliengeschichte einzelner Länder, Territorien usw. auch längere Perioden);
+**** 551-650 Einzelprobleme und Untersuchungen zur Konziliengeschichte, Vatikanische Konzilienz
+**** 651-700 iskopalosmus;
+**** 701-750 stümer, Bischofslisten (längere Perioden);
+**** se Klerus (allgemein, längere Perioden);
+**** 01 Klerus bestimnter Diözesen (längere Perioden).
 *** Tj - Orden
-1-30 Quellen;
-
-31-100 Allgemeine Geschichte der Orden und des Mönchtums;
-© a s Europa regionalj
-
-151-250 Benediktiners Allgemeines, Gesamtdarstellungen;
-
-251-350 Benediktinersı Untersuchungen und Darstellungen von
-
-Einzelproblemen (Oblateninstitut usw.);
-
-351-450 Benediktiners Einselne Klöster;
-
-501-570 Oisterzienser;
-
-651-700 Frangiskaner;
-
-751-850 Jesuiten;
-
-901-950 Sonstige.
-
-2 Er, ende zi e
+**** 0001 - 0030 Quellen
+**** 0031 - 0100 Allgemeine Geschichte der Orden und des Mönchtums;
+**** 0101 - 0130 Allgemeine Geschichte der Orden und des Mönchtums: Europa regional
+**** 0151 - 0250 Benediktiner: Allgemeines, Gesamtdarstellungen
+**** 0251 - 0350 Benediktiner: Untersuchungen und Darstellungen von Einzelproblemen (Oblateninstitut usw.)
+**** 0351 - 0450 Benediktiner: Einselne Klöster
+**** 0501 - 0570 Cisterzienser
+**** 0651 - 0700 Franziskaner
+**** 0751 - 0850 Jesuiten
+**** 0901 - 0950 Sonstige
 *** Tl -  Ergänzende Disziplinen
-1-150 Geschichte der Frömmigkeitz
-251-400 Dogmengeschichte;
-501-600 Iiturgie - Praktische Theologie;
-701-800 Matrikel,
+**** 0001 - 0150 Geschichte der Frömmigkeit
+**** 0251 - 0400 Dogmengeschichte
+**** 0501 - 0600 Liturgie - Praktische Theologie
+**** 0701  0-800 Matrikel
 *** Tn - Ergänzende Disziplinen: Symbolik ( Konfessionskunde )
-1-100 Bekenntnisschriften (symbolische Bücher);
-151-250 Vergleichende Konfessionskunde;
-301-350 Katholäzispuss Deutschland;
-351-400 Katholizismus‘ Ausland;
-401-450 Protestantismuss Deutschland;
-451-500 Protestantismusı Ausland;
-551-650 Orthodoxes Christentum;
-751-800 Fragen der Oekumene;
-851-900 Christen und Juden;
-901-950 Sekten.
+**** 0001 - 0100 Bekenntnisschriften (symbolische Bücher)
+**** 0151 - 0250 Vergleichende Konfessionskunde
+**** 0301 - 0350 Katholäzispuss Deutschland
+**** 0351 - 0400 Katholizismus‘ Ausland
+**** 0401 - 0450 Protestantismuss Deutschland
+**** 0451 - 0500 Protestantismusı Ausland
+**** 0551 - 0650 Orthodoxes Christentum
+**** 0751 - 0800 Fragen der Oekumene
+**** 0851 - 0900 Christen und Juden
+**** 0901 - 0950 Sekten
 *** To - Kirchliche Rechtsgeschichte
-1-100
-101-200
-
-251-350
-451-650
-
-701-800
-851-950
-
-Quellen und Texte zum Kirchenrecht;
-Einseluntersuchungen zu Quellen und Texten des Kirchen-
-rechts; kirchenrechtliche EaMtZatergenehlinn!
-Allgemeine Einführungen in die kirchliche Rechte-
-
-een ehe
-
-esamtdarstellungen der kirchlichen Rechtsgeschichte;
-Einzeluntersuchungen zur kirchlichen Rechtsgeschichte;
-Die Kirchen in ihren Beziehungen zum Stast,
-
-Kirchliche Stasts- und Rechtslehre,
-
-Konkordate,s
-
+**** 0001 - 0100 Quellen und Texte zum Kirchenrecht;
+**** 0101 - 0200 Einseluntersuchungen zu Quellen und Texten des Kirchen- rechts; kirchenrechtliche Literaturgeschichte
+**** 0201 - 0250 Allgemeine Einführungen in die kirchliche Rechte- een ehe
+**** 0251 - 0350 Gesamtdarstellungen der kirchlichen Rechtsgeschichte
+**** 0451 - 0650 Einzeluntersuchungen zur kirchlichen Rechtsgeschichte
+**** 0701 - 0800 Die Kirchen in ihren Beziehungen zum Stast
+****  0851 - 0950 Kirchliche Stasts- und Rechtslehre, Konkordate
 \pagebreak
-** TODO U - Geistesgeschichte und Geschichte der Wissenschaften
+** U - Geistesgeschichte und Geschichte der Wissenschaften
 *** Ua Bildung, Erziehung und Unterricht ( ausser Universitäten )
 **** 0001 - 0050 Handblicher, Lexika
 **** 0051 - 0100 Quellen zur Geschichte der Bildung und Erziehung
 **** 0101 - 0400 Darstellungen
 **** 0101 - 0650 Didaktik des Geschichtsunterrichts
-**** 5L0 ff. Currieulumforschung
-**** 651 - 750 Geschichte der Erziehung und des Unterrichts: allgemeine Darstellungen
-**** 751 - 850 Geschichte der Erziehung und des Unterrichts: Schulen
-**** 851 »1000 Geschichte des Geschichtsunterrichts
+***** 0540 - 0650 Currieulumforschung
+**** 0651 - 0750 Geschichte der Erziehung und des Unterrichts: allgemeine Darstellungen
+**** 0751 - 0850 Geschichte der Erziehung und des Unterrichts: Schulen
+**** 0851 - 1000 Geschichte des Geschichtsunterrichts
 *** Ub Geschichte der Iniversitäten, Akademien u. gelehrter Gesellschaften
-
-1 Geistesgeschichte und Geschichte der Wissenschaften
-Va Bild Erzieh, und Unterricht ( ausser Universitäten
-
-Ub Geschichte der Universitäten, Akademien u. gelehrter Gesellschaften
-Pi - 200 Idee der Universität. Allgemeines
-201 - 250 Quellen und Monographien zur Universitätsgeschichte: Allgemein
-251 - 325 2 n I \ : Mittelalter
-326 - 100 ” L = u. 2 : Neuzeit
-
-401 - 900 Quellen und Monographien zur Universitätsgeschichte
-( Akademien und gelehrte Gesellschaften ): einzelne Länder
-" " " " " e
-
-4ol = 500 Deutschland
-501 = 550 " " ” ” " : England
-
-551 - 600 Li ” r “ ” : Frankreich
-601 - 650 u u 1 g v : Italien
-
-651 - 700 v — Mi # ii : Österreich
-701 - 750 iu N f = * : Schweiz
-
-751 - 900 " ? e er 2 : Übrige Länder
-
-901 - 1050 Studenten und studentische Organisationen
-1051- 1200 Professoren und Gelehrte
-
-n®:-w! Geschichte einzelner Universitäten, Akademien und gelehrter
-Gesellschaften ( alphabetische )
-
+**** 0001 - 0200 Idee der Universität. Allgemeines
+**** 0201 - 0250 Quellen und Monographien zur Universitätsgeschichte: Allgemein
+**** 0251 - 0325 Quellen und Monographien zur Universitätsgeschichte: Mittelalter
+**** 0326 - 0400 Quellen und Monographien zur Universitätsgeschichte: Neuzeit
+**** 0401 - 0900 Quellen und Monographien zur Universitätsgeschichte ( Akademien und gelehrte Gesellschaften): einzelne Länder 
+***** 0401 - 0500 Quellen und Monographien zur Universitätsgeschichte (Akademien und gelehrte Gesellschaften): einzelne Länder: Deutschland
+***** 0501 - 0550  Quellen und Monographien zur Universitätsgeschichte (Akademien und gelehrte Gesellschaften): einzelne Länder: England
+***** 0551 - 0600 Quellen und Monographien zur Universitätsgeschichte (Akademien und gelehrte Gesellschaften): einzelne Länder: Frankreich
+***** 0601 - 0650 Quellen und Monographien zur Universitätsgeschichte (Akademien und gelehrte Gesellschaften): einzelne Länder: Italien
+***** 0651 - 0700 Quellen und Monographien zur Universitätsgeschichte (Akademien und gelehrte Gesellschaften): einzelne Länder: Österreich
+***** 0701 - 0750 Quellen und Monographien zur Universitätsgeschichte (Akademien und gelehrte Gesellschaften): einzelne Länder: Schweiz
+***** 0751 - 0900 Quellen und Monographien zur Universitätsgeschichte (Akademien und gelehrte Gesellschaften): einzelne Länder: Übrige Länder
+**** 0901 - 1050 Studenten und studentische Organisationen
+**** 1051 - 1200 Professoren und Gelehrte
+*** Ub^a - Ub^z Geschichte einzelner Universitäten, Akademien und gelehrter Gesellschaften ( alphabetische )
 *** Ue Philosophie und Geschichte der Philosophie
-
-1 -100 Handbücher, Handwörterbücher
-
-101 - 2DD Einführungen in die Philosophie, Lehrbücher
-
-201 - 500 Monographien
-
-501 - 700 Geschichte der Philosophie: Texte
-
-701 - 800 Geschichte der Philosophie: Gesamtdarstellungen
-
-800 =1100 Geschichte der Philosophie: einzelne Epochen
-950 ff, Biographien
+**** 0001 - 0100 Handbücher, Handwörterbücher
+**** 0101 - 0200 Einführungen in die Philosophie, Lehrbücher
+**** 0201 - 0500 Monographien
+**** 0501 - 0700 Geschichte der Philosophie: Texte
+**** 0701 - 0800 Geschichte der Philosophie: Gesamtdarstellungen
+**** 0800 - 1100 Geschichte der Philosophie: einzelne Epochen
+***** 0950 - 1100 Biographien
 *** Uf Geschichtsphilosophie
 **** 0001 - 0050 Handbücher, Handwörterbücher
 **** 0051 - 0100 Einführungen, Allgemeines
@@ -3646,76 +3331,51 @@ Gesellschaften ( alphabetische )
 ***** 1001 - 1300 Darstellungen einzelner Epochen, Monographien
 **** 1301-1400 Sonderprobleme der Geschichtsphilosophie
 *** Ug Geschichte der Wissenschaften ( allgemein) Wissenschaftspolitik, W 27... Asr
-200 ff. Wissenschaftstheorie und Methodologie ( allgemein ) un
-
+**** 0200 - xxxx Wissenschaftstheorie und Methodologie (allgemein) 
 *** Uk Geschichte der Naturwissenschaften
-
-1. - 20 Handbücher, Lexika
-
-21 -100 Gesamtdarstellungen
-
-101 - 250 Biographien
-
-251 - 300 bleibt frei
-
-301 - 350 Geschichte der Medizin
-
-351 - 450 Geschichte der Physik und der Chemie
-
-451 - 550 Geschichte der Biologie und Geologie
-
-551 - 600 bleibt frei
-
-601 - 650, Geschichte der Astronomie
-
-651 - 700 bleibt frei
-
-701 - 800 Geschichte sonstiger Naturwissenschaften
-
+**** 0001 - 0020 Handbücher, Lexika
+**** 0021 - 0100 Gesamtdarstellungen
+**** 0101 - 0250 Biographien
+**** 0251 - 0300 bleibt frei
+**** 0301 - 0350 Geschichte der Medizin
+**** 0351 - 0450 Geschichte der Physik und der Chemie
+**** 0451 - 0550 Geschichte der Biologie und Geologie
+**** 0551 - 0600 bleibt frei
+**** 0601 - 0650 Geschichte der Astronomie
+**** 0651 - 0700 bleibt frei
+**** 0701 - 0800 Geschichte sonstiger Naturwissenschaften
 *** Ul Geschichte der Geisteswissenschaften; Geistesgeschichte
-ll - 300 Allgemeine Probleme der Geschichte der Geisteswissenschaften
-
-301 - 500 Geschichte einzelner Disziplinen der Geisteswissenschaften
-501 - 60 bleibt frei
-601 -1000 Allgemeine Probleme der Geistesgeschichte
-
+**** 0001 - 0300 Allgemeine Probleme der Geschichte der Geisteswissenschaften
+**** 0301 - 0500 Geschichte einzelner Disziplinen der Geisteswissenschaften
+**** 0501 - 0600 bleibt frei
+**** 0601 - 1000 Allgemeine Probleme der Geistesgeschichte
 *** Um Geschichte der Geschichtsschreibung und der Geschichtswissenschaft
-1 - 200 Theorie und Begriff der Geschichtsschreibung und der
-Geschichtswissenschaft (chronologisch nach Erscheinungs-
-jahr)
-
-201 - 1150 Geschichte der Geschichtsschreibung und der Geschichts-
-wissenschaft
-201 - 250 Gesamtdarstellungen
-251 - 300 Darstellungen einzelner Epochen
-301 - 350 Gesamtdarstellungen: Deutschland
-351 - 450 Darstellungen einzelner Epochen: Deutschland
-451 - 700 Biographien: Alle Länder (alphabetisch)
-
-701 - 750 Gesamtdarstellungen und Monographien! Österreich
-" " "
-
-751 - 800 Schweiz
-801 - 830 MM M u Holland/Belgien
-831 - 880 “ a gi Frankreich
-881 - 930 z " ar England
-931 - 960 2 = r Skandinavien
-961 - 1000 # “ % Spanien/Portugal
-1001 = 1050 r “ “ Russland/Osteuropa
-1051 - 1100 u u hl USA
-1101 - 1150 r % ” sonstige EXHLänder
-1151 - 1400 Spezialprobleme der Historiographie
-1401 ff. Geschichtsdidaktik an Schule/Hochschule
-U
+**** 0001 - 0200 Theorie und Begriff der Geschichtsschreibung und der Geschichtswissenschaft (chronologisch nach Erscheinungsjahr)
+**** 0201 - 1150 Geschichte der Geschichtsschreibung und der Geschichtswissenschaft
+***** 0201 - 0250 Gesamtdarstellungen
+***** 0251 - 0300 Darstellungen einzelner Epochen
+***** 0301 - 0350 Gesamtdarstellungen: Deutschland
+***** 0351 - 0450 Darstellungen einzelner Epochen: Deutschland
+***** 0451 - 0700 Biographien: Alle Länder (alphabetisch)
+***** 0701 - 0750 Gesamtdarstellungen und Monographien: Österreich
+***** 0751 - 0800 Gesamtdarstellungen und Monographien: Schweiz
+***** 0801 - 0830 Gesamtdarstellungen und Monographien: Holland/Belgien
+***** 0831 - 0880 Gesamtdarstellungen und Monographien: Frankreich
+***** 0881 - 0930 Gesamtdarstellungen und Monographien: England
+***** 0931 - 0960 Gesamtdarstellungen und Monographien: Skandinavien
+***** 0961 - 1000 Gesamtdarstellungen und Monographien: Spanien/Portugal
+***** 1001 - 1050 Gesamtdarstellungen und Monographien: Russland/Osteuropa
+***** 1051 - 1100 Gesamtdarstellungen und Monographien: USA
+***** 1101 - 1150 Gesamtdarstellungen und Monographien: sonstige Länder
+**** 1151 - 1400 Spezialprobleme der Historiographie
+**** 1401 - xxxx Geschichtsdidaktik an Schule/Hochschule
 *** Uo Organisation der Geschichtswissenschaft
-
-1 - 200 Historische Forschungsinstitute
-201 - 400 Historische Kommissionen
-401 - 500 Forschungsförderung/Finanzierung
-
-501 - 700 Tagungs- und Kongressberichte
-701 - 800 bleibt frei
-801 - 1000 Historische Zeitschriften
+**** 0001 - 0200 Historische Forschungsinstitute
+**** 0201 - 0400 Historische Kommissionen
+**** 0401 - 0500 Forschungsförderung/Finanzierung
+**** 0501 - 0700 Tagungs- und Kongressberichte
+**** 0701 - 0800 bleibt frei
+**** 0801 - 1000 Historische Zeitschriften
 
 \pagebreak
 ** V - Aufsatzsammlungen und sonstitge Sammelschriften einzelner Verfasser
