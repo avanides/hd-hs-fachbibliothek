@@ -23,12 +23,10 @@
 
 # \rightline{Reinhart Koselleck}
 \pagebreak
-
 \thispagestyle{empty}
 \tableofcontents
 
 [[https://github.com/avanides/hd-hs-fachbibliothek][laufend aktualisiert auf GitHub]]
-
 \thispagestyle{empty}
 \pagebreak
 * Historisches Seminar
@@ -170,7 +168,7 @@
 **** 0051 - 0300 Historische und politische Sachwörterbücher (allgemeine, sachliche, begriffliche, ausländische)
 **** 0301 - 0500 Deutschland
 **** 0501 - 0999 Biographische Wörterbücher
-***** 0501 - 0600 Allgemein und international 
+***** 0501 - 0600 Allgemein und international
 ***** 0601 - 0800 Ausland in der Reihenfolge: angelsächsischer Bereich, romantisch-lateinische Welt, östliche Europa, Asien, Afrika
 ***** 0801 - 0900 Deutschland
 ***** 0901 - 0999 Deutsche Länder in der Reihenfolge: Nord-, Ost-, Mittel-, West- und Süddeutschland
@@ -185,8 +183,9 @@
 **** 0401 - 0600 Neue Medien und Geschichtswissenschaft
 **** 0601 - 0900 EDV-Literatur
 \pagebreak
-** TODO B - Quellen zur Geschichte des Mittelalters
+** B - Quellen zur Geschichte des Mittelalters
 *** Ba - Allgemeine Quellensammlungen, Folio und Quart, innerhalb der MGH
+# Die maschinenschriftliche Originalfassung von Ba wurde mit heute nicht mehr gängigen Abkürzungen für die einzelnen Reihen der MGH gestaltet. PMA hat diese aktualisiert. Die in der OF fehlenden Reihen sind als Comments (# ) angegeben und somit nicht in die PDF aufgenommen. 
 **** 0001 - 0100 MGH SS (Scriptores) [Geschichtsschreiber]
 ***** 0001 - 0035 SS (Scriptores in Folio)
 ***** 0051 - 0065 Auct. ant. (Auctores antiquissimi)
@@ -235,98 +234,69 @@
 ***** 0841 - 0845 Epistolae selectae
 ***** 0900 - 0911 Quellen zur Geistesgeschichte des Mittelalters
 ***** 0921 - 0924 Deutsches Mittelalter
-*** TODO Bb - Allgemeine Quellensammlungen, Folio und Quart, außerhalb der MGH
-91 Recueil des historiens des ceroisades
-
-101 - 200 Italienische Sammlungen in Folio und Quart
-101 - 150 Muratori, NWeuausg. 1900 ff,
-(Die Zahl über 100 entspricht der Band-
-zahl von Muratori)
-
-151 Fonti per la Storia d'Italia
-
-155 Muratori, Antiquitates Italicae
-201 - 300 Englische Sammlungen in Folio und Quart
-
-201 Rolls Series
-
-221 Rymer, Foedera
-
-301 - 500 Sonstige außerdeutsche Sammlungen in Folio und Quart.
-
-501 - B0o Allgemeine Quellensammlungen in Folio und Quart
-zur deutschen Geschichte und Territorialgeschichte
-des Mittelalters
-501 - 530 Allgemeines
-
-531 - 560 Bayern und Österreich
-561 - 590 Schwaben (mit Elsaß und Schweiz)
-591 - 626 Franken
-621 - 650 Rheinlanie
-651 - 680 Lothringen (Ober- und NWieder-)
-681 -— 710 Sachsen
-711 - 740 nordostdeutsche Marken
-741 - 770 Böhmen, Schlesien
-771 - 800 Sonstige
-801 - 900 Allgemeine Quellensammlungen zur Kirchengeschichte
-801 Migne, Patrologia latina
-805 Corpus Christianorum, Series latins
-810 Corpus Christianorum, Continuatio medievalis
-
-822 - 825 Papstviten
-835 - 840 Zeremonienbicher
-841 - 850 Konzilien
-
-*** TODO Bc - Allgemeine Quellensammlungen, nicht Folio und Quart
-1 - 500 Deutsche Editionsreihen
-
-1 = 250 NGH. 83. rer. German. (chronologisch geordn.)
-
-1 - 10 Frühestes MA,
-
-11 - 20 3. Ihr
-
-21 = 50 9. Ihr
-
-52 - 74 Ih»
-
-75 - 100 Ih, (vor Investiturstr.)
-
-101 = 124 Jh« (Ende)
-
-125 160 Ih.
-
-161 190 Ih,
-
-191 214 Jh.
-
-215 250 Ihr
-
-251 MGH. SS, rer, Germ. Nova Series
-(nach Bandzahl !)
-
-301 Frhr, v. Stein-Gedächtnis-Ausgabe
-
-351 Jaff&, Bibliotheca; Böhmer, Fontes; usa.
-381 Burdach, vom MA, zur Reformation
-
-401 - 440 Die Chroniken der deutschen Städte
-
-außerdeutsche Editionsreihen
-501 - 550 Collection de Textes
-
-551 Olassigues de l'histoire de France au
-moyen-:
-
-601 weitere französ, Sammlungen
-665 Seriptores Latini Hibernise
-680 Irische Sammlungen
-
-701 Nelson‘ Medieval Taxts u.a. engl. Samml,
-
-801 Andere ıichtdeutsche Sammlungen,
-in Okt. 7 und kleiner
-*** TODO Bd - Einzelausgaben nicht urkundlicher Quellen
+*** Bb - Allgemeine Quellensammlungen, Folio und Quart, außerhalb der MGH
+**** 0001 - 0091 Recueil des historiens des ceroisades
+***** 0001 - 0024 Folieserie
+***** 0025 - 0100 Quartserie
+****** 0025 - 0027 Chartes et Diplomes (Karol. Teilr.)
+****** 0028 - 0039 Chartes et Diplomes (westfr. Reich)
+****** 0040 - 0059 Chartes et Diplomes (franz. Könige)
+****** 0060 - 0090 Nécrologes, Pouillées
+**** 0091 - 0100 Recueil des historiens des ceroisades
+**** 0101 - 0200 Italienische Sammlungen in Folio und Quart
+***** 0101 - 0150 Muratori, NWeuausg. 1900 ff,
+~(Die Zahl über 100 entspricht der Bandzahl von Muratori)~
+***** 0151 - 0154 Fonti per la Storia d'Italia
+***** 0155 - 0200 Muratori, Antiquitates Italicae
+**** 0201 - 0300 Englische Sammlungen in Folio und Quart
+***** 0201 - 0220 Rolls Series
+***** 0221 - 0300 Rymer, Foedera
+**** 0301 - 0500 Sonstige außerdeutsche Sammlungen in Folio und Quart
+**** 0501 - 0800 Allgemeine Quellensammlungen in Folio und Quart zur deutschen Geschichte und Territorialgeschichte des Mittelalters
+***** 0501 - 0530 Allgemeines
+***** 0531 - 0560 Bayern und Österreich
+***** 0561 - 0590 Schwaben (mit Elsaß und Schweiz)
+***** 0591 - 0626 Franken
+***** 0621 - 0650 Rheinlanie
+***** 0651 - 0680 Lothringen (Ober- und Nieder-)
+***** 0681 - 0710 Sachsen
+***** 0711 - 0740 nordostdeutsche Marken
+***** 0741 - 0770 Böhmen, Schlesien
+***** 0771 - 0800 Sonstige
+**** 0801 - 0900 Allgemeine Quellensammlungen zur Kirchengeschichte
+***** 0801 - 0804 Migne, Patrologia latina
+***** 0805 - 0809 Corpus Christianorum, Series latina
+***** 0810 - 0821 Corpus Christianorum, Continuatio medievalis
+***** 0822 - 0825 Papstviten
+***** 0835 - 0840 Zeremonienbücher
+***** 0841 - 0850 Konzilien
+*** Bc - Allgemeine Quellensammlungen, nicht Folio und Quart
+**** 0001 - 0500 Deutsche Editionsreihen
+***** 0001 - 0250 MGH. SS. rer. German. (chronologisch geordn.)
+****** 0001 - 0010 Frühestes MA
+****** 0011 - 0020 8. Jh.
+****** 0021 - 0050 9. Jh.
+****** 0052 - 0074 10. Jh.
+****** 0075 - 0100 11. Jh. (vor Investiturstr.)
+****** 0101 - 0124 11. Jh. (Ende)
+****** 0125 - 0160 12. Jh. 
+****** 0161 - 0190 13. Jh. 
+****** 0191 - 0214 14. Jh.
+****** 0215 - 0250 15. Jh.
+***** 0251 - 0300 MGH. SS, rer, Germ. Nova Series (nach Bandzahl!)
+***** 0301 - 0350 Frhr. v. Stein-Gedächtnis-Ausgabe
+***** 0351 - 0380 Jaffé, Bibliotheca; Böhmer, Fontes; u.a.
+***** 0381 - 0400 Burdach, vom MA, zur Reformation
+***** 0401 - 0440 Die Chroniken der deutschen Städte
+**** 0501 - 0999 außerdeutsche Editionsreihen
+***** 0501 - 0550 Collection de Textes
+***** 0551 - 0600 Classiques de l'histoire de France au moyen-age
+***** 0601 - 0650 weitere französ, Sammlungen
+***** 0665 - 0670 Seriptores Latini Hibernise
+***** 0680 - 0700 Irische Sammlungen
+***** 0701 - 0800 Nelson Medieval Taxts u.a. engl. Samml,
+***** 0801 - 0999 Andere nichtdeutsche Sammlungen, in Oktavo und kleiner
+*** Bd - Einzelausgaben nicht urkundlicher Quellen
 ~Hinweis!~
 
 ~Die Signaturen richten sich streng nach den Lebensdaten der Autoren bzw. den Entstehungsdaten der Werke - ab dem 11. Jahrhundert entfallen dabei jeweils 2 Signaturen auf ein Jahr: also ist jeweils die 2. bis 4. Stelle der Jahreszahl mit 2 zu duplizieren. Zum Beispiel:~
@@ -338,28 +308,37 @@ in Okt. 7 und kleiner
 ~Gilbert Foliot, Letters and Charters (1139 - 1187), ed. Brooke = Bd 1374~
 
 **** 0001 - 0050 bis Christi Geburt
-**** 0051 - 0125 1. Jh. n. Chr. 
-**** 0126 - 0200 2. Jh. 
-**** 0201 - 0300 3. Jh. 
-**** 0301 - 0400  
-**** 0401 - 0500
-**** 0501 - 0600
-**** 0601 - 0700
-**** 0701 - 0800
-**** 0801 - 0900
-**** 0901 - 1000 
-**** 1001 - 1200
-**** 1201 - 1400
-**** 1401 - 1600
-**** 1601 - 1800
-**** 1801 - 2000
-**** 2001 - 2200
-
-*** TODO Be - Rechtsquellen, einschließlich urbarialer Aufzeichnungen
-1000 - 1099 Monumenta iuris canonici : Series A,
-glossatorum
-1100 - 1199 Monumenta iuris canoniei : Series B,
-colleetionum
+**** 0051 - 0125 1. Jh. n. Chr.
+**** 0126 - 0200 2. Jh.
+**** 0201 - 0300 3. Jh.
+**** 0301 - 0400 4. Jh.
+**** 0401 - 0500 5. Jh.
+**** 0501 - 0600 6. Jh.
+**** 0601 - 0700 7. Jh.
+**** 0701 - 0800 8. Jh.
+**** 0801 - 0900 9. Jh.
+**** 0901 - 1000 10. Jh.
+**** 1001 - 1200 11. Jh.
+**** 1201 - 1400 12. Jh.
+**** 1401 - 1600 13. Jh.
+**** 1601 - 1800 14. Jh.
+**** 1801 - 2000 15. Jh.
+**** 2001 - 2200 16. Jh.
+*** Be - Rechtsquellen, einschließlich urbarialer Aufzeichnungen
+**** 0001 - 0100 Rechtsquellen 'Dt. Reich'
+**** 0101 - 0130 Germanenrechte (nach Bandzahl)
+**** 0131 - 0250 Germanenrechte N.F.
+**** 0250 - 0290 Gerichtsurkunden, Rechtsaltertümer
+**** 0291 - 0405 Römisches Recht
+**** 0410 - 0450 Volksrechte
+**** 0450 - 0630 Kapitularien, Edikte, Sachsenspiegel
+**** 0632 - 0649 Bibliotheka rerum Historicarum
+**** 0650 - 0700 Rechtsbücher, Land- und Lehnrecht
+**** 0701 - 0800 Stadtrechte
+**** 0801 - 0900 Hofrechte, Lehnbücher, Urbare
+**** 0901 - 0999 Kirchenrechtliche Quellen
+**** 1000 - 1099 Monumenta iuris canonici : Series A, glossatorum
+**** 1100 - 1199 Monumenta iuris canoniei : Series B, colleetionum
 *** Bf - Papsturkunden
 **** 0001 - 0020 Regestenwerke
 **** 0021 - 0060 Gesamtsammlungen unter geographischen und sachlichen Gesichtspunkten
@@ -368,166 +347,123 @@ colleetionum
 **** 0200 - 0299 Papstregister des 13. und 14. Jahrhunderts
 **** 0300 - 0349 Päpstliche Staats- und Finanzverwaltung im Spätmittelalter
 **** 0350 - 0500 Konzilsakten des 15. Jahrhunderts
-*** TODO Bg - Urkunden deutscher Kaiser und Könige; Urkunden deutscher Territorien, Klöster, Stifte und Städte
-50 Regesta Imperii
-94 Regesten und Urkundensammlungen zu bestimmten
-Themen über einen größeren Zeitraum
-299 Kaiser- und Königsurkunden vom 13, - 15. Jahrhundert
-Deutsche Reichstagsakten
-549  Brandenburg-Preußen
-Mecklenburg, Pommern Oderraum
-Lübeck, Hamburg, Bremen
-Niedersachsen und Schleswig-Holstein
-Thüringen, Sachsen
-Schlesien
-Niederrhein, Norärhein-Westfalen
-Hessen
-Mittelrhein
-Oberrhein, Elsaß
-Bodenseeraum und Schweiz
-Österreich
-Böhmen und Mähren
-Bayern
-Württemberg
-*** TODO Bh - Urkunden außerdeutscher Herrscher, Territorien, Klöster, Stifte und Städte
-Skandinavien
-Britische Inseln
-Frankreich, Belgien, Niederlande, Luxemburg
-Italien
-Spanien
-Byzanz
-Kreugfahrerstaaten
-Sonstige
-*** TODO Bm - Quellen zur Geschichte der mittelalterlichen Orden
-1 - 100
-101 - 120
-121 - 200
-
-201 - 875
-
-mellen zur Geschichte der mittelalterlichen Orden
-
-Regulae
-Consuetudines ee eg
-alphabetisch, nach Abteien georänes)
-
-Vonsuetudines
-
-Quellen zu mittelalterlichen Mönchs- und Kanoniker-
-
-orden
-
-- 950
-
-g51- 999 7
-
-Benediktiner
-
-Kan Alan
-Vallombro aner
-Orden von Fontevrault
-Cisterzienser
-Kartäuser
-
-bleibt frei
-Augustiner Eremiten
-bleibt frei
-Präemonstratenser
-Dominikaner
-Franziskaner
-
-bleibt frei
-
-*** TODO Bo - Texte zur lateinischen, deutschen und sonstigen nationalsprachlichen Dichtung ('Literatur') des Mittelalters, auch Übersetzungen poetischer Texte
-Reihen und Sammlungen zur allgemeinen Literatur-
-geschichte des MA.
-Reihen und Sammlungen zur lateinischen Literatur
-des UA.
-101 - 150 Reihen
-151 - 200 Sammelbände und Auswahlen
-151 - 160 ganzes MA,
-161 - 170 Prih-MA.
-171 - 185 Hoch-MA.
-186 - 200 Spät-MA.
-Einzelausgaben zur lateinischen Literatur des MA.
-chronol, geordnet)
-01 = 225 var Amar hidg WR:
-225 = 240 % -Sliauger
-241 = 260 10. Jh.
-261 - 280 Hr Jh.
-310 12, Ih.
-Jhs
-370 14. Ih.
-400 15, Jh.
-Reihen und Sammlungen zur deutschen Literatur des MA.
-401 = 450 Reihen
-651 - 500 S$ammelbände und Auswahlen
-451 - 460 ganzes MA.
-461 - 470 Prüh-MA.
-471 - 485 Hoch-MA,
-486 - 500 Spät-Mi.
-Einzelausgaben zur deutschen Literatur des MA,
-501 - 530 althochdeutsche Dichtung
-531 - 560 frihmittelhochdeutsch
-561 - 600 mittelhochdeutsch 12./13. Ih.
-601 - 650 14, Ih.
-651 - 700 15. Ihr
-zenen und Sammlungen zu den sonstigen Literaturen
-es *
-Einzelausgaben zu den sonstigen Literaturen des MA,
-701 - 750 Griechisch (Byzanz)
-751 > 800 Altfranzüsisch und Provenzalisch
-801 - 850 Italienisch u. sonst, Roman.
-851 - 900 Alt- und Mittelenglisch, Skandinavisch
-901 - 950 Slavische Literaturen
-951 - 999 sonstige (z.B, Bretonisch, Keltisch)
-*** TODO Bp - Inschriften; sonstige Quellengattungen
-1 - 200 Inschriften (Reihen und Sammlungen)
-201 = 400 Inschriften (Einzelausgaben)
-200 - 250 Antike und Spätantike (Römer in Germanien)
-251 - 276 Früh-Mittelalter
-276 - 300 Hoch-Mittelalter
-301 - 400 Spät-Mittelalter
-401 sonstige Quellengattungen
-*** TODO Bx - Übungstexte und Quellenauswahlen
-1 - 500 nach Sachgebieten georänet
-1- 100 Übungstexte und Quellenauswahlen zur
-allgemeinen Geschichte des Mittelalters
-101 - 200 dito, zur deutschen Geschichte des MA,
-201 - 250 zur Geschichte anderer Länder im MA.
-251 - 350 zur Kirchengeschichte
-351 - 400 zur Rechts- und Verfassungsgeschichte
-401 - 450 zur Geschichte der Geschichtsschreibung
-451 - 480 zur Sozial-und Wirtschaftsgeschichte
-431 - 500 sonstige, unter sachlichen Gesichtspunkten
-einzuordnende Übungsüexte
-501 - 999
-
-chronologisch georänet (d.h. wenn sie allgemeiner
-Ar
-
-t oder vorwiegend zur politischen Geschichte mur
-weniger Jahrhunderte bestimmt sind)
-501
-541
-561
-601
-701
-851
-zur Spätantike
-zu den Germanen
-zur frühen Kirche
-zum Früh-Mittelalter
-zum Hoch-Mittelalter
-zum Spät-Mittelalter
-*** TODO Bz - Übersetzungen von im engeren Sinn historischen Quellen
-Übersetzungen vollständiger Quellentexte soweit
-in Reihen erschienen
-1 - 200 Geschichtsschreiber der deutschen Vorzeit
-201 - 600 sonstige Reihen
-Zusammenstellungen von in Auswahl übersetzten framen-
-tarischen Texten, soweit diese Texte nicht leicht AH&
-ehronologisch einzuordnen sind (Ba)
+*** Bg - Urkunden deutscher Kaiser und Könige; Urkunden deutscher Territorien, Klöster, Stifte und Städte
+**** 0001 - 0050 Regesta Imperii
+**** 0050 - 0094 Regesten und Urkundensammlungen zu bestimmten Themen über einen größeren Zeitraum
+**** 0095 - 0299 Kaiser- und Königsurkunden vom 13. - 15. Jahrhundert
+**** 0300 - xxxx Deutsche Reichstagsakten
+**** 0500 - 0549 Brandenburg-Preußen
+**** 0550 - 0579 Mecklenburg, Pommern Oderraum
+**** 0580 - 0629 Lübeck, Hamburg, Bremen
+**** 0630 - 0669 Niedersachsen und Schleswig-Holstein
+**** 0670 - 0869 Thüringen, Sachsen
+**** 0870 - 0899 Schlesien
+**** 0900 - 0999 Niederrhein, Norärhein-Westfalen
+**** 1000 - 1099 Hessen
+**** 1100 - 1179 Mittelrhein
+**** 1180 - 1229 Oberrhein, Elsaß
+**** 1230 - 1299 Bodenseeraum und Schweiz
+**** 1300 - 1419 Österreich
+**** 1420 - 1479 Böhmen und Mähren
+**** 1480 - 1599 Bayern
+**** 1600 - 1649 Württemberg
+*** Bh - Urkunden außerdeutscher Herrscher, Territorien, Klöster, Stifte und Städte
+**** 0001 - 0099 Skandinavien
+**** 0100 - 0399 Britische Inseln
+**** 0400 - 0799 Frankreich, Belgien, Niederlande, Luxemburg
+**** 0800 - 0999 Italien
+**** 1000 - 1099 Spanien
+**** 1100 - 1199 Byzanz
+**** 1200 - 1300 Kreugfahrerstaaten
+**** 1300 - 1500 Sonstige
+*** Bm - Quellen zur Geschichte der mittelalterlichen Orden
+**** 0001 - 0100 Regulae
+**** 0101 - 0120 Consuetudines (Sammlungen allgemein)
+***** 0121 - 0200 Consuetudines (alphabetisch, nach Abteien geordnet)
+***** 0201 - 0875 Quellen zu mittelalterlichen Mönchs- und Kanonikerorden
+***** 0201 - 0250 Benediktiner
+***** 0251 - 0265
+***** 0266 - 0280 Vallombroaner
+***** 0281 - 0295 Orden von Fontevrault
+***** 0296 - 0350 Cisterzienser
+***** 0351 - 0375 Kartäuser
+***** 0376 - 0410 bleibt frei
+***** 0411 - 0426 Augustiner Eremiten
+***** 0426 - 0500 bleibt frei
+***** 0500 - 0625 Präemonstratenser
+***** 0626 - 0750 Dominikaner
+***** 0751 - 0875 Franziskaner
+***** 0876 - 0950 bleibt frei
+***** 0951 - 0999
+*** Bo - Texte zur lateinischen, deutschen und sonstigen nationalsprachlichen Dichtung ('Literatur') des Mittelalters, auch Übersetzungen poetischer Texte
+**** 0001 - 0100 Reihen und Sammlungen zur allgemeinen Literaturgeschichte des MA
+**** 0101 - 0200 Reihen und Sammlungen zur lateinischen Literatur des MA
+***** 0101 - 0150 Reihen
+***** 0151 - 0200 Sammelbände und Auswahlen
+****** 0151 - 0160 ganzes Mittelalter
+****** 0161 - 0170 Frühmittelalter
+****** 0171 - 0185 Hochmittelalter
+****** 0186 - 0200 Spätmittelalter
+**** 0201 - 0400 Einzelausgaben zur lateinischen Literatur des MA (chronologisch geordnet)
+***** 0201 - 0225
+***** 0225 - 0240
+***** 0241 - 0260 10. Jh.
+***** 0261 - 0280 11. Jh.
+***** 0281 - 0310 12. Jh.
+***** 0311 - 0340 13. Jh.
+***** 0341 - 0370 14. Jh.
+***** 0371 - 0400 15. Jh.
+**** 0401 - 0500 Reihen und Sammlungen zur deutschen Literatur des MA.
+***** 0401 - 0450 Reihen
+***** 0451 - 0500 Sammelbände und Auswahlen
+****** 0451 - 0460 ganzes Mittelalter
+****** 0461 - 0470 Frühmittelalter
+****** 0471 - 0485 Hochmittelalter
+****** 0486 - 0500 Spätmittelalter
+**** 0501 - 0700 Einzelausgaben zur deutschen Literatur des Mittelalters
+***** 0501 - 0530 althochdeutsche Dichtung
+***** 0531 - 0560 frühmittelhochdeutsch
+***** 0561 - 0600 mittelhochdeutsch 12./13. Jh.
+***** 0601 - 0650 14. Jh.
+***** 0651 - 0700 15. Jh.
+**** 0701 - 0999 Reihen und Sammlungen zu den sonstigen Literaturen des Mittelalters; Einzelausgaben zu den sonstigen Literaturen des Mittelalters
+***** 0701 - 0750 Griechisch (Byzanz)
+***** 0751 - 0800 Altfranzösisch und Provenzalisch
+***** 0801 - 0850 Italienisch u. sonst, Roman.
+***** 0851 - 0900 Alt- und Mittelenglisch, Skandinavisch
+***** 0901 - 0950 Slavische Literaturen
+***** 0951 - 0999 sonstige (z.B, Bretonisch, Keltisch)
+*** Bp - Inschriften; sonstige Quellengattungen
+**** 0001 - 0200 Inschriften (Reihen und Sammlungen)
+**** 0201 - 0400 Inschriften (Einzelausgaben)
+***** 0200 - 0250 Antike und Spätantike (Römer in Germanien)
+***** 0251 - 0276 Früh-Mittelalter
+***** 0276 - 0300 Hoch-Mittelalter
+***** 0301 - 0400 Spät-Mittelalter
+**** 0401 - xxxx sonstige Quellengattungen
+*** Bx - Übungstexte und Quellenauswahlen
+**** 0001 - 0500 nach Sachgebieten georänet
+***** 0001 - 0100 Übungstexte und Quellenauswahlen zur allgemeinen Geschichte des Mittelalters
+***** 0101 - 0200 dito, zur deutschen Geschichte des MA
+***** 0201 - 0250 zur Geschichte anderer Länder im MA
+***** 0251 - 0350 zur Kirchengeschichte
+***** 0351 - 0400 zur Rechts- und Verfassungsgeschichte
+***** 0401 - 0450 zur Geschichte der Geschichtsschreibung
+***** 0451 - 0480 zur Sozial-und Wirtschaftsgeschichte
+***** 0431 - 0500 sonstige, unter sachlichen Gesichtspunkten einzuordnende Übungsüexte
+**** 0501 - 0999 chronologisch geordnet
+~d.h. wenn sie allgemeiner Art oder vorwiegend zur politischen Geschichte nur weniger Jahrhunderte bestimmt sind~
+***** 0501 - 0540 zur Spätantike
+***** 0541 - 0560 zu den Germanen
+***** 0561 - 0600 zur frühen Kirche
+***** 0601 - 0700 zum Frühmittelalter
+***** 0701 - 0850 zum Hochmittelalter
+***** 0851 - 0999 zum Spätmittelalter
+*** Bz - Übersetzungen von im engeren Sinn historischen Quellen
+**** 0001 - 0600 Übersetzungen vollständiger Quellentexte soweit in Reihen erschienen
+***** 0001 - 0200 Geschichtsschreiber der deutschen Vorzeit
+***** 0201 - 0600 sonstige Reihen
+**** 0600 - xxxx Zusammenstellungen von in Auswahl übersetzten fragmentarischen Texten, soweit diese Texte nicht leicht AH& ehronologisch einzuordnen sind (Ba)
 \pagebreak
 ** C - Quellenkunde zum Mittelalter
 *** Ca - Einführung in Studium und Quellen des Mittelalters
@@ -655,7 +591,7 @@ ehronologisch einzuordnen sind (Ba)
 ***** 0501 - 0550 Kanzleigeschichte und Registerwesen, Hochmittelalter
 ***** 0551 - 0600 Kanzleigeschichte und Registerwesen, Spätmittelalter
 **** 0601 - 0850 Gesamtdarstellungen und Spezialliteratur zur Lehre von den Privaturkunden
-***** 0601 - 0650 Gesamtdarstellungen 
+***** 0601 - 0650 Gesamtdarstellungen
 ***** 0651 - 0700 Bischofskanzleien, Offizialat
 ***** 0701 - 0750 Fürstliche Kanzleien
 ***** 0751 - 0770 Kanzlei- und Schreibschulen
@@ -762,7 +698,7 @@ ehronologisch einzuordnen sind (Ba)
 ***** 0401 - 0420 zur gesamten fränkischen Geschichte
 ***** 0421 - 0430 Völker im Frankenreich
 ***** 0431 - 0450 das Problem der fränkischen Landnahme (soweit nicht chronologisch)
-***** 0451 - 0480 der archäologische Befund zur fränkischen Geschichte 
+***** 0451 - 0480 der archäologische Befund zur fränkischen Geschichte
 ***** 0481 - 0510 Kirche
 ***** 0511 - 0550 Grundherrschaft; Agrar- und Wirtschaftsgeschichte
 ***** 0581 - 0600 sonstiges
@@ -815,7 +751,7 @@ ehronologisch einzuordnen sind (Ba)
 ***** 0851 - 0860 Gesamtdarstellungen
 ***** 0861 - 0900 Sachmonographien
 ***** 0901 - 0924 Vertrag von Verdun und unmittelbare Folgezeit
-***** 0925 - 0950 Nikolaus I. 
+***** 0925 - 0950 Nikolaus I.
 ***** 0951 - 0970 die Entwicklung seit 888
 ***** 0971 - 0975 einzelne Gebiete: Italien
 ***** 0976 - 0985 Frankenreich am Ende des 9. Jahrhunderts
@@ -828,13 +764,13 @@ ehronologisch einzuordnen sind (Ba)
 **** 0151 - 0200 Gesamtdarstellungen und Monographien zur Geschichte einzelner Länder (außer Deutschland) im Hochmittelalter
 ***** 0151 - 0160 Westeuropa, Frankreich
 ***** 0161 - 0170 Burgund
-***** 0171 - 0200 England 
+***** 0171 - 0200 England
 **** 0201 - 0700 Das 10. Jahrhundert und das Zeitalter der Ottonen
 ***** 0201 - 0240 Gesamtdarstellungen
 ***** 0241 - 0310 Monographien
 ****** 0291 Das Reichskirchensystem
 ***** 0311 - 0330 Konrad I.
-***** 0331 - 0400 Heinrich I. 
+***** 0331 - 0400 Heinrich I.
 ****** 0331 Gesamtdarstellungen
 ****** 0351 Monographien
 ***** 0401 - 0500 Otto der Große
@@ -874,7 +810,7 @@ ehronologisch einzuordnen sind (Ba)
 ****** 0401 - 0450 der 1. Kreuzzug
 ****** 0451 - 0500 Heinrich V. und das Wormser Konkordat
 ***** 0500 - 0999 Das Zeitalter der Staufer (12. Jahrhundert)
-****** 0501 - 0550 Gesamtdarstellungen der Staufer und des 12. Jahrhunderts 
+****** 0501 - 0550 Gesamtdarstellungen der Staufer und des 12. Jahrhunderts
 ****** 0551 - 0630 Monographien zum 12. Jahrhundert
 ******* 0551 - 0580 Sachthemen
 0561 - 0580 Zisterzienser
@@ -944,7 +880,7 @@ Ordensgeschichts selbst siehe Ec
 ***** 0401 - 0700 Friedrich II. und der Untergang der Staufer
 ****** 0401 - 0430 Gesamtdarstellungen der Geschichte Friedrichs II.
 ****** 0431 - 0470 Monographien
-****** 0471 - 0500 chronologisch bis ca. 1220 
+****** 0471 - 0500 chronologisch bis ca. 1220
 ****** 0501 - 0550 chronologisch 1220-1240, Gregor IX.
 ****** 0581 - 0620 Konrad IV., Wilhelm von Holland
 ****** 0621 - 0640 die Spätzeit Friedrichs, 1240-1250 und die ersten Gegenkönige
@@ -1015,7 +951,7 @@ Ordensgeschichts selbst siehe Ec
 ***** 0982 - xxxx England
 *** Dn - leer
 *** Do - Geschichte des 15. Jahrhunderts
-**** 0001 - 0050 Gesamtdarstellungen und Monographien, sachlich 
+**** 0001 - 0050 Gesamtdarstellungen und Monographien, sachlich
 **** 0051 - 0150 dasselbe, räumlich, deutsche Geschichte und außerdeutsche Länder
 **** 0151 - 0250 dasselbe, räumlich, deutsche Territorien
 **** 0251 - 0300 König Ruprecht
@@ -1145,7 +1081,7 @@ Ordensgeschichts selbst siehe Ec
 ****** 0201 - 0220 Flandern, Picardie
 ***** 0221 - 0230 Südfrankreich, Gesamtdarstellungen
 ****** 0231 - 0260 Aquitanien, Gesamtdarstellungen und speziell Poitou und einzelne Territorien Aquitaniens
-****** 0261 - 0280 Gascogne 
+****** 0261 - 0280 Gascogne
 ****** 0281 - 0300 Der Südosten (Septimanien, Toulousain, Roussillon)
 ****** 0301 - 0320 Auvergne und Centre (Berry)
 ****** 0321 - 0350 französisch Burgund
@@ -1188,7 +1124,7 @@ Ordensgeschichts selbst siehe Ec
 *** Ec - Geschichte europäischer Länder und Landschaften III. Deutsche Gebiete
 **** 0001 - 0100 Bayern und Österreich
 ***** 0001 - 0010 Gesamt (frühe bayerische Geschichte)
-***** 0011 - 0030 Ostmark-Österreich 
+***** 0011 - 0030 Ostmark-Österreich
 ***** 0031 - 0040 Kärnten, Krain Steiermark
 ***** 0041 - 0050 Salzburg, Tirol, Vorderösterreich
 ***** 0051 - 0080 Bayern
@@ -1200,7 +1136,7 @@ Ordensgeschichts selbst siehe Ec
 ***** 0116 - 0135 alemannische Schweiz
 ****** 0116 - 0125 Gesamt und Entstehung
 ****** 0126 - 0135 einzelne Gebiete
-***** 0136 - 0140 Bodenseegebiete 
+***** 0136 - 0140 Bodenseegebiete
 ***** 0141 - 0160 Innerschwaben, Württemberg
 ***** 0161 - 0180 Schwarzwald und Baden
 ***** 0181 - 0200 Elsass
@@ -1250,7 +1186,7 @@ Ordensgeschichts selbst siehe Ec
 ***** 0901 - 0930 Territorialgeschichte Preussens
 ***** 0931 - 0960 einzelne Aspekte des Ordensstaates
 ***** 0961 - 0999 zur chronologischen Geschichte des Ordensstaates
-*** Ed - Globalgeschichte vor 1500 
+*** Ed - Globalgeschichte vor 1500
 **** 0001 - 0199 Allgemein und Theorie
 **** 0200 - 0399 Orientierung: Afrika
 **** 0400 - 0599 Orientierung: Asien
@@ -1286,7 +1222,7 @@ Zu den Rechtsquellen, siehe Ba, Be - Bi, zur Literatur über Rechtsquellen Cd 08
 ***** 0381 - 0390 Frühmittelalter
 ***** 0391 - 0400 Hochmittelalter
 ***** 0401 - 0425 Spätmittelalter
-***** 0426 - 0450 
+***** 0426 - 0450
 **** 0451 - 0550 Das mittelalterliche Kirchenrecht (Kanonistik)
 ***** 0451 - 0470 Gesamtdarstellungen
 ***** 0471 - 0480 Das vorgratianische Kirchenrecht, Gesamtdarstellungen
@@ -1294,7 +1230,7 @@ Zu den Rechtsquellen, siehe Ba, Be - Bi, zur Literatur über Rechtsquellen Cd 08
 ***** 0501 - 0550 Das nachgratianische Kirchenrecht
 **** 0551 - 0600 Gesamtdarstellungen der germanischen Rechtsgeschichte und Monographien zu den germanischen Grundlagen des mittelalterlichen Rechtslebens
 **** 0601 - 0650 Literatur zur Rechtsgeschichte des Frühmittelalters (mit Ausnahme der fränkischen Rechtsgeschichte)
-**** 0651 - 0750 Die fränkische Zeit 
+**** 0651 - 0750 Die fränkische Zeit
 ***** 0651 - 0670 Gesamtdarstellungen: Die fränkischen Volksrechte
 ***** 0671 - 0680 Gerichtsverfassung und -verfahren
 ***** 0681 - 0700 Strafrecht
@@ -1418,7 +1354,7 @@ Zu den Rechtsquellen, siehe Ba, Be - Bi, zur Literatur über Rechtsquellen Cd 08
 **** 0121 - 0160 Die Entstehung des Fürstentums in Deutschland und Frankreich
 **** 0161 - 0200 Der Höhepunkt der Entwicklung des Fürstentums
 **** 0201 - 0250 Das Problem des "Stammesherzogtums"
-**** 0251 - 0300 Die Stufen der weltlichen Hierarchie: Literatur zu Herzog, Markgraf, Graf, etc. 
+**** 0251 - 0300 Die Stufen der weltlichen Hierarchie: Literatur zu Herzog, Markgraf, Graf, etc.
 **** 0301 - 0650 Die Entstehung der Landeshoheit und Territorien
 ***** 0301 - 0320 Gesamtdarstellungen
 ***** 0321 - 0350 Darstellungen für einzelne Territorien (nicht geistliche, siehe 821)
@@ -1463,7 +1399,7 @@ Zu den Rechtsquellen, siehe Ba, Be - Bi, zur Literatur über Rechtsquellen Cd 08
 ***** 0651 - 0700 Sonstiges zum Lehnwesen
 ****** 0681 - 0700 Lehsbeziehungen und zwischenstaatliche Beziehungen
 **** 0701 - 0999 Lehnswesen und Lehnrecht in einzelnen Ländern und Landschaften Europas
-***** 0701 - 0800 Deutschland und deutsche Landschaften 
+***** 0701 - 0800 Deutschland und deutsche Landschaften
 ***** 0801 - 0900 Westeuropa
 ****** 0801 - 0850 Frankreich
 ****** 0851 - 0900 Der anglonormannische Staat
@@ -1552,7 +1488,7 @@ Zu den Rechtsquellen, siehe Ba, Be - Bi, zur Literatur über Rechtsquellen Cd 08
 **** 0171 - 0250 Allgemeine kirchliche Verfassungsgeschichte im Mittelalter
 (zur Kanonistik siehe Ee)
 ***** 0186 - 0190 Frühmittelalter
-***** 0191 - 0195 Hochmittelalter 
+***** 0191 - 0195 Hochmittelalter
 ***** 0196 - 0200 Spätmittelalter
 ***** 0201 - 0220 Deutschland
 ***** 0221 - 0250 andere Länder
@@ -1575,7 +1511,7 @@ Zu den Rechtsquellen, siehe Ba, Be - Bi, zur Literatur über Rechtsquellen Cd 08
 **** 0571 - 0600 Die Domkapitel und ihre Zusammensetzung
 **** 0601 - 0615 Der hohe Klerus und seine Herkunft
 **** 0616 - 0630 Organisation innerhalb der Diözesen, Pfründenwesen
-**** 0613 - 0770 Das mittelalterliche Mönchtum 
+**** 0613 - 0770 Das mittelalterliche Mönchtum
 ***** 0631 - 0640 Gesamtdarstellungen
 ***** 0641 - 0650 einzelne Probleme
 ***** 0651 - 0660 das Mönchtum in einzelnen Ländern, Gesamtdarstellungen
@@ -1630,7 +1566,7 @@ Zu den Rechtsquellen, siehe Ba, Be - Bi, zur Literatur über Rechtsquellen Cd 08
 ******** 0341 - 0351 Bernhard
 ******** 0352 - 0355 die Schule von Chartres
 ******** 0356 - 0360 Johann von Salesbury
-***** 0361 - 0500 das Spätmittelalter 
+***** 0361 - 0500 das Spätmittelalter
 ****** 0361 - 0380 Gesamtdarstellungen (Zeitalter der Scholastik)
 ****** 0381 - 0385 Albert
 ****** 0386 - 0395 Thomas von Aquin
@@ -1643,7 +1579,7 @@ Zu den Rechtsquellen, siehe Ba, Be - Bi, zur Literatur über Rechtsquellen Cd 08
 ****** 0451 - 0500 Spätscholastik im allgemeinen
 ******* 0471 - 0500 Niolaus von Cues
 **** 0501 - 0600 Einzelne Wissenschaften im Mittelalter
-***** 0501 - 0510 Gesamtdarstellungen der Wissenschaftsgeschichte 
+***** 0501 - 0510 Gesamtdarstellungen der Wissenschaftsgeschichte
 ***** 0511 - 0550 Naturwissenschaften (einschließlich Magie, Alchimie etc.)
 ***** 0551 - 0600 sonstige Wissenschaften
 Komputistik siehe A (Chronologie)
@@ -1853,7 +1789,7 @@ Technik siehe Ep (Kulturgeschichte)
 ***** 0411 - 0490 regionale Darstellungen
 ***** 0491 - 0530 Thomas Minzer
 ***** 0531 - 0560 (bleibt frei).
-**** 0561 - 0679 Chronologische Darstellungen 
+**** 0561 - 0679 Chronologische Darstellungen
 **** 0680 - 0749 Wiedertäufer,
 **** 0750 - 0899 Schmalkaläischer Bund
 ***** 0830 - xxxx Sleidan
@@ -2074,7 +2010,7 @@ Technik siehe Ep (Kulturgeschichte)
 ***** 0441 - 0500 Napoleon und England
 ***** 0501 - 0550 Rheinland und Rheinbund, Ende des Reiches
 ***** 0551 - 0560 Sachsen
-***** 0561 - 0580 Baden und Württemberg 
+***** 0561 - 0580 Baden und Württemberg
 ***** 0581 - 0610 Bayern
 ***** 0611 - 0630 bleibt frei
 ***** 0631 - 0650 Dänemark, Skandinavien
@@ -2439,7 +2375,7 @@ Technik siehe Ep (Kulturgeschichte)
 **** 0551 - 0600 Schweiz und Österreich
 **** 0601 - 0680 Jugoslawien und Albanien
 **** 0681 - 0710 Türkei
-**** 0710 - 0730 Griechenland 
+**** 0710 - 0730 Griechenland
 **** 0731 - 0750 Zypern
 **** 0751 - 0780 Bulgarien
 **** 0781 - 0810 Rumänien
@@ -2546,7 +2482,7 @@ Technik siehe Ep (Kulturgeschichte)
 ****** 15701 - 15750 Gesamtdarstellungen
 ****** 15751 - 15874 1949 — 1990
 ****** 15875 - 16000 1990 —
-**** 16001 - 17500 Wiedervereinigung 1989/1990 (Äußeres/Inneres) 
+**** 16001 - 17500 Wiedervereinigung 1989/1990 (Äußeres/Inneres)
 **** 17501 - 18300 Memoiren und Biographien
 ***** 17501 - 18099 Einzelbiographien und Memoiren
 ***** 18100 - 18300 Sammelbiographien
@@ -2650,7 +2586,7 @@ Technik siehe Ep (Kulturgeschichte)
 ** K - Geschichte Asiens, Australiens, Afrikas
 *** Ka - Asien (Gesamtdarstellungen)
 *** Kb - Ostasien (Gesamtdarstellungen)
-*** Kc - China 
+*** Kc - China
 **** 0001 - 0100 Quellen und Gesamtdarstellungen.
 **** 0101 - 0200 Geistes-, Religions- und Literaturgeschichte,
 **** 0201 - 0300 Wirtschafts- und Sozialgeschichte.
@@ -3642,7 +3578,7 @@ Politik
 **** 0201 - 0250 Quellen und Monographien zur Universitätsgeschichte: Allgemein
 **** 0251 - 0325 Quellen und Monographien zur Universitätsgeschichte: Mittelalter
 **** 0326 - 0400 Quellen und Monographien zur Universitätsgeschichte: Neuzeit
-**** 0401 - 0900 Quellen und Monographien zur Universitätsgeschichte ( Akademien und gelehrte Gesellschaften): einzelne Länder 
+**** 0401 - 0900 Quellen und Monographien zur Universitätsgeschichte ( Akademien und gelehrte Gesellschaften): einzelne Länder
 ***** 0401 - 0500 Quellen und Monographien zur Universitätsgeschichte (Akademien und gelehrte Gesellschaften): einzelne Länder: Deutschland
 ***** 0501 - 0550  Quellen und Monographien zur Universitätsgeschichte (Akademien und gelehrte Gesellschaften): einzelne Länder: England
 ***** 0551 - 0600 Quellen und Monographien zur Universitätsgeschichte (Akademien und gelehrte Gesellschaften): einzelne Länder: Frankreich
@@ -3674,7 +3610,7 @@ Politik
 ***** 1001 - 1300 Darstellungen einzelner Epochen, Monographien
 **** 1301-1400 Sonderprobleme der Geschichtsphilosophie
 *** Ug Geschichte der Wissenschaften ( allgemein) Wissenschaftspolitik, W 27... Asr
-**** 0200 - xxxx Wissenschaftstheorie und Methodologie (allgemein) 
+**** 0200 - xxxx Wissenschaftstheorie und Methodologie (allgemein)
 *** Uk Geschichte der Naturwissenschaften
 **** 0001 - 0020 Handbücher, Lexika
 **** 0021 - 0100 Gesamtdarstellungen
@@ -4836,9 +4772,8 @@ Orte (alphabetisch)
 * Lateinische Philologie des Mittelalters und der Neuzeit
 ** TODO A - Texte
 *** I Sammlungen
-**** DONE 0001- 0599 Theologische Texte
-CLOSED [2022-08-01 Mon 20:40]
-***** 0001 - 0019 biblisch Bücher
+**** 0001 - 0599 Theologische Texte
+***** 0001 - 0019 biblische Bücher
 ***** 0020 - 0099 Apokryphen und apostolische Väter
 ***** 0020 - 0029 Alttestamentarische Apokryphen
 ***** 0030 - 0049 Evangelien
@@ -4877,7 +4812,7 @@ CLOSED [2022-08-01 Mon 20:40]
 ****** 0510 - 0539 XI. Jhd.
 ****** 0540 - 0569 XII. Jhd.
 ****** 0570 - 0599 XIII. – XV. Jhd.
-**** DONE 0600- 0799 Poetische Corpora
+**** 0600 - 0799 Poetische Corpora
 CLOSED [2022-08-01 Mon 20:40]
 ***** 0600 - 0619 allgemeine Corpora
 ***** 0620 - 0799 einzelne Zeiträume
@@ -4887,8 +4822,7 @@ CLOSED [2022-08-01 Mon 20:40]
 ***** 0700 - 0724 XI. Jhd.
 ***** 0725 - 0749 XII. Jhd.
 ***** 0750 - 0799 III. Jhd.
-**** DONE 0800- 0899 Philosophische Corpora
-CLOSED [2022-08-02 Tue 09:43]
+**** 0800 - 0899 Philosophische Corpora
 ***** 0800 - 0804
 ***** 0805 - 0829 Außerchristliche Philosophie
 ***** 0805 - 0809 Plato lat.
@@ -4907,10 +4841,10 @@ CLOSED [2022-08-02 Tue 09:43]
 ****** Böhmen
 ****** Polen
 ****** Skandinavien
-**** TODO 0900 - 0999 Juristische Corpora
+**** 0900 - 0999 Juristische Corpora
 ***** 0900 - 0909 Allgemeine
-***** 910- 939 Römisches Recht
-***** 940- 969 Germanische Rechte
+***** 0910 - 0939 Römisches Recht
+***** 0940 - 0969 Germanische Rechte
 ****** Allgemeines
 ****** Goten
 ****** Franken
@@ -4920,77 +4854,72 @@ CLOSED [2022-08-02 Tue 09:43]
 ****** Angelsachsen
 ****** Sachsen
 ****** Sonstige
-**** TODO 1000 - 1199 Artes liberales et illiberales
+**** 1000 - 1199 Artes liberales et illiberales
 ***** 1000 - 1005 Allgemeines (Mythographie u.ä.)
 ***** 1006 - 1059 Trivium
-***** 1006 - 1009 Allgemeines
-***** 1010 - 1029 Grammatik
-***** 1030 - 1049 Rhetorik
-***** 1050 - 1059 Dialektik
-**** TODO 1060 - 1139 Quadrivium
-***** 1060 - 1069 Allgemeines
-***** 1070 - 1079 Arithmetik
-***** 1080 - 1089 Geometrie
-***** 1090 - 1119 Musik
-***** 1120 - 1139 Astronomie
-**** TODO 1140-1199 Artes illiberales
-***** 1140-1149 Allgemeines
-***** 1150-1179 Medizin
-***** 1180-1199 Cynegetica
-**** TODO 1200-1299 Fachliteratur ohne Autorenangabe
-**** TODO 1300-1899 Historische Corpora
-***** 1300-1419 Allgemeines
-1300-1340
-****** 1341-1380 MGH (Monumenta Germaniae
-****** historica)
-****** 1341 Scriptores in 2° und
-****** 4°
-****** 1342 Auctores antiquissimi
-****** 1343 Scriptores rerum Mero-
-****** vingicarum
-****** 1344 Scriptores rerum Lan-
-****** gobardicarum
-****** 1345 Libelli de Lite
-****** 1346
-****** 1351 Leges in 2° und 4°
-****** 1352
-****** 1353 Capitularia
-****** 1354 Concilia
-****** 1355 Constitutiones et Acta
-****** publica
-****** 1356 Formulae
-****** 1359 Fontes iuris Germanici
-****** Antiqui (Nova Series)
-****** 1365 Diplomata 2°
-****** 1366 Diplomata Carolina in
-****** 4°
-****** 1367 Diplomata regum Germa-
-****** niae ex stirpe Caroli-
-****** norum
-****** 1368 Diplomata regum et im-
-****** peratorum Germaniae
-****** 1369 Dynastenurkunden
-****** 1371 Epistolae in 4°
-****** 1372 Epistolae saec. XIII.
-****** 1373 Briefe der deutschen
-****** Kaiserzeit
-****** 1375 Libri memoriales
-****** 1377 Poetae latini
-****** 1378 Necrologia
-****** 1379 Libri confraternitatum
-****** 1380 Indices
-****** 1381-1419
-****** 1420-1499 Zeitlich begrenzte Corpora 1500-1899: Nationale historische Corpora (lokale
-****** Corpora erhalten die jeweils letzten 30 Num-
-****** mern)
-****** 1500-1549 Italien
-****** 1550-1599 Iberische Halbinsel 1600-1640: Gallien
-****** 1650-1699 Irland und England 1700-1749: Deutschland 1750-1779: Ungarn und Böhmen 1780-1799: Polen
-****** 1800-1824 Skandinavien 1825-1849: Regesten (alphabetisch) 1850-1899:
-****** 1900-1999 Brief-Corpora
-****** 1900-1909 Allgemeine
-****** 1910-1949 Zeitlich begrenzte
-****** 1950-1999 Regionale Corpora
+****** 1006 - 1009 Allgemeines
+****** 1010 - 1029 Grammatik
+****** 1030 - 1049 Rhetorik
+****** 1050 - 1059 Dialektik
+***** 1060 - 1139 Quadrivium
+****** 1060 - 1069 Allgemeines
+****** 1070 - 1079 Arithmetik
+****** 1080 - 1089 Geometrie
+****** 1090 - 1119 Musik
+****** 1120 - 1139 Astronomie
+***** 1140 - 1199 Artes illiberales
+****** 1140-1149 Allgemeines
+****** 1150-1179 Medizin
+****** 1180-1199 Cynegetica
+**** 1200 - 1299 Fachliteratur ohne Autorenangabe
+**** 1300 - 1899 Historische Corpora
+***** 1300 - 1419 Allgemeines
+****** 1300 -1340
+****** 1341-1380 MGH (Monumenta Germaniae historica)
+******* 1341 Scriptores in 2° und 4°
+******* 1342 Auctores antiquissimi
+******* 1343 Scriptores rerum Merovingicarum
+******* 1344 Scriptores rerum Langobardicarum
+******* 1345 Libelli de Lite
+******* 1346
+******* 1351 Leges in 2° und 4°
+******* 1352
+******* 1353 Capitularia
+******* 1354 Concilia
+******* 1355 Constitutiones et Acta publica
+******* 1356 Formulae
+******* 1359 Fontes iuris Germanici Antiqui (Nova Series)
+******* 1365 Diplomata 2°
+******* 1366 Diplomata Carolina in 4°
+******* 1367 Diplomata regum Germaniae ex stirpe Carolinorum
+******* 1368 Diplomata regum et imperatorum Germaniae
+******* 1369 Dynastenurkunden
+******* 1371 Epistolae in 4°
+******* 1372 Epistolae saec. XIII.
+******* 1373 Briefe der deutschen Kaiserzeit
+******* 1375 Libri memoriales
+******* 1377 Poetae latini
+******* 1378 Necrologia
+******* 1379 Libri confraternitatum
+******* 1380 Indices
+****** 1381 - 1419
+***** 1420 - 1499 Zeitlich begrenzte Corpora
+***** 1500 - 1899: Nationale historische Corpora
+~(lokale Corpora erhalten die jeweils letzten 30 Nummern)~
+****** 1500 - 1549 Italien
+****** 1550 - 1599 Iberische Halbinsel
+****** 1600 - 1640 Gallien
+****** 1650 - 1699 Irland und England
+****** 1700 - 1749 Deutschland
+****** 1750 - 1779 Ungarn und Böhmen
+****** 1780 - 1799 Polen
+****** 1800 - 1824 Skandinavien
+****** 1825 - 1849 Regesten (alphabetisch)
+****** 1850-1899:
+***** 1900 - 1999 Brief-Corpora
+****** 1900 - 1909 Allgemeine
+****** 1910 - 1949 Zeitlich begrenzte
+****** 1950 - 1999 Regionale Corpora
 ******* Italien
 ******* Iberische Halbinsel
 ******* Gallien
@@ -5002,11 +4931,10 @@ CLOSED [2022-08-02 Tue 09:43]
 ******* Böhmen
 ******* Polen
 ******* Skandinavien
-******* 2000-2499 Inschriften
-******* 2000-2099 Allgemeine
-******* 2100-2499 Regionale Corpora
+***** 2000 - 2499 Inschriften
+****** 2000 - 2099 Allgemeine
+****** 2100 - 2499 Regionale Corpora
 ******* Italien
-******* 2500-2999
 ******* Iberische Halbinsel
 ******* Gallien
 ******* Irland
@@ -5017,18 +4945,21 @@ CLOSED [2022-08-02 Tue 09:43]
 ******* Böhmen
 ******* Polen
 ******* Skandinavien
-3100–3199 Kleine Formen, Accesus
-3200–3299 Fabeln
-3300-3399 Exempla
-3400-3449 Physiologi, Herbarien, Lapidarien
-3450-3499 Mirabilia, Monstra
-3500-3699 Novellen und Schwänke
-3700-3774 Gespräche, Dialogi
-3775-3799 Dramen
-3800-3829 Briefwechsel
-3830-3999 Romane
-4000-4099 Legenden (alphabetisch: 4 pro Buchstabe) 4100-4199: Visionen
-*** II Schriften einzelner Autoren und einzelne Werke 
+***** 2500 - 2999
+***** 3000 - 3999 Adespota und Pseudoepigrapha
+****** 3100 - 3199 Kleine Formen, Accesus
+****** 3200 - 3299 Fabeln
+****** 3300 - 3399 Exempla
+****** 3400 - 3449 Physiologi, Herbarien, Lapidarien
+****** 3450 - 3499 Mirabilia, Monstra
+****** 3500 - 3699 Novellen und Schwänke
+****** 3700 - 3774 Gespräche, Dialogi
+****** 3775 - 3799 Dramen
+****** 3800 - 3829 Briefwechsel
+****** 3830 - 3999 Romane
+****** 4000 - 4099 Legenden (alphabetisch: 4 pro Buchstabe)
+****** 4100 - 4199 Visionen
+*** II Schriften einzelner Autoren und einzelne Werke
 
 ~Ordnung nach Sterbedaten Das Todesjahr des Verfassers ergibt die Dekade der Signatur. Signaturen mit 0 oder 1 in der Einer- stelle bedeuten im allgemeinen, dass das Todesjahr nicht exakt be- kannt ist.~
 
@@ -5062,7 +4993,7 @@ CLOSED [2022-08-02 Tue 09:43]
 910  90 n.Chr.
 1000 100 n.Chr.
 1010-20XXX Zeitraum ab 101
-n.Chr. 
+n.Chr.
 
 (Signatur ergibt sich aus dem Todesjahr) Bsp. Beda Venerabilis   (†  735) –> A II  735X Francesco Petrarca († 1374) -> A II 1374X
 
@@ -5099,9 +5030,9 @@ n.Chr.
 ** B - Lexikographie und Sprachwissenschaft
 *** I Wörterbücher
 **** 0001 - 0049 Allgemeine (TLL B I 2)
-**** 0050 - 0069 Regional begrenzte Wörterbücher 
+**** 0050 - 0069 Regional begrenzte Wörterbücher
 ~B I 58* = Spanien, allen Regionen/Reiche/Zeiten~
-**** 0070 - 0099 Wörterbücher über besondere Gebiete 
+**** 0070 - 0099 Wörterbücher über besondere Gebiete
 ~geordnet nach Fakultäten~
 **** 0100 - xxxx Nichtlateinische Wörterbücher
 ***** Italien
@@ -5138,7 +5069,7 @@ n.Chr.
 ***** 1700 - 1799 XVIII. Jhd.
 ***** 1800 - 1899 XIX. Jhd.
 ***** 1900 - 1999 XX. Jhd.
-*** III Lexikologie und Glossgraphie 
+*** III Lexikologie und Glossgraphie
 **** 0001 - 0019 Allgemeines
 **** 0020 - 0399 Editionen (chronologisch)
 **** 0400 - 0499 Differentiae verborum
@@ -5156,14 +5087,14 @@ n.Chr.
 ****** 0900 - 0999 nichtlateinische Grammatiken
 **** 1000 - 2999 Sprachgeschichte
 ***** 1000 - 1099 Gesamtzeitraum
-***** 1100 - 1199 Klassische Zeit (bis 200 n.Chr.)  
-***** 1200 -1299 Spätlateinische Zeit (III.- V. Jhd.) 
+***** 1100 - 1199 Klassische Zeit (bis 200 n.Chr.)
+***** 1200 -1299 Spätlateinische Zeit (III.- V. Jhd.)
 ***** 1300 -1399 Vulgärlatein / VI.- VIII. Jhd.
 ***** 1400 -1499 Mittellatein
 ***** 1500 -1599 Neulatein
 **** 3000 - 4499 Semasiologie und Onomasiologie
 ***** 3000 - 3099 Allgemeines
-***** 3100 - 4399 Wortmonographien 
+***** 3100 - 4399 Wortmonographien
 ~50 Nummern pro Buchstabe, d.h. 3100-3149 für A, usw.~
 ***** 4400 - 4499 Logik und Semantik
 *** V Sprache einzelner Autoren
@@ -5549,15 +5480,15 @@ Skandinavien
 **** 0200 - 0299 Heraldik
 **** 0300 - 0399 Numismatik
 
-** G - Einführungen, Bibliographien und Kataloge 
-*** I Einführungen und Methodenlehre  
+** G - Einführungen, Bibliographien und Kataloge
+*** I Einführungen und Methodenlehre
 ~geordnet nach Erscheinungsjahr, 1950 = G I 20~
-*** II Bibliographien  
-**** 1- 99 Allgemeine Bibliographie  
+*** II Bibliographien
+**** 1- 99 Allgemeine Bibliographie
 ~geordnet nach Erscheinungsjahr~
-**** 100- 359 Personalbibliographie und Gelehrtenbiographie 
+**** 100- 359 Personalbibliographie und Gelehrtenbiographie
 ~alphabetisch geordnet, 10 Nummern pro Buchstabe~
-*** III Ausstellungskataloge 
+*** III Ausstellungskataloge
 ~alphabetisch geordnet nach Ausstellungsort, 100 Nummern pro Buchstabe, Zehn Nummern pro Ort, weitere Bände mit fortlaufenden Indices~
 ** H - Sammelwerke
 *** I Enzyklopädische Schriften
@@ -5568,7 +5499,7 @@ Skandinavien
 ~alphabetisch geordnet, 10 Nummern pro Buchstabe~
 ** J - Zeitschriften
 *** Laufende Zeitschriften
-*** I abgeschlossene und nicht vollständig geführte Zeitschriften 
+*** I abgeschlossene und nicht vollständig geführte Zeitschriften
 ~geordnet nach Erscheinungsjahr des 1. Bandes, 1900 = J I 20~
 
 \pagebreak
@@ -6106,4 +6037,3 @@ Alle Signaturen beginnen mit ~Sch~.
 ** Yy - Jugoslawien, Ungarn, Rumänien
 ** Yz - Zeitschriften
 ** (Ohne Nummer?) Mikroformen
-
