@@ -3676,7 +3676,7 @@ Politik
 **** Zs - Dissertationen
 \pagebreak
 * Institut für Fränkisch-Pfälzsische Landesgeschichte
-** TODO I - Bibliographie und Hilfswissenschaften, zur landesgeschichtlichen Methode
+** I - Bibliographie und Hilfswissenschaften, zur landesgeschichtlichen Methode
 *** 001 - xxx Bibliographie, allgemein
 *** 010 - xxx Allgemeine Quellenkunde
 *** 040 - xxx Bibliothekskunde, Regionalbibliographien
@@ -3724,7 +3724,7 @@ Politik
 *** II 0240 - 0299 Württemberg
 *** II 0300 - 0399 Weitere Gebiete
 *** II 0400 - xxxx Zeitschriften allgemeinen, besonders methodischen Inhalts
-** TODO III - Festschriften und Sammelbände
+** III - Festschriften und Sammelbände
 *** III 0001 - 0014 Allgemeines
 *** III 0015 - 0049 Pfalz
 *** III 0050 - 0069 Baden
@@ -3736,54 +3736,20 @@ Politik
 *** III 0180 - 0209 Franken
 *** III 0210 - 0249 Württemberg
 *** III 0250 - xxxx weitere Gebiete
-** TODO IV - Biographische und statistische Nachschlagewerke
+** IV - Biographische und statistische Nachschlagewerke
+~Familien vgl. VIII 900 ff~
+*** IV 0001 - 0069 Baden
+*** IV 0070 - 0099 Pfalz
+*** IV 0100 - 0149 Saar
+*** IV 0150 - 0199 Elsaß
+*** IV 0200 - 0249 Lothringen
+*** IV 0250 - 0299 Luxemburg
+*** IV 0300 - 0349 Hessen (Rheinland)
+*** IV 0350 - 0399 Franken
+*** IV 0400 - 0434 Württemberg
+*** IV 0435 - 0449 Baden-Württemberg
+*** IV 0450 - xxxx Weitere Gebiete
 ** TODO V - Allgemeine Landesgeschichte
-** TODO VI - Geschichte einzelner Orte und Gebiete
-** TODO VII - Landes- und Siedlungskunde
-** TODO VIII - Sprache, Volkskunde und Bevölkerungsgeschichte
-** TODO IX - Wirtschaft und soziale Zustände
-** TODO X - Verfassung und Recht
-** TODO XI - Kirchengeschichte
-** TODO XII - Kultur- und Bildungsgeschichte
-** TODO XIII - Literaturdenkmäler (Texte)
-** TODO XX - Karten
-** TODO XXI - Wandkarten
-** TODO XXII - Reisebücher
-
-
-Festschriften und Sammelbände
-Allgemeines
-
-Pfalz
-
-Franken
-
-Württemberg
-
-Weitere Gebiete
-
-
-Familien vgl. VIII 900 ff
-
-Saar
-
-Elsaß
-
-Lothringen
-
-Luxemburg
-
-Hessen (Rheinland)
-
-Franken
-
-Württemberg
-
-Baden-Württemberg
-
-Weitere Gebiete
-
-V. Allgemeine Landesgeschichte
 
 Allgemeine Geschichte des Oberrheingebietes
 Baden
@@ -3820,6 +3786,8 @@ VI. Geschichte einzelner Orte
 Alle Orte, die früher selbständig waren,
 werden gesondert aufgeführt.
 
+** TODO VI - Geschichte einzelner Orte und Gebiete
+** TODO VII - Landes- und Siedlungskunde
 VII. Landes- und Siedlungskunde, Atlanten
 Allgemein Oberrheinisches
 Baden
@@ -3912,6 +3880,7 @@ Weitere Gebiete
 Literatur allgemeinen, besonders methodi-
 schen Inhalts
 
+** TODO VIII - Sprache, Volkskunde und Bevölkerungsgeschichte
 VIII. Sprache, Volkskunde und Bevölkerungsgeschichte
 
 vIlI 1 ff Allgemein OÖberrheinisches
@@ -4058,6 +4027,8 @@ vIII 1700 ff Juden
 1766 ff Allgemein
 1710 ff in Baden
 1726 ff in Pfalz etc.
+
+** TODO IX - Wirtschaft und soziale Zustände
 Wirtschaft und soziale Zustände
 Allgemein Oberrheinisches
 Baden
@@ -4253,6 +4224,8 @@ Literatur allgemeinen, besonders
 methodischen Inhalts
 -18B-
 
+
+** TODO X - Verfassung und Recht
 X. Verfassung und Recht
 
 ff Allgemein Oberrheinisches und darüber hinaus
@@ -4374,6 +4347,8 @@ Al gemeine Literatur zur Rechts- und
 V
 -21-
 
+
+** TODO XI - Kirchengeschichte
 XI. _Kirchengeschichte
 Allgemein OÖberrheinisches
 
@@ -4468,6 +4443,8 @@ zzmen mm
 szzzzzmzzzzm2 zz zz ze m 2
 ge
 
+
+** TODO XII - Kultur- und Bildungsgeschichte
 XII, Kultur- und Bildungsgeschichte + Führer:
 Kunst, Baudenkmäler usw. (vgl. XXII)
 
@@ -4647,6 +4624,8 @@ XIT 9000 ff Weitere Gebiete und Allgemeings
 9950 ff Historiographie
 -2I-
 
+
+** TODO XIII - Literaturdenkmäler (Texte)
 XIII. Literaturdenkmäler (Texte)
 
 Denkmäler nach Verfassern (alphabetisch)
@@ -4703,6 +4682,8 @@ Weitere Gebiete
 
 Sammlungen nach anderen Gesichtspunkten
 
+
+** TODO XX - Karten
 XX. Karten
 
 xx 1ı ff Karten größerer Gebiete
@@ -4730,6 +4711,8 @@ xXX 100 ff Landschaften
 1000 ff Weitere Gebiete
 
 x aaa ff Orte ((alphabetisch)
+
+** TODO XXI - Wandkarten
 XXI. Wandkarten
 Karten größerer Gebiete
 
@@ -4749,6 +4732,8 @@ Weitere Gebiete
 
 Orte (alphabetisch)
 
+
+** TODO XXII - Reisebücher
 XXII. Reisebücher
 
 Allgemeines
