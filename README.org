@@ -6,12 +6,22 @@
 [[https://www.uni-heidelberg.de/md/zegk/histsem/seminar/systematik_fpi.pdf][Maschinenschriftliche Systematik des Instituts für Fränkisch-Pfälzische Geschichte und Landeskunde]]
 
 [[https://www.uni-heidelberg.de/md/zegk/histsem/seminar/systematik_schurman.pdf][Systematik der Schurman Bibliothek]]
+# # * Die Arbeitsschritte
+# ** OCR mit Tesseract
+# Die maschinenschriftlichen Vorlagen, die in den 1960ern angefertigt waren, wurden zunächst neu durch ein OCR Engine bearbeitet, um eine Plain-Text Grundlage für die weitere Verarbeitung zu gewinnen. Dafür kam [[https://github.com/tesseract-ocr/tesseract][Tesseract-OCR]] zum Einsatz.
 
+# Mit Apple Preview kann man sehr einfach eine mehrseitige PDF Datei in eine für Tesseract-OCR geeignete .tiff Datei und zwar als eine einzige. Dies ermöglicht eine einfach Umwandlung der Bilddatei in eine .txt.
+
+# #+begin_src sh
+# tesseract systematik.tiff -l de
+# #+end_src
+# ** Text mit Org-Mode Markdown bearbeiten
+*** Warum Plaintext? 
 * Formatierung
 
-Die Formatierung der Systematiken verwendet die vereinfachte Auszeichnungssprache, die [[https://orgmode.org/guide/Markup.html#Markup][Org-Mode]] für Emacs zugrunde liegt. 
+Die Formatierung der Systematiken verwendet die vereinfachte Auszeichnungssprache, die [[https://orgmode.org/guide/Markup.html#Markup][Org-Mode]] für Emacs zugrunde liegt.
 
-#+BEGIN_SRC
+#+BEGIN_SRC 
 ,* Bibliothek
 ,** A - Titel Ebene 1
 ,*** Ac - Titel Ebene 2
@@ -53,10 +63,11 @@ Zum Beispiel:
 #+END_SRC
 
 * Bearbeitungsstatus der einzelnen Signaturgruppen
+~Da die neue Verarbeitung der Systematiken nun in ihrer ersten Neufassung vollendet ist, sind die folgenden Anmerkungen nicht mehr aktuell, dokumentieren aber die vergangenen Arbeitsschritte.~
+-----
+Die Systematiken der Bibliotheken bilden insgesamt knapp 10.000 Zeilen - eine erhebliche Menge. Um den Status der jeweiligen alphabetischen Signaturgruppen in Ordnung zu halten, bitte schreiben Sie (in großen Buchstaben) entweder ~TODO~ oder ~DONE~ wie unten dargestellt. Sind z.B. alle untergeordnete Signaturen einer Gruppe bearbeitet worden, dann sollte ein ~TODO~ zu einem ~DONE~ in dem sogenanntent parent heading.
 
-Die Systematiken der Bibliotheken bilden insgesamt knapp 10.000 Zeilen - eine erhebliche Menge. Um den Status der jeweiligen alphabetischen Signaturgruppen in Ordnung zu halten, bitte schreiben Sie (in großen Buchstaben) entweder ~TODO~ oder ~DONE~ wie unten dargestellt. Sind z.B. alle untergeordnete Signaturen einer Gruppe bearbeitet worden, dann sollte ein ~TODO~ zu einem ~DONE~ in dem sogenanntent parent heading. 
-
-Zum Beispiel: 
+Zum Beispiel:
 
 #+BEGIN_SRC
 ,* TODO Historisches Seminar
@@ -66,7 +77,7 @@ Zum Beispiel:
 ,*** TODO Bf - Papsturkunden
 #+END_SRC
 
-vs. 
+vs.
 
 #+BEGIN_SRC
 ,* TODO Historisches Seminar
@@ -76,3 +87,9 @@ vs.
 ,*** TODO Bf - Papsturkunden
 #+END_SRC
 
+# # ** PDF mit Pandoc erstellen
+# [[https://pandoc.org/][Pandoc]] ist ein weitverbreitetes Tool, das zwischen verschiedenen Dateiformate konvertieren kann.
+# # * Korrekturen vorschlagen
+# 1. Github Konto erstellen
+# 2. Repository "fork"-en
+# 3. Korrekturen
