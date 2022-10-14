@@ -17,7 +17,7 @@
 # #+end_src
 # ** Text mit Org-Mode Markdown bearbeiten
 *** Warum Plaintext? 
-* Formatierung
+# * Formatierung
 
 Die Formatierung der Systematiken verwendet die vereinfachte Auszeichnungssprache, die [[https://orgmode.org/guide/Markup.html#Markup][Org-Mode]] für Emacs zugrunde liegt.
 
