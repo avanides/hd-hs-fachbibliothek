@@ -4949,37 +4949,36 @@ CLOSED [2022-08-01 Mon 20:40]
 
 ~Ordnung nach Sterbedaten Das Todesjahr des Verfassers ergibt die Dekade der Signatur. Signaturen mit 0 oder 1 in der Einer- stelle bedeuten im allgemeinen, dass das Todesjahr nicht exakt be- kannt ist.~
 
-1-1000 Zeitraum bis 100 n.Chr.
-1 - 9 Todesjahr vor 100 v.Chr.
-10 100 v.Chr.
-12  90 v.Chr.
-14  80 v.Chr.
-17  70 v.Chr.
-20  60 v.Chr.
-28  50 v.Chr.
-33  45 v.Chr.
-40  40 v.Chr.
-47  35 v.Chr.
-54  30 v.Chr.
-61  25 v.Chr.
-68  20 v.Chr.
-75  15 v.Chr.
-83  10 v.Chr.
-91 5 v.Chr.
-99 1 v.Chr.
-100 1 n.Chr.
-190  10 n.Chr.
-280  20 n.Chr.
-370  30 n.Chr.
-460  40 n.Chr.
-550  50 n.Chr.
-640  60 n.Chr.
-730  70 n.Chr.
-820  80 n.Chr.
-910  90 n.Chr.
+**** 0001 - 1000 Zeitraum bis 100 n.Chr.
+***** 0001 - 0009 Todesjahr vor 100 v.Chr.
+***** 0010 - xxxx 100 v.Chr.
+***** 0012 - xxxx 90 v.Chr.
+0014  80 v.Chr.
+0017  70 v.Chr.
+0020  60 v.Chr.
+0028  50 v.Chr.
+0033  45 v.Chr.
+0040  40 v.Chr.
+0047  35 v.Chr.
+0054  30 v.Chr.
+0061  25 v.Chr.
+0068  20 v.Chr.
+0075  15 v.Chr.
+0083  10 v.Chr.
+0091 5 v.Chr.
+0099 1 v.Chr.
+0100 1 n.Chr.
+0190  10 n.Chr.
+0280  20 n.Chr.
+0370  30 n.Chr.
+0460  40 n.Chr.
+0550  50 n.Chr.
+0640  60 n.Chr.
+0730  70 n.Chr.
+0820  80 n.Chr.
+0910  90 n.Chr.
 1000 100 n.Chr.
-1010-20XXX Zeitraum ab 101
-n.Chr.
+**** 1010-20XXX Zeitraum ab 101 n.Chr.
 
 (Signatur ergibt sich aus dem Todesjahr) Bsp. Beda Venerabilis   (†  735) –> A II  735X Francesco Petrarca († 1374) -> A II 1374X
 
@@ -5489,7 +5488,7 @@ Skandinavien
 ~geordnet nach Erscheinungsjahr des 1. Bandes, 1900 = J I 20~
 
 \pagebreak
-* Schurman Bibliothek
+* Schurman Bibliothek 
 Alle Signaturen beginnen mit ~Sch~.
 ** I. Allgemeines
 *** 1. Allgemeine Hilfsmittel
