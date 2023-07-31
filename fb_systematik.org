@@ -3677,9 +3677,9 @@ Politik
 \pagebreak
 * Institut für Fränkisch-Pfälzsische Landesgeschichte
 ** I - Bibliographie und Hilfswissenschaften, zur landesgeschichtlichen Methode
-*** 001 - xxx Bibliographie, allgemein
-*** 010 - xxx Allgemeine Quellenkunde
-*** 040 - xxx Bibliothekskunde, Regionalbibliographien
+*** 0001 - 0009 Bibliographie, allgemein
+*** 0010 - 0039 Allgemeine Quellenkunde
+*** 0040 - 0069 Bibliothekskunde, Regionalbibliographien
 **** 040 - xxx Baden
 **** 047 - 049 Baden-Württemberg
 **** 050 - xxx Pfalz
@@ -3691,7 +3691,7 @@ Politik
 **** 069/80 - xxx Franken
 **** 069/100 - xxx Württemberg
 **** 069/120 - xxx Weitere Gebiete
-*** Archivkunde
+*** 0070 - 0149 Archivkunde
 **** Baden
 **** Pfalz
 **** Saar
@@ -3702,12 +3702,12 @@ Politik
 **** Franken
 **** Württemberg
 **** Weitere Gebiete
-*** Museumskunde
-*** Historische Hilfswissenschaften (Heraldik)
-*** Siegel- und Wappenkunde
-*** Münzkunde
-*** Archäologie (Burgenkunde etc) /Ur-u.Frühgeschichte
-*** Chronologie
+*** 0150 - 0199 Museumskunde
+*** 0200 - 0299 Historische Hilfswissenschaften (Heraldik)
+*** 0300 - 0399 Siegel- und Wappenkunde
+*** 0400 - 0449 Münzkunde
+*** 0450 - 0499 Archäologie (Burgenkunde etc) /Ur-u.Frühgeschichte
+*** 0500 - xxx Chronologie
 ** II - Zeitschriften und Buchreihen
 *** II 0001 - 0009 Allgemein Rheinisches und Südwestdeutsches
 *** II 0010 - 0079 Baden
@@ -3749,137 +3749,73 @@ Politik
 *** IV 0400 - 0434 Württemberg
 *** IV 0435 - 0449 Baden-Württemberg
 *** IV 0450 - xxxx Weitere Gebiete
-** TODO V - Allgemeine Landesgeschichte
-
-Allgemeine Geschichte des Oberrheingebietes
-Baden
-Gesamtdarstellungen badischer Einzelgebiete
-
-Einzelne Epochen und Ereignisse
-(chronologisch)
-
-Pfalz + Kurtrier + Oberpfalz
-
-Gesamtdarstellungen pfälzischer
-Einzelgebiete
-
-Die einzelnen Epochen und Ereignisse
-Saar (Einteilung wie Pfalz)
-Elsaß(Einteilung wie Pfalz)
-Lothringen(Einteilung wie Pfalz)
-Luxemburg(Einteilung wie Pfalz)
-Hessen (Rheinland), Kurmainz, Rheinland-Westfalen
-KOSTEN Ge 221
-Fränken (Einteilung wie Pfalz)
-Württemberg (Einteilung wie Pfalz)
-Weitere Gebiete (Einteilung wie Pfalz)
-
-Bayern (Einteilung wie Pfalz)
-
-Süddeutschland allgemein (Einteilung wie Pfalz)
-Baden-Württemberg (Einteilung wie Pfalz)
-
-Limes und Römer
-VI. Geschichte einzelner Orte
-(im alphabetischer Reihenfolge)
-
-Alle Orte, die früher selbständig waren,
-werden gesondert aufgeführt.
-
-** TODO VI - Geschichte einzelner Orte und Gebiete
-** TODO VII - Landes- und Siedlungskunde
-VII. Landes- und Siedlungskunde, Atlanten
-Allgemein Oberrheinisches
-Baden
-
-Geologische Grundlagen
-Geographische Grundlagen, Pflanzen-u.Tierwel
-Einzelne Gebiete und Orte
-
-Amtl. Kreisbeschreibungen(heutiges Baden)
-
-Siedlungskunde
-
-Pfalz + Kurtrier
-
-Saar
-
-Geologische Grundlagen
-Pflanzen- und Tierwelt
-Geographische Grundlagen
-Einzelne Gebiete und Orte
-Siedlungskunde
-
-Geologische und geographische
-Pflanzen- und Tierwelt
-
-Einzelne Gebiete und Orte
-Siedlungskunde
-
-Grundlagen,
-
-Elsaß
-
-Geologische und geographische
-Pflanzen- und Tierwelt
-
-Einzelne Gebiete und Orte
-Siedlungskunde
-
-Grundlagen,
-
-Lothringen
-
-Geologische und geographische
-Pflanzen- und Tierwelt
-
-Einzelne Gebiete und Orte
-Siedlungskunde
-
-Grundlagen,
-
-Luxemburg
-
-Geologische und Geographische
-Pflanzen- und Tierwelt
-
-Einzelne Gebiete und Orte
-Siedlungskunde
-
-Grundlagen,
-
-Hessen (Rheinland) + Kurmainz
-
-Geologische und geographische
-Pflanzen- und Tierwelt
-
-Einzelne Gebiete und Orte
-Siedlungskunde
-
-Grundlagen,
-Franken
-
-Geologische und geographische Grundlagen,
-Pflanzen- und Tierwelt
-
-Einzelne Gebiete und Orte
-Siedlungskunde
-
-Württemberg
-
-Geologische und geographische Grundlagen,
-Pflanzen- und Tierwelt
-
-Einzelne Gebiete und Orte
-
-Siedlungskunde
-
-Amtl. Kreisbeschreibungen
-Weitere Gebiete
-
-Literatur allgemeinen, besonders methodi-
-schen Inhalts
-
+** V - Allgemeine Landesgeschichte
+*** 0001 - 0009 Allgemeine Geschichte des Oberrheingebietes
+*** 0010 - 0029 Baden
+**** 0030 - 0099 Gesamtdarstellungen badischer Einzelgebiete
+**** 0100 - 0999 Einzelne Epochen und Ereignisse (chronologisch)
+*** 1000 - 1999 Pfalz + Kurtrier + Oberpfalz
+**** 1010 - 1099 Gesamtdarstellungen pfälzischer Einzelgebiete
+**** 1100 - 1999 Die einzelnen Epochen und Ereignisse
+*** 2000 - 2999 Saar (Einteilung wie Pfalz)
+*** 3000 - 3999 Elsaß(Einteilung wie Pfalz)
+*** 4000 - 4999 Lothringen(Einteilung wie Pfalz)
+*** 5000 - 5999 Luxemburg(Einteilung wie Pfalz)
+*** 6000 - 6999 Hessen (Rheinland), Kurmainz, Rheinland-Westfalen
+*** 7000 - 7999 Franken (Einteilung wie Pfalz)
+*** 8000 - 8999 Württemberg (Einteilung wie Pfalz)
+*** 9000 - 9999 Weitere Gebiete (Einteilung wie Pfalz)
+*** 10000 - 10999 Bayern (Einteilung wie Pfalz)
+*** 11000 - 11999 Süddeutschland allgemein (Einteilung wie Pfalz)
+*** 12000 - 12999 Baden-Württemberg (Einteilung wie Pfalz)
+*** 13000 - xxxxx Limes und Römer
+** VI - Geschichte einzelner Orte und Gebiete
+Alle Orte, die früher selbständig waren, werden gesondert aufgeführt.
+** VII - Landes- und Siedlungskunde, Atlanten
+*** 0001 - 0009 Allgemein Oberrheinisches
+*** 0010 - 0199 Baden
+**** 0020 - 0039 Geologische Grundlagen
+**** 0040 - 0059 Geographische Grundlagen, Pflanzen- und Tierwelt
+**** 0060 - 0093 Einzelne Gebiete und Orte
+**** 0094 - 0149 Amtl. Kreisbeschreibungen(heutiges Baden)
+**** 0150 - 0199 Siedlungskunde
+*** 0200 - 0399 Pfalz + Kurtrier
+**** 0220 - 0239 Geologische Grundlagen
+**** 0240 - 0249 Pflanzen- und Tierwelt
+**** 0250 - 0259 Geographische Grundlagen
+**** 0260 - 0349 Einzelne Gebiete und Orte
+**** 0350 - 0399 Siedlungskunde
+*** 0400 - 0434 Saar
+**** 0410 - 0429 Geologische und geographische Grundlagen, Pflanzen- und Tierwelt
+**** 0430 - 0434 Einzelne Gebiete und Orte
+**** 0435 - 0448 Siedlungskunde
+*** 0449 - 0499 Elsaß
+**** 0449 - 0459 Geologische und geographische Grundlagen, Pflanzen- und Tierwelt
+**** 0460 - 0479 Einzelne Gebiete und Orte
+**** 0480 - 0499 Siedlungskunde
+*** 0500 - 0549 Lothringen
+**** 0510 - 0529 Geologische und geographische Grundlagen, Pflanzen- und Tierwelt
+**** 0530 - 0548 Einzelne Gebiete und Orte
+**** 0549 - 0549 Siedlungskunde
+*** 0550 - 0599 Luxemburg
+**** 0560 - 0579 Geologische und Geographische Grundlagen, Pflanzen- und Tierwelt
+**** 0580 - 0598 Einzelne Gebiete und Orte
+**** 0599 - 0599 Siedlungskunde
+*** 0600 - 0649 Hessen (Rheinland) + Kurmainz
+**** 0610 - 0629 Geologische und geographische Grundlagen, Pflanzen- und Tierwelt
+**** 0630 - 0648 Einzelne Gebiete und Orte
+**** 0649 - 0649 Siedlungskunde
+*** 0650 - 0699 Franken
+**** 0660 - 0679 Geologische und geographische Grundlagen, Pflanzen- und Tierwelt
+**** 0680 - 0698 Einzelne Gebiete und Orte
+**** 0699 - 0699 Siedlungskunde
+*** 0700 - 0799 Württemberg
+**** 0710 - 0729 Geologische und geographische Grundlagen, Pflanzen- und Tierwelt
+**** 0730 - 0749 Einzelne Gebiete und Orte
+**** 0750 - 0759 Siedlungskunde
+**** 0760 - 0799 Amtl. Kreisbeschreibungen
+*** 0800 - 0999 Weitere Gebiete
+*** 1000 - xxxx Literatur allgemeinen, besonders methodischen Inhalts
 ** TODO VIII - Sprache, Volkskunde und Bevölkerungsgeschichte
 VIII. Sprache, Volkskunde und Bevölkerungsgeschichte
 
@@ -4224,7 +4160,6 @@ Literatur allgemeinen, besonders
 methodischen Inhalts
 -18B-
 
-
 ** TODO X - Verfassung und Recht
 X. Verfassung und Recht
 
@@ -4347,7 +4282,6 @@ Al gemeine Literatur zur Rechts- und
 V
 -21-
 
-
 ** TODO XI - Kirchengeschichte
 XI. _Kirchengeschichte
 Allgemein OÖberrheinisches
@@ -4442,7 +4376,6 @@ zzmen mm
 (Rheinland-Rheinhessen)
 szzzzzmzzzzm2 zz zz ze m 2
 ge
-
 
 ** TODO XII - Kultur- und Bildungsgeschichte
 XII, Kultur- und Bildungsgeschichte + Führer:
@@ -4624,7 +4557,6 @@ XIT 9000 ff Weitere Gebiete und Allgemeings
 9950 ff Historiographie
 -2I-
 
-
 ** TODO XIII - Literaturdenkmäler (Texte)
 XIII. Literaturdenkmäler (Texte)
 
@@ -4682,7 +4614,6 @@ Weitere Gebiete
 
 Sammlungen nach anderen Gesichtspunkten
 
-
 ** TODO XX - Karten
 XX. Karten
 
@@ -4731,7 +4662,6 @@ Württemberg
 Weitere Gebiete
 
 Orte (alphabetisch)
-
 
 ** TODO XXII - Reisebücher
 XXII. Reisebücher
@@ -4951,65 +4881,67 @@ CLOSED [2022-08-01 Mon 20:40]
 
 **** 0001 - 1000 Zeitraum bis 100 n.Chr.
 ***** 0001 - 0009 Todesjahr vor 100 v.Chr.
-***** 0010 - xxxx 100 v.Chr.
-***** 0012 - xxxx 90 v.Chr.
-0014  80 v.Chr.
-0017  70 v.Chr.
-0020  60 v.Chr.
-0028  50 v.Chr.
-0033  45 v.Chr.
-0040  40 v.Chr.
-0047  35 v.Chr.
-0054  30 v.Chr.
-0061  25 v.Chr.
-0068  20 v.Chr.
-0075  15 v.Chr.
-0083  10 v.Chr.
-0091 5 v.Chr.
-0099 1 v.Chr.
-0100 1 n.Chr.
-0190  10 n.Chr.
-0280  20 n.Chr.
-0370  30 n.Chr.
-0460  40 n.Chr.
-0550  50 n.Chr.
-0640  60 n.Chr.
-0730  70 n.Chr.
-0820  80 n.Chr.
-0910  90 n.Chr.
-1000 100 n.Chr.
-**** 1010-20XXX Zeitraum ab 101 n.Chr.
+***** 0010 - 0011 100 v.Chr.
+***** 0012 - 0013 90 v.Chr.
+***** 0014 - 0016 80 v.Chr.
+***** 0017 - 0019 70 v.Chr.
+***** 0020 - 0027 60 v.Chr.
+***** 0028 - 0032 50 v.Chr.
+***** 0033 - 0039 45 v.Chr.
+***** 0040 - 0046 40 v.Chr.
+***** 0047 - 0053 35 v.Chr.
+***** 0054 - 0060 30 v.Chr.
+***** 0061 - 0067 25 v.Chr.
+***** 0068 - 0074 20 v.Chr.
+***** 0075 - 0082 15 v.Chr.
+***** 0083 - 0090 10 v.Chr.
+***** 0091 - 0098 5 v.Chr.
+***** 0099 - xxxx 1 v.Chr.
+***** 0100 - 0189 1 n.Chr.
+***** 0190 - 0279 10 n.Chr.
+***** 0280 - 0369 20 n.Chr.
+***** 0370 - 0459 30 n.Chr.
+***** 0460 - 0549 40 n.Chr.
+***** 0550 - 0639 50 n.Chr.
+***** 0640 - 0729 60 n.Chr.
+***** 0730 - 0819 70 n.Chr.
+***** 0820 - 0909 80 n.Chr.
+***** 0910 - 0999 90 n.Chr.
+***** 1000 - xxxx 100 n.Chr.
+**** 1010 - 20XXX Zeitraum ab 101 n.Chr.
+~(Signatur ergibt sich aus dem Todesjahr)~
 
-(Signatur ergibt sich aus dem Todesjahr) Bsp. Beda Venerabilis   (†  735) –> A II  735X Francesco Petrarca († 1374) -> A II 1374X
+~Bsp. Beda Venerabilis (†735) –> A II  735X~
 
-**** 30000-3250 Übersetzungen ins Lateinische
-**** 30000  500 v.Chr.
-**** 30010  400 v.Chr.
-**** 30020  300 v.Chr.
-**** 30030  200 v.Chr.
-**** 30040  100 v.Chr.
-**** 30050    0
-**** 30060  100 n.Chr.
-**** 30070  200 n.Chr.
-**** 30080  300 n.Chr.
-**** 30090  400 n.Chr.
-**** 30100  500 n.Chr.
-**** 30110  600 n.Chr.
-**** 30120  700 n.Chr.
-**** 30130  800 n.Chr.
-**** 30140  900 n.Chr.
-**** 30150 1000 n.Chr.
-**** 30160 1100 n.Chr.
-**** 30170 1200 n.Chr.
-**** 30180 1300 n.Chr.
-**** 30190 1400 n.Chr.
-**** 30200 1500 n.Chr.
-**** 30210 1600 n.Chr.
-**** 30220 1700 n.Chr.
-**** 30230 1800 n.Chr.
-**** 30240 1900 n.Chr.
-**** 30250 2000 n.Chr.
-*** III Analekten und Anthologien
+~Francesco Petrarca (†1374) -> A II 1374X~
+**** 30000 - 30250 Übersetzungen ins Lateinische
+***** 30000 - 30009 500 v.Chr.
+***** 30010 - 30019 400 v.Chr.
+***** 30020 - 30029 300 v.Chr.
+***** 30030 - 30039 200 v.Chr.
+***** 30040 - 30049 100 v.Chr.
+***** 30050 - 30059 0
+***** 30060 - 30069 100 n.Chr.
+***** 30070 - 30079 200 n.Chr.
+***** 30080 - 30089 300 n.Chr.
+***** 30090  400 n.Chr.
+***** 30100  500 n.Chr.
+***** 30110  600 n.Chr.
+***** 30120  700 n.Chr.
+***** 30130  800 n.Chr.
+***** 30140  900 n.Chr.
+***** 30150 1000 n.Chr.
+***** 30160 1100 n.Chr.
+***** 30170 1200 n.Chr.
+***** 30180 1300 n.Chr.
+***** 30190 1400 n.Chr.
+***** 30200 1500 n.Chr.
+***** 30210 1600 n.Chr.
+***** 30220 1700 n.Chr.
+***** 30230 1800 n.Chr.
+***** 30240 1900 n.Chr.
+***** 30250 2000 n.Chr.
+**** III Analekten und Anthologien
 **** 1-499 Analekten (geordnet nach Erscheinungsjahr 1900 = 100, ab 1900 zwei Nummern pro Jahr)
 **** 500-999 Anthologien (geordnet wie Analekten, 1900 = 600)
 ** B - Lexikographie und Sprachwissenschaft
