@@ -3816,877 +3816,599 @@ Alle Orte, die früher selbständig waren, werden gesondert aufgeführt.
 **** 0760 - 0799 Amtl. Kreisbeschreibungen
 *** 0800 - 0999 Weitere Gebiete
 *** 1000 - xxxx Literatur allgemeinen, besonders methodischen Inhalts
-** TODO VIII - Sprache, Volkskunde und Bevölkerungsgeschichte
-VIII. Sprache, Volkskunde und Bevölkerungsgeschichte
-
-vIlI 1 ff Allgemein OÖberrheinisches
-vIIl 10 ff Volkskunde Baden
-10 ff Allgemeine Volkskunde
-15 ff Einzelne Gebiete und Orte
-149/1 ff Äußerungen des Volkstums
-VIII 150 ff Volkskunde Pfalz
-150 ff Allgemeine Volkskunde
-170 ff Einzelne Gebiete und Orte
-180 ff Dorf- und Stadtbild
-190 ff Volkstrachten
-200 ff Einzelne Bräuche
-210 ff Volkskunst
-VIII 300 ff Volkskunde Saar
-300 ff Allgemeine Volkskunde
-308/1 ff Äußerungen des Volkstums
-309/1 ff. Einzelne Gebiete und Orte
-vIII 310 ff Volkskunde Elsaß
-310 ff Allgemeine Volkskunde
-318/1 ff Äußerungen des Volkstums
-319/1 ff Einzelne Gebiete und Orte
-VIII 320 ff Volkskunde Lothringen
-320 ff Allgemeine Volkskunde
-328/1 ff Äußerungen des Volkstums
-329/1 ff Einzelne Gebiete und Orte
-VIII 330 ff Volkskunde Luxemburg
-330 ff Allgemeine Volkskunde
-338/1 ff Äußerungen des Volkstums
-339/1 ff Einzelne Gebiete und Orte
-VIII 340 ff Volkskunde Hessen (Rheinland)
-340 ff Allgemeine Volkskunde
-348/1 ff Äußerungen des Volkstums
-349/1 ff Einzelne Gebiete und Orte
-vIII 350 ff Volkskunde Franken
-350 ff Allgemeine Volkskunde
-358/1 ff Äußerungen des Volkstums
-
-359/1 ff Einzelne Gebiete und Orte
-Volkskunde Württemberg
-Allgemeine Volkskunde
-
-Äußerungen des Volkstums
-Einzelne Gebiete und Orte
-Weitere Gebiete
-
-Oberrhein (Elsaß/Baden/Schweiz)
-
-Sprache Baden
-
-Allgemeines: Wörterbücher, Namenbücher,
-Sprachliche Bewegungen u.a.
-
-Einzelne Gegenden und Orte
-Sprache Pfalz
-
-Allgemeines
-
-Einzelne Gegenden und Orte
-Sprache Saar
-
-Allgemeines
-
-Einzelne Gegenden und Orte
-Sprache Elsaß
-
-Allgemeines
-
-Einzelne Gegenden und Orte
-Sprache Lothringen
-
-Allgemeines
-
-Einzelne Gegenden und Orte
-Sprache Luxemburg
-
-Allgemeines
-
-Einzelne Gegenden und Orte
-Sprache Hessen (Rheinland)
-
-Allgemeines
-
-Einzelne Gegenden und Orte
-Sprache Franken
-
-Allgemeines
-
-Einzelne Gegenden und Orte
-Sprache Württemberg
-Allgemeines
-Einzelne Gegenden und Orte
-
-Sprache Weitere Gebiete:
--13-
-
-VIII 900 ff Bevölkerungsgeschichte u. Einzelfamilien
-
-910 ff Baden
-
-950 ff Pfalz
-
-960 ff Elsaß
-
-965 ff Lothringen
-
-970 ff Luxemburg
-
-975 ff Hessen (Rheinland)
-980 ff Franken
-
-985 ff Württemberg
-
-990 ff Weitere Gebiete
-
-vIII 1000 ff Wanderungen
-
-De
-
-VIII 1000 ff Badische + pfälzische Auswanderung
-
-vIII 1100 ff Wanderbewegungen an der Westgrenze
-
-1110 ff im Elsaß
-1150 ff in Lothringen
-1200 ff in Luxemburg
-
-vIII 1250 ff Wanderbewegungen im Innern
-
-1260 ff in Hessen (Rheinland)
-1300 ff in Franken
-
-1350 ff in Württemberg
-
-1400 ff in weiteren Gebieten
-
-vIII 1500 ff Allgemeine, besonders methodische Literatur
-zur Bevölkerungsgeschichte
-
-VIII 1600 ff Flüchtlingsprobleme. Geschichte der Vertreibung
-und Eingliederung in die örtliche Bevölkerung.
-
-vIII 1700 ff Juden
-1766 ff Allgemein
-1710 ff in Baden
-1726 ff in Pfalz etc.
-
-** TODO IX - Wirtschaft und soziale Zustände
-Wirtschaft und soziale Zustände
-Allgemein Oberrheinisches
-Baden
-
-Allgemeines
-Einzelne Gegenden und Orte
-
-Badische Landwirtschaft
-
-Ländliche Besitzverhältnisse
-
-Domänen und Großgrundbesitz
-Bäuerlicher Kleinbesitz
-Geschichte des Bauerntums
-
-Landwirtschaftliche Betriebslehre
-
-Einzelne Zweige:
-Weinbau
-Forstwirtschaft
-
-Badische; Gewerbe und Industrie
-Allgemeines
-
-Einzelne Gewerbe und Gebiete
-
-Baugewerbe
-Badischer Handel und Verkehr
-
-Allgemeines
-
-Einzelne Zweige und Gebiete
-
-Grundstückhandel
-
-Verkehr
-
-Straßen
-
-Eisenbahnen
-
-Wasserstraßen
-Geld- und Bankwesen in Baden
-Sozialpolitik in Baden
-Bfalz_und_Kurtrier
-
-Allgemeines
-
-Einzelne Gegenden und Orte
-Landwirtschaft
-
-Wein- und Obstbau
-
-Forstwirtschaft
-Gewerbe und Industrie
-
-Einzelne Gewerbszweige
-
-Einzelne Gegenden und Orte
-Handel und Verkehr
-
-Einzelne Zweige des Handels
-
-Verkehr in der Pfalz
-Geldwesen und Banken
-
-Sozialpolitik
-Allgemeines
-
-Einzelne Gegenden und Orte
-Saarländische Landwirtschaft
-Gewerbe und Industrie
-
-Einzelne Gewerbezweige
-
-Einzelne Gegenden und Orte
-Handel und Verkehr
-
-Einzelne Zweige des Handels
-
-Verkehr
-Geldwesen und Banken
-
-Sozialpolitik
-Elsaß
-Allgemeines
-Einzelne Gegenden und Orte
-Landwirtschaft
-Gewerbe und Industrie
-
-Einzelne Gewerbszweige
-
-Einzelne Gegenden und Orte
-Handel und Verkehr
-Einzelne Zweige des Handels
-Verkehr
-Geldwesen
-
-Sozialpolitik
-Lothringen
-
-Allgemeines
-
-Einzelne Gegenden und Orte
-Landwirtschaft
-Gewerbe und Industrie
-
-Einzelne Gewerbszweige
-Einzelne Gegenden und Orte
-Handel und Verkehr
-Einzelne Zweige des Handels
-Verkehr
-Geldwesen
-
-Sozialpolitik
-Luxembürg
-Allgemeines
-
-Einzelne Gegenden und Orte
-Landwirtschaft
-
-Gewerbe und Industrie
-Einzelne Gewerbszweige
-Einzelne Gegenden und Orte
-Handel und Verkehr
-Einzelne Zweige des Handels
-Verkehr
-Geldwesen
-
-Sozialpolitik
-
-Hessen (Rheinland + Kurmainz
-zz 2222 = =
-
-zezmzmmuemmzzmzmeomcz
-Allgemeines
-Einzelne Gegenden und Orte
-
-Landwirtschaft
-
-Gewerbe und Industrie
-Einzelne Gewerbszweige
-Einzelne Gegenden und Orte
-
-Handel und Verkehr
-
-Einzelne Zweige des Handels»
-Verkehr
-
-Geldwesen
-
-Sozialpolitik
-
-Franken
-vsemumum
-Allgemeines
-
-Einzelne Gegenden und Orte
-Landwirtschaft
-
-Gewerbe und Industrie
-Einzelne Gewerbszweige
-Einzelne Gegenden und Orte
-
-Handel und Verkehr
-Einzelne Zweige des Handels
-Verkehr
-
-Geldwesen
-
-Sozialpolitik
-
-Württemberg
-
-Allgemeines
-
-Einzelne Gegenden und Orte
-Landwirtschaft
-Gewerbe und Industrie
-
-Einzelne Gewerbszweige
-Einzelne Gegenden und Orte
-Handel und Verkehr
-Einzelne Zweige des Handels
-Verkehr
-Geldwesen
-
-Sozialpolitik
-
-Weitere Gebiete
-
-Literatur allgemeinen, besonders
-methodischen Inhalts
--18B-
-
-** TODO X - Verfassung und Recht
-X. Verfassung und Recht
-
-ff Allgemein Oberrheinisches und darüber hinaus
-Baden
-Verfassung und öffentliches Recht
-Mittelalter
-Frühe Neuzeit
-
-Allgemeine Verfassungseinrichtungen
-seit 1803
-
-Spezielle Institutionen
-Landtag
-Finanzen und Steuern
-Standesherren
-Kaiser und Staat
-Gemeinden
-Öffentlicher Besitz
-Ländliche Rechtsverhältnisse
-Privat- und Strafrecht
-
-Bfalz
-Verfassung und öffentliches Recht
-Mittelalter
-Neuzeit
-Spezielle Institutionen
-Städtewesen
-Ländliche Rechtsverhältnisse
-Sonstige öffentliche Rechtsverhältnisse
-Privat- und Strafrecht
-
-Saar
-
-Verfassung und öffentliches Recht
-Mittelalter
-Neuzeit
-
-Spezielle Institutionen
-Städtewesen
-Ländliche Rechtsverhältnisse
-Sonstige öffentliche Rechtsverhältnisse
-
-Privat- und Strafrecht
-Els
-Wertung und öffentliches Recht
-Mittelalter
-Neuzeit
-Spezielle Institutionen
-Städtewesen
-Ländliche Rechtsverhältnisse
-Sonst.öffentliche Rechtsverhältnisse
-Privat- und Strafrecht
-Lothringen
-Verfassung und öffentliches Recht
-Mittelalter
-Neuzeit
-Spezielle Institutionen
-Städtewesen
-Ländliche Rechtsverhältnisse
-Sonst.öffentliche Rechtsverhältnisse
-Privat- und Strafrecht
-
-Luxemburg
-
-Verfassung und öffentliches Recht
-Mittelalter
-Neuzeit
-
-Spezielle Institutionen
-Städtewesen
-Ländliche Rechtsverhältnisse
-Sonst.öffentliche Rechtsverhältnisse
-
-Privat- und Strafrecht
-
-dessen (Rheinland)
-
-Verfassung und öffentliches Recht
-Mittelalter
-Neuzeit
-
-Spezielle Institutionen
-Städtewesen
-Ländliche Rechtsverhältnisse
-Sonst.öffentliche Rechtsverhältnisse
-
-Privat- und Strafrecht
-Ezanken
-
-Verfassung und Öffentliches Recht
-Mittelalter
-Neuzeit
-
-Spezielle Institutionen
-Städtewesen
-Ländliche Rechtsverhältnisse
-Sonst.öffentl. Rechtsverhältnisse
-
-Privat- und Strafrecht
-
-Hochstift Würzburg
-
-erfassung und öffentliches Recht
-
-Mittelalter
-Neuzeit
-
-Spezielle Institutionen
-Städtewesen
-Ländliche Rechtsverhältnisse
-Sonst.öffentliche Rechtsverhältnisse
-
-Privat- und Strafrecht
-
-eitere Gebiete
-sSzzamzzzezom zum
-Al gemeine Literatur zur Rechts- und
-= zzzzm zu zz zz zu zum zz go mug zsuzacomcomzmumu
-V
--21-
-
-** TODO XI - Kirchengeschichte
-XI. _Kirchengeschichte
-Allgemein OÖberrheinisches
-
-Baden
-zzz==
-Katholische Kirche (Gesamtdarstellungen)
-Mittelalter
-Neuzeit
-
-Einzelne Kirchen
-
-Evangelische Kirche (Gesamtdarstellungen-
-Neuzeit)
-Einzelne Kirchen
-
-E£alz (sScenzgehiete, „2.B. „Irier)
-Katholische Kirche
-Mittelalter
-Neuzeit
-Einzelne Kirchen
-Evangelische Kirche
-
-Einzelne Kirchen
-
-Saar
-Katholische Kirche
-Mittelalter
-Neuzeit
-Einzelne Kirchen
-Evangelische Kirche
-Einzelne Kirchen
-
-1saß
-m==
-Katholische Kirche
-Mittelalter
-Neuzeit
-Einzelne Kirchen
-Evangelische Kirche
-Einzeine Kirchen
-Lothringen (Trier)
-zszzzmm zu ämzz zz mzz zz
-Katholische Kirche
-Mittelalter
-
-Neuzeit
-Einzelne Kirchen
-Evangelische Kirche
-Einzelne Kirchen
-
-Luxssburg
-Katholische Kirche
-Mittelalter
-Neuzeit
-Einzelne Kirchen
-Evangelische Kirche
-Einzelne Kirchen
-Hessen
-
-Katholische Kirche
-Mittelalter
-Mainz
-Neuzeit
-Einzelne Kirchen
-Evangelische Kirche
-Einzelne Kirchen
-Eranken
-Katholische Kirche
-Mittelalter
-Neuzeit
-Einzelne Kirchen
-Evangelische Kirche
-Einzelne Kirchen
-
-Württemberg
-Katholische Kirche
-Mittelalter
-Neuzeit
-
-Einzelne Kirchen
-
-Evangelische Kirche
-
-Einzelne Kirchen
-Weitere Gebiste
-
-Sammelwerke
-Schweiz
-zzmen mm
-
-(Rheinland-Rheinhessen)
-szzzzzmzzzzm2 zz zz ze m 2
-ge
-
-** TODO XII - Kultur- und Bildungsgeschichte
-XII, Kultur- und Bildungsgeschichte + Führer:
-Kunst, Baudenkmäler usw. (vgl. XXII)
-
-Allgemein Oberrheinisches
-Baden, Pfalz, Saar
-
-Allgemein badische geistesgeschichtliche
-Darstellungen
-
-Allgemein pfälzische und saarländische
-geistesgeschichtliche Darstellungen
-
-Einzelne Gegenden
-Einzelne Zeiten
-Mittelalter
-
-16. und 17. Jh.: Allgemeine Geistes-
-und Literaturgeschichte
-
-Einzelne Sachgebiete und Wissenschaften
-
-18. Jh.: Allgemeine Geistes- und
-Literaturgeschichte
-
-Einzelne Sachgebiete und Wissenschaften
-
-19. Jh.s Allgemeine Geistes- und
-Literaturgeschichte
-
-Einzelne Sachgebiete und Wissenschaften
-
-20. Jh.:s Allgemeine Geistes- und
-Literaturgeschichte
-
-Einzelne Sachgebiete und Wissenschaften
-Musik, Feste, Theater (Allgemeines)
-Einzelne Kulturmittelpunkte
-Theater
-Bildende Kunst (Allgemeines)
-Einzelne Zeiten
-Mittelalter
-16. und 17. Jh.
-18. Jh.
-19. und 20. Jh.
-Einzelne Orte (alphabetisch)
-Hochschulen und Forschungsstätten (Allgemeines)
-Heidelberg
-Freiburg usw.
-Kaiserslautern (Saarpfälzisches Institut)
-Schulen
-Badisches Bildungswesen, Allgemeines
-Einzelne badische Schulen
-
-Pfälzisches Schulwesen, Allgemeines
-Einzelne pfälzische Schulen
-Schulwesen an der Saar
-Vereinswesen
-Gesundheitswesen
-Presse
-Elsaß
-
-Allgemeine geistes- und literaturgeschicht-
-
-liche Darstellungen
-Einzelne Gegenden
-
-Einzelne Zeiten
-Mittelalter
-Neuzeit
-
-Musik, Theater, Feste (Allgemeines)
-Einzelne Kulturmittelpunkte
-
-Bildende Kunst (Allgemeines)
-Einzelne Zeiten
-Mittelalter
-Neuzeit
-Einzelne Orte (alphabetisch)
-Lehr- und Forschungsstätten (Allgemeines)
-Universitäten
-Forschungsstätten
-Schulwesen im Allgemeinen
-Einzelne Schulen
-Vereinswesen
-Gesundheitswesen
-Presse
-
-Lothringen
+** DOING VIII - Sprache, Volkskunde und Bevölkerungsgeschichte
+*** 0001 - 0009 Allgemein Oberrheinisches
+*** 0010 - 0149 Volkskunde Baden
+**** 0010 - 0014 Allgemeine Volkskunde
+**** 0015 - 0149 Einzelne Gebiete und Orte
+**** 0149 - 0150 Äußerungen des Volkstums
+*** 0150 - 0299 Volkskunde Pfalz
+**** 0150 - 0169 Allgemeine Volkskunde
+**** 0170 - 0179 Einzelne Gebiete und Orte
+**** 0180 - 0189 Dorf- und Stadtbild
+**** 190 ff Volkstrachten
+**** 200 ff Einzelne Bräuche
+**** 210 ff Volkskunst
+*** VIII 300 ff Volkskunde Saar
+**** 300 ff Allgemeine Volkskunde
+**** 308/1 ff Äußerungen des Volkstums
+**** 309/1 ff. Einzelne Gebiete und Orte
+*** vIII 310 ff Volkskunde Elsaß
+**** 310 ff Allgemeine Volkskunde
+**** 318/1 ff Äußerungen des Volkstums
+**** 319/1 ff Einzelne Gebiete und Orte
+*** VIII 320 ff Volkskunde Lothringen
+**** 320 ff Allgemeine Volkskunde
+**** 328/1 ff Äußerungen des Volkstums
+**** 329/1 ff Einzelne Gebiete und Orte
+*** VIII 330 ff Volkskunde Luxemburg
+**** 330 ff Allgemeine Volkskunde
+**** 338/1 ff Äußerungen des Volkstums
+**** 339/1 ff Einzelne Gebiete und Orte
+*** VIII 340 ff Volkskunde Hessen (Rheinland)
+**** 340 ff Allgemeine Volkskunde
+**** 348/1 ff Äußerungen des Volkstums
+**** 349/1 ff Einzelne Gebiete und Orte
+*** vIII 350 ff Volkskunde Franken
+**** 350 ff Allgemeine Volkskunde
+**** 358/1 ff Äußerungen des Volkstums
+**** 359/1 ff Einzelne Gebiete und Orte
+*** Volkskunde Württemberg
+**** Allgemeine Volkskunde
+**** Äußerungen des Volkstums
+**** Einzelne Gebiete und Orte
+*** Weitere Gebiete
+*** Oberrhein (Elsaß/Baden/Schweiz)
+*** Sprache Baden
+**** Allgemeines: Wörterbücher, Namenbücher, Sprachliche Bewegungen u.a.
+**** Einzelne Gegenden und Orte
+*** Sprache Pfalz
+**** Allgemeines
+**** Einzelne Gegenden und Orte
+*** Sprache Saar
+**** Allgemeines
+**** Einzelne Gegenden und Orte
+*** Sprache Elsaß
+**** Allgemeines
+**** Einzelne Gegenden und Orte
+*** Sprache Lothringen
+**** Allgemeines
+**** Einzelne Gegenden und Orte
+*** Sprache Luxemburg
+**** Allgemeines
+**** Einzelne Gegenden und Orte
+*** Sprache Hessen (Rheinland)
+**** Allgemeines
+**** Einzelne Gegenden und Orte
+*** Sprache Franken
+**** Allgemeines
+**** Einzelne Gegenden und Orte
+*** Sprache Württemberg
+**** Allgemeines
+**** Einzelne Gegenden und Orte
+*** Sprache Weitere Gebiete:
+*** VIII 900 ff Bevölkerungsgeschichte u. Einzelfamilien
+**** 910 ff Baden
+**** 950 ff Pfalz
+**** 960 ff Elsaß
+**** 965 ff Lothringen
+**** 970 ff Luxemburg
+**** 975 ff Hessen (Rheinland)
+**** 980 ff Franken
+**** 985 ff Württemberg
+**** 990 ff Weitere Gebiete
+*** vIII 1000 ff Wanderungen
+**** VIII 1000 ff Badische + pfälzische Auswanderung
+**** vIII 1100 ff Wanderbewegungen an der Westgrenze
+***** 1110 ff im Elsaß
+***** 1150 ff in Lothringen
+***** 1200 ff in Luxemburg
+**** vIII 1250 ff Wanderbewegungen im Innern
+***** 1260 ff in Hessen (Rheinland)
+***** 1300 ff in Franken
+***** 1350 ff in Württemberg
+***** 1400 ff in weiteren Gebieten
+*** vIII 1500 ff Allgemeine, besonders methodische Literatur zur Bevölkerungsgeschichte
+*** VIII 1600 ff Flüchtlingsprobleme. Geschichte der Vertreibung und Eingliederung in die örtliche Bevölkerung.
+*** vIII 1700 ff Juden
+**** 1766 ff Allgemein
+**** 1710 ff in Baden
+**** 1726 ff in Pfalz etc.
+** DOING IX - Wirtschaft und soziale Zustände
+*** Allgemein Oberrheinisches
+*** Baden
+**** Allgemeines
+**** Einzelne Gegenden und Orte
+*** Badische Landwirtschaft
+**** Ländliche Besitzverhältnisse
+**** Domänen und Großgrundbesitz
+**** Bäuerlicher Kleinbesitz
+**** Geschichte des Bauerntums
+**** Landwirtschaftliche Betriebslehre
+**** Einzelne Zweige:
+***** Weinbau
+***** Forstwirtschaft
+*** Badische; Gewerbe und Industrie
+**** Allgemeines
+**** Einzelne Gewerbe und Gebiete
+**** Baugewerbe
+*** Badischer Handel und Verkehr
+**** Allgemeines
+**** Einzelne Zweige und Gebiete
+**** Grundstückhandel
+**** Verkehr
+**** Straßen
+**** Eisenbahnen
+**** Wasserstraßen
+*** Geld- und Bankwesen in Baden
+*** Sozialpolitik in Baden
+*** Bfalz_und_Kurtrier
+**** Allgemeines
+**** Einzelne Gegenden und Orte
+**** Landwirtschaft
+***** Wein- und Obstbau
+***** Forstwirtschaft
+**** Gewerbe und Industrie
+***** Einzelne Gewerbszweige
+***** Einzelne Gegenden und Orte
+**** Handel und Verkehr
+***** Einzelne Zweige des Handels
+***** Verkehr in der Pfalz
+**** Geldwesen und Banken
+**** Sozialpolitik
+*** Saar
+**** Allgemeines
+**** Einzelne Gegenden und Orte
+**** Saarländische Landwirtschaft
+**** Gewerbe und Industrie
+***** Einzelne Gewerbezweige
+***** Einzelne Gegenden und Orte
+**** Handel und Verkehr
+***** Einzelne Zweige des Handels
+***** Verkehr
+**** Geldwesen und Banken
+**** Sozialpolitik
+*** Elsaß
+**** Allgemeines
+**** Einzelne Gegenden und Orte
+**** Landwirtschaft
+**** Gewerbe und Industrie
+***** Einzelne Gewerbszweige
+***** Einzelne Gegenden und Orte
+**** Handel und Verkehr
+***** Einzelne Zweige des Handels
+***** Verkehr
+**** Geldwesen
+**** Sozialpolitik
+*** Lothringen
+**** Allgemeines
+**** Einzelne Gegenden und Orte
+**** Landwirtschaft
+**** Gewerbe und Industrie
+***** Einzelne Gewerbszweige
+***** Einzelne Gegenden und Orte
+**** Handel und Verkehr
+***** Einzelne Zweige des Handels
+***** Verkehr
+**** Geldwesen
+**** Sozialpolitik
+*** Luxembürg
+**** Allgemeines
+**** Einzelne Gegenden und Orte
+**** Landwirtschaft
+**** Gewerbe und Industrie
+***** Einzelne Gewerbszweige
+***** Einzelne Gegenden und Orte
+**** Handel und Verkehr
+***** Einzelne Zweige des Handels
+***** Verkehr
+**** Geldwesen
+**** Sozialpolitik
+*** Hessen (Rheinland + Kurmainz
+**** Allgemeines
+**** Einzelne Gegenden und Orte
+**** Landwirtschaft
+**** Gewerbe und Industrie
+***** Einzelne Gewerbszweige
+***** Einzelne Gegenden und Orte
+**** Handel und Verkehr
+***** Einzelne Zweige des Handels»
+***** Verkehr
+**** Geldwesen
+**** Sozialpolitik
+*** Franken
+**** Allgemeines
+**** Einzelne Gegenden und Orte
+**** Landwirtschaft
+**** Gewerbe und Industrie
+***** Einzelne Gewerbszweige
+***** Einzelne Gegenden und Orte
+**** Handel und Verkehr
+***** Einzelne Zweige des Handels
+***** Verkehr
+**** Geldwesen
+**** Sozialpolitik
+*** Württemberg
+**** Allgemeines
+**** Einzelne Gegenden und Orte
+**** Landwirtschaft
+**** Gewerbe und Industrie
+***** Einzelne Gewerbszweige
+***** Einzelne Gegenden und Orte
+**** Handel und Verkehr
+***** Einzelne Zweige des Handels
+***** Verkehr
+**** Geldwesen
+**** Sozialpolitik
+*** Weitere Gebiete
+*** Literatur allgemeinen, besonders methodischen Inhalts
+** DOING X - Verfassung und Recht
+*** Allgemein Oberrheinisches und darüber hinaus
+*** Baden
+**** Verfassung und öffentliches Recht
+***** Mittelalter
+***** Frühe Neuzeit
+***** Allgemeine Verfassungseinrichtungen seit 1803
+**** Spezielle Institutionen
+***** Landtag
+***** Finanzen und Steuern
+***** Standesherren
+***** Kaiser und Staat
+***** Gemeinden
+***** Öffentlicher Besitz
+***** Ländliche Rechtsverhältnisse
+**** Privat- und Strafrecht
+*** Pfalz
+**** Verfassung und öffentliches Recht
+***** Mittelalter
+***** Neuzeit
+**** Spezielle Institutionen
+***** Städtewesen
+***** Ländliche Rechtsverhältnisse
+***** Sonstige öffentliche Rechtsverhältnisse
+**** Privat- und Strafrecht
+*** Saar
+**** Verfassung und öffentliches Recht
+***** Mittelalter
+***** Neuzeit
+**** Spezielle Institutionen
+***** Städtewesen
+***** Ländliche Rechtsverhältnisse
+***** Sonstige öffentliche Rechtsverhältnisse
+**** Privat- und Strafrecht
+*** Els
+**** Verfassung und öffentliches Recht
+***** Mittelalter
+***** Neuzeit
+**** Spezielle Institutionen
+***** Städtewesen
+***** Ländliche Rechtsverhältnisse
+***** Sonstige öffentliche Rechtsverhältnisse
+**** Privat- und Strafrecht
+*** Lothringen
+**** Verfassung und öffentliches Recht
+***** Mittelalter
+***** Neuzeit
+**** Spezielle Institutionen
+***** Städtewesen
+***** Ländliche Rechtsverhältnisse
+***** Sonstige öffentliche Rechtsverhältnisse
+**** Privat- und Strafrecht
+*** Luxemburg
+**** Verfassung und öffentliches Recht
+***** Mittelalter
+***** Neuzeit
+**** Spezielle Institutionen
+***** Städtewesen
+***** Ländliche Rechtsverhältnisse
+***** Sonstige öffentliche Rechtsverhältnisse
+**** Privat- und Strafrecht
+*** dessen (Rheinland)
+**** Verfassung und öffentliches Recht
+***** Mittelalter
+***** Neuzeit
+**** Spezielle Institutionen
+***** Städtewesen
+***** Ländliche Rechtsverhältnisse
+***** Sonstige öffentliche Rechtsverhältnisse
+**** Privat- und Strafrecht
+*** Ezanken
+**** Verfassung und öffentliches Recht
+***** Mittelalter
+***** Neuzeit
+**** Spezielle Institutionen
+***** Städtewesen
+***** Ländliche Rechtsverhältnisse
+***** Sonstige öffentliche Rechtsverhältnisse
+**** Privat- und Strafrecht
+**** Hochstift Würzburg
+*** Württemberg
+**** Verfassung und öffentliches Recht
+***** Mittelalter
+***** Neuzeit
+**** Spezielle Institutionen
+***** Städtewesen
+***** Ländliche Rechtsverhältnisse
+***** Sonstige öffentliche Rechtsverhältnisse
+**** Privat- und Strafrecht
+*** Weitere Gebiete
+*** Allgemeine Literatur zur Rechts- und Verfassungsgeschichte
+** DOING XI - Kirchengeschichte
+*** Allgemein OÖberrheinisches
+*** Baden
+**** Katholische Kirche (Gesamtdarstellungen)
+***** Mittelalter
+***** Neuzeit
+***** Einzelne Kirchen
+**** Evangelische Kirche (Gesamtdarstellungen Neuzeit)
+***** Einzelne Kirchen
+*** E£alz (sScenzgehiete, „2.B. „Irier)
+**** Katholische Kirche
+***** Mittelalter
+***** Neuzeit
+***** Einzelne Kirchen
+**** Evangelische Kirche
+***** Einzelne Kirchen
+*** Saar
+**** Katholische Kirche (Gesamtdarstellungen)
+***** Mittelalter
+***** Neuzeit
+***** Einzelne Kirchen
+**** Evangelische Kirche (Gesamtdarstellungen Neuzeit)
+***** Einzelne Kirchen
+*** 1saß
+**** Katholische Kirche (Gesamtdarstellungen)
+***** Mittelalter
+***** Neuzeit
+***** Einzelne Kirchen
+**** Evangelische Kirche (Gesamtdarstellungen Neuzeit)
+***** Einzelne Kirchen
+*** Lothringen (Trier)
+**** Katholische Kirche (Gesamtdarstellungen)
+***** Mittelalter
+***** Neuzeit
+***** Einzelne Kirchen
+**** Evangelische Kirche (Gesamtdarstellungen Neuzeit)
+***** Einzelne Kirchen
+*** Luxssburg
+**** Katholische Kirche (Gesamtdarstellungen)
+***** Mittelalter
+***** Neuzeit
+***** Einzelne Kirchen
+**** Evangelische Kirche (Gesamtdarstellungen Neuzeit)
+***** Einzelne Kirchen
+*** Hessen
+**** Katholische Kirche (Gesamtdarstellungen)
+***** Mittelalter
+***** Neuzeit
+***** Einzelne Kirchen
+**** Evangelische Kirche (Gesamtdarstellungen Neuzeit)
+***** Einzelne Kirchen
+*** Eranken
+**** Katholische Kirche (Gesamtdarstellungen)
+***** Mittelalter
+***** Neuzeit
+***** Einzelne Kirchen
+**** Evangelische Kirche (Gesamtdarstellungen Neuzeit)
+***** Einzelne Kirchen
+*** Württemberg
+**** Katholische Kirche (Gesamtdarstellungen)
+***** Mittelalter
+***** Neuzeit
+***** Einzelne Kirchen
+**** Evangelische Kirche (Gesamtdarstellungen Neuzeit)
+***** Einzelne Kirchen
+*** Weitere Gebiste
+*** Bayern
+*** Allgemeine Literatur zur Kirchengeschichte
+**** Sammelwerke
+*** Schweiz
+** DOING XII - Kultur- und Bildungsgeschichte
+*** Allgemein Oberrheinisches
+*** Baden, Pfalz, Saar
+**** Allgemein badische geistesgeschichtliche Darstellungen
+**** Allgemein pfälzische und saarländische geistesgeschichtliche Darstellungen
+***** Einzelne Gegenden
+***** Einzelne Zeiten
+****** Mittelalter
+****** 16. und 17. Jh.: Allgemeine Geistes und Literaturgeschichte
+******* Einzelne Sachgebiete und Wissenschaften
+****** 18. Jh.: Allgemeine Geistes- und Literaturgeschichte
+******* Einzelne Sachgebiete und Wissenschaften
+****** 19. Jh.s Allgemeine Geistes- und Literaturgeschichte
+******* Einzelne Sachgebiete und Wissenschaften
+****** 20. Jh.:s Allgemeine Geistes- und Literaturgeschichte
+******* Einzelne Sachgebiete und Wissenschaften
+**** Musik, Feste, Theater (Allgemeines)
+***** Einzelne Kulturmittelpunkte
+***** Theater
+**** Bildende Kunst (Allgemeines)
+***** Einzelne Zeiten
+****** Mittelalter
+****** 16. und 17. Jh.
+****** 18. Jh.
+****** 19. und 20. Jh.
+***** Einzelne Orte (alphabetisch)
+**** Hochschulen und Forschungsstätten (Allgemeines)
+***** Heidelberg
+***** Freiburg usw.
+***** Kaiserslautern (Saarpfälzisches Institut)
+**** Schulen
+***** Badisches Bildungswesen, Allgemeines
+****** Einzelne badische Schulen
+***** Pfälzisches Schulwesen, Allgemeines
+****** Einzelne pfälzische Schulen
+***** Schulwesen an der Saar
+**** Vereinswesen
+**** Gesundheitswesen
+**** Presse
+*** Elsaß
+**** Allgemeine geistes- und literaturgeschichtliche Darstellungen
+***** Einzelne Gegenden
+***** Einzelne Zeiten
+****** Mittelalter
+****** Neuzeit
+**** Musik, Theater, Feste (Allgemeines)
+***** Einzelne Kulturmittelpunkte
+**** Bildende Kunst (Allgemeines)
+***** Einzelne Zeiten
+****** Mittelalter
+****** Neuzeit
+***** Einzelne Orte (alphabetisch)
+**** Lehr- und Forschungsstätten (Allgemeines)
+***** Universitäten
+***** Forschungsstätten
+***** Schulwesen im Allgemeinen
+****** Einzelne Schulen
+**** Vereinswesen
+**** Gesundheitswesen
+**** Presse
+*** Lothringen
 (Aufbau wie Elsaß)
-
-Luxemburg
+*** Luxemburg
 (Aufbau wie Elsaß)
-Hessen (Rheinland)
-3 = zz zum zu
-
-Allgemeine geistes- und literaturgeschicht-
-
-liche Darstellungen
-Einzelne Gegenden
-
-Einzelne Zeiten
-Mittelalter
-Neuzeit
-Musik, Theater, Feste (Allgemeines)
-Einzelne Kulturmittelpunkte
-
-Bildende Kunst (Allgemeines)
-Einzelne Zeiten
-Mittelalter
-Neuzeit
-Einzelne Orte (alphabetisch)
-Lehr- und Forschungsstätten (Allgemeines)
-Universitäten
-Forschungsstätten
-Schulwesen im Allgemeinen
-Einzelne Schulen
-Vereinswesen
-Gesundheitswesen
-Presse
-
-Franken
-z=
-
-Allgemeine geistes- und literaturgeschicht-
-
-liche Darstellungen
-Einzelne Gegenden
-
-Einzelne Zeiten
-Mittelalter
-Neuzeit
-
-Musik, Theater, Feste (Allgemeines)
-Einzelne Kulturmittelpunkte
-
-Bildende Kunst (Allgemeines)
-Einzelne Zeiten
-Mittelalter
-Neuzeit
-Einzelne Orte (alphabetisch)
-Lehr- und Forschungsstätten (Allgemeines)
-Universitäten
-Forschungsstätten
-Schulwesen im Allgemeinen
-Einzelne Schulen
-Vereinswesen
-Gesundheitwesen
-
-Presse
-XII 7000 £f Württemberg
-
-XII 7000 ff Allgemeine geistes- und literaturgeschicht-
-liche Darstellungen
-
-7020 ff Einzelne Gegenden
-7100 ff Einzelne Zeiten
-7100 ff Mittelalter
-7150 ff Neuzeit
-XII 7200 ff Musik, Theater, Feste (Allgemeines)
-7240 ff Einzelne Kulturmittelpunkte
-xII 7300 ff Bildende Kunst (Allgemeines)
-7320 ff Einzelne Zeiten
-7320 ff Mittelalter
-7400 ff Neuzeit
-7500 ff Einzelne Orte (alphabetisch)
-XII. 7600 ff Lehr- und Forschungsstätten (Allgemeines)
-7620 ff Universitäten
-7640 ff Forschungsstätten
-7650 ff Schulwesen im Allgemeinen
-7670 ff Einzelne Schulen
-
-XII 7700 ff Vereinswesen
-XII 7800 ff Gesundheitswesen
-XII 7900 ff Presse
-
-XIT 9000 ff Weitere Gebiete und Allgemeings
-9950 ff Historiographie
--2I-
-
-** TODO XIII - Literaturdenkmäler (Texte)
-XIII. Literaturdenkmäler (Texte)
-
-Denkmäler nach Verfassern (alphabetisch)
-
-(die Signatur enthält jeweils die drei
-ersten Buchstaben des Verfassernamens)
-
-Sammlungen von Literaturdenkmälern
-
-Sammlungen nach landschaftlichen
-Gesichtspunkten
-
-Baden
-
-Pfalz
-
-Saar
-
-Elsaß
-
-Lothringen
-
-Luxemburg
-
-Hessen (Rheinland)
-
-Franken
-
-Württemberg
-
-Weitere Gebiete
-Sammlungen nach anderen Gesichtspunkten
-
-Sammlungen von Inschriften und ähnlichem
-
-Sammlungen nach landschaftlichen
-Gesichtspunkten
-
-Baden
-
-Pfalz
-
-Saar
-
-Elsaß
-
-Lothringen
-Luxemburg
-
-Hessen (Rheinland)
-Franken
-Württemberg
-Weitere Gebiete
-
-Sammlungen nach anderen Gesichtspunkten
-
-** TODO XX - Karten
-XX. Karten
-
-xx 1ı ff Karten größerer Gebiete
-
-xX 50 ££f Kartensammlungem
-
-xXX 100 ff Landschaften
-
-100 ff Baden
-
-200 ff Pfalz
-
-300 ff Saar
-
-400 ff Elsaß
-
-500 ff Lothringen
-
-600 ff Luxemburg
-
-700 ff Hessen ((Rheinland)
-800 ff Franken
-
-20 ff Württemberg
-1000 ff Weitere Gebiete
-
-x aaa ff Orte ((alphabetisch)
-
-** TODO XXI - Wandkarten
-XXI. Wandkarten
-Karten größerer Gebiete
-
-Kartensammlungen
-
-Landschaften
-Baden
-Pfalz
-Saar
-Elsaß
-Lothringen
-Luxemburg
-Hessen (Rheinland)
-Franken
-Württemberg
-Weitere Gebiete
-
-Orte (alphabetisch)
-
-** TODO XXII - Reisebücher
-XXII. Reisebücher
-
-Allgemeines
-
-Sammelwerke
-
-Landschaften
-Baden
-Pfalz
-Saar
-Elsaß
-Lothringen
-Luxemburg
-Hessen (Rheinland)
-Franken
-Württemberg
-Weitere Gebiete
-
-Orte (alphabetisch)
-
+*** Hessen (Rheinland)
+**** Allgemeine geistes- und literaturgeschichtliche Darstellungen
+***** Einzelne Gegenden
+***** Einzelne Zeiten
+****** Mittelalter
+****** Neuzeit
+**** Musik, Theater, Feste (Allgemeines)
+***** Einzelne Kulturmittelpunkte
+**** Bildende Kunst (Allgemeines)
+***** Einzelne Zeiten
+****** Mittelalter
+****** Neuzeit
+***** Einzelne Orte (alphabetisch)
+**** Lehr- und Forschungsstätten (Allgemeines)
+***** Universitäten
+***** Forschungsstätten
+***** Schulwesen im Allgemeinen
+****** Einzelne Schulen
+**** Vereinswesen
+**** Gesundheitswesen
+**** Presse
+*** Franken
+**** Allgemeine geistes- und literaturgeschichtliche Darstellungen
+***** Einzelne Gegenden
+***** Einzelne Zeiten
+****** Mittelalter
+****** Neuzeit
+**** Musik, Theater, Feste (Allgemeines)
+***** Einzelne Kulturmittelpunkte
+**** Bildende Kunst (Allgemeines)
+***** Einzelne Zeiten
+****** Mittelalter
+****** Neuzeit
+***** Einzelne Orte (alphabetisch)
+**** Lehr- und Forschungsstätten (Allgemeines)
+***** Universitäten
+***** Forschungsstätten
+***** Schulwesen im Allgemeinen
+****** Einzelne Schulen
+**** Vereinswesen
+**** Gesundheitwesen
+**** Presse
+*** XII 7000 £f Württemberg
+**** XII 7000 ff Allgemeine geistes- und literaturgeschichtliche Darstellungen
+***** 7020 ff Einzelne Gegenden
+***** 7100 ff Einzelne Zeiten
+****** 7100 ff Mittelalter
+****** 7150 ff Neuzeit
+**** XII 7200 ff Musik, Theater, Feste (Allgemeines)
+***** 7240 ff Einzelne Kulturmittelpunkte
+**** xII 7300 ff Bildende Kunst (Allgemeines)
+***** 7320 ff Einzelne Zeiten
+****** 7320 ff Mittelalter
+****** 7400 ff Neuzeit
+***** 7500 ff Einzelne Orte (alphabetisch)
+**** XII. 7600 ff Lehr- und Forschungsstätten (Allgemeines)
+***** 7620 ff Universitäten
+***** 7640 ff Forschungsstätten
+***** 7650 ff Schulwesen im Allgemeinen
+****** 7670 ff Einzelne Schulen
+**** XII 7700 ff Vereinswesen
+**** XII 7800 ff Gesundheitswesen
+**** XII 7900 ff Presse
+*** XIT 9000 ff Weitere Gebiete und Allgemeings
+**** 9950 ff Historiographie
+** DOING XIII - Literaturdenkmäler (Texte)
+*** Denkmäler nach Verfassern (alphabetisch)
+(die Signatur enthält jeweils die drei ersten Buchstaben des Verfassernamens)
+*** Sammlungen von Literaturdenkmälern
+**** Sammlungen nach landschaftlichen Gesichtspunkten
+***** Baden
+***** Pfalz
+***** Saar
+***** Elsaß
+***** Lothringen
+***** Luxemburg
+***** Hessen (Rheinland)
+***** Franken
+***** Württemberg
+***** Weitere Gebiete
+**** Sammlungen nach anderen Gesichtspunkten
+*** Sammlungen von Inschriften und ähnlichem
+**** Sammlungen nach landschaftlichen Gesichtspunkten
+***** Baden
+***** Pfalz
+***** Saar
+***** Elsaß
+***** Lothringen
+***** Luxemburg
+***** Hessen (Rheinland)
+***** Franken
+***** Württemberg
+***** Weitere Gebiete
+*** Sammlungen nach anderen Gesichtspunkten
+** DOING XX - Karten
+*** xx 1ı ff Karten größerer Gebiete
+*** xX 50 ££f Kartensammlungem
+*** xXX 100 ff Landschaften
+**** 100 ff Baden
+**** 200 ff Pfalz
+**** 300 ff Saar
+**** 400 ff Elsaß
+**** 500 ff Lothringen
+**** 600 ff Luxemburg
+**** 700 ff Hessen ((Rheinland)
+**** 800 ff Franken
+**** 20 ff Württemberg
+**** 1000 ff Weitere Gebiete
+*** x aaa ff Orte ((alphabetisch)
+** DOING XXI - Wandkarten
+*** Karten größerer Gebiete
+*** Kartensammlungen
+*** Landschaften
+**** Baden
+**** Pfalz
+**** Saar
+**** Elsaß
+**** Lothringen
+**** Luxemburg
+**** Hessen (Rheinland)
+**** Franken
+**** Württemberg
+**** Weitere Gebiete
+*** Orte (alphabetisch)
+** DOING XXII - Reisebücher
+*** 0001 - 0049 Allgemeines
+*** 0050 - 0099 Sammelwerke
+*** 0100 - 10000 Landschaften
+**** 0100 - 0199 Baden
+**** 0200 - 0299 Pfalz
+**** 0300 - 0399 Saar
+**** 0400 - 0499 Elsaß
+**** 0500 - 0599 Lothringen
+**** 0600 - 0699 Luxemburg
+**** 0700 - 0799 Hessen (Rheinland)
+**** 0800 - 0899 Franken
+**** 0900 - 0999 Württemberg
+**** 1000 - xxxx Weitere Gebiete
+*** xxxx - xxxx Orte (alphabetisch)
 \pagebreak
 * Lateinische Philologie des Mittelalters und der Neuzeit
-** TODO A - Texte
+** DOING A - Texte
 *** I Sammlungen
 **** 0001 - 0599 Theologische Texte
 ***** 0001 - 0019 biblische Bücher
@@ -4941,7 +4663,7 @@ CLOSED [2022-08-01 Mon 20:40]
 ***** 30230 1800 n.Chr.
 ***** 30240 1900 n.Chr.
 ***** 30250 2000 n.Chr.
-**** III Analekten und Anthologien
+*** III Analekten und Anthologien
 **** 1-499 Analekten (geordnet nach Erscheinungsjahr 1900 = 100, ab 1900 zwei Nummern pro Jahr)
 **** 500-999 Anthologien (geordnet wie Analekten, 1900 = 600)
 ** B - Lexikographie und Sprachwissenschaft
@@ -5017,7 +4739,7 @@ CLOSED [2022-08-01 Mon 20:40]
 *** V Sprache einzelner Autoren
 ~Signaturen wie in A II~
 
-** TODO C - Paläographie und Handschriftenkunde
+** DOING C - Paläographie und Handschriftenkunde
 *** I Allgemeine Paläographie
 **** 1- 50 Schrift (allgemein)
 **** 51-  62 griechische Paläographie
@@ -5062,332 +4784,322 @@ CLOSED [2022-08-01 Mon 20:40]
 *** VI Inkunabelkunde
 **** 1- 49 Allgemeines
 **** 50- 99 regionale Sammlungen
-**** 100-  lokale Sammlung (alphabetisch geordnet, 20
-Nummern pro Buchstabe)
+**** 100-  lokale Sammlung (alphabetisch geordnet, 20 Nummern pro Buchstabe)
 *** VII Reproduktionen autornaher Überlieferung (Signaturen wie in A II)
-
-** TODO D - Historia Litterarum
+** DOING D - Historia Litterarum
 *** I Literaturgeschichte allgemein
 **** 1- 149 allgemeine Darstellungen
 **** 150- 299 Einzelprobleme der Literaturgeschichte
 **** 300- 499 Engere Zeiträume
-**** 300- 319 Klassische Antike (vor 250 n.Chr.)
-**** 320- 369 Spätantike (250-600 n.Chr.)
-**** 370- 429 Frühmittelalter (600-900 n.Chr.)
-**** 430- 459 Hochmittelalter (900-1250 n.Chr.)
-**** 460- 499 Spätmittelalter (1250-1500 n.Chr.)
+***** 300- 319 Klassische Antike (vor 250 n.Chr.)
+***** 320- 369 Spätantike (250-600 n.Chr.)
+***** 370- 429 Frühmittelalter (600-900 n.Chr.)
+***** 430- 459 Hochmittelalter (900-1250 n.Chr.)
+***** 460- 499 Spätmittelalter (1250-1500 n.Chr.)
 **** 500- 799 Einzelne Länder/Regionen
-**** 500- 550 Italien
-**** 800- 999
-**** 1000-1199
-**** 551- 569 Africa
-**** 570- 599 Iberische Halbinsel
-**** 600- 649 Gallia
-**** 650- 699 britische Inseln
-**** 700- 749 Deutschland
-**** 750- 759 Ungarn
-**** 760- 769 Böhmen
-**** 770- 779 Polen
-**** 780- 789 Skandinavien
-**** 790- 799 Sonstige
+***** 500- 550 Italien
+***** 551- 569 Africa
+***** 570- 599 Iberische Halbinsel
+***** 600- 649 Gallia
+***** 650- 699 britische Inseln
+***** 700- 749 Deutschland
+***** 750- 759 Ungarn
+***** 760- 769 Böhmen
+***** 770- 779 Polen
+***** 780- 789 Skandinavien
+***** 790- 799 Sonstige
 **** Stoff- und Motivgeschichte (geordnet nach Chrono- logie der Stoffe und Motive)
 **** Nachleben antiker Autoren (geordnet nach Chronolo- gie der Autoren)
-**** 1000-1014 Allgemeines
-**** 1015-1099 lateinische Autoren
-**** 1100-1199 griechische Autoren
+***** 1000-1014 Allgemeines
+***** 1015-1099 lateinische Autoren
+***** 1100-1199 griechische Autoren
 **** 1200-1599 außerlateinische Literatur
-**** 1200-1285 gr. und byzan. Literatur
-**** 1200-1209 klass. gr. Literatur
-**** 1210-1219 urchristl. Literatur
-**** 1220-1249 patristische Literatur
-**** 1250-1269 Überlieferung der patrist-
-**** ischen Literatur
-**** 1270-1285 byzan. Literatur
+***** 1200-1285 gr. und byzan. Literatur
+****** 1200-1209 klass. gr. Literatur
+****** 1210-1219 urchristl. Literatur
+****** 1220-1249 patristische Literatur
+****** 1250-1269 Überlieferung der patristischen Literatur
+****** 1270-1285 byzan. Literatur
 **** 1286-1299 jüdische und arabische Literatur
 **** 1300-1399 germanische Literatur
-**** 1300-1319 Allgemeines
-**** 1320-1339 England
-**** 1340-1369 Deutschland
-**** 1370-1389 Skandinavien
-**** 1390-1399 Sonstige
+***** 1300-1319 Allgemeines
+***** 1320-1339 England
+***** 1340-1369 Deutschland
+***** 1370-1389 Skandinavien
+***** 1390-1399 Sonstige
 **** 1400-1499 keltische Literatur
 **** 1500-1799 romanische Literatur
-**** 1500-1549 Allgemeines
-**** 1550-1599 italienische Literatur
-**** 1600-1649 iberoromanische Literatur
-**** 1650-1699 provençalische und franz.
-**** Literatur
-**** 1700-1799 Sonstige
+***** 1500-1549 Allgemeines
+***** 1550-1599 italienische Literatur
+***** 1600-1649 iberoromanische Literatur
+***** 1650-1699 provençalische und franz.
+***** Literatur
+***** 1700-1799 Sonstige
 *** II Geschichte der Gattungen
 **** 1- 99 Allgemeine Form der Gattungsgeschichte
-**** 1-  49 äußere Probleme
-**** 50-  99 innere Probleme
+***** 1-  49 äußere Probleme
+***** 50-  99 innere Probleme
 **** 100- 599 Versdichtung
-**** 100- 149 Allgemeines
-**** 150- 449 lyrische Gattungen
-**** 150- 159 Allgemeines
-**** 160- 179 Epigramm
-**** 180- 189 Rätsel
-**** 190- 219 Epitaph
-**** 220- 229 Merkvers
-**** 230- 259 Preislied
-**** 260- 269 Städtelob
-**** 270- 289 Satire
-**** 290- 299 Cantica
-**** 300- 319 Psalmen
-**** 320- 329 Preces
-**** 330- 349 Hymnus
-**** 350- 359 Sequenz
-**** 360- 369 Tropen und Musik
-**** 370- 399 Minnesang und Vagantendichtung
-**** 400- 409 Carmen figuratum
-**** 410- 419 Streitgedicht
-**** 420- 429 Ars Moriendi
-**** 430- 439
-**** 440- 449 Emblematik
-**** 450- 499 epische Gattungen
-**** 450- 459 Allgemeines
-**** 460- 469 Heiligenlob und Bibelepik
-**** 470- 479 Carmen historicum
-**** 480- 489 Ekphrasis
-**** 490- 499 Makkaronische Dichtung
-**** 500- 595 Drama und Schauspiel
-**** 596- 599 Totentanz
+***** 100- 149 Allgemeines
+***** 150- 449 lyrische Gattungen
+****** 150- 159 Allgemeines
+****** 160- 179 Epigramm
+****** 180- 189 Rätsel
+****** 190- 219 Epitaph
+****** 220- 229 Merkvers
+****** 230- 259 Preislied
+****** 260- 269 Städtelob
+****** 270- 289 Satire
+****** 290- 299 Cantica
+****** 300- 319 Psalmen
+****** 320- 329 Preces
+****** 330- 349 Hymnus
+****** 350- 359 Sequenz
+****** 360- 369 Tropen und Musik
+****** 370- 399 Minnesang und Vagantendichtung
+****** 400- 409 Carmen figuratum
+****** 410- 419 Streitgedicht
+****** 420- 429 Ars Moriendi
+****** 430- 439
+****** 440- 449 Emblematik
+***** 450- 499 epische Gattungen
+****** 450- 459 Allgemeines
+****** 460- 469 Heiligenlob und Bibelepik
+****** 470- 479 Carmen historicum
+****** 480- 489 Ekphrasis
+****** 490- 499 Makkaronische Dichtung
+***** 500- 595 Drama und Schauspiel
+***** 596- 599 Totentanz
 **** 600-1699 Prosa
-**** 600- 699 Allgemeines
-**** 700-1699 Einzelne Gattungen
-**** 700- 710 Enzyklopädie
-**** 711- 719 Sentenzen und Sprichwörter
-**** 720- 739 Annalen
-**** 740- 769 Historiographie und Chronistik
-**** 770- 789 Biographie
-**** 790- 819 Brief
-**** 820- 849 Roman
-
-*** III Geschichte
+***** 600- 699 Allgemeines
+***** 700-1699 Einzelne Gattungen
+****** 700- 710 Enzyklopädie
+****** 711- 719 Sentenzen und Sprichwörter
+****** 720- 739 Annalen
+****** 740- 769 Historiographie und Chronistik
+****** 770- 789 Biographie
+****** 790- 819 Brief
+****** 820- 849 Roman
+****** 850- 879 Bibelkommentar
+****** 880- 889 liturgische Prosa
+****** 890- 909 Homilie
+****** 910- 959 Consolatio
+****** 960- 979 Commonitorium
+****** 980- 990 Exemplum
+****** 991- 999 Bestiarium
+****** 1000-1029 Hagiographie
+****** 1030-1049 Martyrologium
+****** 1050-1059 Benediktion
+****** 1060-1069 Vision
+****** 1070-1119 Regeln und Consuetudines
+****** 1120-1199 Recht
+****** 1200-1259 Urkunden und Kapitularien
+****** 1260-1269 Fürstenspiegel
+****** 1270-1379 blank
+****** 1380-1429 Ars praedicandi und Predigt
+****** 1430-1449 Quaestiones und Quodlibets
+****** 1450-1459 Kasuistik
+****** 1460-1479 Allegorie
+****** 1480-1499 Dialog
+****** 1500-1549 Fazetie
+****** 1550-1599 Utopie
+****** 1600-1649 Falkenbuch
+****** 1650-1699 Übersetzungen
+****** 1700-1749 Invektiven
+*** III Geschichte der literarischen Kunstformen
 **** 1- 49 Allgemeines
-**** 850- 879 Bibelkommentar
-**** 880- 889 liturgische Prosa
-**** 890- 909 Homilie
-**** 910- 959 Consolatio
-**** 960- 979 Commonitorium
-**** 980- 990 Exemplum
-**** 991- 999 Bestiarium
-**** 1000-1029 Hagiographie
-**** 1030-1049 Martyrologium
-**** 1050-1059 Benediktion
-**** 1060-1069 Vision
-**** 1070-1119 Regeln und Consuetudines
-**** 1120-1199 Recht
-**** 1200-1259 Urkunden und Kapitularien
-**** 1260-1269 Fürstenspiegel
-**** 1270-1379 blank
-**** 1380-1429 Ars praedicandi und Predigt
-**** 1430-1449 Quaestiones und Quodlibets
-**** 1450-1459 Kasuistik
-**** 1460-1479 Allegorie
-**** 1480-1499 Dialog
-**** 1500-1549 Fazetie
-**** 1550-1599 Utopie
-**** 1600-1649 Falkenbuch
-**** 1650-1699 Übersetzungen
-**** 1700-1749 Invektiven
-der literarischen Kunstformen
-50- 299 Formen der Versdichtung
-50-  59 Allgemeines
-60- 119 Metrik
-120- 199 Rhythmik
-200- 299 Reim und Verwandtes
-300- 499 Formen der Prosa
-300- 329 Allgemeines
-330- 399 Cursus
-400- 449 Homoioteleuton
-450- 499
-500- 549 Poetik
-550- 599 Hermeneutik
-600-     Stillfiguren
+**** 50- 299 Formen der Versdichtung
+***** 50-  59 Allgemeines
+***** 60- 119 Metrik
+***** 120- 199 Rhythmik
+***** 200- 299 Reim und Verwandtes
+**** 300- 499 Formen der Prosa
+***** 300- 329 Allgemeines
+***** 330- 399 Cursus
+***** 400- 449 Homoioteleuton
+***** 450- 499
+**** 500- 549 Poetik
+**** 550- 599 Hermeneutik
+**** 600-     Stillfiguren
 *** IV Einzelne Autoren und einzelne Werke (Signaturen wie in A II)
-*** V Geschichte der Institutionen 1- 199 Schulen
-**** 1-  49 Allgemeines
-**** 50-  69 einzelne Zeiträume
-**** 70-  99 regionale Schulgeschichte
-**** 100- 199 Geschichte einzelner Schulen (geordnet nach Alter der Schulen)
+*** V Geschichte der Institutionen
+**** 1- 199 Schulen
+***** 1-  49 Allgemeines
+***** 50-  69 einzelne Zeiträume
+***** 70-  99 regionale Schulgeschichte
+***** 100- 199 Geschichte einzelner Schulen (geordnet nach Alter der Schulen)
 **** 200- 999 Universitäten
-**** 200- 249 Allgemeines
-**** 250- 999
-einzelne Universitäten (geordnet nach Alter der Universitäten; Paris 260ff., Hei- delberg 430ff.)
-1000-1199 Kanzleien
-Italien
-Iberische Halbinsel
-Gallien
-Irland
-England
-Niederlande
-Deutschland
-Südosteuropa
-Böhmen
-Polen
-Skandinavien
-
-** TODO E - Kirchen-, Philosophie- und Wissenschaftsgeschichte
+***** 200- 249 Allgemeines
+***** 250- 999 einzelne Universitäten (geordnet nach Alter der Universitäten; Paris 260ff., Hei- delberg 430ff.)
+**** 1000-1199 Kanzleien
+***** Italien
+***** Iberische Halbinsel
+***** Gallien
+***** Irland
+***** England
+***** Niederlande
+***** Deutschland
+***** Südosteuropa
+***** Böhmen
+***** Polen
+***** Skandinavien
+** DOING E - Kirchen-, Philosophie- und Wissenschaftsgeschichte
 *** I Kirchengeschichte und Geschichte der Theologie 1- 99 Allgemeine Kirchengeschichte
 **** 100- 199 Regionale Kirchengeschichte (alphabetisch geordnet nach Bistümern, Abteien, Herrschaften etc.)
 **** 200- 399 Hagiographie
 **** 200- 249 Allgemeines
-**** 250- 399 Einzelne Heilige (alphabetisch geordnet) 400- 679: Mönchstum und Orden
-**** 400- 499 Allgemeines
-**** 500- 679 Regionale Ordensgeschichte
-Italien
-Iberische Halbinsel
-Gallien
-Irland
-England
-Niederlande
-Deutschland
-Südosteuropa
-Böhmen
-Polen
-Skandinavien
+**** 250- 399 Einzelne Heilige (alphabetisch geordnet)
+**** 400- 679: Mönchstum und Orden
+***** 400- 499 Allgemeines
+***** 500- 679 Regionale Ordensgeschichte
+****** Italien
+****** Iberische Halbinsel
+****** Gallien
+****** Irland
+****** England
+****** Niederlande
+****** Deutschland
+****** Südosteuropa
+****** Böhmen
+****** Polen
+****** Skandinavien
 **** 680- 699 Judaica, Häresien, Sekten, Laienfrömimigkeit
 **** 700- 899 Liturgiegeschichte
-**** 700- 779 Allgemeines
-**** 780- 899 Regionale und lokale Liturgiege-
-schichte
-Italien
-Iberische Halbinsel
-Gallien
-Irland
-England
-Niederlande
-Deutschland
-Südosteuropa
-Böhmen
-Polen
-Skandinavien
+***** 700- 779 Allgemeines
+***** 780- 899 Regionale und lokale Liturgiegeschichte
+****** Italien
+****** Iberische Halbinsel
+****** Gallien
+****** Irland
+****** England
+****** Niederlande
+****** Deutschland
+****** Südosteuropa
+****** Böhmen
+****** Polen
+****** Skandinavien
 **** 900-1099 Geschichte des Bibeltextes und der Exegese
-**** 900- 939 Allgemeines
-**** 940- 979 Geschichte des Bibeltextes 980-1099: Einzelne biblische Bücher (geordnet
-**** nach Reihenfolge der Vulgata, Psalmen 1012;
-**** Hoheslied 1024, Hebräerbrief 1060) 1100-1299 Dogmengeschichte
+***** 900- 939 Allgemeines
+***** 940- 979 Geschichte des Bibeltextes
+***** 980-1099: Einzelne biblische Bücher (geordnet nach Reihenfolge der Vulgata, Psalmen 1012; Hoheslied 1024, Hebräerbrief 1060)
+**** 1100-1299 Dogmengeschichte
 **** 1300-     Einzelne theologische Probleme
-
 *** II Geschichte der Philosophie
 **** 1- 19 Allgemeine Philosophiegeschichte
 **** 20-  99 christliche Philosophie des Mittelalters
 **** 100- 299 einzelne Perioden
-**** 100- 109 bis I. Jhd. n.Chr.
-**** 110- 119 II.    Jhd.
-**** 120- 129 III.   Jhd.
-**** 130- 139 IV.    Jhd.
-**** 140- 149 V.     Jhd.
-**** 150- 159 VI.    Jhd.
-**** 160- 169 VII.   Jhd.
-**** 170- 179 VIII:  Jhd.
-**** 180- 189 IX.    Jhd.
-**** 190- 199 X.     Jhd.
-**** 200- 219 XI.    Jhd.
-**** 220- 239 XII.   Jhd.
-**** 240- 259 XIII.  Jhd.
-**** 260- 289 XIV.   Jhd.
-**** 290- 299 XV.    Jhd.
+***** 100- 109 bis I. Jhd. n.Chr.
+***** 110- 119 II.    Jhd.
+***** 120- 129 III.   Jhd.
+***** 130- 139 IV.    Jhd.
+***** 140- 149 V.     Jhd.
+***** 150- 159 VI.    Jhd.
+***** 160- 169 VII.   Jhd.
+***** 170- 179 VIII:  Jhd.
+***** 180- 189 IX.    Jhd.
+***** 190- 199 X.     Jhd.
+***** 200- 219 XI.    Jhd.
+***** 220- 239 XII.   Jhd.
+***** 240- 259 XIII.  Jhd.
+***** 260- 289 XIV.   Jhd.
+***** 290- 299 XV.    Jhd.
 **** 300- 339 Einzelne Schulen und Strömungen
 **** 340- 499 Platonismus, Aristotelismus, Averroismus
 **** 500- 999 Einzelne Gebiete
-**** 500- 509 Allgemeines
-**** 510- 599 Logik
-**** 600- 749 Ethik
-**** 750- 849 Ästhetik
-**** 850- 919 Metaphysik
-**** 920- 999 Geschichtsphilosophie
+***** 500- 509 Allgemeines
+***** 510- 599 Logik
+***** 600- 749 Ethik
+***** 750- 849 Ästhetik
+***** 850- 919 Metaphysik
+***** 920- 999 Geschichtsphilosophie
 **** 1000-     Einzelne Probleme
-*** III Geschichte der artes liberales 1- 59 Allgemeines
+*** III Geschichte der artes liberales
+**** 1- 59 Allgemeines
 **** 60- 219 Trivium
-**** 60-  69 Allgemeines, Etymologie
-**** 70- 119 Grammatik
-**** 120- 179 Rhetorik
-**** 180- 219 Dialektik
+***** 60-  69 Allgemeines, Etymologie
+***** 70- 119 Grammatik
+***** 120- 179 Rhetorik
+***** 180- 219 Dialektik
 **** 220- 499 Quadrivium
-**** 220- 249 Allgemeines
-**** 250- 299 Arithmetik
-**** 300- 349 Geometrie
-**** 350- 449 Musik
-**** 450- 499 Astronomie
-
+***** 220- 249 Allgemeines
+***** 250- 299 Arithmetik
+***** 300- 349 Geometrie
+***** 350- 449 Musik
+***** 450- 499 Astronomie
 **** 500- 899 artes illiberales
-**** 500- 519 Allgemeines
-**** 520- 599 Medizin
-**** 600- 619 Geographie
-**** 620- 899
+***** 500- 519 Allgemeines
+***** 520- 599 Medizin
+***** 600- 619 Geographie
+***** 620- 899
 *** IV Rechtsgeschichte
 **** 1- 49 Allgemeines
 **** 50-  99 regionale Rechtsgeschichte
-Italien
-Iberische Halbinsel
-Gallien
-Irland
-England
-Niederlande
-Deutschland
-Südosteuropa
-Böhmen
-Polen
-Skandinavien
-100- 199 römisches Recht
-200- 299 kanonisches Recht
-200- 249 Allgemeines
-250- 299 regionales kanonisches Recht
-Italien
-Iberische Halbinsel
-Gallien
-Irland
-England
-Niederlande
-Deutschland
-Südosteuropa
-Böhmen
-Polen
-Skandinavien
-300- 499 Volksrechte
-300- 329 Allgemeines
-330- 349 Goten
-350- 569 Franken
-370- 374 Thüringer
-375- 379 Alemannen
-380- 399 Langobarden
-400- 419 Angelsachsen
-420- 439 Sachsen
-440- 499 Sonstige
-
-** TODO F - Geschichte
+***** Italien
+***** Iberische Halbinsel
+***** Gallien
+***** Irland
+***** England
+***** Niederlande
+***** Deutschland
+***** Südosteuropa
+***** Böhmen
+***** Polen
+***** Skandinavien
+**** 100- 199 römisches Recht
+**** 200- 299 kanonisches Recht
+***** 200- 249 Allgemeines
+***** 250- 299 regionales kanonisches Recht
+****** Italien
+****** Iberische Halbinsel
+****** Gallien
+****** Irland
+****** England
+****** Niederlande
+****** Deutschland
+****** Südosteuropa
+****** Böhmen
+****** Polen
+****** Skandinavien
+**** 300- 499 Volksrechte
+***** 300- 329 Allgemeines
+***** 330- 349 Goten
+***** 350- 569 Franken
+***** 370- 374 Thüringer
+***** 375- 379 Alemannen
+***** 380- 399 Langobarden
+***** 400- 419 Angelsachsen
+***** 420- 439 Sachsen
+***** 440- 499 Sonstige
+** DOING F - Geschichte
 *** I Politische Geschichte
 **** 1- 99 Allgemeines und Atlanten (Atlanten: 20-29)
 **** 100- 199 Gesamtdarstellungen
 **** 200- 599 Einzelne Zeiträume
-**** 200- 299 Spätantike und Frühmittelalter (bis 900 n.Chr.)
-**** 300- 399 Hochmittelalter (900-1250 n.Chr.)
-**** 400- 599 Spätmittelalter (1250-1500 n.Chr.)
-**** 600- 799
+***** 200- 299 Spätantike und Frühmittelalter (bis 900 n.Chr.)
+***** 300- 399 Hochmittelalter (900-1250 n.Chr.)
+***** 400- 599 Spätmittelalter (1250-1500 n.Chr.)
+***** 600- 799
 **** 800-1699 Völker und Staaten
-**** 800- 899 Römisches Reich
-**** 900- 999 Germanenreiche
-**** 1000 Wilhelm von Giesbebrecht: Geschichte der deutschen Kaiserzeit
-**** 1001-1019 Jahrbücher
-**** 1020-1029 Karolingerreich
-**** 1030-1099 Heiliges Römisches Reich
-**** 1100-1199 Italien
-**** 1200-1299 Iberische Halbinsel
-**** 1300-1399 Frankreich
-**** 1400-1499 britische Inseln
-**** 1500-1599 skandinavische Reiche
-**** 1600-1799 osteuropäische Reiche
-**** 1800-1899 oströmisches/byzantinisches Reich
-**** 1900-1999 orientalische Reiche
+***** 800- 899 Römisches Reich
+***** 900- 999 Germanenreiche
+***** 1000 Wilhelm von Giesbebrecht: Geschichte der deutschen Kaiserzeit
+***** 1001-1019 Jahrbücher
+***** 1020-1029 Karolingerreich
+***** 1030-1099 Heiliges Römisches Reich
+***** 1100-1199 Italien
+***** 1200-1299 Iberische Halbinsel
+***** 1300-1399 Frankreich
+***** 1400-1499 britische Inseln
+***** 1500-1599 skandinavische Reiche
+***** 1600-1799 osteuropäische Reiche
+***** 1800-1899 oströmisches/byzantinisches Reich
+***** 1900-1999 orientalische Reiche
 **** 2000-2499 Politische Ideengeschichte
-**** 2000-2009 Allgemeines
-**** 2010-2149 König– und Kaisertum
-**** 2150-2199 Kreuzzüge, Lehnswesen, Land- und Gottesfriedensbewegung u.ä.
-**** 2200-2299 Papsttum
-**** 2300-2499 Sonstige
+***** 2000-2009 Allgemeines
+***** 2010-2149 König– und Kaisertum
+***** 2150-2199 Kreuzzüge, Lehnswesen, Land- und Gottesfriedensbewegung u.ä.
+***** 2200-2299 Papsttum
+***** 2300-2499 Sonstige
 *** II Kulturgeschichte (Signaturen entsprechend F I)
 *** III Kunstgeschichte
 (Signaturen entsprechend F I, gekürzt um eine Dezimale)
@@ -5396,7 +5108,6 @@ Skandinavien
 **** 0100 - 0199 Zahlensymbolik
 **** 0200 - 0299 Heraldik
 **** 0300 - 0399 Numismatik
-
 ** G - Einführungen, Bibliographien und Kataloge
 *** I Einführungen und Methodenlehre
 ~geordnet nach Erscheinungsjahr, 1950 = G I 20~
