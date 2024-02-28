@@ -3826,37 +3826,37 @@ Alle Orte, die früher selbständig waren, werden gesondert aufgeführt.
 **** 0150 - 0169 Allgemeine Volkskunde
 **** 0170 - 0179 Einzelne Gebiete und Orte
 **** 0180 - 0189 Dorf- und Stadtbild
-**** 190 ff Volkstrachten
-**** 200 ff Einzelne Bräuche
-**** 210 ff Volkskunst
-*** VIII 300 ff Volkskunde Saar
-**** 300 ff Allgemeine Volkskunde
-**** 308/1 ff Äußerungen des Volkstums
-**** 309/1 ff. Einzelne Gebiete und Orte
-*** vIII 310 ff Volkskunde Elsaß
-**** 310 ff Allgemeine Volkskunde
-**** 318/1 ff Äußerungen des Volkstums
-**** 319/1 ff Einzelne Gebiete und Orte
-*** VIII 320 ff Volkskunde Lothringen
-**** 320 ff Allgemeine Volkskunde
-**** 328/1 ff Äußerungen des Volkstums
-**** 329/1 ff Einzelne Gebiete und Orte
-*** VIII 330 ff Volkskunde Luxemburg
-**** 330 ff Allgemeine Volkskunde
-**** 338/1 ff Äußerungen des Volkstums
-**** 339/1 ff Einzelne Gebiete und Orte
-*** VIII 340 ff Volkskunde Hessen (Rheinland)
-**** 340 ff Allgemeine Volkskunde
-**** 348/1 ff Äußerungen des Volkstums
-**** 349/1 ff Einzelne Gebiete und Orte
-*** vIII 350 ff Volkskunde Franken
-**** 350 ff Allgemeine Volkskunde
-**** 358/1 ff Äußerungen des Volkstums
-**** 359/1 ff Einzelne Gebiete und Orte
+**** 0190 - 0199 Volkstrachten
+**** 0200 - 0209 Einzelne Bräuche
+**** 0210 - 0299 Volkskunst
+*** 0300  Volkskunde Saar
+**** 0300 - 0307 Allgemeine Volkskunde
+**** 0309 - 0310  Äußerungen des Volkstums
+**** 0308 - 0309 Einzelne Gebiete und Orte
+*** 0310  Volkskunde Elsaß
+**** 0310 - 0317 Allgemeine Volkskunde
+**** 0318 - 0319 Äußerungen des Volkstums
+**** 0319 - 0320 Einzelne Gebiete und Orte
+*** 0320  Volkskunde Lothringen
+**** 0320 - 0327 Allgemeine Volkskunde
+**** 0328 - 0329 Äußerungen des Volkstums
+**** 0329 - 0330 Einzelne Gebiete und Orte
+*** 0330  Volkskunde Luxemburg
+**** 0330 - 0337 Allgemeine Volkskunde
+**** 0338 - 0339 Äußerungen des Volkstums
+**** 0339 - 0340 Einzelne Gebiete und Orte
+*** 0340  Volkskhunde Hessen (Rheinland)
+**** 0010 - 0014 Allgemeine Volkskunde
+**** 0149 - 0150 Äußerungen des Volkstums
+**** 0015 - 0149 Einzelne Gebiete und Orte
+*** 0350  Volkskunde Franken
+**** 0010 - 0014 Allgemeine Volkskunde
+**** 0149 - 0150 Äußerungen des Volkstums
+**** 0015 - 0149 Einzelne Gebiete und Orte
 *** Volkskunde Württemberg
-**** Allgemeine Volkskunde
-**** Äußerungen des Volkstums
-**** Einzelne Gebiete und Orte
+**** 0010 - 0014 Allgemeine Volkskunde
+**** 0149 - 0150 Äußerungen des Volkstums
+**** 0015 - 0149 Einzelne Gebiete und Orte
 *** Weitere Gebiete
 *** Oberrhein (Elsaß/Baden/Schweiz)
 *** Sprache Baden
@@ -3887,33 +3887,11 @@ Alle Orte, die früher selbständig waren, werden gesondert aufgeführt.
 **** Allgemeines
 **** Einzelne Gegenden und Orte
 *** Sprache Weitere Gebiete:
-*** VIII 900 ff Bevölkerungsgeschichte u. Einzelfamilien
-**** 910 ff Baden
-**** 950 ff Pfalz
-**** 960 ff Elsaß
-**** 965 ff Lothringen
-**** 970 ff Luxemburg
-**** 975 ff Hessen (Rheinland)
-**** 980 ff Franken
-**** 985 ff Württemberg
-**** 990 ff Weitere Gebiete
-*** vIII 1000 ff Wanderungen
-**** VIII 1000 ff Badische + pfälzische Auswanderung
-**** vIII 1100 ff Wanderbewegungen an der Westgrenze
-***** 1110 ff im Elsaß
-***** 1150 ff in Lothringen
-***** 1200 ff in Luxemburg
-**** vIII 1250 ff Wanderbewegungen im Innern
-***** 1260 ff in Hessen (Rheinland)
-***** 1300 ff in Franken
-***** 1350 ff in Württemberg
-***** 1400 ff in weiteren Gebieten
-*** vIII 1500 ff Allgemeine, besonders methodische Literatur zur Bevölkerungsgeschichte
-*** VIII 1600 ff Flüchtlingsprobleme. Geschichte der Vertreibung und Eingliederung in die örtliche Bevölkerung.
-*** vIII 1700 ff Juden
-**** 1766 ff Allgemein
-**** 1710 ff in Baden
-**** 1726 ff in Pfalz etc.
+***  900  Bevölkerungsgeschichte u. Einzelfamilien
+***  1000  Wanderungen
+***  1500  Allgemeine, besonders methodische Literatur zur Bevölkerungsgeschichte
+***  1600  Flüchtlingsprobleme. Geschichte der Vertreibung und Eingliederung in die örtliche Bevölkerung.
+***  1700  Juden
 ** DOING IX - Wirtschaft und soziale Zustände
 *** Allgemein Oberrheinisches
 *** Baden
@@ -5146,14 +5124,14 @@ Alle Signaturen beginnen mit ~Sch~.
 **** 1.4.2. Hochschulschriften
 **** 1.4.3. Allgemeine Bibliographien zur Geschichte der USA
 **** 1.4.4. Bibliographien zur Geschichte der USA: Spezielle Sachgebiete und Zeitabschnitte
-***** 1.4.1. /Wirtschafts- und Sozialgeschichte/
-***** 1.4.2. /Rechts- und Verfassungsgeschichte/
-***** 1.4.3. /Religions-, Kultur- und Geistesgeschichte/
-***** 1.4.4. /Außenpolitik/
-***** 1.4.5. /Kolonialzeit und Amerikanische Revolution/
-***** 1.4.6. /19. Jahrhundert/
-***** 1.4.7. /20. Jahrhundert/
-***** 1.4.8. /Sonstiges/
+***** 1.4.1. Wirtschafts- und Sozialgeschichte
+***** 1.4.2. Rechts- und Verfassungsgeschichte
+***** 1.4.3. Religions-, Kultur- und Geistesgeschichte
+***** 1.4.4. Außenpolitik
+***** 1.4.5. Kolonialzeit und Amerikanische Revolution
+***** 1.4.6. 19. Jahrhundert
+***** 1.4.7. 20. Jahrhundert
+***** 1.4.8. Sonstiges
 *** 1.5.  Nachschlagewerke
 **** 1.5.1. Enzyklopädien
 **** 1.5.2. Biographische Nachschlagewerke
@@ -5175,135 +5153,135 @@ Alle Signaturen beginnen mit ~Sch~.
 ***** 2.3.2. Gesamtdarstellungen
 ***** 2.3.3. Personen
 ***** 2.3.4. Besondere Themen
-****** 2.3.4.1. /Innenpolitik/
-****** 2.3.4.2. /Sozialgeschichte/
-****** 2.3.4.3. /Gender, Frauen- & Geschlechtergeschichte/
-****** 2.3.4.4. /Wirtschaftsgeschichte/
-****** 2.3.4.5. /Rechts- und Verfassungsgeschichte/
-****** 2.3.4.6. /Religions-, Geistes- und Kulturgeschichte/
-****** 2.3.4.7. /Militärgeschichte/
-****** 2.3.4.8. /Sonstiges/
+****** 2.3.4.1. Innenpolitik
+****** 2.3.4.2. Sozialgeschichte
+****** 2.3.4.3. Gender, Frauen- & Geschlechtergeschichte
+****** 2.3.4.4. Wirtschaftsgeschichte
+****** 2.3.4.5. Rechts- und Verfassungsgeschichte
+****** 2.3.4.6. Religions-, Geistes- und Kulturgeschichte
+****** 2.3.4.7. Militärgeschichte
+****** 2.3.4.8. Sonstiges
 **** 2.4.  *Die Amerikanische Revolution, 1763--1789*
 ***** 2.4.1. Quellen
 ***** 2.4.2. Gesamtdarstellungen
 ***** 2.4.3. Personen
 ***** 2.4.4. Besondere Themen
-****** 2.4.4.1. /Innenpolitik/
-****** 2.4.4.2. /Sozialgeschichte/
-****** 2.4.4.3. /Gender, Frauen- & Geschlechtergeschichte/
-****** 2.4.4.4. /Wirtschaftsgeschichte/
-****** 2.4.4.5. /Rechts- und Verfassungsgeschichte/
-****** 2.4.4.6. /Religions-, Geistes- und Kulturgeschichte/
-****** 2.4.4.7. /Militärgeschichte/
-****** 2.4.4.8. /Sonstiges/
+****** 2.4.4.1. Innenpolitik
+****** 2.4.4.2. Sozialgeschichte
+****** 2.4.4.3. Gender, Frauen- & Geschlechtergeschichte
+****** 2.4.4.4. Wirtschaftsgeschichte
+****** 2.4.4.5. Rechts- und Verfassungsgeschichte
+****** 2.4.4.6. Religions-, Geistes- und Kulturgeschichte
+****** 2.4.4.7. Militärgeschichte
+****** 2.4.4.8. Sonstiges
 ***** 2.4.5. Vergleichende Revolutionsgeschichte, Revolutionstheorien
 **** 2.5.  *Von der Staatsgründung bis zum Vorabend des Bürgerkrieges, 1789--1860*
 ***** 2.5.1. Quellen
 ***** 2.5.2. Gesamtdarstellungen
 ***** 2.5.3. Personen
 ***** 2.5.4. Besondere Themen
-****** 2.5.4.1. /Innenpolitik/
-****** 2.5.4.2. /Sozialgeschichte/
-****** 2.5.4.3. /Gender, Frauen- & Geschlechtergeschichte/
-****** 2.5.4.4. /Wirtschaftsgeschichte/
-****** 2.5.4.5. /Rechts- und Verfassungsgeschichte/
-****** 2.5.4.6. /Religions-, Geistes- und Kulturgeschichte/
-****** 2.5.4.7. /Militärgeschichte/
-****** 2.5.4.8. /Sonstiges/
+****** 2.5.4.1. Innenpolitik
+****** 2.5.4.2. Sozialgeschichte
+****** 2.5.4.3. Gender, Frauen- & Geschlechtergeschichte
+****** 2.5.4.4. Wirtschaftsgeschichte
+****** 2.5.4.5. Rechts- und Verfassungsgeschichte
+****** 2.5.4.6. Religions-, Geistes- und Kulturgeschichte
+****** 2.5.4.7. Militärgeschichte
+****** 2.5.4.8. Sonstiges
 **** 2.6.  *Bürgerkrieg, Rekonstruktion und Industrialisierung, 1860--1890*
 ***** 2.6.1. Quellen
 ***** 2.6.2. Gesamtdarstellungen
 ***** 2.6.3. Personen
 ***** 2.6.4. Besondere Themen
-****** 2.6.4.1. /Innenpolitik/
-****** 2.6.4.2. /Sozialgeschichte/
-****** 2.6.4.3. /Gender, Frauen- & Geschlechtergeschichte/
-****** 2.6.4.4. /Wirtschaftsgeschichte/
-****** 2.6.4.5. /Rechts- und Verfassungsgeschichte/
-****** 2.6.4.6. /Religions-, Geistes- und Kulturgeschichte/
-****** 2.6.4.7. /Militärgeschichte/
-****** 2.6.4.8. /Sonstiges/
+****** 2.6.4.1. Innenpolitik
+****** 2.6.4.2. Sozialgeschichte
+****** 2.6.4.3. Gender, Frauen- & Geschlechtergeschichte
+****** 2.6.4.4. Wirtschaftsgeschichte
+****** 2.6.4.5. Rechts- und Verfassungsgeschichte
+****** 2.6.4.6. Religions-, Geistes- und Kulturgeschichte
+****** 2.6.4.7. Militärgeschichte
+****** 2.6.4.8. Sonstiges
 **** 2.7.  *Die USA im 20. Jahrhundert I, 1890--1929 (Imperialismus, 1. Weltkrieg, 20er Jahre)*
 ***** 2.7.1. Quellen
 ***** 2.7.2. Gesamtdarstellungen
 ***** 2.7.3. Personen
 ***** 2.7.4. Besondere Themen
-****** 2.7.4.1. /Innenpolitik/
-****** 2.7.4.2. /Sozialgeschichte/
-****** 2.7.4.3. /Gender, Frauen- & Geschlechtergeschichte/
-****** 2.7.4.4. /Wirtschaftsgeschichte/
-****** 2.7.4.5. /Rechts- und Verfassungsgeschichte/
-****** 2.7.4.6. /Religions-, Geistes- und Kulturgeschichte/
-****** 2.7.4.7. /Militärgeschichte/
-****** 2.7.4.8. /Sonstiges/
+****** 2.7.4.1. Innenpolitik
+****** 2.7.4.2. Sozialgeschichte
+****** 2.7.4.3. Gender, Frauen- & Geschlechtergeschichte
+****** 2.7.4.4. Wirtschaftsgeschichte
+****** 2.7.4.5. Rechts- und Verfassungsgeschichte
+****** 2.7.4.6. Religions-, Geistes- und Kulturgeschichte
+****** 2.7.4.7. Militärgeschichte
+****** 2.7.4.8. Sonstiges
 **** 2.8.  *Die USA im 20. Jahrhundert II, 1929--1945 (Weltwirtschaftskrise, New Deal, 2. Weltkrieg)*
 ***** 2.8.1. Quellen
 ***** 2.8.2. Gesamtdarstellungen
 ***** 2.8.3. Personen
 ***** 2.8.4. Besondere Themen
-****** 2.8.4.1. /Innenpolitik/
-****** 2.8.4.2. /Sozialgeschichte/
-****** 2.8.4.3. /Gender, Frauen- & Geschlechtergeschichte/
-****** 2.8.4.4. /Wirtschaftsgeschichte/
-****** 2.8.4.5. /Rechts- und Verfassungsgeschichte/
-****** 2.8.4.6. /Religions-, Geistes- und Kulturgeschichte/
-****** 2.8.4.7. /Militärgeschichte/
-****** 2.8.4.8. /Sonstiges/
+****** 2.8.4.1. Innenpolitik
+****** 2.8.4.2. Sozialgeschichte
+****** 2.8.4.3. Gender, Frauen- & Geschlechtergeschichte
+****** 2.8.4.4. Wirtschaftsgeschichte
+****** 2.8.4.5. Rechts- und Verfassungsgeschichte
+****** 2.8.4.6. Religions-, Geistes- und Kulturgeschichte
+****** 2.8.4.7. Militärgeschichte
+****** 2.8.4.8. Sonstiges
 **** 2.9.  *Die USA im 20. Jahrhundert III, 1945--1960 (Nachkriegsprobleme, Kalter Krieg I)*
 ***** 2.9.1. Quellen
 ***** 2.9.2. Gesamtdarstellungen
 ***** 2.9.3. Personen
 ***** 2.9.4. Besondere Themen
-****** 2.9.4.1. /Innenpolitik/
-****** 2.9.4.2. /Sozialgeschichte/
-****** 2.9.4.3. /Gender, Frauen- & Geschlechtergeschichte/
-****** 2.9.4.4. /Wirtschaftsgeschichte/
-****** 2.9.4.5. /Rechts- und Verfassungsgeschichte/
-****** 2.9.4.6. /Religions-, Geistes- und Kulturgeschichte/
-****** 2.9.4.7. /Militärgeschichte/
-****** 2.9.4.8. /Sonstiges/
+****** 2.9.4.1. Innenpolitik
+****** 2.9.4.2. Sozialgeschichte
+****** 2.9.4.3. Gender, Frauen- & Geschlechtergeschichte
+****** 2.9.4.4. Wirtschaftsgeschichte
+****** 2.9.4.5. Rechts- und Verfassungsgeschichte
+****** 2.9.4.6. Religions-, Geistes- und Kulturgeschichte
+****** 2.9.4.7. Militärgeschichte
+****** 2.9.4.8. Sonstiges
 **** 2.10. *Die USA im 20. Jahrhundert IV, 1961--1980 (Kalter Krieg II, von Kennedy bis Carter)*
 ***** 2.10.1. Quellen
 ***** 2.10.2. Gesamtdarstellungen
 ***** 2.10.3. Personen
 ***** 2.10.4. Besondere Themen
-****** 2.10.4.1. /Innenpolitik/
-****** 2.10.4.2. /Sozialgeschichte/
-****** 2.10.4.3. /Gender, Frauen- & Geschlechtergeschichte/
-****** 2.10.4.4. /Wirtschaftsgeschichte/
-****** 2.10.4.5. /Rechts- und Verfassungsgeschichte/
-****** 2.10.4.6. /Religions-, Geistes- und Kulturgeschichte/
-****** 2.10.4.7. /Militärgeschichte/
-****** 2.10.4.8. /New Left/Protest movements/
-****** 2.10.4.9. /Sonstiges/
+****** 2.10.4.1. Innenpolitik
+****** 2.10.4.2. Sozialgeschichte
+****** 2.10.4.3. Gender, Frauen- & Geschlechtergeschichte
+****** 2.10.4.4. Wirtschaftsgeschichte
+****** 2.10.4.5. Rechts- und Verfassungsgeschichte
+****** 2.10.4.6. Religions-, Geistes- und Kulturgeschichte
+****** 2.10.4.7. Militärgeschichte
+****** 2.10.4.8. New LeftProtest movements
+****** 2.10.4.9. Sonstiges
 **** 2.11. *Die USA im 20. Jahrhundert V, seit 1981 (Von Reagan bis Clinton)*
 ***** 2.11.1. Quellen
 ***** 2.11.2. Gesamtdarstellungen
 ***** 2.11.3. Personen
 ***** 2.11.4. Besondere Themen
-****** 2.11.4.1. /Innenpolitik/
-****** 2.11.4.2. /Sozialgeschichte/
-****** 2.11.4.3. /Gender, Frauen- & Geschlechtergeschichte/
-****** 2.11.4.4. /Wirtschaftsgeschichte/
-****** 2.11.4.5. /Rechts- und Verfassungsgeschichte/
-****** 2.11.4.6. /Religions-, Geistes- und Kulturgeschichte/
-****** 2.11.4.7. /Militärgeschichte/
-****** 2.11.4.8. /New Left/Protest movements/
-****** 2.11.4.9. /Sonstiges/
+****** 2.11.4.1. Innenpolitik
+****** 2.11.4.2. Sozialgeschichte
+****** 2.11.4.3. Gender, Frauen- & Geschlechtergeschichte
+****** 2.11.4.4. Wirtschaftsgeschichte
+****** 2.11.4.5. Rechts- und Verfassungsgeschichte
+****** 2.11.4.6. Religions-, Geistes- und Kulturgeschichte
+****** 2.11.4.7. Militärgeschichte
+****** 2.11.4.8. New LeftProtest movements
+****** 2.11.4.9. Sonstiges
 **** 2.12. *Die USA im 21. Jahrhundert, von George W. Bush bis zur Gegenwart*
 ***** 2.12.1. Quellen
 ***** 2.12.2. Gesamtdarstellungen
 ***** 2.12.3. Personen
 ***** 2.12.4. Besondere Themen
-****** 2.12.4.1. /Innenpolitik/
-****** 2.12.4.2. /Sozialgeschichte/
-****** 2.12.4.3. /Gender, Frauen- & Geschlechtergeschichte/
-****** 2.12.4.4. /Wirtschaftsgeschichte/
-****** 2.12.4.5. /Rechts- und Verfassungsgeschichte/
-****** 2.12.4.6. /Religions-, Geistes- und Kulturgeschichte/
-****** 2.12.4.7. /Militärgeschichte/
-****** 2.12.4.8. /New Left/Protest movements/
-****** 2.12.4.9. /Sonstiges/
+****** 2.12.4.1. Innenpolitik
+****** 2.12.4.2. Sozialgeschichte
+****** 2.12.4.3. Gender, Frauen- & Geschlechtergeschichte
+****** 2.12.4.4. Wirtschaftsgeschichte
+****** 2.12.4.5. Rechts- und Verfassungsgeschichte
+****** 2.12.4.6. Religions-, Geistes- und Kulturgeschichte
+****** 2.12.4.7. Militärgeschichte
+****** 2.12.4.8. New LeftProtest movements
+****** 2.12.4.9. Sonstiges
 \pagebreak
 **** 3. Übergreifende Quellen und Darstellungen zu einzelnen Sachbereichen der Innenpolitik
 ***** 3.1. *Geographie und Umwelt*
@@ -5322,7 +5300,7 @@ Alle Signaturen beginnen mit ~Sch~.
 ****** 3.5.6. Juden
 ****** 3.5.7. Native Americans
 ****** 3.5.8. Afroamerikaner
-****** 3.5.9. Whiteness/Sonstiges
+****** 3.5.9. WhitenessSonstiges
 ***** 3.6. *Wirtschafts- und Sozialgeschichte*
 ****** 3.6.1.  Quellen und Statistiken
 ****** 3.6.2.  Allgemeine Interpretationen, Gesamtdarstellungen, Handbücher etc.
@@ -5341,13 +5319,13 @@ Alle Signaturen beginnen mit ~Sch~.
 ****** 3.7.4. Präsidentschaft
 ****** 3.7.5. Parteien und Wahlen
 ****** 3.7.6. Einzelstaaten und Regionen
-****** 3.7.7. Philosophie, Theorie und Methode des Rechts und der Politik/Politisches Denken und Politische Ideengeschichte
+****** 3.7.7. Philosophie, Theorie und Methode des Rechts und der PolitikPolitisches Denken und Politische Ideengeschichte
 ****** 3.7.8. Sonstiges
 ***** 3.8. *Religions-, Kultur- und Geistesgeschichte*
 ****** 3.8.1. Quellen und Statistiken
 ****** 3.8.2. Allgemeine Interpretationen, Gesamtdarstellungen, Handbücher etc.
 ****** 3.8.3. Religionsgeschichte und Bildungsgeschichte
-****** 3.8.4. Geistesgeschichte/Intellectual History
+****** 3.8.4. GeistesgeschichteIntellectual History
 ****** 3.8.5. Literatur
 ****** 3.8.6. Die Künste
 ****** 3.8.7. Kommunikationsmittel und Filmgeschichte
@@ -5447,7 +5425,7 @@ Alle Signaturen beginnen mit ~Sch~.
 ****** 4.9.15. Die USA und der Nahe und Mittlere Osten, seit 1990
 ****** 4.9.16. Die USA und die Westliche Hemisphäre, seit 1990
 ****** 4.9.17. Die USA und Afrika, seit 1990
-****** 4.9.18. 11. September / War on Terror / Irakkrieg
+****** 4.9.18. 11. September  War on Terror  Irakkrieg
 ****** 4.9.19. Besondere Themen
 \pagebreak
 **** 5. Deutsch-Amerikanische Beziehungen
@@ -5458,29 +5436,29 @@ Alle Signaturen beginnen mit ~Sch~.
 ****** 5.3.2. Gesamtdarstellungen
 ****** 5.3.3. Besondere Themen
 ****** 5.3.4. Personen
-****** 5.3.5. Immigration/Deutschamerikaner
-****** 5.3.6. Amerikabilder/Deutschlandbilder/Perzeption
+****** 5.3.5. ImmigrationDeutschamerikaner
+****** 5.3.6. AmerikabilderDeutschlandbilderPerzeption
 ***** 5.4. *Deutsch-Amerikanische Beziehungen, 1871--1917*
 ****** 5.4.1. Quellen
 ****** 5.4.2. Gesamtdarstellungen
 ****** 5.4.3. Besondere Themen
 ****** 5.4.4. Personen
-****** 5.4.5. Immigration/Deutschamerikaner
-****** 5.4.6. Amerikabilder/Deutschlandbilder/Perzeption
+****** 5.4.5. ImmigrationDeutschamerikaner
+****** 5.4.6. AmerikabilderDeutschlandbilderPerzeption
 ***** 5.5. *Deutsch-Amerikanische Beziehungen, 1917--1945*
 ****** 5.5.1. Quellen
 ****** 5.5.2. Gesamtdarstellungen
 ****** 5.5.3. Besondere Themen
 ****** 5.5.4. Personen
-****** 5.5.5. Immigration/Deutschamerikaner
-****** 5.5.6. Amerikabilder/Deutschlandbilder/Perzeption
+****** 5.5.5. ImmigrationDeutschamerikaner
+****** 5.5.6. AmerikabilderDeutschlandbilderPerzeption
 ***** 5.6. *Deutsch-Amerikanische Beziehungen, 1945--1990*
 ****** 5.6.1. Quellen
 ****** 5.6.2. Gesamtdarstellungen
 ****** 5.6.3. Besondere Themen
 ****** 5.6.4. Personen
-****** 5.6.5. Immigration/Deutschamerikaner
-****** 5.6.6. Amerikabilder/Deutschlandbilder/Perzeption
+****** 5.6.5. ImmigrationDeutschamerikaner
+****** 5.6.6. AmerikabilderDeutschlandbilderPerzeption
 ****** 5.6.7. Wirtschaftsbeziehungen
 ****** 5.6.8. Die amerikanische Militärpräsenz in Deutschland
 ***** 5.7. *Deutsch-Amerikanische Beziehungen, seit 1990*
@@ -5488,8 +5466,8 @@ Alle Signaturen beginnen mit ~Sch~.
 ****** 5.7.2. Gesamtdarstellungen
 ****** 5.7.3. Besondere Themen
 ****** 5.7.4. Personen
-****** 5.7.5. Immigration/Deutschamerikaner
-****** 5.7.6. Amerikabilder/Deutschlandbilder/Perzeption
+****** 5.7.5. ImmigrationDeutschamerikaner
+****** 5.7.6. AmerikabilderDeutschlandbilderPerzeption
 ****** 5.7.7. Wirtschaftsbeziehungen
 ****** 5.7.8. Die amerikanische Militärpräsenz in Deutschland
 \pagebreak
@@ -5555,20 +5533,20 @@ Alle Signaturen beginnen mit ~Sch~.
 ***** 23.3.7. Besondere Themen
 **** 23.4. *Einzelne Epochen der Außenpolitik*
 ***** 23.4.1. Von den Anfängen bis zum Dominion, 1500--1867
-****** 23.4.1.1. /Quellen/
-****** 23.4.1.2. /Gesamtdarstellungen/
-****** 23.4.1.3. /Personen/
-****** 23.4.1.4. /Einzelne Bereiche/
+****** 23.4.1.1. Quellen
+****** 23.4.1.2. Gesamtdarstellungen
+****** 23.4.1.3. Personen
+****** 23.4.1.4. Einzelne Bereiche
 ***** 23.4.2. Vom Dominion zur Nation, 1867--1931
-****** 23.4.2.1. /Quellen/
-****** 23.4.2.2. /Gesamtdarstellungen/
-****** 23.4.2.3. /Personen/
-****** 23.4.2.4. /Einzelne Bereiche/
+****** 23.4.2.1. Quellen
+****** 23.4.2.2. Gesamtdarstellungen
+****** 23.4.2.3. Personen
+****** 23.4.2.4. Einzelne Bereiche
 ***** 23.4.3. Von der Unabhängigkeit bis zur Gegenwart
-****** 23.4.3.1. /Quellen/
-****** 23.4.3.2. /Gesamtdarstellungen/
-****** 23.4.3.3. /Personen/
-****** 23.4.3.4. /Einzelne Bereiche/
+****** 23.4.3.1. Quellen
+****** 23.4.3.2. Gesamtdarstellungen
+****** 23.4.3.3. Personen
+****** 23.4.3.4. Einzelne Bereiche
 \pagebreak
 *** 24. Quellen und Darstellungen zur kanadischen Geschichte (chronologische Gliederung, ohne Außenpolitik)
 **** 24.1. *Von den Anfängen bis zum Ende der Amerikanischen Revolution, 1500--1789*
@@ -5576,45 +5554,45 @@ Alle Signaturen beginnen mit ~Sch~.
 ***** 24.1.2. Gesamtdarstellungen
 ***** 24.1.3. Personen
 ***** 24.1.4. Besondere Themen
-****** 24.1.4.1. /Innenpolitik/
-****** 24.1.4.2. /Sozialgeschichte/
-****** 24.1.4.3. /Wirtschaftsgeschichte/
-****** 24.1.4.4. /Rechts- und Verfassungsgeschichte/
-****** 24.1.4.5. /Kultur- und Geistesgeschichte/
-****** 24.1.4.6. /Sonstiges/
+****** 24.1.4.1. Innenpolitik
+****** 24.1.4.2. Sozialgeschichte
+****** 24.1.4.3. Wirtschaftsgeschichte
+****** 24.1.4.4. Rechts- und Verfassungsgeschichte
+****** 24.1.4.5. Kultur- und Geistesgeschichte
+****** 24.1.4.6. Sonstiges
 **** 24.2. *Britisch-Nordamerika, 1789--1867*
 ***** 24.2.1. Quellen
 ***** 24.2.2. Gesamtdarstellungen
 ***** 24.2.3. Personen
 ***** 24.2.4. Besondere Themen
-****** 24.2.4.1. /Innenpolitik/
-****** 24.2.4.2. /Sozialgeschichte/
-****** 24.2.4.3. /Wirtschaftsgeschichte/
-****** 24.2.4.4. /Rechts- und Verfassungsgeschichte/
-****** 24.2.4.5. /Kultur- und Geistesgeschichte/
-****** 24.2.4.6. /Sonstiges/
+****** 24.2.4.1. Innenpolitik
+****** 24.2.4.2. Sozialgeschichte
+****** 24.2.4.3. Wirtschaftsgeschichte
+****** 24.2.4.4. Rechts- und Verfassungsgeschichte
+****** 24.2.4.5. Kultur- und Geistesgeschichte
+****** 24.2.4.6. Sonstiges
 **** 24.3. *Vom Dominion zur Nation, 1867--1931*
 ***** 24.3.1. Quellen
 ***** 24.3.2. Gesamtdarstellungen
 ***** 24.3.3. Personen
 ***** 24.3.4. Besondere Themen
-****** 24.3.4.1. /Innenpolitik/
-****** 24.3.4.2. /Sozialgeschichte/
-****** 24.3.4.3. /Wirtschaftsgeschichte/
-****** 24.3.4.4. /Rechts- und Verfassungsgeschichte/
-****** 24.3.4.5. /Kultur- und Geistesgeschichte/
-****** 24.3.4.6. /Sonstiges/
+****** 24.3.4.1. Innenpolitik
+****** 24.3.4.2. Sozialgeschichte
+****** 24.3.4.3. Wirtschaftsgeschichte
+****** 24.3.4.4. Rechts- und Verfassungsgeschichte
+****** 24.3.4.5. Kultur- und Geistesgeschichte
+****** 24.3.4.6. Sonstiges
 **** 24.4. *Von der Unabhängigkeit bis zur Gegenwart, ab 1931*
 ***** 24.4.1. Quellen
 ***** 24.4.2. Gesamtdarstellungen
 ***** 24.4.3. Personen
 ***** 24.4.4. Besondere Themen
-****** 24.4.4.1. /Innenpolitik/
-****** 24.4.4.2. /Sozialgeschichte/
-****** 24.4.4.3. /Wirtschaftsgeschichte/
-****** 24.4.4.4. /Rechts- und Verfassungsgeschichte/
-****** 24.4.4.5. /Kultur- und Geistesgeschichte/
-****** 24.4.4.6. /Sonstiges/
+****** 24.4.4.1. Innenpolitik
+****** 24.4.4.2. Sozialgeschichte
+****** 24.4.4.3. Wirtschaftsgeschichte
+****** 24.4.4.4. Rechts- und Verfassungsgeschichte
+****** 24.4.4.5. Kultur- und Geistesgeschichte
+****** 24.4.4.6. Sonstiges
 \pagebreak
 ** IV. Nicht-Nordamerikanische Geschichte
   :PROPERTIES:
@@ -5628,16 +5606,16 @@ Alle Signaturen beginnen mit ~Sch~.
 **** 41.2. Besondere Themen
 *** 42. Europa
 **** 42.1. England
-**** 42.2. Gesamtdarstellungen/EU
+**** 42.2. GesamtdarstellungenEU
 **** 42.3. Besondere Themen
 \pagebreak
-** V. Periodika/Microformen
+** V. PeriodikaMicroformen
 *** 70. Mikroformen
 *** 80. Zeitschriften
 *** 90. Working Papers
 \pagebreak
 
-[fn:1] in Stefan Weinfurter (Hrsg.), /Reinhart Koselleck (1923-2006): Reden zum 50. Jahrestag seiner Promotion in Heidelberg/ (Heidelberg: Winter Verlag), 54.
+[fn:1] in Stefan Weinfurter (Hrsg.), Reinhart Koselleck (1923-2006): Reden zum 50. Jahrestag seiner Promotion in Heidelberg (Heidelberg: Winter Verlag), 54.
 * Osteuropäische Geschichte
 ** Ya - Atlanten/Karten
 ** Yb - Bibliographien
@@ -5665,3 +5643,346 @@ Alle Signaturen beginnen mit ~Sch~.
 ** Yy - Jugoslawien, Ungarn, Rumänien
 ** Yz - Zeitschriften
 ** (Ohne Nummer?) Mikroformen
+* Bereichsbibliothek Altertumswissenschaften
+** Institut für Ägyptologie
+*** Monographien
+*** Zeitschriften und Reihen
+*** Handbücher
+*** Museumskataloge
+*** Randgebiete
+** Alte Geschichte
+*** I Allgemeine Nachschlagewerke
+**** IA Wörterbücher
+***    II Sprachgeschichte
+***    III Wörterbücher, Grammatiken
+***    IV Quellensammlungen
+***    V Griechische und Lateinische Quellen
+***    VI Griechische Epigraphik
+***    VII Numismatik
+***    VIII Lateinische Epigraphik
+****  VIIIA Papyrologie
+****  VIIIB
+****  VIIIC Christliche, etruskische und sonstige nichtgriechische und nichtrömische Epigraphik
+***    IX Universalgeschichte
+***    X Kongreßberichte und Festschriften
+***    XI Alter Orient
+***    XII Griechische Geschichte
+****  XIIA Jüdische Geschichte
+***    XIII Römische Geschichte
+****  XIIIA Spätantike
+***    XIV Römisches Germanien
+***    XVI Historische Landeskunde
+***    XVII Geistes- und Religionsgeschichte
+****  XVIIA Frühes Christentum
+***    XX Zeitschriften
+***    XXI Historische Atlanten
+** Byzantinische Archäologie
+*** A Nachschlagewerke
+*** B Byzantinistik (inkl. Alte Geschichte – Quellen – Kirchengeschichte)
+*** C Christliche Archäologie Allgemein (Einführungswerke)
+****  Ca Christliche Archäologie Allgemein (Einführungswerke)
+**** Cb Ikonographie
+*** D Topographie allgemein
+****  Da Westeuropa (Iberische Halbinsel, Frankreich, Deutschland, Alpenraum, GB)
+****  Db Italien
+****  Dc Rom
+****     Dd Ravenna
+****     Df Griechenland, Zypern, Balkan, Osteuropa
+****     Dg Konstantinopel
+****     Dh Kleinasien
+****     Di Georgien, Armenien
+****     Dk Naher Osten
+****     Dl Ägypten, Sinai, Äthiopien
+****     Dm Nordafrika
+*** E Architektur
+*** F Malerei, Mosaiken und Ikonen
+****     Fa Malerei, Mosaiken Allgemein
+****     Fb Malerei
+****     Fc Mosaiken
+****     Fd Ikonen
+*** G Plastik
+****     Ga Plastik - Allgemeines / Übergreifendes
+****     Gb Sarkophage
+****     Gc Skulptur
+****     Gd Relief
+****     De Bauornamentik
+*** H Kleinkunst
+**** Ha Kleinkunst - Allgemeines / Übergreifendes
+**** Hb Elfenbein
+**** Hc Holz
+**** Hd Metall
+**** He Gemmen
+**** Hf Glas
+**** Hg Keramik
+**** Hh Textilien
+*** J Buchmalerei und Buchwesen
+**** Ja Buchmalerei / Buchwesen - Allgemeines / Übergreifendes
+**** Jb Corpora
+**** Jc Sakrale Schriften
+**** Jd Weltliche Schriften
+**** Je Verlagswesen / Buchwesen
+*** L Epigraphik
+*** M Numismatik
+*** S Festschriften
+*** T Tagungsbände
+*** X Kataloge
+**** Xa Bestandskataloge
+**** Xb Ausstellungskataloge
+*** Zeitschriften
+** Klassische Archäologie
+*** A Allgemeine Lexika. Wörterbücher. Bibliographien. Geschichte und Methoden der Archäologie. Antike Geschichte und Methoden der Archäologie. Antike Epigraphik. Technik des Altertums
+*** B Allgemeine Kunstgeschichte
+*** C Antike Kunst: Gesamtdarstellungen
+*** D Griechische und römische Plastik und Skulptur
+*** E Orientalische Kulturen
+*** F Allgemeine Frühgeschichte; minoisch-mykenische Kultur
+*** G Vorrömisches Italien. Etruskische Kunst und Kultur
+*** H Griechische und römische Architektur
+*** J Griechisches und römisches Porträt
+*** K Griechische und römische Malerei (inkl. Vasenmalerei) und Mosaikkunst>
+*** L Griechische und römische Kleinkunst
+*** M Griechisches und römisches Relief
+*** N Antike Numismatik
+*** O Antike Mythologie und Religion
+*** P Antike Geschichte
+*** R Antike Realien
+*** S Kataloge (Museen/Sammlungen, Auktionen, Ausstellungen)
+*** T Topographie
+*** U Biographien und Gesammelte Schriften von Archäologen
+*** V Festschriften
+*** W Winckelmannschriften
+*** X Kongressberichte
+*** Y Sonstiges. Konvolute
+*** Ym Textausgaben antiker Autoren
+*** Z Zeitschriften
+** Klassische Philologie
+*** A Allgemeine Hilfsmittel
+**** Ab Bibliographien, Enzyklopädien, Handbücher, Lexika
+**** Ad Wörterbücher zur griechischen Sprache
+**** Ae Wörterbücher zur lateinischen Sprache
+**** Af Wörterbücher zu anderen Sprachen
+*** B Epigraphik
+**** Ba Griechische Epigrahik
+**** Bb Lateinische Epigraphik
+*** C Griechische Autoren
+**** Ca Sammelwerke
+**** Cb Dichter
+**** Cd Prosaiker
+*** D Lateinische Autoren
+**** Da Sammelwerke
+**** Db Dichter
+**** Dd Prosaiker
+*** E Bibel und christliche Autoren
+**** Ea Bibel
+**** Eb Christliche Sammelwerke
+**** Ed Christliche Autoren
+*** F Papyri, Ostraka, Palaeographie
+**** Fa Papyrus- und Ostraka-Ausgaben, Wörterbücher und Erläuterungen
+**** Fb Palaeographie und Buchwesen
+*** G Grammatik, Sprachwissenschaft, Metrik, Rhetorik, Musik
+*** H Literaturgeschichte
+*** J Geschichte
+*** K Philosophie
+*** L Archäologie
+*** M Religionswissenschaft, Mythologie, Volkskunde
+*** N Astrologie, Astronomie
+*** O Geographie
+*** P Andere Fachwissenschaften
+*** Q Altertümer; antike Kultur und Sitte
+*** R Geschichte und Theorie der klassischen Philologie; Nachwirken der Antike, Humanismus
+**** Ra Pädagogik, Lehrerbildung, Fachdidaktik
+**** Rb Unterrichtswerke
+**** Rr Literaturtheorie
+*** S Gesammelte Werke, Festschriften, Biographien
+*** T Sammlungen von Vorträgen und Aufsätzen; Kongreßberichte
+*** U Reihen
+*** V Zeitschriften
+*** W Neugriechische Sprache und Literatur
+** Ur- und Frühgeschichte
+*** I. Überregionale Abteilungen der Monographien
+**** A Allgemeine Hilfsmittel
+***** Aa Hochschule und Wissenschaft
+***** Ab Wörterbücher, altsprachlich
+***** Ac Wörterbücher, allgemein
+***** Ad Fachwörterbücher, Ur- und Frühgeschichte und Vorderasiatische Archäologie
+***** Ae Fachwörterbücher, Nachbarwissenschaften
+***** Af Namens- und Ortsnamensforschung
+***** Ag Ortsverzeichnisse
+***** Ah Geographische Atlanten
+***** Ai Historisch-archäologische Atlanten
+***** Ak Handbücher, Ur- und Frühgeschichte und Vorderasiatische Archäologie
+***** Am Handbücher, Nachbarwissenschaften und Übergreifendes
+***** An Bibliographien
+***** Ao Schriftenreihen
+Neben Autor- und Titelkürzel gilt die Verschlüsselung nach Zeitstufen 1a-h (vgl. Abt. 1) und der Länderschlüssel 100-500.
+
+Zusätzlich sind folgende Kürzel üblich:
+Anthr Anthropologie
+Geog Geographie
+Geol Geologie
+Soz Soziologie
+**** Ge Geschichte allgemein, einschließlich Kunstgeschichte
+**** K. Kirchengeschichte, einschließlich Christlicher Archäologie
+**** M. Mittelalterliche Geschichte, einschließlich zeitgleicher Kunstgeschichte
+**** B Naturwissenschaften
+**** C Kulturwissenschaften
+**** D Geschichte
+**** E Forschungsgeschichte
+**** F Methode
+**** G Philologie
+**** H Indogermanen
+**** J Kataloge und Führer
+**** K Festschriften
+**** L Kongresse und Tagungsberichte
+**** M Mediavistik
+**** N Schriftquellen
+**** T Historische Archäologie
+**** U Geo- und Landschaftsarchäologie
+*** II. Sonderabteilungen der Monographien
+**** 1 Allgemeine Ur- und Frühgeschichte
+***** 1a Allgemeine Ur- und Frühgeschichte
+***** 1b Steinzeit allgemein; Paläo- und Mesolithikum
+***** 1c Neolithikum
+***** 1d Bronze- und Hallstattzeit
+***** 1e Jüngere Eisenzeit, Skythen, Thraker, Kelten, Germanen allgemein
+***** 1f Römische Kaiserzeit
+***** 1g Völkerwanderungs- und Merowingerzeit
+***** 1h Wikinger-Frankenreich-Slawen
+***** 1i Mittelalter und frühe Neuzeit
+***** 11 Technologie
+**** 21 Numismatik
+*** III. Regionale Abteilungen der Zeitschriften und Monographien
+**** a. nach Standortleitzahl
+***** 100 	Deutschland allgemein
+***** 103 	Baden
+***** 104 	Baden-Württemberg
+***** 106 	Rheinland-Pfalz, Saarland
+***** 109 	Hessen
+***** 114 	Württemberg
+***** 117 	Bayern
+***** 133 	Schlesien
+***** 140 	Ostpreußen, Westpreußen
+***** 144 	Pommern
+***** 147 	Brandenburg
+***** 150 	Sachsen, Sachsen-Anhalt, Thüringen
+***** 155 	Mecklenburg-Vorpommern
+***** 158 	Schleswig-Holstein
+***** 160 	Bremen, Hamburg, Niedersachsen
+***** 165 	Nordrhein-Westfalen
+***** 171 	Portugal, Pyrenäenhalbinsel, Spanien
+***** 173 	Italien
+***** 175 	Schweiz, Liechtenstein
+***** 177 	Frankreich, Monaco
+***** 180 	Belgien
+***** 181 	Luxemburg
+***** 182 	Niederlande
+***** 184 	Britische Inseln, Großbritannien, Irland
+***** 189 	Dänemark
+***** 191 	Island, Norwegen
+***** 193 	Schweden
+***** 195 	Finnland
+***** 197 	Baltikum (Estland, Lettland, Litauen)
+***** 201 	Polen
+***** 204 	Rußland
+***** 205 	Sibirien
+***** 206 	Tschechische und Slowakische Republ.
+***** 208 	Österreich
+***** 210 	Ungarn
+***** 212 	Rumänien
+***** 214 	ehem. Jugoslawien
+***** 215 	Albanien
+***** 216 	Bulgarien
+***** 218 	Griechenland
+***** 300 	Alter Orient allgemein
+***** 310 	Türkei
+***** 320 	Urartu
+***** 330 	Kaukasus
+***** 340 	Syrien
+***** 350 	Israel, Jordanien, Libanon
+***** 360 	Zypern
+***** 370 	Iraq
+***** 380 	Arabien
+***** 390 	Iran
+***** 400 	Afghanistan, Indien, Pakistan
+***** 410 	Mittelasien (ehem. Sowjetunion)
+***** 420 	Ostasien
+***** 430 	Ägypten, Nordafrika, Sudan
+***** 440 	Süd- und Zentralafrika
+***** 500 	Amerika und Ozeanien
+**** b. nach dem Alphabet
+***** Afghanistan 	400
+***** Ägypten 	430
+***** Albanien 	215
+***** Alter Orient allgemein 	300
+***** Amerika 	500
+***** Arabien 	380
+***** Baden 	103
+***** Baden-Württemberg 	104
+***** Baltikum 	197
+***** Bayern 	117
+***** Belgien 	180
+***** Brandenburg 	147
+***** Bremen 	160
+***** Britische Inseln 	184
+***** Bulgarien 	216
+***** Dänemark 	189
+***** Deutschland allgemein 	100
+***** Finnland 	195
+***** Frankreich 	177
+***** Griechenland 	218
+***** Großbritannien 	184
+***** Hamburg 	160
+***** Hessen 	109
+***** Indien 	400
+***** Iran 	390
+***** Iraq 	370
+***** Irland 	184
+***** Island 	191
+***** Israel 	350
+***** Italien 	173
+***** Jugoslawien (ehem.) 	214
+***** Kaukasus 	330
+***** Libanon 	350
+***** Liechtenstein 	175
+***** Luxemburg 	181
+***** Mecklenburg 	155
+***** Mittelasien (ehem. SU) 	410
+***** Monaco 	177
+***** Niederlande 	182
+***** Niedersachsen 	160
+***** Nordafrika 	430
+***** Nordrhein-Westfalen 	165
+***** Norwegen 	191
+***** Ostasien 	420
+***** Österreich 	208
+***** Ostpreußen 	140
+***** Pakistan 	400
+***** Palästina 	350
+***** Polen 	201
+***** Pommern 	144
+***** Portugal 	171
+***** Pyrenäen-Halbinsel 	171
+***** Rheinland-Pfalz 	106
+***** Rumänien 	212
+***** Rußland 	204
+***** Saarland 	106
+***** Sachsen 	150
+***** Schlesien 	133
+***** Schlewig-Holstein 	158
+***** Schweden 	193
+***** Schweiz 	175
+***** Sibirien 	205
+***** Slowakische Republik 	206
+***** Spanien 	171
+***** Sudan 	430
+***** Thüringen 	150
+***** Tschechische Republik 	206
+***** Türkei 	310
+***** Ungarn 	210
+***** Urartu 	320
+***** Westpreußen 	140
+***** Württemberg 	114
+***** Zentralafrika 	440
+***** Zypern 360
+** Vorderasiatische Archäologie
+
