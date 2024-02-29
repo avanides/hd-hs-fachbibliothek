@@ -3816,7 +3816,7 @@ Alle Orte, die früher selbständig waren, werden gesondert aufgeführt.
 **** 0760 - 0799 Amtl. Kreisbeschreibungen
 *** 0800 - 0999 Weitere Gebiete
 *** 1000 - xxxx Literatur allgemeinen, besonders methodischen Inhalts
-** DOING VIII - Sprache, Volkskunde und Bevölkerungsgeschichte
+** VIII - Sprache, Volkskunde und Bevölkerungsgeschichte
 *** 0001 - 0009 Allgemein Oberrheinisches
 *** 0010 - 0149 Volkskunde Baden
 **** 0010 - 0014 Allgemeine Volkskunde
@@ -3829,69 +3829,91 @@ Alle Orte, die früher selbständig waren, werden gesondert aufgeführt.
 **** 0190 - 0199 Volkstrachten
 **** 0200 - 0209 Einzelne Bräuche
 **** 0210 - 0299 Volkskunst
-*** 0300  Volkskunde Saar
+*** 0300 - 0309 Volkskunde Saar
 **** 0300 - 0307 Allgemeine Volkskunde
 **** 0309 - 0310  Äußerungen des Volkstums
 **** 0308 - 0309 Einzelne Gebiete und Orte
-*** 0310  Volkskunde Elsaß
+*** 0310 - 0319 Volkskunde Elsaß
 **** 0310 - 0317 Allgemeine Volkskunde
 **** 0318 - 0319 Äußerungen des Volkstums
 **** 0319 - 0320 Einzelne Gebiete und Orte
-*** 0320  Volkskunde Lothringen
+*** 0320 - 0329 Volkskunde Lothringen
 **** 0320 - 0327 Allgemeine Volkskunde
 **** 0328 - 0329 Äußerungen des Volkstums
 **** 0329 - 0330 Einzelne Gebiete und Orte
-*** 0330  Volkskunde Luxemburg
+*** 0330 - 0339 Volkskunde Luxemburg
 **** 0330 - 0337 Allgemeine Volkskunde
 **** 0338 - 0339 Äußerungen des Volkstums
 **** 0339 - 0340 Einzelne Gebiete und Orte
-*** 0340  Volkskhunde Hessen (Rheinland)
-**** 0010 - 0014 Allgemeine Volkskunde
-**** 0149 - 0150 Äußerungen des Volkstums
-**** 0015 - 0149 Einzelne Gebiete und Orte
-*** 0350  Volkskunde Franken
-**** 0010 - 0014 Allgemeine Volkskunde
-**** 0149 - 0150 Äußerungen des Volkstums
-**** 0015 - 0149 Einzelne Gebiete und Orte
-*** Volkskunde Württemberg
-**** 0010 - 0014 Allgemeine Volkskunde
-**** 0149 - 0150 Äußerungen des Volkstums
-**** 0015 - 0149 Einzelne Gebiete und Orte
-*** Weitere Gebiete
-*** Oberrhein (Elsaß/Baden/Schweiz)
-*** Sprache Baden
-**** Allgemeines: Wörterbücher, Namenbücher, Sprachliche Bewegungen u.a.
-**** Einzelne Gegenden und Orte
-*** Sprache Pfalz
-**** Allgemeines
-**** Einzelne Gegenden und Orte
-*** Sprache Saar
-**** Allgemeines
-**** Einzelne Gegenden und Orte
-*** Sprache Elsaß
-**** Allgemeines
-**** Einzelne Gegenden und Orte
-*** Sprache Lothringen
-**** Allgemeines
-**** Einzelne Gegenden und Orte
-*** Sprache Luxemburg
-**** Allgemeines
-**** Einzelne Gegenden und Orte
-*** Sprache Hessen (Rheinland)
-**** Allgemeines
-**** Einzelne Gegenden und Orte
-*** Sprache Franken
-**** Allgemeines
-**** Einzelne Gegenden und Orte
-*** Sprache Württemberg
-**** Allgemeines
-**** Einzelne Gegenden und Orte
-*** Sprache Weitere Gebiete:
-***  900  Bevölkerungsgeschichte u. Einzelfamilien
-***  1000  Wanderungen
-***  1500  Allgemeine, besonders methodische Literatur zur Bevölkerungsgeschichte
-***  1600  Flüchtlingsprobleme. Geschichte der Vertreibung und Eingliederung in die örtliche Bevölkerung.
-***  1700  Juden
+*** 0340 - 0349 Volkskhunde Hessen (Rheinland)
+**** 0340 - 0347 Allgemeine Volkskunde
+**** 0348 - xxxx Äußerungen des Volkstums
+**** 0349 - xxxx Einzelne Gebiete und Orte
+*** 0350 - 0359 Volkskunde Franken
+**** 0350 - 0357 Allgemeine Volkskunde
+**** 0358 - xxxx Äußerungen des Volkstums
+**** 0359 - xxxx Einzelne Gebiete und Orte
+*** 0360 - 0369 Volkskunde Württemberg
+**** 0360 - 0367 Allgemeine Volkskunde
+**** 0368 - xxxx Äußerungen des Volkstums
+**** 0369 - xxxx Einzelne Gebiete und Orte
+*** 0370 - 0379 Weitere Gebiete
+*** 0380 - 0399 Oberrhein (Elsaß/Baden/Schweiz)
+*** 0400 - 0499 Sprache Baden
+**** 0400 - 0409 Allgemeines: Wörterbücher, Namenbücher, Sprachliche Bewegungen u.a.
+**** 0410 - 0499 Einzelne Gegenden und Orte
+*** 0500 - 0599 Sprache Pfalz
+**** 0500 - 0529 Allgemeines
+**** 0530 - 0599 Einzelne Gegenden und Orte
+*** 0600 - 0699 Sprache Saar
+**** 0600 - 0639 Allgemeines
+**** 0640 - 0699 Einzelne Gegenden und Orte
+*** 0700 - 0749 Sprache Elsaß
+**** 0700 - 0724 Allgemeines
+**** 0725 - 0749 Einzelne Gegenden und Orte
+*** 0750 - 0789 Sprache Lothringen
+**** 0750 - 0769 Allgemeines
+**** 0770 - 0789 Einzelne Gegenden und Orte
+*** 0790 - 0799 Sprache Luxemburg
+**** 0790 - 0798 Allgemeines
+**** 0799 - xxxx Einzelne Gegenden und Orte
+*** 0800 - 0824 Sprache Hessen (Rheinland)
+**** 0800 - 0814 Allgemeines
+**** 0815 - 0824 Einzelne Gegenden und Orte
+*** 0825 - 0849 Sprache Franken
+**** 0825 - 0839 Allgemeines
+**** 0840 - 0849 Einzelne Gegenden und Orte
+*** 0850 - 0874 Sprache Württemberg
+**** 0850 - 0864 Allgemeines
+**** 0865 - 0874 Einzelne Gegenden und Orte
+*** 0875 - 0899 Sprache Weitere Gebiete:
+*** 0900 - 0999 Bevölkerungsgeschichte u. Einzelfamilien
+**** 0910 - 0949 Baden
+**** 0950 - 0959 Pfalz
+**** 0960 - 0964 Elsaß
+**** 0965 - 0969 Lothringen
+**** 0970 - 0974 Luxemburg
+**** 0975 - 0979 Hessen (Rheinland)
+**** 0980 - 0984 Franken
+**** 0985 - 0989 Württemberg
+**** 0990 - 0999 Weitere Gebiete
+*** 1000 - xxxx Wanderungen
+**** 1000 - 1099  Badische und pfälzische Auswanderung
+**** 1100 - 1249 Wanderbewegungen an der Westgrenze
+***** 1110 - 1149 im Elsaß
+***** 1150 - 1199 in Lothringen
+***** 1200 - 1249 in Luxemberg
+**** 1250 - 1499 Wanderbewegungen im Innern
+***** 1260 - 1299 in Hessen (Rheinland)
+***** 1300 - 1349 in Franken
+***** 1350 - 1399 in Württemberg
+***** 1400 - 1499 in weiteren Gebieten
+*** 1500 - 1599 Allgemeine, besonders methodische Literatur zur Bevölkerungsgeschichte
+*** 1600 - 1699 Flüchtlingsprobleme. Geschichte der Vertreibung und Eingliederung in die örtliche Bevölkerung.
+*** 1700 - xxxx Juden
+**** 1700 - 1709 Allgemein
+**** 1710 - 1719 in Baden
+**** 1720 - xxxx in Pfalz etc.
 ** DOING IX - Wirtschaft und soziale Zustände
 *** Allgemein Oberrheinisches
 *** Baden
@@ -4310,66 +4332,66 @@ Alle Orte, die früher selbständig waren, werden gesondert aufgeführt.
 **** XII 7900 ff Presse
 *** XIT 9000 ff Weitere Gebiete und Allgemeings
 **** 9950 ff Historiographie
-** DOING XIII - Literaturdenkmäler (Texte)
-*** Denkmäler nach Verfassern (alphabetisch)
+** XIII - Literaturdenkmäler (Texte)
+*** aaa - zzz Denkmäler nach Verfassern (alphabetisch)
 (die Signatur enthält jeweils die drei ersten Buchstaben des Verfassernamens)
-*** Sammlungen von Literaturdenkmälern
-**** Sammlungen nach landschaftlichen Gesichtspunkten
-***** Baden
-***** Pfalz
-***** Saar
-***** Elsaß
-***** Lothringen
-***** Luxemburg
-***** Hessen (Rheinland)
-***** Franken
-***** Württemberg
-***** Weitere Gebiete
-**** Sammlungen nach anderen Gesichtspunkten
-*** Sammlungen von Inschriften und ähnlichem
-**** Sammlungen nach landschaftlichen Gesichtspunkten
-***** Baden
-***** Pfalz
-***** Saar
-***** Elsaß
-***** Lothringen
-***** Luxemburg
-***** Hessen (Rheinland)
-***** Franken
-***** Württemberg
-***** Weitere Gebiete
-*** Sammlungen nach anderen Gesichtspunkten
-** DOING XX - Karten
-*** xx 1ı ff Karten größerer Gebiete
-*** xX 50 ££f Kartensammlungem
-*** xXX 100 ff Landschaften
-**** 100 ff Baden
-**** 200 ff Pfalz
-**** 300 ff Saar
-**** 400 ff Elsaß
-**** 500 ff Lothringen
-**** 600 ff Luxemburg
-**** 700 ff Hessen ((Rheinland)
-**** 800 ff Franken
-**** 20 ff Württemberg
-**** 1000 ff Weitere Gebiete
-*** x aaa ff Orte ((alphabetisch)
-** DOING XXI - Wandkarten
-*** Karten größerer Gebiete
-*** Kartensammlungen
-*** Landschaften
-**** Baden
-**** Pfalz
-**** Saar
-**** Elsaß
-**** Lothringen
-**** Luxemburg
-**** Hessen (Rheinland)
-**** Franken
-**** Württemberg
-**** Weitere Gebiete
+*** 0001 - 0399 Sammlungen von Literaturdenkmälern
+**** 0010 - 0049 Sammlungen nach landschaftlichen Gesichtspunkten
+***** 0050 - 0074 Baden
+***** 0075 - 0099 Pfalz
+***** 0100 - 0124 Saar
+***** 0125 - 0149 Elsaß
+***** 0150 - 0174 Lothringen
+***** 0175 - 0199 Luxemburg
+***** 0200 - 0224 Hessen (Rheinland)
+***** 0225 - 0249 Franken
+***** 0250 - 0299 Württemberg
+***** 0300 - 0399 Weitere Gebiete
+**** 0400 - 0499 Sammlungen nach anderen Gesichtspunkten
+*** 0500 - 1199 Sammlungen von Inschriften und ähnlichem
+**** 0550 - 0599 Sammlungen nach landschaftlichen Gesichtspunkten
+***** 0600 - 0649 Baden
+***** 0650 - 0699 Pfalz
+***** 0700 - 0749 Saar
+***** 0750 - 0799 Elsaß
+***** 0800 - 0849 Lothringen
+***** 0850 - 0899 Luxemburg
+***** 0900 - 0949 Hessen (Rheinland)
+***** 0950 - 0999 Franken
+***** 1000 - 1099 Württemberg
+***** 1100 - 1199 Weitere Gebiete
+*** 1200 - xxxx Sammlungen nach anderen Gesichtspunkten
+** XX - Karten
+*** 0001 - 0049 Karten größerer Gebiete
+*** 0050 - 0099 Kartensammlungem
+*** 0100 - 1000 Landschaften
+**** 0100 - 0199 Baden
+**** 0200 - 0299 Pfalz
+**** 0300 - 0399 Saar
+**** 0400 - 0499 Elsaß
+**** 0500 - 0599 Lothringen
+**** 0600 - 0699 Luxemburg
+**** 0700 - 0799 Hessen ((Rheinland)
+**** 0800 - 0899 Franken
+**** 0900 - 0999 Württemberg
+**** 1000 - xxx Weitere Gebiete
+*** AAAA - ZZZZ Orte ((alphabetisch)
+** XXI - Wandkarten
+*** 0001 - 0049 Karten größerer Gebiete
+*** 0050 - 0099 Kartensammlungen
+*** 0100 - 1000 Landschaften
+**** 0100 - 0199 Baden
+**** 0200 - 0299 Pfalz
+**** 0300 - 0399 Saar
+**** 0400 - 0499 Elsaß
+**** 0500 - 0599 Lothringen
+**** 0600 - 0699 Luxemburg
+**** 0700 - 0799 Hessen (Rheinland)
+**** 0800 - 0899 Franken
+**** 0900 - 0999 Württemberg
+**** 1000 - xxxx Weitere Gebiete
 *** Orte (alphabetisch)
-** DOING XXII - Reisebücher
+** XXII - Reisebücher
 *** 0001 - 0049 Allgemeines
 *** 0050 - 0099 Sammelwerke
 *** 0100 - 10000 Landschaften
