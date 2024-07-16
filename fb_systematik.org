@@ -3820,7 +3820,7 @@ Alle Orte, die früher selbständig waren, werden gesondert aufgeführt.
 *** 0001 - 0009 Allgemein Oberrheinisches
 *** 0010 - 0149 Volkskunde Baden
 **** 0010 - 0014 Allgemeine Volkskunde
-**** 0015 - 0149 Einzelne Gebiete und Orte
+**** 0015 - 0148 Einzelne Gebiete und Orte
 **** 0149 - 0150 Äußerungen des Volkstums
 *** 0150 - 0299 Volkskunde Pfalz
 **** 0150 - 0169 Allgemeine Volkskunde
@@ -3914,424 +3914,472 @@ Alle Orte, die früher selbständig waren, werden gesondert aufgeführt.
 **** 1700 - 1709 Allgemein
 **** 1710 - 1719 in Baden
 **** 1720 - xxxx in Pfalz etc.
-** DOING IX - Wirtschaft und soziale Zustände
-*** Allgemein Oberrheinisches
-*** Baden
-**** Allgemeines
-**** Einzelne Gegenden und Orte
-*** Badische Landwirtschaft
-**** Ländliche Besitzverhältnisse
-**** Domänen und Großgrundbesitz
-**** Bäuerlicher Kleinbesitz
-**** Geschichte des Bauerntums
-**** Landwirtschaftliche Betriebslehre
-**** Einzelne Zweige:
-***** Weinbau
-***** Forstwirtschaft
-*** Badische; Gewerbe und Industrie
-**** Allgemeines
-**** Einzelne Gewerbe und Gebiete
-**** Baugewerbe
-*** Badischer Handel und Verkehr
-**** Allgemeines
-**** Einzelne Zweige und Gebiete
-**** Grundstückhandel
-**** Verkehr
-**** Straßen
-**** Eisenbahnen
-**** Wasserstraßen
-*** Geld- und Bankwesen in Baden
-*** Sozialpolitik in Baden
-*** Bfalz_und_Kurtrier
-**** Allgemeines
-**** Einzelne Gegenden und Orte
-**** Landwirtschaft
-***** Wein- und Obstbau
-***** Forstwirtschaft
-**** Gewerbe und Industrie
-***** Einzelne Gewerbszweige
-***** Einzelne Gegenden und Orte
-**** Handel und Verkehr
-***** Einzelne Zweige des Handels
-***** Verkehr in der Pfalz
-**** Geldwesen und Banken
-**** Sozialpolitik
-*** Saar
-**** Allgemeines
-**** Einzelne Gegenden und Orte
-**** Saarländische Landwirtschaft
-**** Gewerbe und Industrie
-***** Einzelne Gewerbezweige
-***** Einzelne Gegenden und Orte
-**** Handel und Verkehr
-***** Einzelne Zweige des Handels
-***** Verkehr
-**** Geldwesen und Banken
-**** Sozialpolitik
-*** Elsaß
-**** Allgemeines
-**** Einzelne Gegenden und Orte
-**** Landwirtschaft
-**** Gewerbe und Industrie
-***** Einzelne Gewerbszweige
-***** Einzelne Gegenden und Orte
-**** Handel und Verkehr
-***** Einzelne Zweige des Handels
-***** Verkehr
-**** Geldwesen
-**** Sozialpolitik
-*** Lothringen
-**** Allgemeines
-**** Einzelne Gegenden und Orte
-**** Landwirtschaft
-**** Gewerbe und Industrie
-***** Einzelne Gewerbszweige
-***** Einzelne Gegenden und Orte
-**** Handel und Verkehr
-***** Einzelne Zweige des Handels
-***** Verkehr
-**** Geldwesen
-**** Sozialpolitik
-*** Luxembürg
-**** Allgemeines
-**** Einzelne Gegenden und Orte
-**** Landwirtschaft
-**** Gewerbe und Industrie
-***** Einzelne Gewerbszweige
-***** Einzelne Gegenden und Orte
-**** Handel und Verkehr
-***** Einzelne Zweige des Handels
-***** Verkehr
-**** Geldwesen
-**** Sozialpolitik
-*** Hessen (Rheinland + Kurmainz
-**** Allgemeines
-**** Einzelne Gegenden und Orte
-**** Landwirtschaft
-**** Gewerbe und Industrie
-***** Einzelne Gewerbszweige
-***** Einzelne Gegenden und Orte
-**** Handel und Verkehr
-***** Einzelne Zweige des Handels»
-***** Verkehr
-**** Geldwesen
-**** Sozialpolitik
-*** Franken
-**** Allgemeines
-**** Einzelne Gegenden und Orte
-**** Landwirtschaft
-**** Gewerbe und Industrie
-***** Einzelne Gewerbszweige
-***** Einzelne Gegenden und Orte
-**** Handel und Verkehr
-***** Einzelne Zweige des Handels
-***** Verkehr
-**** Geldwesen
-**** Sozialpolitik
-*** Württemberg
-**** Allgemeines
-**** Einzelne Gegenden und Orte
-**** Landwirtschaft
-**** Gewerbe und Industrie
-***** Einzelne Gewerbszweige
-***** Einzelne Gegenden und Orte
-**** Handel und Verkehr
-***** Einzelne Zweige des Handels
-***** Verkehr
-**** Geldwesen
-**** Sozialpolitik
-*** Weitere Gebiete
-*** Literatur allgemeinen, besonders methodischen Inhalts
-** DOING X - Verfassung und Recht
-*** Allgemein Oberrheinisches und darüber hinaus
-*** Baden
-**** Verfassung und öffentliches Recht
-***** Mittelalter
-***** Frühe Neuzeit
-***** Allgemeine Verfassungseinrichtungen seit 1803
-**** Spezielle Institutionen
-***** Landtag
-***** Finanzen und Steuern
-***** Standesherren
-***** Kaiser und Staat
-***** Gemeinden
-***** Öffentlicher Besitz
-***** Ländliche Rechtsverhältnisse
-**** Privat- und Strafrecht
-*** Pfalz
-**** Verfassung und öffentliches Recht
-***** Mittelalter
-***** Neuzeit
-**** Spezielle Institutionen
-***** Städtewesen
-***** Ländliche Rechtsverhältnisse
-***** Sonstige öffentliche Rechtsverhältnisse
-**** Privat- und Strafrecht
-*** Saar
-**** Verfassung und öffentliches Recht
-***** Mittelalter
-***** Neuzeit
-**** Spezielle Institutionen
-***** Städtewesen
-***** Ländliche Rechtsverhältnisse
-***** Sonstige öffentliche Rechtsverhältnisse
-**** Privat- und Strafrecht
-*** Els
-**** Verfassung und öffentliches Recht
-***** Mittelalter
-***** Neuzeit
-**** Spezielle Institutionen
-***** Städtewesen
-***** Ländliche Rechtsverhältnisse
-***** Sonstige öffentliche Rechtsverhältnisse
-**** Privat- und Strafrecht
-*** Lothringen
-**** Verfassung und öffentliches Recht
-***** Mittelalter
-***** Neuzeit
-**** Spezielle Institutionen
-***** Städtewesen
-***** Ländliche Rechtsverhältnisse
-***** Sonstige öffentliche Rechtsverhältnisse
-**** Privat- und Strafrecht
-*** Luxemburg
-**** Verfassung und öffentliches Recht
-***** Mittelalter
-***** Neuzeit
-**** Spezielle Institutionen
-***** Städtewesen
-***** Ländliche Rechtsverhältnisse
-***** Sonstige öffentliche Rechtsverhältnisse
-**** Privat- und Strafrecht
-*** dessen (Rheinland)
-**** Verfassung und öffentliches Recht
-***** Mittelalter
-***** Neuzeit
-**** Spezielle Institutionen
-***** Städtewesen
-***** Ländliche Rechtsverhältnisse
-***** Sonstige öffentliche Rechtsverhältnisse
-**** Privat- und Strafrecht
-*** Ezanken
-**** Verfassung und öffentliches Recht
-***** Mittelalter
-***** Neuzeit
-**** Spezielle Institutionen
-***** Städtewesen
-***** Ländliche Rechtsverhältnisse
-***** Sonstige öffentliche Rechtsverhältnisse
-**** Privat- und Strafrecht
-**** Hochstift Würzburg
-*** Württemberg
-**** Verfassung und öffentliches Recht
-***** Mittelalter
-***** Neuzeit
-**** Spezielle Institutionen
-***** Städtewesen
-***** Ländliche Rechtsverhältnisse
-***** Sonstige öffentliche Rechtsverhältnisse
-**** Privat- und Strafrecht
-*** Weitere Gebiete
-*** Allgemeine Literatur zur Rechts- und Verfassungsgeschichte
-** DOING XI - Kirchengeschichte
-*** Allgemein OÖberrheinisches
-*** Baden
-**** Katholische Kirche (Gesamtdarstellungen)
-***** Mittelalter
-***** Neuzeit
-***** Einzelne Kirchen
-**** Evangelische Kirche (Gesamtdarstellungen Neuzeit)
-***** Einzelne Kirchen
-*** E£alz (sScenzgehiete, „2.B. „Irier)
-**** Katholische Kirche
-***** Mittelalter
-***** Neuzeit
-***** Einzelne Kirchen
-**** Evangelische Kirche
-***** Einzelne Kirchen
-*** Saar
-**** Katholische Kirche (Gesamtdarstellungen)
-***** Mittelalter
-***** Neuzeit
-***** Einzelne Kirchen
-**** Evangelische Kirche (Gesamtdarstellungen Neuzeit)
-***** Einzelne Kirchen
-*** 1saß
-**** Katholische Kirche (Gesamtdarstellungen)
-***** Mittelalter
-***** Neuzeit
-***** Einzelne Kirchen
-**** Evangelische Kirche (Gesamtdarstellungen Neuzeit)
-***** Einzelne Kirchen
-*** Lothringen (Trier)
-**** Katholische Kirche (Gesamtdarstellungen)
-***** Mittelalter
-***** Neuzeit
-***** Einzelne Kirchen
-**** Evangelische Kirche (Gesamtdarstellungen Neuzeit)
-***** Einzelne Kirchen
-*** Luxssburg
-**** Katholische Kirche (Gesamtdarstellungen)
-***** Mittelalter
-***** Neuzeit
-***** Einzelne Kirchen
-**** Evangelische Kirche (Gesamtdarstellungen Neuzeit)
-***** Einzelne Kirchen
-*** Hessen
-**** Katholische Kirche (Gesamtdarstellungen)
-***** Mittelalter
-***** Neuzeit
-***** Einzelne Kirchen
-**** Evangelische Kirche (Gesamtdarstellungen Neuzeit)
-***** Einzelne Kirchen
-*** Eranken
-**** Katholische Kirche (Gesamtdarstellungen)
-***** Mittelalter
-***** Neuzeit
-***** Einzelne Kirchen
-**** Evangelische Kirche (Gesamtdarstellungen Neuzeit)
-***** Einzelne Kirchen
-*** Württemberg
-**** Katholische Kirche (Gesamtdarstellungen)
-***** Mittelalter
-***** Neuzeit
-***** Einzelne Kirchen
-**** Evangelische Kirche (Gesamtdarstellungen Neuzeit)
-***** Einzelne Kirchen
-*** Weitere Gebiste
-*** Bayern
-*** Allgemeine Literatur zur Kirchengeschichte
-**** Sammelwerke
-*** Schweiz
-** DOING XII - Kultur- und Bildungsgeschichte
-*** Allgemein Oberrheinisches
-*** Baden, Pfalz, Saar
-**** Allgemein badische geistesgeschichtliche Darstellungen
-**** Allgemein pfälzische und saarländische geistesgeschichtliche Darstellungen
-***** Einzelne Gegenden
-***** Einzelne Zeiten
-****** Mittelalter
-****** 16. und 17. Jh.: Allgemeine Geistes und Literaturgeschichte
-******* Einzelne Sachgebiete und Wissenschaften
-****** 18. Jh.: Allgemeine Geistes- und Literaturgeschichte
-******* Einzelne Sachgebiete und Wissenschaften
-****** 19. Jh.s Allgemeine Geistes- und Literaturgeschichte
-******* Einzelne Sachgebiete und Wissenschaften
-****** 20. Jh.:s Allgemeine Geistes- und Literaturgeschichte
-******* Einzelne Sachgebiete und Wissenschaften
-**** Musik, Feste, Theater (Allgemeines)
-***** Einzelne Kulturmittelpunkte
-***** Theater
-**** Bildende Kunst (Allgemeines)
-***** Einzelne Zeiten
-****** Mittelalter
-****** 16. und 17. Jh.
-****** 18. Jh.
-****** 19. und 20. Jh.
-***** Einzelne Orte (alphabetisch)
-**** Hochschulen und Forschungsstätten (Allgemeines)
-***** Heidelberg
-***** Freiburg usw.
-***** Kaiserslautern (Saarpfälzisches Institut)
-**** Schulen
-***** Badisches Bildungswesen, Allgemeines
-****** Einzelne badische Schulen
-***** Pfälzisches Schulwesen, Allgemeines
-****** Einzelne pfälzische Schulen
-***** Schulwesen an der Saar
-**** Vereinswesen
-**** Gesundheitswesen
-**** Presse
-*** Elsaß
-**** Allgemeine geistes- und literaturgeschichtliche Darstellungen
-***** Einzelne Gegenden
-***** Einzelne Zeiten
-****** Mittelalter
-****** Neuzeit
-**** Musik, Theater, Feste (Allgemeines)
-***** Einzelne Kulturmittelpunkte
-**** Bildende Kunst (Allgemeines)
-***** Einzelne Zeiten
-****** Mittelalter
-****** Neuzeit
-***** Einzelne Orte (alphabetisch)
-**** Lehr- und Forschungsstätten (Allgemeines)
-***** Universitäten
-***** Forschungsstätten
-***** Schulwesen im Allgemeinen
-****** Einzelne Schulen
-**** Vereinswesen
-**** Gesundheitswesen
-**** Presse
-*** Lothringen
-(Aufbau wie Elsaß)
-*** Luxemburg
-(Aufbau wie Elsaß)
-*** Hessen (Rheinland)
-**** Allgemeine geistes- und literaturgeschichtliche Darstellungen
-***** Einzelne Gegenden
-***** Einzelne Zeiten
-****** Mittelalter
-****** Neuzeit
-**** Musik, Theater, Feste (Allgemeines)
-***** Einzelne Kulturmittelpunkte
-**** Bildende Kunst (Allgemeines)
-***** Einzelne Zeiten
-****** Mittelalter
-****** Neuzeit
-***** Einzelne Orte (alphabetisch)
-**** Lehr- und Forschungsstätten (Allgemeines)
-***** Universitäten
-***** Forschungsstätten
-***** Schulwesen im Allgemeinen
-****** Einzelne Schulen
-**** Vereinswesen
-**** Gesundheitswesen
-**** Presse
-*** Franken
-**** Allgemeine geistes- und literaturgeschichtliche Darstellungen
-***** Einzelne Gegenden
-***** Einzelne Zeiten
-****** Mittelalter
-****** Neuzeit
-**** Musik, Theater, Feste (Allgemeines)
-***** Einzelne Kulturmittelpunkte
-**** Bildende Kunst (Allgemeines)
-***** Einzelne Zeiten
-****** Mittelalter
-****** Neuzeit
-***** Einzelne Orte (alphabetisch)
-**** Lehr- und Forschungsstätten (Allgemeines)
-***** Universitäten
-***** Forschungsstätten
-***** Schulwesen im Allgemeinen
-****** Einzelne Schulen
-**** Vereinswesen
-**** Gesundheitwesen
-**** Presse
-*** XII 7000 £f Württemberg
-**** XII 7000 ff Allgemeine geistes- und literaturgeschichtliche Darstellungen
-***** 7020 ff Einzelne Gegenden
-***** 7100 ff Einzelne Zeiten
-****** 7100 ff Mittelalter
-****** 7150 ff Neuzeit
-**** XII 7200 ff Musik, Theater, Feste (Allgemeines)
-***** 7240 ff Einzelne Kulturmittelpunkte
-**** xII 7300 ff Bildende Kunst (Allgemeines)
-***** 7320 ff Einzelne Zeiten
-****** 7320 ff Mittelalter
-****** 7400 ff Neuzeit
-***** 7500 ff Einzelne Orte (alphabetisch)
-**** XII. 7600 ff Lehr- und Forschungsstätten (Allgemeines)
-***** 7620 ff Universitäten
-***** 7640 ff Forschungsstätten
-***** 7650 ff Schulwesen im Allgemeinen
-****** 7670 ff Einzelne Schulen
-**** XII 7700 ff Vereinswesen
-**** XII 7800 ff Gesundheitswesen
-**** XII 7900 ff Presse
-*** XIT 9000 ff Weitere Gebiete und Allgemeings
-**** 9950 ff Historiographie
+** IX - Wirtschaft und soziale Zustände
+*** 0001 - 0099 Allgemein Oberrheinisches
+*** 0100 - 0749 Baden
+**** 0100 - 0299 Baden 
+***** 0100 - 0199 Allgemeines
+***** 0200 - 0299 Einzelne Gegenden und Orte
+**** 0300 - 0449 Badische Landwirtschaft
+***** 0320 - 0329 Ländliche Besitzverhältnisse
+***** 0320 - 0329 Domänen und Großgrundbesitz
+***** 0330 - 0339 Bäuerlicher Kleinbesitz
+***** 0340 - 0359 Geschichte des Bauerntums
+***** 0360 - 0369 Landwirtschaftliche Betriebslehre
+***** 0370 - 0449 Einzelne Zweige:
+****** 0370 - 0439 Weinbau
+****** 0440 - 0449 Forstwirtschaft
+**** 0450 - 0599 Badische; Gewerbe und Industrie
+***** 0450 - 0469 Allgemeines
+***** 0470 - 0569 Einzelne Gewerbe und Gebiete
+***** 0570 - 0599 Baugewerbe
+**** 0600 - 0699 Badischer Handel und Verkehr
+***** 0600 - 0609 Allgemeines
+***** 0610 - 0649 Einzelne Zweige und Gebiete
+***** 0650 - 0669 Grundstückhandel
+***** 0670 - 0674 Verkehr
+***** 0675 - 0679 Straßen
+***** 0680 - 0684 Eisenbahnen
+***** 0685 - 0699 Wasserstraßen
+**** 0700 - 0719 Geld- und Bankwesen in Baden
+**** 0720 - 0749 Sozialpolitik in Baden
+*** 0750 - 0999 Pfalz und Kurtrier
+**** 0750 - 0819 Pfalz und Kurtrier 
+***** 0750 - 0799 Allgemeines
+***** 0800 - 0819 Einzelne Gegenden und Orte
+**** 0820 - 0849 Landwirtschaft
+***** 0830 - 0844 Wein- und Obstbau
+***** 0845 - 0849 Forstwirtschaft
+**** 0850 - 0899 Gewerbe und Industrie
+***** 0870 - 0889 Einzelne Gewerbszweige
+***** 0890 - 0899 Einzelne Gegenden und Orte
+**** 0900 - 0950 Handel und Verkehr
+***** 0910 - 0929 Einzelne Zweige des Handels
+***** 0930 - 0949 Verkehr in der Pfalz
+**** 0950 - 0969 Geldwesen und Banken
+**** 0970 - 0999 Sozialpolitik
+*** 1000 - 3099 Saar
+**** 1000 - 1069 Saar
+***** 1000 - 1049 Allgemeines
+***** 1050 - 1069 Einzelne Gegenden und Orte
+**** 1070 - 1999 Saarländische Landwirtschaft
+**** 2000 - 2039 Gewerbe und Industrie
+***** 2010 - 2029 Einzelne Gewerbezweige
+***** 2030 - 2039 Einzelne Gegenden und Orte
+**** 2040 - 2089 Handel und Verkehr
+***** 2050 - 2069 Einzelne Zweige des Handels
+***** 2070 - 2089 Verkehr
+**** 2090 - 3009 Geldwesen und Banken
+**** 3010 - 3099 Sozialpolitik
+*** 3100 - 3999 Elsaß
+**** 3100 - 3199 Elsaß 
+***** 3100 - 3149 Allgemeines
+***** 3150 - 3199 Einzelne Gegenden und Orte
+**** 3200 - 3299 Landwirtschaft
+**** 3300 - 3499 Gewerbe und Industrie
+***** 3320 - 3399 Einzelne Gewerbszweige
+***** 3400 - 3499 Einzelne Gegenden und Orte
+**** 3500 - 3699 Handel und Verkehr
+***** 3520 - 3599 Einzelne Zweige des Handels
+***** 3600 - 3699 Verkehr
+**** 3700 - 3899 Geldwesen
+**** 3900 - 3999 Sozialpolitik
+*** 4000 - 5999 Lothringen
+**** 4000 - 4199 Lothringen 
+***** 4000 - 4099 Allgemeines
+***** 4100 - 4199 Einzelne Gegenden und Orte
+**** 4200 - 4299 Landwirtschaft
+**** 4300 - 4499 Gewerbe und Industrie
+***** 4320 - 4399 Einzelne Gewerbszweige
+***** 4400 - 4499 Einzelne Gegenden und Orte
+**** 4500 - 4699 Handel und Verkehr
+***** 4520 - 4599 Einzelne Zweige des Handels
+***** 5600 - 4699 Verkehr
+**** 4700 - 4899 Geldwesen
+**** 4900 - 4999 Sozialpolitik
+*** 5000 - 5999 Luxemburg
+**** 5000 - 5199 Luxemburg
+***** 5000 - 5099 Allgemeines
+***** 5100 - 5199 Einzelne Gegenden und Orte
+**** 5200 - 5299 Landwirtschaft
+**** 5300 - 5499 Gewerbe und Industrie
+***** 5320 - 5399 Einzelne Gewerbszweige
+***** 5400 - 5499 Einzelne Gegenden und Orte
+**** 5500 - 5699 Handel und Verkehr
+***** 5520 - 5599 Einzelne Zweige des Handels
+***** 5600 - 5699 Verkehr
+**** 5700 - 5899 Geldwesen
+**** 5900 - 5999 Sozialpolitik
+*** 6000 - 6999 Hessen, Rheinland + Kurmainz
+**** 6000 - 6199 Hessen, Rheinland + Kurmainz
+***** 6000 - 6099 Allgemeines 
+***** 6100 - 6199 Einzelne Gegenden und Orte
+**** 6200 - 6299 Landwirtschaft
+**** 6300 - 6499 Gewerbe und Industrie
+***** 6320 - 6399 Einzelne Gewerbszweige
+***** 6400 - 6499 Einzelne Gegenden und Orte
+**** 6500 - 6699 Handel und Verkehr
+***** 6520 - 6599 Einzelne Zweige des Handels»
+***** 6600 - 6699 Verkehr
+**** 6700 - 6899 Geldwesen
+**** 6900 - 6999 Sozialpolitik
+*** 7000 - 7999 Franken
+**** 7000 - 7199 Franken 
+***** 7000 - 7099 Allgemeines
+***** 7100 - 7199 Einzelne Gegenden und Orte
+**** 7200 - 7299 Landwirtschaft
+**** 7300 - 7499 Gewerbe und Industrie
+***** 7320 - 7399 Einzelne Gewerbszweige
+***** 7400 - 7499 Einzelne Gegenden und Orte
+**** 7500 - 7699 Handel und Verkehr
+***** 7520 - 7599 Einzelne Zweige des Handels
+***** 7600 - 7699 Verkehr
+**** 7700 - 7899 Geldwesen
+**** 7900 - 7999 Sozialpolitik
+*** 8000 - 8999 Württemberg
+**** 8000 - 8199 Württemberg 
+***** 8000 - 8099 Allgemeines
+***** 8100 - 8199 Einzelne Gegenden und Orte
+**** 8200 - 8299 Landwirtschaft
+**** 8300 - 8499 Gewerbe und Industrie
+***** 8320 - 8399 Einzelne Gewerbszweige
+***** 8400 - 8499 Einzelne Gegenden und Orte
+**** 8500 - 8699 Handel und Verkehr
+***** 8520 - 8599 Einzelne Zweige des Handels
+***** 8600 - 8699 Verkehr
+**** 8700 - 8899 Geldwesen
+**** 8900 - 8999 Sozialpolitik
+*** 9000 - xxxx Weitere Gebiete
+**** 10000 - xxxx Literatur allgemeinen, besonders methodischen Inhalts
+** X - Verfassung und Recht
+*** 0001 - 0009 Allgemein Oberrheinisches und darüber hinaus
+*** 0010 - 0399 Baden
+**** 10 - 174 Verfassung und öffentliches Recht
+***** 10 - 99 Mittelalter
+***** 100 - 149 Frühe Neuzeit
+***** 150 - 174 Allgemeine Verfassungseinrichtungen seit 1803
+**** 175 - 299 Spezielle Institutionen
+***** 175 - 179 Landtag
+***** 180 - 209 Finanzen und Steuern
+***** 210 - 219 Standesherren
+***** 220 - 239 Kaiser und Staat
+***** 240 - 269 Gemeinden
+***** 270 - 279 Öffentlicher Besitz
+***** 280 - 299 Ländliche Rechtsverhältnisse
+**** 300 - 399 Privat- und Strafrecht
+*** 400 - 699 Pfalz
+**** 400 - 549 Verfassung und öffentliches Recht
+***** 400 - 499 Mittelalter
+***** 500 - 549 Neuzeit
+**** 550 - 589 Spezielle Institutionen
+***** 555 - 769 Städtewesen
+***** 570 - 589 Ländliche Rechtsverhältnisse
+***** 590 - 599 Sonstige öffentliche Rechtsverhältnisse
+**** 600 - 699 Privat- und Strafrecht
+*** 700 - 1199 Saar
+**** 700 - 704 Verfassung und öffentliches Recht
+***** 705 - 799 Mittelalter
+***** 800 - 839 Neuzeit
+**** 840 - 849 Spezielle Institutionen
+***** 850 - 949 Städtewesen
+***** 950 - 1049 Ländliche Rechtsverhältnisse
+***** 1050 - 1099 Sonstige öffentliche Rechtsverhältnisse
+**** 1100 - 1199 Privat- und Strafrecht
+*** 1200 - 1699 Elsas
+**** 1250 - 1254 Verfassung und öffentliches Recht
+***** 1255 - 1299 Mittelalter
+***** 1300 - 1349 Neuzeit
+**** 1350 - 1699 Spezielle Institutionen
+***** 1400 - 1499 Städtewesen
+***** 1500 - 1599 Ländliche Rechtsverhältnisse
+***** 1600 - 1699 Sonstige öffentliche Rechtsverhältnisse
+**** 1700 - 1999 Privat- und Strafrecht
+*** 2000 - 2999 Lothringen
+**** 2100 - 2299 Verfassung und öffentliches Recht
+***** 2110 - 2199 Mittelalter
+***** 2200 - 2299 Neuzeit
+**** 2300 - 2699 Spezielle Institutionen
+***** 2400 - 2499 Städtewesen
+***** 2500 - 2599 Ländliche Rechtsverhältnisse
+***** 2600 - 2699 Sonstige öffentliche Rechtsverhältnisse
+**** 2700 - 2999 Privat- und Strafrecht
+*** 3000 - 3999 Luxemburg
+**** 3100 - 3299 Verfassung und öffentliches Recht
+***** 3110 - 3199 Mittelalter
+***** 3200 - 3299 Neuzeit
+**** 3300 - 3699 Spezielle Institutionen
+***** 3400 - 3499 Städtewesen
+***** 3500 - 3599 Ländliche Rechtsverhältnisse
+***** 3600 - 3699 Sonstige öffentliche Rechtsverhältnisse
+**** 3700 - 3999 Privat- und Strafrecht
+*** 4000 - 4999 Hessen (Rheinland)
+**** 4100 - 4299 Verfassung und öffentliches Recht
+***** 4110 - 4199 Mittelalter
+***** 4200 - 4299 Neuzeit
+**** 4300 - 4699 Spezielle Institutionen
+***** 4400 - 4499 Städtewesen
+***** 4500 - 4599 Ländliche Rechtsverhältnisse
+***** 4600 - 4699 Sonstige öffentliche Rechtsverhältnisse
+**** 4700 - 4999 Privat- und Strafrecht
+*** 5000 - 5999 Franken
+**** 5100 - 3299 Verfassung und öffentliches Recht
+***** 5110 - 5199 Mittelalter
+***** 5200 - 5299 Neuzeit
+**** 5300 - 5699 Spezielle Institutionen
+***** 5400 - 5499 Städtewesen
+***** 5500 - 5599 Ländliche Rechtsverhältnisse
+***** 5600 - 5699 Sonstige öffentliche Rechtsverhältnisse
+**** 5700 - 5799 Privat- und Strafrecht
+**** 5800 - 5999 Hochstift Würzburg
+*** 6000 - 6999 Württemberg
+**** 6100 - 6109 Verfassung und öffentliches Recht
+***** 6110 - 6199 Mittelalter
+***** 6200 - 6299 Neuzeit
+**** 6300 - 6699 Spezielle Institutionen
+***** 6400 - 6499 Städtewesen
+***** 6500 - 6599 Ländliche Rechtsverhältnisse
+***** 6600 - 6699 Sonstige öffentliche Rechtsverhältnisse
+**** 6700 - 6999 Privat- und Strafrecht
+*** 7000 - 8999 Weitere Gebiete
+*** 9000 - xxxx Allgemeine Literatur zur Rechts- und Verfassungsgeschichte
+** XI - Kirchengeschichte
+*** 0001 - 0009 Allgemein OÖberrheinisches
+*** 0010 - 0199 Baden
+**** 0010 - 0149 Katholische Kirche (Gesamtdarstellungen)
+***** 0015 - 0039 Mittelalter
+***** 0040 - 0099 Neuzeit
+***** 0100 - 0149 Einzelne Kirchen
+**** 0150 - 0189 Evangelische Kirche (Gesamtdarstellungen Neuzeit)
+***** 0190 - 0199 Einzelne Kirchen
+*** 0200 - 0399 Pfalz (Grenzgebiete, „2.B. „Irier")
+**** 0210 - 0319 Katholische Kirche
+***** 0210 - 0249 Mittelalter
+***** 0250 - 0279 Neuzeit
+***** 0280 - 0319 Einzelne Kirchen
+**** 0320 - 0399 Evangelische Kirche
+***** 0380 - 0399 Einzelne Kirchen
+*** 0400 - 0549 Saar
+**** 0410 - 0429 Katholische Kirche (Gesamtdarstellungen)
+***** 0430 - 0449 Mittelalter
+***** 0450 - 0479 Neuzeit
+***** 0480 - 0499 Einzelne Kirchen
+**** 0500 - 0549 Evangelische Kirche (Gesamtdarstellungen Neuzeit)
+***** 0520 - 0549Einzelne Kirchen
+*** 0550 - 0999 Elsaß
+**** 0560 - 0599 Katholische Kirche (Gesamtdarstellungen)
+***** 0600 - 0649 Mittelalter
+***** 0650 - 0699 Neuzeit
+***** 0700 - 0799 Einzelne Kirchen
+**** 0800 - 0999 Evangelische Kirche (Gesamtdarstellungen Neuzeit)
+***** 0900 - 0999 Einzelne Kirchen
+*** 1000 - 1499 Lothringen (Trier)
+**** 1010 - 1299 Katholische Kirche (Gesamtdarstellungen)
+***** 1050 -1099 Mittelalter
+***** 1100 - 1199 Neuzeit
+***** 1200 - 1299 Einzelne Kirchen
+**** 1300 - 1499 Evangelische Kirche (Gesamtdarstellungen Neuzeit)
+***** 1400 - 1499 Einzelne Kirchen
+*** 1500 - 1999 Luxemburg
+**** 1510 - 1799 Katholische Kirche (Gesamtdarstellungen)
+***** 1550 - 1599 Mittelalter
+***** 1600 - 1699 Neuzeit
+***** 1700 - 1799 Einzelne Kirchen
+**** 1800 - 1999 Evangelische Kirche (Gesamtdarstellungen Neuzeit)
+***** 1900 - 1999 Einzelne Kirchen
+*** 2000 - 2499 Hessen
+**** 2010 - 2299 Katholische Kirche (Gesamtdarstellungen)
+***** 2050 - 2079 Mittelalter
+***** 2080 - 2095 Mainz 
+***** 2096 - 2199 Neuzeit
+***** 2200 - 2299 Einzelne Kirchen
+**** 2300 - 2499 Evangelische Kirche (Gesamtdarstellungen Neuzeit)
+***** 2400 - 2499 Einzelne Kirchen
+*** 2500 - 2999 Franken
+**** 2510 - 2799 Katholische Kirche (Gesamtdarstellungen)
+***** 2550 - 2599 Mittelalter
+***** 2600 - 2699 Neuzeit
+***** 2700 - 2799 Einzelne Kirchen
+**** 2800 - 2999 Evangelische Kirche (Gesamtdarstellungen Neuzeit)
+***** 2900 - 2999 Einzelne Kirchen
+*** 3000 - 3999 Württemberg
+**** 3010 - 3299 Katholische Kirche (Gesamtdarstellungen)
+***** 3050 - 3099 Mittelalter
+***** 3100 - 3199 Neuzeit
+***** 3200 - 3299 Einzelne Kirchen
+**** 3300 - 3399 Evangelische Kirche (Gesamtdarstellungen Neuzeit)
+***** 3400 - 3999 Einzelne Kirchen
+*** 4000 - 4799 Weitere Gebiste
+*** 4800 - 5999 Bayern
+*** 6000 - 6999 Allgemeine Literatur zur Kirchengeschichte
+**** (keine Zahlen angegeben) Sammelwerke
+*** 7000 - xxxx Schweiz
+** XII - Kultur- und Bildungsgeschichte
+*** 0001 - 0099 Allgemein Oberrheinisches
+*** 0100 - 1999 Baden, Pfalz, Saar
+**** 0100 - 0109 Allgemein badische geistesgeschichtliche Darstellungen
+**** 0110 - 0700 Allgemein pfälzische und saarländische geistesgeschichtliche Darstellungen
+***** 0120 - 0129 Einzelne Gegenden
+***** 0130 - 0699 Einzelne Zeiten
+****** 0130 - 0249 Mittelalter
+****** 0250 - 0399 16. und 17. Jh.: Allgemeine Geistes und Literaturgeschichte
+******* 0300 - 0399 Einzelne Sachgebiete und Wissenschaften
+****** 0400 - 0499 18. Jh.: Allgemeine Geistes- und Literaturgeschichte
+******* 0450 - 0499 Einzelne Sachgebiete und Wissenschaften
+****** 0500 - 0599 19. Jh.s Allgemeine Geistes- und Literaturgeschichte
+******* 0550 - 0599 Einzelne Sachgebiete und Wissenschaften
+****** 0600 - 0699 20. Jh.:s Allgemeine Geistes- und Literaturgeschichte
+******* 0650 - 0699 Einzelne Sachgebiete und Wissenschaften
+**** 0700 - 0799 Musik, Feste, Theater (Allgemeines)
+***** 0710 - 0749 Einzelne Kulturmittelpunkte
+***** 0750 - 0799 Theater
+**** 0800 - 1199 Bildende Kunst (Allgemeines)
+***** 0820 - 1149 Einzelne Zeiten
+****** 0820 - 0899 Mittelalter
+****** 0900 - 0999 16. und 17. Jh.
+****** 1000 - 1049 18. Jh.
+****** 1050 - 1149 19. und 20. Jh.
+***** 1150 - 1199 Einzelne Orte (alphabetisch)
+**** 1200 - 1304 Hochschulen und Forschungsstätten (Allgemeines)
+***** 1210 - 1284 Heidelberg
+***** 1285 - 1299 Freiburg usw.
+***** 1300 - 1304 Kaiserslautern (Saarpfälzisches Institut)
+**** 1305 - 1599 Schulen
+***** 1305 - 1349 Badisches Bildungswesen, Allgemeines
+****** 1350 - 1399 Einzelne badische Schulen
+***** 1400 - 1449 Pfälzisches Schulwesen, Allgemeines
+****** 1450 - 1499 Einzelne pfälzische Schulen
+***** 1500 - 1599 Schulwesen an der Saar
+**** 1600 - 1699 Vereinswesen
+**** 1700 - 1799 Gesundheitswesen
+**** 1800 - 1999 Presse
+*** 2000 - 2999 Elsaß
+**** 2000 - 2199 Allgemeine geistes- und literaturgeschichtliche Darstellungen
+***** 2020 - 2099 Einzelne Gegenden
+***** 2100 - 2199 Einzelne Zeiten
+****** 2100 - 2149 Mittelalter
+****** 2150 - 2199 Neuzeit
+**** 2200 - 2299 Musik, Theater, Feste (Allgemeines)
+***** 2240 - 2299 Einzelne Kulturmittelpunkte
+**** 2300 - 2599 Bildende Kunst (Allgemeines)
+***** 2320 - 2499 Einzelne Zeiten
+****** 2320 - 2399 Mittelalter
+****** 2400 - 2499 Neuzeit
+***** 2500 - 2599 Einzelne Orte (alphabetisch)
+**** 2600 - 2699 Lehr- und Forschungsstätten (Allgemeines)
+***** 2620 - 2639 Universitäten
+***** 2640 - 2649 Forschungsstätten
+***** 2650 - 2699 Schulwesen im Allgemeinen
+****** 2670 - 2699 Einzelne Schulen
+**** 2700 - 2799 Vereinswesen
+**** 2800 - 2899 Gesundheitswesen
+**** 2900 - 2999 Presse
+*** 3000 Lothringen
+**** 3000 - 3199 Allgemeine geistes- und literaturgeschichtliche Darstellungen
+***** 3020 - 3099 Einzelne Gegenden
+***** 3100 - 3199 Einzelne Zeiten
+****** 3100 - 3149 Mittelalter
+****** 3150 - 3199 Neuzeit
+**** 3200 - 3299 Musik, Theater, Feste (Allgemeines)
+***** 3240 - 3299 Einzelne Kulturmittelpunkte
+**** 3300 - 3599 Bildende Kunst (Allgemeines)
+***** 3320 - 3499 Einzelne Zeiten
+****** 3320 - 3399 Mittelalter
+****** 3400 - 3499 Neuzeit
+***** 3500 - 3599 Einzelne Orte (alphabetisch)
+**** 3600 - 3699 Lehr- und Forschungsstätten (Allgemeines)
+***** 3620 - 3639 Universitäten
+***** 3640 - 3649 Forschungsstätten
+***** 3650 - 3699 Schulwesen im Allgemeinen
+****** 3670 - 3699 Einzelne Schulen
+**** 3700 - 3799 Vereinswesen
+**** 3800 - 3899 Gesundheitswesen
+**** 3900 - 3999 Presse
+*** 4000 Luxemburg
+**** 4000 - 4199 Allgemeine geistes- und literaturgeschichtliche Darstellungen
+***** 4020 - 4099 Einzelne Gegenden
+***** 4100 - 4199 Einzelne Zeiten
+****** 4100 - 4149 Mittelalter
+****** 4150 - 4199 Neuzeit
+**** 4200 - 4299 Musik, Theater, Feste (Allgemeines)
+***** 4240 - 4299 Einzelne Kulturmittelpunkte
+**** 4300 - 4599 Bildende Kunst (Allgemeines)
+***** 4320 - 4499 Einzelne Zeiten
+****** 4320 - 4399 Mittelalter
+****** 4400 - 4499 Neuzeit
+***** 4500 - 4599 Einzelne Orte (alphabetisch)
+**** 4600 - 4699 Lehr- und Forschungsstätten (Allgemeines)
+***** 4620 - 4639 Universitäten
+***** 4640 - 4649 Forschungsstätten
+***** 4650 - 4699 Schulwesen im Allgemeinen
+****** 4670 - 4699 Einzelne Schulen
+**** 4700 - 4799 Vereinswesen
+**** 4800 - 4899 Gesundheitswesen
+**** 4900 - 4999 Presse
+*** 5000 Hessen (Rheinland)
+**** 5000 - 5199 Allgemeine geistes- und literaturgeschichtliche Darstellungen
+***** 5020 - 5099 Einzelne Gegenden
+***** 5100 - 5199 Einzelne Zeiten
+****** 5100 - 5149 Mittelalter
+****** 5150 - 5199 Neuzeit
+**** 5200 - 5299 Musik, Theater, Feste (Allgemeines)
+***** 5240 - 5299 Einzelne Kulturmittelpunkte
+**** 5300 - 5599 Bildende Kunst (Allgemeines)
+***** 5320 - 5499 Einzelne Zeiten
+****** 5320 - 5399 Mittelalter
+****** 5400 - 5499 Neuzeit
+***** 5500 - 5599 Einzelne Orte (alphabetisch)
+**** 5600 - 5699 Lehr- und Forschungsstätten (Allgemeines)
+***** 5620 - 5639 Universitäten
+***** 5640 - 5649 Forschungsstätten
+***** 5650 - 5669 Schulwesen im Allgemeinen
+****** 5670 - 5699 Einzelne Schulen
+**** 5700 - 5799 Vereinswesen
+**** 5800 - 5899 Gesundheitswesen
+**** 5900 - 5999 Presse
+*** 6000 - 6999 Franken
+**** 6000 - 6199 Allgemeine geistes- und literaturgeschichtliche Darstellungen
+***** 6020 - 6099 Einzelne Gegenden
+***** 6100 - 6199 Einzelne Zeiten
+****** 6100 - 6149 Mittelalter
+****** 6150 - 6199 Neuzeit
+**** 6200 - 2999 Musik, Theater, Feste (Allgemeines)
+***** 6240 - 6299 Einzelne Kulturmittelpunkte
+**** 6300 - 6599 Bildende Kunst (Allgemeines)
+***** 6320 - 6499 Einzelne Zeiten
+****** 6320 - 6399 Mittelalter
+****** 6400 - 6499 Neuzeit
+***** 6500 - 6599 Einzelne Orte (alphabetisch)
+**** 6600 - 6699 Lehr- und Forschungsstätten (Allgemeines)
+***** 6620 - 6639 Universitäten
+***** 6640 - 6649 Forschungsstätten
+***** 6650 - 6699 Schulwesen im Allgemeinen
+****** 6670 - 6699 Einzelne Schulen
+**** 6700 - 6799 Vereinswesen
+**** 6800 - 6899 Gesundheitwesen
+**** 6900 - 6999 Presse
+*** 7000 - 8999 Württemberg
+**** 7000 - 7199  Allgemeine geistes- und literaturgeschichtliche Darstellungen
+***** 7020 - 7099 Einzelne Gegenden
+***** 7100 - 7199 Einzelne Zeiten
+****** 7100 - 7149 Mittelalter
+****** 7150 - 7199 Neuzeit
+**** 7200 - 7299 Musik, Theater, Feste (Allgemeines)
+***** 7240 - 7299 Einzelne Kulturmittelpunkte
+**** 7300 - 7599 Bildende Kunst (Allgemeines)
+***** 7320 - 7499 Einzelne Zeiten
+****** 7320 - 7399 Mittelalter
+****** 7400 - 7499 Neuzeit
+***** 7500 - 7599 Einzelne Orte (alphabetisch)
+**** 7600 - 7699 Lehr- und Forschungsstätten (Allgemeines)
+***** 7620 - 7639 Universitäten
+***** 7640 - 7649 Forschungsstätten
+***** 7650 - 7699 Schulwesen im Allgemeinen
+****** 7670 - 7699 Einzelne Schulen
+**** 7700 - 7799 Vereinswesen
+**** 7800 - 7899 Gesundheitswesen
+**** 7900 - 8999 ff Presse
+*** 9000 - xxxx Weitere Gebiete und Allgemeings
+**** 9950 - xxxx Historiographie
 ** XIII - Literaturdenkmäler (Texte)
 *** aaa - zzz Denkmäler nach Verfassern (alphabetisch)
 (die Signatur enthält jeweils die drei ersten Buchstaben des Verfassernamens)
@@ -5665,13 +5713,16 @@ Alle Signaturen beginnen mit ~Sch~.
 ** Yy - Jugoslawien, Ungarn, Rumänien
 ** Yz - Zeitschriften
 ** (Ohne Nummer?) Mikroformen
+\pagebreak
 * Bereichsbibliothek Altertumswissenschaften
 ** Institut für Ägyptologie
-*** Monographien
-*** Zeitschriften und Reihen
-*** Handbücher
-*** Museumskataloge
-*** Randgebiete
+*** GELB - Monographien
+*** ROT - Zeitschriften und Reihen
+*** WEIß - Handbücher
+*** BLAU - Museumskataloge
+*** GRÜN - Randgebiete
+
+\pagebreak
 ** Alte Geschichte
 *** I Allgemeine Nachschlagewerke
 **** IA Wörterbücher
@@ -5683,7 +5734,7 @@ Alle Signaturen beginnen mit ~Sch~.
 ***    VII Numismatik
 ***    VIII Lateinische Epigraphik
 ****  VIIIA Papyrologie
-****  VIIIB
+****  VIIIB Mykenologie
 ****  VIIIC Christliche, etruskische und sonstige nichtgriechische und nichtrömische Epigraphik
 ***    IX Universalgeschichte
 ***    X Kongreßberichte und Festschriften
@@ -5698,36 +5749,38 @@ Alle Signaturen beginnen mit ~Sch~.
 ****  XVIIA Frühes Christentum
 ***    XX Zeitschriften
 ***    XXI Historische Atlanten
+
+\pagebreak
 ** Byzantinische Archäologie
 *** A Nachschlagewerke
 *** B Byzantinistik (inkl. Alte Geschichte – Quellen – Kirchengeschichte)
 *** C Christliche Archäologie Allgemein (Einführungswerke)
-****  Ca Christliche Archäologie Allgemein (Einführungswerke)
+**** Ca Christliche Archäologie Allgemein (Einführungswerke)
 **** Cb Ikonographie
 *** D Topographie allgemein
 ****  Da Westeuropa (Iberische Halbinsel, Frankreich, Deutschland, Alpenraum, GB)
 ****  Db Italien
 ****  Dc Rom
-****     Dd Ravenna
-****     Df Griechenland, Zypern, Balkan, Osteuropa
-****     Dg Konstantinopel
-****     Dh Kleinasien
-****     Di Georgien, Armenien
-****     Dk Naher Osten
-****     Dl Ägypten, Sinai, Äthiopien
-****     Dm Nordafrika
+****  Dd Ravenna
+****  Df Griechenland, Zypern, Balkan, Osteuropa
+****  Dg Konstantinopel
+****  Dh Kleinasien
+****  Di Georgien, Armenien
+****  Dk Naher Osten
+****  Dl Ägypten, Sinai, Äthiopien
+****  Dm Nordafrika
 *** E Architektur
 *** F Malerei, Mosaiken und Ikonen
-****     Fa Malerei, Mosaiken Allgemein
-****     Fb Malerei
-****     Fc Mosaiken
-****     Fd Ikonen
+****  Fa Malerei, Mosaiken Allgemein
+****  Fb Malerei
+****  Fc Mosaiken
+****  Fd Ikonen
 *** G Plastik
-****     Ga Plastik - Allgemeines / Übergreifendes
-****     Gb Sarkophage
-****     Gc Skulptur
-****     Gd Relief
-****     De Bauornamentik
+****  Ga Plastik - Allgemeines / Übergreifendes
+****  Gb Sarkophage
+****  Gc Skulptur
+****  Gd Relief
+****  De Bauornamentik
 *** H Kleinkunst
 **** Ha Kleinkunst - Allgemeines / Übergreifendes
 **** Hb Elfenbein
@@ -5751,6 +5804,8 @@ Alle Signaturen beginnen mit ~Sch~.
 **** Xa Bestandskataloge
 **** Xb Ausstellungskataloge
 *** Zeitschriften
+
+\pagebreak
 ** Klassische Archäologie
 *** A Allgemeine Lexika. Wörterbücher. Bibliographien. Geschichte und Methoden der Archäologie. Antike Geschichte und Methoden der Archäologie. Antike Epigraphik. Technik des Altertums
 *** B Allgemeine Kunstgeschichte
@@ -5777,6 +5832,8 @@ Alle Signaturen beginnen mit ~Sch~.
 *** Y Sonstiges. Konvolute
 *** Ym Textausgaben antiker Autoren
 *** Z Zeitschriften
+
+\pagebreak
 ** Klassische Philologie
 *** A Allgemeine Hilfsmittel
 **** Ab Bibliographien, Enzyklopädien, Handbücher, Lexika
@@ -5820,6 +5877,8 @@ Alle Signaturen beginnen mit ~Sch~.
 *** U Reihen
 *** V Zeitschriften
 *** W Neugriechische Sprache und Literatur
+
+\pagebreak
 ** Ur- und Frühgeschichte
 *** I. Überregionale Abteilungen der Monographien
 **** A Allgemeine Hilfsmittel
@@ -5875,62 +5934,62 @@ Soz Soziologie
 **** 21 Numismatik
 *** III. Regionale Abteilungen der Zeitschriften und Monographien
 **** a. nach Standortleitzahl
-***** 100 	Deutschland allgemein
-***** 103 	Baden
-***** 104 	Baden-Württemberg
-***** 106 	Rheinland-Pfalz, Saarland
-***** 109 	Hessen
-***** 114 	Württemberg
-***** 117 	Bayern
-***** 133 	Schlesien
-***** 140 	Ostpreußen, Westpreußen
-***** 144 	Pommern
-***** 147 	Brandenburg
-***** 150 	Sachsen, Sachsen-Anhalt, Thüringen
-***** 155 	Mecklenburg-Vorpommern
-***** 158 	Schleswig-Holstein
-***** 160 	Bremen, Hamburg, Niedersachsen
-***** 165 	Nordrhein-Westfalen
-***** 171 	Portugal, Pyrenäenhalbinsel, Spanien
-***** 173 	Italien
-***** 175 	Schweiz, Liechtenstein
-***** 177 	Frankreich, Monaco
-***** 180 	Belgien
-***** 181 	Luxemburg
-***** 182 	Niederlande
-***** 184 	Britische Inseln, Großbritannien, Irland
-***** 189 	Dänemark
-***** 191 	Island, Norwegen
-***** 193 	Schweden
-***** 195 	Finnland
-***** 197 	Baltikum (Estland, Lettland, Litauen)
-***** 201 	Polen
-***** 204 	Rußland
-***** 205 	Sibirien
-***** 206 	Tschechische und Slowakische Republ.
-***** 208 	Österreich
-***** 210 	Ungarn
-***** 212 	Rumänien
-***** 214 	ehem. Jugoslawien
-***** 215 	Albanien
-***** 216 	Bulgarien
-***** 218 	Griechenland
-***** 300 	Alter Orient allgemein
-***** 310 	Türkei
-***** 320 	Urartu
-***** 330 	Kaukasus
-***** 340 	Syrien
-***** 350 	Israel, Jordanien, Libanon
-***** 360 	Zypern
-***** 370 	Iraq
-***** 380 	Arabien
-***** 390 	Iran
-***** 400 	Afghanistan, Indien, Pakistan
-***** 410 	Mittelasien (ehem. Sowjetunion)
-***** 420 	Ostasien
-***** 430 	Ägypten, Nordafrika, Sudan
-***** 440 	Süd- und Zentralafrika
-***** 500 	Amerika und Ozeanien
+***** 100 Deutschland allgemein
+***** 103 Baden
+***** 104 Baden-Württemberg
+***** 106 Rheinland-Pfalz, Saarland
+***** 109 Hessen
+***** 114 Württemberg
+***** 117 Bayern
+***** 133 Schlesien
+***** 140 Ostpreußen, Westpreußen
+***** 144 Pommern
+***** 147 Brandenburg
+***** 150 Sachsen, Sachsen-Anhalt, Thüringen
+***** 155 Mecklenburg-Vorpommern
+***** 158 Schleswig-Holstein
+***** 160 Bremen, Hamburg, Niedersachsen
+***** 165 Nordrhein-Westfalen
+***** 171 Portugal, Pyrenäenhalbinsel, Spanien
+***** 173 Italien
+***** 175 Schweiz, Liechtenstein
+***** 177 Frankreich, Monaco
+***** 180 Belgien
+***** 181 Luxemburg
+***** 182 Niederlande
+***** 184 Britische Inseln, Großbritannien, Irland
+***** 189 Dänemark
+***** 191 Island, Norwegen
+***** 193 Schweden
+***** 195 Finnland
+***** 197 Baltikum (Estland, Lettland, Litauen)
+***** 201 Polen
+***** 204 Rußland
+***** 205 Sibirien
+***** 206 Tschechische und Slowakische Republ.
+***** 208 Österreich
+***** 210 Ungarn
+***** 212 Rumänien
+***** 214 ehem. Jugoslawien
+***** 215 Albanien
+***** 216 Bulgarien
+***** 218 Griechenland
+***** 300 Alter Orient allgemein
+***** 310 Türkei
+***** 320 Urartu
+***** 330 Kaukasus
+***** 340 Syrien
+***** 350 Israel, Jordanien, Libanon
+***** 360 Zypern
+***** 370 Iraq
+***** 380 Arabien
+***** 390 Iran
+***** 400 Afghanistan, Indien, Pakistan
+***** 410 Mittelasien (ehem. Sowjetunion)
+***** 420 Ostasien
+***** 430 Ägypten, Nordafrika, Sudan
+***** 440 Süd- und Zentralafrika
+***** 500 Amerika und Ozeanien
 **** b. nach dem Alphabet
 ***** Afghanistan 	400
 ***** Ägypten 	430
@@ -6006,5 +6065,6 @@ Soz Soziologie
 ***** Württemberg 	114
 ***** Zentralafrika 	440
 ***** Zypern 360
+\pagebreak
 ** Vorderasiatische Archäologie
 
