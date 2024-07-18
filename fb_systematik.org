@@ -18,6 +18,11 @@
 #+LATEX_HEADER: \setlist[enumerate,5]{label={}}
 #+LATEX_HEADER: \setlist[enumerate,6]{label={}}
 #+LATEX_HEADER: \hypersetup{colorlinks=true,linkcolor=,urlcolor=blue}
+#+LATEX_HEADER: \usepackage{ifthen} 
+#+LATEX_HEADER: \fancyhf{} 
+#+LATEX_HEADER: \fancyhead[L]{\parbox{0.4\textwidth}{\textit{\rightmark}}}
+#+LATEX_HEADER: \fancyhead[R]{\parbox{0.4\textwidth}{\raggedleft\textit{\leftmark}}}
+#+LATEX_HEADER: \fancyfoot[C]{\thepage}
 
 \thispagestyle{empty}
 # /Und zugleich signierte ich die bis dahin mit nur den drei Buchstaben A, B, C gegliederte, deshalb völlig unbenutzbare, Seminarbibiothek aufs Neue mit 24 mal 24 Signaturen von Aa bis Zz - vielleicht die Leistung, die mich am längsten überdauern wird (Auch wenn wegen der Einspruchsgewalt der damaligen, unter sich uneinigen, Ordinarien manche bibliographische Inkonsequenz im Katalog verewigt werde musste)./[fn:1]
