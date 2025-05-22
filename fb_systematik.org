@@ -1,5 +1,5 @@
-#+TITLE: Systematiken der geschichtswissenschaftlichen Bibliotheken
-#+SUBTITLE: Ruprecht-Karls-Universität Heidelberg
+#+TITLE: Systemata
+#+SUBTITLE: Geschichtsorientierte Bibliotheken der Ruprecht-Karls-Universität Heidelberg
 #+DATE: Stand: \today
 #+AUTHOR:
 #+LATEX_HEADER: \usepackage[a4paper]{geometry}
@@ -10,6 +10,7 @@
 #+LATEX_HEADER: \setcounter{tocdepth}{2}
 #+LATEX_HEADER: \usepackage{etoc}
 #+LATEX_HEADER: \usepackage{enumitem}
+#+LATEX_HEADER: \usepackage{hyperref}
 #+LATEX_HEADER: \setlist[enumerate,1]{label={}}
 #+LATEX_HEADER: \setlist[enumerate,2]{label={}}
 #+LATEX_HEADER: \setlist[enumerate,3]{label={}}
@@ -23,6 +24,7 @@
 #+LATEX_HEADER: \fancyhead[L]{\parbox{0.4\textwidth}{\textit{\rightmark}}}
 #+LATEX_HEADER: \fancyhead[R]{\parbox{0.4\textwidth}{\raggedleft\textit{\leftmark}}}
 #+LATEX_HEADER: \fancyfoot[C]{\thepage}
+
 
 \thispagestyle{empty}
 # /Und zugleich signierte ich die bis dahin mit nur den drei Buchstaben A, B, C gegliederte, deshalb völlig unbenutzbare, Seminarbibiothek aufs Neue mit 24 mal 24 Signaturen von Aa bis Zz - vielleicht die Leistung, die mich am längsten überdauern wird (Auch wenn wegen der Einspruchsgewalt der damaligen, unter sich uneinigen, Ordinarien manche bibliographische Inkonsequenz im Katalog verewigt werde musste)./[fn:1]
@@ -638,15 +640,11 @@
 **** 0701 - 0800 freibleibend für gesamtmittelalterliche Erscheinungen außer den Kreuzzügen
 **** 0801 - 0900 Die Kreuzzüge (nur über die Jahrhunderte hinweggehende Gesamtdarstellungen der Kreuzzüge)
 **** 0901 - 0999 Monographien zu Einzelaspekten der gesamten Kreuzzugsgeschichte
-*** WAITING Db - Mittelalterrezeption
-**** xxxx - xxxx Monumente
-**** xxxx - xxxx Film
-**** xxxx - xxxx Theater
-**** xxxx - xxxx Literatur
-**** xxxx - xxxx Musik
-**** xxxx - xxxx Spiele
-**** xxxx - xxxx Werbung
-**** xxxx - xxxx Sonstiges
+*** Db - Mittelalterrezeption
+**** 0001 - 0250 Kultur
+**** 0251 - 0500 Politik
+**** 0501 - 0750 Wissensgeschichte
+**** 0751 - 0999 Alia
 *** Dc - Frühgeschichteliche, nichtantike Voraussetzungen der mittelalterlichen Geschichte
 **** 0001 - 0015 Methodisches und Grundsätzliches zur Vor- und Frühgeschichte
 **** 0016 - 0050 Gesamtdarstellungen der Vorgeschichte
